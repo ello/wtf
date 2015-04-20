@@ -1,5 +1,5 @@
 # Ello WTF Site
-WTF
+[WTF](http://jekyllrb.com/)
 
 ## Installing Jekyll:
 
@@ -7,3 +7,4 @@ WTF
 
 ## Running Jekyll Locally:
 
+* $ jekyll serve
