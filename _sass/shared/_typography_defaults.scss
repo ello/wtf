@@ -31,7 +31,7 @@ a:hover {
   }
 }
 a:active {
-  color: $darkGrey;
+  color: $grey;
 
   &.disabled {
     color: $black;
@@ -106,11 +106,11 @@ i {
 
 ::selection {
   color: $white;
-  background: $darkGrey; /* Webkit */
+  background: $grey; /* Webkit */
   }
 ::-moz-selection {
   color: $white;
-  background: $darkGrey; /* Firefox */
+  background: $grey; /* Firefox */
 }
 
 .hide_text {

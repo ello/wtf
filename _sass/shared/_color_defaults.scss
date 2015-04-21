@@ -1,12 +1,6 @@
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ color defaults
 
-$white:           <%= grab_color("white") %>;
+$white:           #fff;
+$black:           #000;
 
-$black:           <%= grab_color("black") %>;
-
-$lightBlue:       <%= grab_color("lightBlue") %>;
-
-$lightGrey:       <%= grab_color("lightGrey") %>;
-$grey:            <%= grab_color("grey") %>;
-$mediumGrey:      <%= grab_color("mediumGrey") %>;
-$darkGrey:        <%= grab_color("darkGrey") %>;
+$grey:            #666;
