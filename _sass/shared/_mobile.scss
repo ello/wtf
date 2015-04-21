@@ -1,0 +1,71 @@
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ mobile stuff
+
+.mobile_only {
+  display: none !important;
+}
+
+html.touch {
+  body {
+    -webkit-text-size-adjust: none;
+  }
+}
+
+// Smartphones (portrait and landscape) ---------
+@media only screen and (min-width : 320px) and (max-width : 641px) {
+  body {
+    min-width: 1px;
+    max-width: 641px;
+    -webkit-text-size-adjust: none;
+  }
+
+  .mobile_only {
+    display: inline !important;
+  }
+  .no_mobile {
+    display: none !important;
+  }
+  
+}
+
+// Smartphones (landscape) ----------------------
+@media only screen and (min-width : 321px) and (max-width : 641px) { 
+
+}
+
+// Smartphones (portrait) -----------------------
+@media only screen and (max-width : 400px) {
+
+  body {
+    min-width: 320px;
+    max-width: 400px;
+    -webkit-text-size-adjust: none;
+  }
+
+}
+
+// iPads (portrait and landscape) ---------------
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+  
+}
+
+// iPads (landscape) ----------------------------
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+
+  body {
+    min-width: auto;
+    max-width: 1024px;
+    -webkit-text-size-adjust: none;
+  }
+
+}
+
+// iPads (portrait) -----------------------------
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+
+  body {
+    min-width: 768px;
+    max-width: 768px;
+    -webkit-text-size-adjust: none;
+  }
+  
+}

@@ -1,0 +1,120 @@
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ typography defaults
+
+$title: "futura-pt", Helvetica, Arial, sans-serif; /* weights: 700, 800 */
+$sans: "proxima-nova", Verdana, sans-serif; /* weights: 400, 700, 900 */ 
+
+/* Typography Bible -------------------
+
+* Proxima Nova Regular (400)
+* Proxima Nova Regular Italic (400)
+* Proxima Nova Bold (700)
+* Proxima Nova Bold Italic (700)
+* Proxima Nova Black (900)
+* Futura PT Bold (700)
+* Futura PT Extra Bold (800)
+
+------------------- */
+
+a {
+  color: $black;
+  text-decoration: underline;
+
+  &.disabled {
+    cursor: default;
+  }
+}
+a:hover {
+  text-decoration: none;
+
+  &.disabled {
+    text-decoration: none;
+  }
+}
+a:active {
+  color: $darkGrey;
+
+  &.disabled {
+    color: $black;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $title;
+  font-weight: 900;
+  
+  em, i {
+    font-style: italic;
+  }
+}
+
+h1, h2 {
+  margin-bottom: 102px;
+  font-size: 92px;
+  line-height: 102px;
+  color: $black;
+}
+h2 {
+  margin-bottom: 58px;
+  font-size: 56px;
+  line-height: 58px;
+  text-transform: uppercase;
+}
+
+h3, h4 {
+  margin-bottom: 52px;
+  font-size: 44px;
+  line-height: 52px;
+}
+h3 { color: $black; }
+h4 { color: $black; }
+
+h4 em {
+  display: block;
+  color: $black;
+}
+h4 a { color: $black; }
+
+h5 {
+  margin-bottom: 38px;
+  font-size: 34px;
+  line-height: 38px;
+}
+h6 {
+  margin-bottom: 38px;
+  font-size: 32px;
+  line-height: 38px;
+}
+
+p, ul, ol {
+  margin-bottom: 18px;
+  font-size: 14px;
+  line-height: 18px;
+  color: $black;
+}
+
+p {
+  font-family: $sans;
+}
+
+b {
+  font-weight: bold;
+}
+
+i {
+  font-style: italic;
+}
+
+::selection {
+  color: $white;
+  background: $darkGrey; /* Webkit */
+  }
+::-moz-selection {
+  color: $white;
+  background: $darkGrey; /* Firefox */
+}
+
+.hide_text {
+  text-indent: 120%;
+  white-space: nowrap;
+  overflow: hidden;
+}

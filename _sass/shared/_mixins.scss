@@ -1,0 +1,359 @@
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ mixins + defaults
+
+// logo_icon_sprite.svg path
+$sprite01:              asset-url('logo_icon_sprite.svg');
+$sprite01_size:         450px 300px;
+
+$sprite01width: 400px;
+$sprite01height: 300px;
+
+// layout measurements
+$fullLayoutWidth:    1860;
+$layoutWidth:        1800;
+$gutter:             30;
+$largeColumn:        275;
+$smallColumn:        30;
+
+$fullLayoutWidth_px: 1860px;
+$layoutWidth_px:     1800px;
+$gutter_px:          30px;
+$largeColumn_px:     275px;
+$smallColumn_px:     30px;
+
+// layout calculations
+@mixin width_by_full_layout($largeColumns, $smallColumns) {
+  width: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
+}
+@mixin margin_by_full_layout($largeColumns, $smallColumns) {
+  margin: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
+}
+@mixin margin_right_by_full_layout($largeColumns, $smallColumns) {
+  margin-right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
+}
+@mixin margin_left_by_full_layout($largeColumns, $smallColumns) {
+  margin-left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
+}
+@mixin padding_by_full_layout($largeColumns, $smallColumns) {
+  padding: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
+}
+@mixin padding_right_by_full_layout($largeColumns, $smallColumns) {
+  padding-right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
+}
+@mixin padding_left_by_full_layout($largeColumns, $smallColumns) {
+  padding-left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
+}
+@mixin right_by_full_layout($largeColumns, $smallColumns) {
+  right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
+}
+@mixin left_by_full_layout($largeColumns, $smallColumns) {
+  left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
+}
+@mixin top_by_full_layout($largeColumns, $smallColumns) {
+  top: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
+}
+@mixin bottom_by_full_layout($largeColumns, $smallColumns) {
+  bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
+}
+
+@mixin width_by_layout($largeColumns, $smallColumns) {
+  width: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+@mixin margin_top_by_layout($largeColumns, $smallColumns) {
+  margin-top: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+@mixin margin_right_by_layout($largeColumns, $smallColumns) {
+  margin-right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+@mixin margin_left_by_layout($largeColumns, $smallColumns) {
+  margin-left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+@mixin margin_bottom_by_layout($largeColumns, $smallColumns) {
+  margin-bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+@mixin padding_by_layout($largeColumns, $smallColumns) {
+  padding: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+@mixin padding_right_by_layout($largeColumns, $smallColumns) {
+  padding-right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+@mixin padding_left_by_layout($largeColumns, $smallColumns) {
+  padding-left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+@mixin margin_bottom_by_layout($largeColumns, $smallColumns) {
+  margin-bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+@mixin top_by_layout($largeColumns, $smallColumns) {
+  top: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+@mixin right_by_layout($largeColumns, $smallColumns) {
+  right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+@mixin bottom_by_layout($largeColumns, $smallColumns) {
+  bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+@mixin left_by_layout($largeColumns, $smallColumns) {
+  left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
+}
+
+@mixin width_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  width: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin height_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  height: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin margin_top_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  margin-top: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin margin_right_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  margin-right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin margin_bottom_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  margin-bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin margin_left_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  margin-left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin padding_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  padding: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin padding_top_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  padding-top: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin padding_right_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  padding-right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin padding_bottom_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  padding-bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin padding_left_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  padding-left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin top_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  top: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin right_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin bottom_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+@mixin left_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
+  left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
+}
+
+@mixin truncate_text() {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+  -moz-binding: url('assets/xml/ellipsis.xml#ellipsis');
+}
+
+@mixin centered_bg_image() {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@mixin vertical_align() {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+@mixin horizontal_center_align() {
+  position: relative;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+@mixin vertical_align_offset($amount) {
+  position: relative;
+  top: $amount;
+  -webkit-transform: translateY(-$amount);
+  -ms-transform: translateY(-$amount);
+  transform: translateY(-$amount);
+}
+
+@mixin translate_x_y($xAmount,$yAmount) {
+  -webkit-transform: translateX(-$xAmount) translateY(-$yAmount);
+  -ms-transform: translateX(-$xAmount) translateY(-$yAmount);
+  transform: translateX(-$xAmount) translateY(-$yAmount);
+}
+@mixin gradient($from, $to, $default) {
+  background-color:     $default;
+  background-image:     -moz-linear-gradient(top, $from, $to);
+  background-image:     -ms-linear-gradient(top, $from, $to);
+  background-image:     -webkit-gradient(linear, 0 0, 0 100%, from($from), to($to));
+  background-image:     -webkit-linear-gradient(top, $from, $to);
+  background-image:     -o-linear-gradient(top, $from, $to);
+  background-image:     linear-gradient(top, $from, $to);
+  background-repeat:    repeat-x;
+  filter:               progid:DXImageTransform.Microsoft.gradient(startColorstr='#{ie-hex-color($from)}', endColorstr='#{ie-hex-color($to)}', GradientType=0);
+}
+
+@mixin gradient_bg($from, $to, $default) {
+  background-color:     $default;
+  background-image:     -moz-linear-gradient(top, $from, $to);
+  background-image:     -ms-linear-gradient(top, $from, $to);
+  background-image:     -webkit-gradient(linear, 0 0, 0 100%, from($from), to($to));
+  background-image:     -webkit-linear-gradient(top, $from, $to);
+  background-image:     -o-linear-gradient(top, $from, $to);
+  background-image:     linear-gradient(top, $from, $to);
+}
+
+@mixin gradient_3part($top, $middle, $bottom, $default) {
+  background-color:     $default;
+  background-image:     -moz-linear-gradient(top, $top 0%, $middle 50%, $bottom 100%);
+  background-image:     -ms-linear-gradient(top, $top 0%, $middle 50%, $bottom 100%);
+  background-image:     -webkit-gradient(linear, left top, left bottom, color-stop(0%,$top), color-stop(50%,$middle), color-stop(100%,$bottom));
+  background-image:     -webkit-linear-gradient(top, $top 0%, $middle 50%, $bottom 100%);
+  background-image:     -o-linear-gradient(top, $top 0%, $middle 50%, $bottom 100%);
+  background-image:     linear-gradient(top, $top 0%, $middle 50%, $bottom 100%);
+  filter:               progid:DXImageTransform.Microsoft.gradient( startColorstr='#{ie-hex-color($middle)}', endColorstr='#{ie-hex-color($top)}',GradientType=0 );
+}
+
+@mixin gradient_3part_bg($top, $middle, $bottom, $default, $image) {
+  background-color:     $default;
+  background-image:     -moz-linear-gradient(top, $top 0%, $middle 50%, $bottom 100%), $image;
+  background-image:     -ms-linear-gradient(top, $top 0%, $middle 50%, $bottom 100%), $image;
+  background-image:     -webkit-gradient(linear, left top, left bottom, color-stop(0%,$top), color-stop(50%,$middle), color-stop(100%,$bottom)), $image;
+  background-image:     -webkit-linear-gradient(top, $top 0%, $middle 50%, $bottom 100%), $image;
+  background-image:     -o-linear-gradient(top, $top 0%, $middle 50%, $bottom 100%), $image;
+  background-image:     linear-gradient(top, $top 0%, $middle 50%, $bottom 100%), $image;
+  filter:               progid:DXImageTransform.Microsoft.gradient( startColorstr='#{ie-hex-color($middle)}', endColorstr='#{ie-hex-color($top)}',GradientType=0 );
+}
+
+@mixin border_radius($size) {
+  -webkit-border-radius: $size;
+  -moz-border-radius: $size;
+  border-radius: $size;
+}
+
+@mixin border_radius_right_top($size) {
+  -webkit-border-top-right-radius: $size;
+  -moz-border-radius-topright: $size;
+  border-top-right-radius: $size;
+}
+@mixin border_radius_right_bottom($size) {
+  -webkit-border-bottom-right-radius: $size;
+  -moz-border-radius-bottomright: $size;
+  border-bottom-right-radius: $size;
+}
+@mixin border_radius_left_top($size) {
+  -webkit-border-top-left-radius: $size;
+  -moz-border-radius-topleft: $size;
+  border-top-left-radius: $size;
+}
+@mixin border_radius_left_bottom($size) {
+  -webkit-border-bottom-left-radius: $size;
+  -moz-border-radius-bottomleft: $size;
+  border-bottom-left-radius: $size;
+}
+
+@mixin shadow_none {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+@mixin shadow_none {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+@mixin shadow($horLength, $verLength, $blur, $spread, $color) {
+  -webkit-box-shadow: $horLength $verLength $blur $spread $color;
+  -moz-box-shadow: $horLength $verLength $blur $spread $color;
+  box-shadow: $horLength $verLength $blur $spread $color;
+}
+
+@mixin shadow_inset($size,$color) {
+  -webkit-box-shadow: inset 0px 0px $size 0px $color;
+  -moz-box-shadow:    inset 0px 0px $size 0px $color;
+  box-shadow:         inset 0px 0px $size 0px $color;
+}
+
+@mixin shadow_inset_top($offset,$size,$color) {
+  -webkit-box-shadow: inset 1px $offset $size -6px $color;
+  -moz-box-shadow:    inset 1px $offset $size -6px $color;
+  box-shadow:         inset 1px $offset $size -6px $color;
+}
+
+@mixin shadow_inset_bottom($offset,$size,$color) {
+  -webkit-box-shadow: inset $offset -1px $size -6px $color;
+  -moz-box-shadow:    inset $offset -1px $size -6px $color;
+  box-shadow:         inset $offset -1px $size -6px $color;
+}
+
+@mixin shadow_inset_left($offset,$size,$color) {
+  -webkit-box-shadow: inset $offset 0 $size -6px $color;
+  -moz-box-shadow:    inset $offset 0 $size -6px $color;
+  box-shadow:         inset $offset 0 $size -6px $color;
+}
+
+@mixin text_shadow($horLength, $verLength, $blur, $color) {
+  text-shadow: $horLength $verLength $blur $color;
+}
+
+@mixin transition_in_out($speed) {
+  -webkit-transition: all $speed ease-in-out;
+  -moz-transition: all $speed ease-in-out;
+  -ms-transition: all $speed ease-in-out;
+  -o-transition: all $speed ease-in-out;
+  transition: all $speed ease-in-out;
+}
+@mixin transition_opacity($speed) {
+  -webkit-transition: opacity $speed ease-in-out;
+  -moz-transition: opacity $speed ease-in-out;
+  -o-transition: opacity $speed ease-in-out;
+  transition: opacity $speed ease-in-out;
+}
+@mixin transition_height($speed) {
+  -webkit-transition: height $speed ease-in-out;
+  -moz-transition: height $speed ease-in-out;
+  -o-transition: height $speed ease-in-out;
+  transition: height $speed ease-in-out;
+}
+@mixin transition_margin($speed) {
+  -webkit-transition: margin $speed ease-in-out;
+  -moz-transition: margin $speed ease-in-out;
+  -o-transition: margin $speed ease-in-out;
+  transition: margin $speed ease-in-out;
+}
+
+@mixin opacity($percentage) {
+  opacity: ($percentage / 100);
+  -moz-opacity: ($percentage / 100);
+  filter:alpha(opacity=$percentage);
+}
+
+@mixin transform_rotate($degrees) {
+  -moz-transform: scale(1) rotate($degrees) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+  -webkit-transform: scale(1) rotate($degrees) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+  -o-transform: scale(1) rotate($degrees) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+  -ms-transform: scale(1) rotate($degrees) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+  transform: scale(1) rotate($degrees) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+}
+
+@mixin columns($gutter_width,$number) {
+  columns:$gutter_width $number;
+  -webkit-columns:$gutter_width $number;
+  -moz-columns:$gutter_width $number;
+}
+
+@mixin box_sizing_inset {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@mixin hide_text {
+  text-indent: 120%;
+  white-space: nowrap;
+  overflow: hidden;
+}

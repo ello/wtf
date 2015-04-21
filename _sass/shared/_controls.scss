@@ -1,0 +1,14 @@
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ controls & form standards
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="submit"],
+textarea {
+  font-size: 14px;
+  line-height: 18px;
+  font-family: $sans;
+  outline: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}
