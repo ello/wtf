@@ -1,19 +1,22 @@
-// Type: Atlas Typewriter Regular & Bold 12pt / Atlas Grotesk Regular & Bold 24pt / Atlas Grotesk Bold 18pt (sub-heading within posts)
-
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ typography defaults
 
 $title: "futura-pt", Helvetica, Arial, sans-serif; /* weights: 700, 800 */
-$sans: "proxima-nova", Verdana, sans-serif; /* weights: 400, 700, 900 */ 
+$body: "proxima-nova", Verdana, sans-serif; /* weights: 400, 700, 900 */ 
 
 /* Typography Bible -------------------
 
-* Proxima Nova Regular (400)
-* Proxima Nova Regular Italic (400)
-* Proxima Nova Bold (700)
-* Proxima Nova Bold Italic (700)
-* Proxima Nova Black (900)
-* Futura PT Bold (700)
-* Futura PT Extra Bold (800)
+* Atlas Typewriter Regular (400)
+* Atlas Typewriter Regular Italic (400)
+* Atlas Typewriter Bold (700)
+* Atlas Typewriter Bold Italic (700)
+* Atlas Grotesk Regular (400)
+* Atlas Grotesk Regular Italic (400)
+* Atlas Grotesk Bold (700)
+* Atlas Grotesk Bold Italic (700)
+
+Atlas Typewriter Regular & Bold 12pt
+Atlas Grotesk Regular & Bold 24pt
+Atlas Grotesk Bold 18pt (sub-heading within posts)
 
 ------------------- */
 
@@ -95,7 +98,7 @@ p, ul, ol {
 }
 
 p {
-  font-family: $sans;
+  font-family: $body;
 }
 
 b {
