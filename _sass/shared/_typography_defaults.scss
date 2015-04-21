@@ -1,5 +1,46 @@
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ typography defaults
 
+@font-face {
+  font-family: "AtlasTypewriterRegular";
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  src: url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-Regular-Web.eot);
+  src: url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-Regular-Web.eot?#iefix) format("embedded-opentype"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-Regular-Web.woff) format("woff"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-Regular-Web.ttf) format("truetype"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-Regular-Web.svg#AtlasTypewriterRegular) format("svg");
+}
+@font-face {
+  font-family: "AtlasTypewriterRegularItalic";
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+  src: url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-RegularItalic-Web.eot);
+  src: url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-RegularItalic-Web.eot?#iefix) format("embedded-opentype"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-RegularItalic-Web.woff) format("woff"), url(https://d2r3yqi5wwm1w7.cloudfront.net/fonts/AtlasTypewriter-RegularItalic.ttf) format("truetype"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-RegularItalic-Web.svg#AtlasTypewriterRegularItalic) format("svg");
+}
+@font-face {
+  font-family: "AtlasTypewriterMedium";
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  src: url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-Medium-Web.eot);
+  src: url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-Medium-Web.eot?#iefix) format("embedded-opentype"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-Medium-Web.woff) format("woff"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-Medium-Web.ttf) format("truetype"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-Medium-Web.svg#AtlasTypewriterMedium) format("svg");
+}
+@font-face {
+  font-family: "AtlasTypewriterMediumItalic";
+  font-weight: 500;
+  font-style: italic;
+  font-stretch: normal;
+  src: url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-MediumItalic-Web.eot);
+  src: url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-MediumItalic-Web.eot?#iefix) format("embedded-opentype"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-MediumItalic-Web.woff) format("woff"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-MediumItalic-Web.ttf) format("truetype"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasTypewriter-MediumItalic-Web.svg#AtlasTypewriterMediumItalic) format("svg");
+}
+@font-face {
+  font-family: "AtlasGroteskBold";
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  src: url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasGrotesk-Bold-Web.eot);
+  src: url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasGrotesk-Bold-Web.eot?#iefix) format("embedded-opentype"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasGrotesk-Bold-Web.woff) format("woff"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasGrotesk-Bold-Web.ttf) format("truetype"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasGrotesk-Bold-Web.svg#AtlasGroteskBold) format("svg");
+}
+
 $title: "futura-pt", Helvetica, Arial, sans-serif; /* weights: 700, 800 */
 $body: "proxima-nova", Verdana, sans-serif; /* weights: 400, 700, 900 */ 
 
