@@ -41,25 +41,30 @@
   src: url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasGrotesk-Bold-Web.eot?#iefix) format("embedded-opentype"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasGrotesk-Bold-Web.woff) format("woff"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasGrotesk-Bold-Web.ttf) format("truetype"), url(https://d2r3yqi5wwm1w7.cloudfront.net/assets/AtlasGrotesk-Bold-Web.svg#AtlasGroteskBold) format("svg");
 }
 
-$title: "futura-pt", Helvetica, Arial, sans-serif; /* weights: 700, 800 */
-$body: "proxima-nova", Verdana, sans-serif; /* weights: 400, 700, 900 */ 
+$bodyNormal:  "AtlasTypewriterRegular", "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;       // weight 400
+$bodyItalic:  "AtlasTypewriterRegularItalic", "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace; // weight 400
+$titleNormal: "AtlasTypewriterMedium", "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;        // weight 500
+$titleItalic: "AtlasTypewriterMediumItalic", "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;  // weight 500
+$titleBold:   "AtlasGroteskBold", "Helvetica Neue", "HelveticaNeue", "Helvetica", "Arial", sans-serif;                      // weight 700
+
 
 /* Typography Bible -------------------
 
 * Atlas Typewriter Regular (400)
 * Atlas Typewriter Regular Italic (400)
-* Atlas Typewriter Bold (700)
-* Atlas Typewriter Bold Italic (700)
-* Atlas Grotesk Regular (400)
-* Atlas Grotesk Regular Italic (400)
+* Atlas Typewriter Medium (500)
+* Atlas Typewriter Medium Italic (500)
 * Atlas Grotesk Bold (700)
-* Atlas Grotesk Bold Italic (700)
 
 Atlas Typewriter Regular & Bold 12pt
 Atlas Grotesk Regular & Bold 24pt
 Atlas Grotesk Bold 18pt (sub-heading within posts)
 
 ------------------- */
+
+html {
+  font-family: $bodyNormal;
+}
 
 a {
   color: $black;
@@ -77,7 +82,7 @@ a:hover {
   }
 }
 a:active {
-  color: $grey;
+  color: $grey4;
 
   &.disabled {
     color: $black;
@@ -85,7 +90,7 @@ a:active {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $title;
+  font-family: $titleNormal;
   font-weight: 900;
   
   em, i {
@@ -139,7 +144,7 @@ p, ul, ol {
 }
 
 p {
-  font-family: $body;
+  font-family: $bodyNormal;
 }
 
 b {
@@ -152,11 +157,11 @@ i {
 
 ::selection {
   color: $white;
-  background: $grey; /* Webkit */
+  background: $grey4; /* Webkit */
   }
 ::-moz-selection {
   color: $white;
-  background: $grey; /* Firefox */
+  background: $grey4; /* Firefox */
 }
 
 .hide_text {

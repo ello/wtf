@@ -352,6 +352,12 @@ $smallColumn_px:     30px;
   box-sizing: border-box;
 }
 
+@mixing text_size_adjust($percentage) {
+  -ms-text-size-adjust: percentage($percentage);
+  -webkit-text-size-adjust: percentage($percentage);
+  text-size-adjust: percentage($percentage);
+}
+
 @mixin hide_text {
   text-indent: 120%;
   white-space: nowrap;
