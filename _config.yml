@@ -15,4 +15,4 @@ timezone: Mountain Time
 # Build settings
 markdown: kramdown
 sass:
-    style: :compressed
+  style: :compressed

@@ -1,5 +1,8 @@
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ mixins + defaults
 
+// cdn domain for loading type
+$cdnDomain: 'd2r3yqi5wwm1w7.cloudfront.net';
+
 // logo_icon_sprite.svg path
 $sprite01:              asset-url('logo_icon_sprite.svg');
 $sprite01_size:         450px 300px;
@@ -352,7 +355,7 @@ $smallColumn_px:     30px;
   box-sizing: border-box;
 }
 
-@mixing text_size_adjust($percentage) {
+@mixin text_size_adjust($percentage) {
   -ms-text-size-adjust: percentage($percentage);
   -webkit-text-size-adjust: percentage($percentage);
   text-size-adjust: percentage($percentage);
