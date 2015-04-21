@@ -5,29 +5,31 @@
 }
 
 html {
-  font: normal 400 100%/1.5 $bodyNormal;
-  @include text_size_adjust(100);
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 
 body {
-  padding: 2.5%;
-  font-family: $bodyNormal;
   background-color: $white;
 }
 
-#main_content {
-  
+hr {
+  display: block;
+  margin: 1em 0;
+  padding: 0;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #f1f1f1;
+
+  &.spacer {
+    width: 100%;
+    border: 0;
+    background: none;
+    clear: both;
+  }
 }
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ main layout stuff
 
-hr.spacer {
-  width: 100%;
-  border: 0;
-  background: none;
-  clear: both;
-}
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ columns, yo
 
