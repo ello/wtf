@@ -13,6 +13,7 @@ twitter_username: elloworld
 timezone: Mountain Time
 
 # Build settings
+permalink: none
 markdown: kramdown
 sass:
   style: :compressed
