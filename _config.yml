@@ -17,6 +17,3 @@ permalink: none
 markdown: kramdown
 sass:
   style: :compressed
-
-# Content settings
-categories: [about, help, resources, policies]
