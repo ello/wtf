@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+<hr />
+<ul>
+  {% for posts in page.categories | first %}
+    {% for post in posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  {% endfor %}
+</ul>
+<hr />
 <h1>{{ page.title }}</h1>
 <h2>{{ page.categories | first | capitalize }}</h2>
 <p>{{ page.date | date: "%b %-d, %Y" }}</p>
