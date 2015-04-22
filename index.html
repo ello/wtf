@@ -4,10 +4,11 @@ layout: default
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
   {% assign current_category = category | first %}
-  <h2>{{ category | first | capitalize }}</h2>
+  {% assign first_post       = site.categories[current_category].first %}
+  <h2><a href="{{ site.baseurl }}{{ first_post.url }}">{{ category | first | capitalize }}</a></h2>
   <ul>
     {% for post in site.categories[current_category] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
