@@ -20,3 +20,4 @@ Available categories (anything else will be ignored and not appear on the catego
 * policies
 * resources
 
+[Markdown Docs](http://daringfireball.net/projects/markdown/syntax)
