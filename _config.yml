@@ -5,7 +5,7 @@ email: hello@ello.co
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results)
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/wtf" # the subpath of your site, e.g. /blog/
 url: "http://wtf.ello.co" # the base hostname & protocol for your site
 twitter_username: elloworld
 
