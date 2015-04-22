@@ -3,10 +3,9 @@ layout: default
 ---
 <hr />
 <ul>
-  {% for posts in page.categories | first %}
-    {% for post in posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+  {% assign current_category = page.categories | first %}
+  {% for post in site.categories[current_category] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 <hr />
