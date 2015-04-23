@@ -2,14 +2,29 @@
 title: Ello | wtf
 subtitle: Help and other resources for Ello # only appears in the <title> tag of the site
 header_title: Social Revolution. # appears in the header when logged out
-email: hello@ello.co
 # description: > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results)
 baseurl: "/wtf" # the subpath of your site, e.g. /blog/
 url: "http://wtf.ello.co" # the base hostname & protocol for your site
+
+# Footer settings + links
+ello_username: ello
 twitter_username: elloworld
+footer_links: # Ello links should ommit the 'http://ello.co' and start with a slash (i.e. http://ello.co/wtf/resources/community-directory --> /wtf/resources/community-directory)
+- text: Ello x Threadless Store
+  url: http://threadless.com
+- text: Ello Community Directory
+  url: /wtf/help/contact-ello.html
+- text: Ello Manifesto
+  url: /wtf/help/shortcuts.html
+- text: Contact Ello
+  url: /wtf/help/contact-ello.html
+- text: Terms of Use
+  url: /wtf/policies/rules.html
+- text: Privacy Policy
+  url: /wtf/policies/privacy.html
 
 # Time
 timezone: Mountain Time

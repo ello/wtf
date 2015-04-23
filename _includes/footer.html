@@ -1,7 +1,26 @@
 <hr />
 <footer class="bottom">
   <ul>
-    {% if site.email %}<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
-    {% if site.twitter_username %}<li><a href="http://twitter.com/{{ site.twitter_username }}" target="_blank">@{{ site.twitter_username }}</a></li>{% endif %}
+    {% if site.ello_username %}
+      <li>
+        <a href="http://ello.com/{{ site.ello_username }}" class="social ello">
+          <span class="icon">Ello</span>
+          <span class="label">Follow us on Ello</span>
+        </a>
+      </li>
+    {% endif %}
+    {% if site.twitter_username %}
+      <li>
+        <a href="http://twitter.com/{{ site.twitter_username }}" class="social twitter" target="_blank">
+          <span class="icon">Twitter</span>
+          <span class="label">Follow us on Twitter</span>
+        </a>
+      </li>
+    {% endif %}
+    {% for link in site.footer_links %}
+      {% capture local_path %}{{ site.baseurl }}{{ page.url }}{% endcapture %}
+      <li{% if local_path == link.url %} class="current"{% endif %}><a href="{{ link.url }}">{{ link.text }}</a></li>
+    {% endfor %}
   </ul>
+
 </footer>
