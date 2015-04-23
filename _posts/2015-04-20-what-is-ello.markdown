@@ -3,6 +3,7 @@ layout: post
 title:  "What is Ello?"
 date:   2015-04-20 10:43:18
 categories: about
+position: 1
 ---
 
 Ello is a revolutionary social network that is transforming how people connect, free from advertising, manipulation, and exploitation. Ello’s clean and beautiful design supports a global creative community where people can be whoever they want to be. As a public benefit corporation, Ello will never sell ads or user data.

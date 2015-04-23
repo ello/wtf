@@ -3,6 +3,7 @@ layout: post
 title:  "Shortcuts"
 date:   2015-01-14 04:23:18
 categories: help
+position: 2
 ---
 
 `1` Toggle Drawer

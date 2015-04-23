@@ -3,6 +3,7 @@ layout: post
 title:  "Ello Rules"
 date:   2014-10-23 01:23:45
 categories: policies
+position: 2
 ---
 Ello was created by idealists who believe that the essential nature of all human beings is to be kind, considerate, helpful, intelligent, responsible, and respectful of others.
 
