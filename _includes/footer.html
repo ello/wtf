@@ -2,6 +2,6 @@
 <footer class="bottom">
   <ul>
     {% if site.email %}<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
-    {% if site.twitter_username %}<span class="username">{{ site.twitter_username }}</span>{% endif %}
+    {% if site.twitter_username %}<li><a href="http://twitter.com/{{ site.twitter_username }}" target="_blank">@{{ site.twitter_username }}</a></li>{% endif %}
   </ul>
 </footer>
