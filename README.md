@@ -7,8 +7,8 @@
 
 ## Running Jekyll Locally:
 
-* $ jekyll serve
-* Point your browser at: [http://localhost:4000](http://localhost:4000)
+* $ `jekyll serve`
+* Point your browser at: [http://localhost:4000/wtf/](http://localhost:4000/wtf/) (the trailing slash is important)
 * Content/design changes should update locally as you make them
 
 ## Content Notes
