@@ -2,6 +2,25 @@
 
 body {
   &.article {
+    .category {
+      ul {
+        li {
+          a {
+            color: $grey3;
+            &:hover {
+              color: $black;
+            }
+          }
+          &.current {
+            a {
+              color: $black;
+            }
+          }
+        }
+      }
+      
+    }
+
     .content {
       padding-right: $gutter_px;
       margin-left: 25%;
