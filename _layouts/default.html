@@ -3,11 +3,13 @@
 
   {% include head.html %}
 
-  <body>
+  <body{% if page.css_hook %} class="{{ page.css_hook }}"{% endif %}>
 
     {% include header.html %}
 
-    {{ content }}
+    <div id="main_content" class="clear">
+      {{ content }}
+    </div>
 
     {% include footer.html %}
 
