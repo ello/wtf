@@ -1,8 +1,7 @@
 <hr />
 <footer class="bottom">
-  <ul class="contact-list">
-    <li>{{ site.title }}</li>
-    <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+  <ul>
+    {% if site.email %}<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
     {% if site.twitter_username %}<span class="username">{{ site.twitter_username }}</span>{% endif %}
   </ul>
 </footer>
