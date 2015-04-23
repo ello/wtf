@@ -1,10 +1,22 @@
 <header class="top">
   <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
   {% if site.header_title %}<h2>{{ site.header_title }}</h2>{% endif %}
+  
   {% for page in site.pages %}
     {% if page.title %}
     <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
     {% endif %}
   {% endfor %}
+
+  <ul>
+    {% assign sorted_categories = site.categories | sort %}
+    {% assign current_category  = page.categories | first %}
+    {% for category in sorted_categories %}
+      {% assign first_post      = site.categories[current_category].first %}
+      {% assign first_category  = category | first %}
+      <li{% if current_category %}{% if current_category == first_category %} class="current"{% endif %}{% endif %}><a href="{{ site.baseurl }}{{ first_post.url }}">{{ first_category | capitalize }}</a></li>
+    {% endfor %}
+  </ul>
+  
 </header>
 <hr />
