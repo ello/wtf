@@ -4,7 +4,7 @@
     <ul>
       {% if site.ello_username %}
         <li>
-          <a href="http://ello.com/{{ site.ello_username }}" class="social ello">
+          <a href="/{{ site.ello_username }}" class="social ello">
             <span class="icon">Ello</span>
             <span class="label">Follow us on Ello</span>
           </a>
@@ -30,8 +30,8 @@
       {% assign link_1 = site.footer_links[index_link_1] %}
       {% assign link_2 = site.footer_links[index_link_2] %}
       <ul>
-        <li{% if local_path == link_1.url %} class="current"{% endif %}><a href="{{ link_1.url }}">{{ link_1.text }}</a></li>
-        <li{% if local_path == link_2.url %} class="current"{% endif %}><a href="{{ link_2.url }}">{{ link_2.text }}</a></li>
+        <li{% if local_path == link_1.url %} class="current"{% endif %}><a href="{{ link_1.url }}"{% if link_1.url contains 'http' %} target="_blank"{% endif %}>{{ link_1.text }}</a></li>
+        <li{% if local_path == link_2.url %} class="current"{% endif %}><a href="{{ link_2.url }}"{% if link_2.url contains 'http' %} target="_blank"{% endif %}>{{ link_2.text }}</a></li>
       </ul>
     {% endfor %}    
   </nav>

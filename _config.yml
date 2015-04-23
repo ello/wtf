@@ -14,7 +14,7 @@ ello_username: ello
 twitter_username: elloworld
 footer_links: # Ello links should ommit the 'http://ello.co' and start with a slash (i.e. http://ello.co/wtf/resources/community-directory --> /wtf/resources/community-directory)
 - text: Ello x Threadless Store
-  url: http://threadless.com
+  url: http://ello.threadless.com/
 - text: Ello Community Directory
   url: /wtf/help/contact-ello.html
 - text: Ello Manifesto
