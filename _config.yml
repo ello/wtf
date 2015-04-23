@@ -1,5 +1,7 @@
 # Site settings
-title: Ello – WTF
+title: Ello | wtf
+subtitle: Help and other resources for Ello # only appears in the <title> tag of the site
+header_title: Social Revolution. # appears in the header when logged out
 email: hello@ello.co
 # description: > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this

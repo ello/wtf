@@ -1,5 +1,6 @@
 <header class="top">
   <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+  {% if site.header_title %}<h2>{{ site.header_title }}</h2>{% endif %}
   {% for page in site.pages %}
     {% if page.title %}
     <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
