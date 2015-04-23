@@ -50,6 +50,11 @@ body {
 
         img {
           max-width: 100%;
+
+          &.emoji {
+            height: 1.1rem;
+            vertical-align: middle;
+          }
         }
       }
     }
