@@ -27,6 +27,7 @@ body {
         width: 100%;
         max-width: $largeColumn_px * 2 + $smallColumn_px;
         p {
+          margin: 0;
           margin-top: 0.75rem;
           color: $grey3;
           text-align: right;
@@ -45,6 +46,10 @@ body {
           &:hover {
             color: $grey3;
           }
+        }
+
+        img {
+          max-width: 100%;
         }
       }
     }
