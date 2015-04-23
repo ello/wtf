@@ -11,17 +11,17 @@ $sprite01width: 400px;
 $sprite01height: 300px;
 
 // layout measurements
-$fullLayoutWidth:    1860;
-$layoutWidth:        1800;
-$gutter:             30;
-$largeColumn:        275;
-$smallColumn:        30;
+$fullLayoutWidth:    1350;
+$layoutWidth:        1260;
+$gutter:             60;
+$largeColumn:        270;
+$smallColumn:        60;
 
-$fullLayoutWidth_px: 1860px;
-$layoutWidth_px:     1800px;
+$fullLayoutWidth_px: 1350px;
+$layoutWidth_px:     1260px;
 $gutter_px:          30px;
-$largeColumn_px:     275px;
-$smallColumn_px:     30px;
+$largeColumn_px:     270px;
+$smallColumn_px:     60px;
 
 // layout calculations
 @mixin width_by_full_layout($largeColumns, $smallColumns) {

@@ -1,26 +1,38 @@
 <hr />
 <footer class="bottom">
-  <ul>
-    {% if site.ello_username %}
-      <li>
-        <a href="http://ello.com/{{ site.ello_username }}" class="social ello">
-          <span class="icon">Ello</span>
-          <span class="label">Follow us on Ello</span>
-        </a>
-      </li>
-    {% endif %}
-    {% if site.twitter_username %}
-      <li>
-        <a href="http://twitter.com/{{ site.twitter_username }}" class="social twitter" target="_blank">
-          <span class="icon">Twitter</span>
-          <span class="label">Follow us on Twitter</span>
-        </a>
-      </li>
-    {% endif %}
-    {% for link in site.footer_links %}
-      {% capture local_path %}{{ site.baseurl }}{{ page.url }}{% endcapture %}
-      <li{% if local_path == link.url %} class="current"{% endif %}><a href="{{ link.url }}">{{ link.text }}</a></li>
-    {% endfor %}
-  </ul>
+  <nav class="clear">
+    <ul>
+      {% if site.ello_username %}
+        <li>
+          <a href="http://ello.com/{{ site.ello_username }}" class="social ello">
+            <span class="icon">Ello</span>
+            <span class="label">Follow us on Ello</span>
+          </a>
+        </li>
+      {% endif %}
+      {% if site.twitter_username %}
+        <li>
+          <a href="http://twitter.com/{{ site.twitter_username }}" class="social twitter" target="_blank">
+            <span class="icon">Twitter</span>
+            <span class="label">Follow us on Twitter</span>
+          </a>
+        </li>
+      {% endif %}
+    </ul>
 
+    {% assign footer_columns = "column-1|column-2|column-3" | split: "|" %}
+    {% assign links_total = site.footer_links | size %}
+    {% for column in footer_columns %}
+      {% capture local_path %}{{ site.baseurl }}{{ page.url }}{% endcapture %}
+      {% assign index = forloop.index | minus: 1 %}
+      {% assign index_link_1 = index | times: 2 %}
+      {% assign index_link_2 = index | times: 2 | plus: 1 %}
+      {% assign link_1 = site.footer_links[index_link_1] %}
+      {% assign link_2 = site.footer_links[index_link_2] %}
+      <ul>
+        <li{% if local_path == link_1.url %} class="current"{% endif %}><a href="{{ link_1.url }}">{{ link_1.text }}</a></li>
+        <li{% if local_path == link_2.url %} class="current"{% endif %}><a href="{{ link_2.url }}">{{ link_2.text }}</a></li>
+      </ul>
+    {% endfor %}    
+  </nav>
 </footer>

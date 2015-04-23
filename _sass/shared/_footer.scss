@@ -1,5 +1,42 @@
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ footer
 
 footer.bottom {
-  
+  padding-top: $smallColumn_px;
+  padding-bottom: $smallColumn_px - 15px;
+  width: 100%;
+  max-width: $layoutWidth_px + $gutter_px;
+  // background-color: yellow;
+  nav {
+    width: 100%;
+    ul {
+      display: block;
+      padding-right: $smallColumn_px;
+      width: 25%;
+      max-width: $largeColumn_px + $smallColumn_px;
+      float: left;
+      // background-color: rgba(blue,0.1);
+      li {
+        display: block;        
+        margin-bottom: 1rem;
+        width: 100%;
+        max-width: $largeColumn_px;
+        a {
+          display: block;
+          // background-color: rgba(pink,0.5);
+          padding: 0.25rem 0 0.25rem 0;
+          color: $grey3;
+
+          &:hover {
+            color: $black;
+          }
+
+          span {
+            &.icon {
+              display: none;
+            }
+          }
+        }
+      }
+    }
+  }  
 }

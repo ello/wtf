@@ -127,6 +127,10 @@ ol {
 ul {
   margin-left: 1.2em;
 }
+nav ul, nav ol {
+  margin-left: 0;
+  list-style: none;
+}
 
 em, i {
   font-family: $bodyItalic;
@@ -160,6 +164,27 @@ sup {
 }
 sub {
   bottom: -0.25em;
+}
+
+code, pre {
+  font-family: inherit;
+  background-color: #f1f1f1;
+  font-size: 0.75rem;
+}
+code {
+  display: inline-block;
+  padding: 0.375rem 0.625rem;
+}
+pre {
+  margin: 0.9375rem 0;
+  padding: 0.9375rem;
+  overflow: hidden;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+pre code {
+  padding: 0;
+  background-color: transparent;
 }
 
 .hide_text {
