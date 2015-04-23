@@ -1,5 +1,70 @@
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ header
 
 header.top {
+  padding-bottom: $smallColumn_px * 1.5;
+  h1 {
+    margin-right: $smallColumn_px / 2;
+    width: 60px;
+    height: 60px;
+    float: left;
+    a {
+      span {
+        &.icon {
+          svg {
+            width: 60px;
+            @include border_radius(60px);
 
+            path {
+              &.svg__bg {
+                fill: $black;
+              }
+              &.svg__fg {
+                fill: $white;
+              }
+            }
+          }
+        }
+        &.label {
+          display: none;
+        }
+      }
+    }
+  }
+
+  h2 {
+    margin-top: 1.25rem;
+    font-family: $bodyNormal;
+    font-weight: 400;
+    float: left;
+  }
+
+  nav {
+    padding-right: $gutter_px;
+    float: right;
+
+    h3 {
+      margin-top: 1.25rem;
+      margin-right: 22px;
+      float: right;
+    }
+    ul {
+      margin-top: 1.25rem;
+      margin-right: -0.7rem;
+      float: right;
+      li {
+        display: inline;
+
+        a {
+          padding: 0.7rem;
+          color: $grey3;
+          // background-color: pink;
+
+          &:hover,
+          &.current {
+            color: $black;
+          }
+        }
+      }
+    }
+  }
 }
