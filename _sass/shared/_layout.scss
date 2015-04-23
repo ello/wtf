@@ -32,6 +32,7 @@ hr {
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ main layout stuff
 
 #main_content {
+  padding-bottom: 2.5rem;
   width: 100%;
   max-width: $layoutWidth_px + $gutter_px;
   // background-color: yellow;
@@ -45,7 +46,9 @@ hr {
 
   h2, ul {
     font-family: $titleBold;
-    font-size: 1.5rem;
+    font-size: $bigText;
+    line-height: $bigTextLine;
+    font-weight: 700;
   }
 
   ul {
@@ -67,6 +70,7 @@ hr {
         margin-bottom: 0;
       }
       a {
+        display: block;
         text-decoration: underline;
 
         &:hover {

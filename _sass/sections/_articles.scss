@@ -1,1 +1,52 @@
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ articles
+
+body {
+  &.article {
+    .content {
+      padding-right: $gutter_px;
+      margin-left: 25%;
+      width: 75%;
+
+      h1 {
+        margin-bottom: 2.75rem;
+        font-family: $titleBold;
+        font-size: $bigText;
+        line-height: $bigTextLine;
+        font-weight: 700;
+      }
+
+      h2 {
+        margin-top: 3.25rem;
+        margin-bottom: 1.25rem;
+        font-family: $titleBold;
+        font-size: 1.1rem;
+        line-height: 1.35rem;
+      }
+
+      header {
+        width: 100%;
+        max-width: $largeColumn_px * 2 + $smallColumn_px;
+        p {
+          margin-top: 0.75rem;
+          color: $grey3;
+          text-align: right;
+          float: right;
+        }
+      }
+
+      article {
+        width: 100%;
+        max-width: $largeColumn_px * 2 + $smallColumn_px;
+        word-wrap: break-word;
+
+        a {          
+          border-bottom: 1px solid;
+
+          &:hover {
+            color: $grey3;
+          }
+        }
+      }
+    }
+  }
+}

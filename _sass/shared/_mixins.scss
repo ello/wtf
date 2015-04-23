@@ -328,6 +328,12 @@ $smallColumn_px:     60px;
   -o-transition: margin $speed ease-in-out;
   transition: margin $speed ease-in-out;
 }
+@mixin transition_color($speed) {
+  -webkit-transition: color $speed ease-in-out;
+  -moz-transition: color $speed ease-in-out;
+  -o-transition: color $speed ease-in-out;
+  transition: color $speed ease-in-out;
+}
 
 @mixin opacity($percentage) {
   opacity: ($percentage / 100);
