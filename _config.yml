@@ -34,3 +34,11 @@ permalink: none
 markdown: kramdown
 sass:
   style: :compressed
+
+exclude:
+  - README.md
+  - REVISION
+  - Capfile
+  - Gemfile
+  - Gemfile.lock
+  - lib

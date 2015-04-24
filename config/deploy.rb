@@ -42,7 +42,6 @@ namespace :deploy do
   desc 'Rebuild Jekyll Site'
   task :rebuild_site do
     on roles(:web), in: :sequence do
-      execute("cd #{current_path} && rm -rf config")
       execute("cd #{current_path} && /usr/local/rvm/bin/rvm ruby-2.1.5@ellowtf do bundle exec jekyll build")
     end
   end
