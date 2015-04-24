@@ -2,8 +2,10 @@
 
 body {
   &.index {
-    .category {
-      
+  }
+  &.category {
+    #content_container {
+      display: none;
     }
   }
 }
