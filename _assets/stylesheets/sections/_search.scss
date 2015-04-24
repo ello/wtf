@@ -1,1 +1,54 @@
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ search
+
+body {
+  &.search {
+    .content {
+      header,
+      section.results {
+        h1, h2 {
+          margin-bottom: 2.75rem;
+          font-family: $titleBold;
+          font-size: $bigText;
+          line-height: $bigTextLine;
+          font-weight: 700;
+          color: $grey3;
+
+          span {
+            color: $black;
+          }
+        }
+
+        h2 {
+          color: $black;
+        }
+      }
+      section {
+        &.results {
+          h2 {
+            margin-bottom: 1.25rem;
+
+            a {
+              text-decoration: underline;
+
+              &:hover {
+                color: $grey3;
+              }
+            }
+          }
+          p {
+            margin: 0;
+            &.more {
+              a {
+                color: $grey3;
+                border-bottom: 1px solid;
+                &:hover {
+                  color: $black;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

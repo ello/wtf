@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: search
 title: Search
 permalink: /search/
 ---
-
-This will become search.
