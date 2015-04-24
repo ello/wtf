@@ -12,19 +12,19 @@ url: "http://wtf.ello.co" # the base hostname & protocol for your site
 # Footer settings + links
 ello_username: ello
 twitter_username: elloworld
-footer_links: # Ello links should ommit the 'http://ello.co' and start with a slash (i.e. http://ello.co/wtf/resources/community-directory --> /wtf/resources/community-directory)
+footer_links: # Ello links should ommit the 'http://ello.co' and start with a slash (i.e. http://ello.co/wtf/resources/community-directory/ --> /wtf/resources/community-directory/)
 - text: Ello x Threadless Store
   url: http://ello.threadless.com/
 - text: Ello Community Directory
-  url: /wtf/help/contact-ello.html
+  url: /wtf/help/contact-ello/
 - text: Ello Manifesto
-  url: /wtf/help/shortcuts.html
+  url: /wtf/help/shortcuts/
 - text: Contact Ello
-  url: /wtf/help/contact-ello.html
+  url: /wtf/help/contact-ello/
 - text: Terms of Use
-  url: /wtf/policies/rules.html
+  url: /wtf/policies/rules/
 - text: Privacy Policy
-  url: /wtf/policies/privacy.html
+  url: /wtf/policies/privacy/
 
 # Time
 timezone: Mountain Time
