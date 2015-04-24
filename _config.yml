@@ -32,9 +32,7 @@ timezone: Mountain Time
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
-# sass:
-#   style: :compressed
-assets:
+assets: # https://github.com/jekyll-assets/jekyll-assets
   js_compressor:  uglifier
   css_compressor: sass
 
