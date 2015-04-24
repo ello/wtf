@@ -1,11 +1,13 @@
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ footer
 
 footer.bottom {
+  position: absolute;
+  bottom: 0;
   padding-top: $smallColumn_px;
   padding-bottom: $smallColumn_px - 15px;
   width: 100%;
+  height: $smallColumn_px + $smallColumn_px - 15px + 90px; // part of the hack to push footer down
   max-width: $layoutWidth_px + $gutter_px;
-  // background-color: yellow;
   nav {
     width: 100%;
     ul {

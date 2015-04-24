@@ -5,11 +5,13 @@
 }
 
 html {
+  height:100%; // hack for pushing footer to bottom
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 
 body {
   padding: $gutter_px 0 0 $smallColumn_px;
+  height:100%; // hack for pushing footer to bottom
   background-color: $white;
 }
 
@@ -31,12 +33,22 @@ hr {
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ main layout stuff
 
+#content_container { // hack for pushing footer to bottom
+  position: relative;
+  min-height: 100%;
+}
+
 #main_content {
-  padding-bottom: 2.5rem;
+  position: relative;
+  // padding-bottom: 2.5rem;
+  padding-bottom: $smallColumn_px + $smallColumn_px + 90px + 30px; // part of the hack to push footer down
   width: 100%;
+  min-height: 100%; // hack for pushing footer to bottom
   max-width: $layoutWidth_px + $gutter_px;
   // background-color: yellow;
 }
+
+
 
 .category {
   padding-right: $gutter_px;
