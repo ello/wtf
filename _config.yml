@@ -30,7 +30,7 @@ footer_links: # Ello links should ommit the 'http://ello.co' and start with a sl
 timezone: Mountain Time
 
 # Build settings
-permalink: none
+permalink: pretty
 markdown: kramdown
 sass:
   style: :compressed
