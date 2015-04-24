@@ -34,6 +34,9 @@ set :repo_url, 'git@github.com:ello/ello-wtf.git'
 # Default value for keep_releases is 5
 # set :keep_releases, 5
 
+# RVM setup
+set :rvm_ruby_version, 'ruby-2.1.5@ellowtf'
+
 namespace :deploy do
 
   desc 'Rebuild Jekyll Site'

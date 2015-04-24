@@ -17,7 +17,7 @@ set :branch, "development"
 # server list. The second argument is a, or duck-types, Hash and is
 # used to set extended properties on the server.
 
-server '96.126.117.238:1122', user: 'gbhost4', roles: %w{web app}
+server '96.126.117.238:1122', user: 'gbhost4', roles: %w{web app}, my_property: :my_value
 # server '96.126.117.238:1122', user: 'gbhost4', roles: %w{web app db}, my_property: :my_value
 
 
