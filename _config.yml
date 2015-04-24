@@ -32,8 +32,11 @@ timezone: Mountain Time
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
-sass:
-  style: :compressed
+# sass:
+#   style: :compressed
+assets:
+  js_compressor:  uglifier
+  css_compressor: sass
 
 exclude:
   - README.md

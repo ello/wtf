@@ -6,6 +6,6 @@
   <title>{% if page.title %}{{ page.title }} – {{ page.categories | first | capitalize }} | {% endif %}{{ site.title }} | {{ site.subtitle }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/css/ellowtf.css" | prepend: site.baseurl }}">
+  {% stylesheet ellowtf %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 </head>
