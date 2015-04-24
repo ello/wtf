@@ -33,6 +33,7 @@ timezone: Mountain Time
 permalink: /:categories/:title/
 markdown: kramdown
 assets: # https://github.com/jekyll-assets/jekyll-assets
+  # baseurl: http://my.super-cool-cdn.com/assets
   js_compressor:  uglifier
   css_compressor: sass
 
