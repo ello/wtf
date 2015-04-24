@@ -8,7 +8,12 @@ css_hook: category
 {% assign sorted_posts    = site.categories[current_category] | sort.position %}
 {% assign first_post      = sorted_posts.first %}
 
-{{ first_post.title }}
+<h1>{{ current_category | capitalize }}</h1>
+<ul>
+  {% for post in sorted_posts %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
 <script type="text/javascript">
   // send home with proper thanks state
