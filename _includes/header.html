@@ -22,9 +22,11 @@
       {% endfor %}
     </ul>
     {% for page in site.pages %}
+      {% unless page.layout == 'category' %}
       {% if page.title %}
       <h3><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h3>
       {% endif %}
+      {% endunless %}
     {% endfor %}
   </nav>
   
