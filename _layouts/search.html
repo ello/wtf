@@ -3,18 +3,20 @@ layout: default
 css_hook: search
 ---
 
-<section class="content">
+<div class="content">
   <header>
     <h1>Search Results for <span class="results">“Get Started”</span></h1>
   </header>
 
   <section class="results">
-    <article>
-      <h2><a href="place">Hello I am article!</a></h2>
-      <p>And I am body</p>
-      <p class="more"><a href="place">More</a></p>
-    </article>  
-  </section>
-
-  
-</section>
+    {% assign current_category = 'about' %}
+    {% assign sorted_posts     = site.categories[current_category] | sort.position %}
+    {% for post in sorted_posts %}
+      <article class="post result">
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        {{ post.excerpt }}
+        <p class="more"><a href="place">More</a></p>
+      </article>  
+    {% endfor %}
+  </section>  
+</div>

@@ -3,6 +3,9 @@
 body {
   &.search {
     .content {
+      padding-right: $gutter_px;
+      width: 100%;
+      max-width: $largeColumn_px * 2 + $smallColumn_px;
       header,
       section.results {
         h1, h2 {
@@ -45,6 +48,11 @@ body {
                   color: $black;
                 }
               }
+            }
+          }
+          article {
+            &.result {
+              margin-bottom: 1.25rem;
             }
           }
         }
