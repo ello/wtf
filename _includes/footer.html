@@ -3,8 +3,10 @@
     <ul>
       {% if site.ello_username %}
         <li>
-          <a href="/{{ site.ello_username }}" class="social ello">
-            <span class="icon">Ello</span>
+          <a href="/{{ site.ello_username }}" class="social ello clear">
+            <span class="icon">
+              {% include svg/ello_icon.svg %}
+            </span>
             <span class="label">Follow us on Ello</span>
           </a>
         </li>
@@ -12,7 +14,9 @@
       {% if site.twitter_username %}
         <li>
           <a href="http://twitter.com/{{ site.twitter_username }}" class="social twitter" target="_blank">
-            <span class="icon">Twitter</span>
+            <span class="icon">
+              {% include svg/twitter_icon.svg %}
+            </span>
             <span class="label">Follow us on Twitter</span>
           </a>
         </li>

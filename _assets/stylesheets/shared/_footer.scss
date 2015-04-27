@@ -34,7 +34,66 @@ footer.bottom {
 
           span {
             &.icon {
-              display: none;
+              display: block;
+              float: left;
+            }
+          }
+          &.ello {
+            padding-bottom: 0.05rem;
+            span {
+              
+              &.icon {
+                padding-top: 0rem;
+                margin-right: 15px;
+                margin-left: 1px;
+                svg {
+                  width: 16px;
+                  height: 16px;
+                  @include border_radius(16px);
+
+                  path {
+                    &.svg__bg {
+                      @include transition_fill(150ms);
+                      fill: $grey3;
+                    }
+                    &.svg__fg {
+                      fill: $white;
+                    }
+                  }
+                }
+              }
+            }
+          }
+          &.twitter {
+            padding-bottom: 0.25rem;
+            span {
+              &.icon {
+                padding-top: 0rem;
+                margin-right: 15px;
+                svg {
+                  width: 18px;
+                  height: 16px;
+
+                  path {
+                    @include transition_fill(150ms);
+                    fill: $grey3;
+                  }
+                }
+              }
+            }
+          }
+          &:hover {
+            span {
+              &.icon {
+                svg {
+                  path {
+                    fill: $black;
+                    &.svg__bg {
+                      fill: $black;
+                    }
+                  }
+                }
+              }
             }
           }
         }
