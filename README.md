@@ -22,7 +22,7 @@ All posts go in the `_posts` folder and inside their respective category folder 
 ### Filename:
 Files must end in the `.md` extension and begin with a date (the date itself doesn’t matter).
 
-The words (and dashes) after the date make up the slug (end of the URL) for the post. For example, a filename of **2015-01-23-contact-us.md** will result in a slug of **contact-us**. If you place this post in _Help_, the full URL will be: **/help/contact-us**.
+The words (and dashes) after the date make up the slug (end of the URL) for the post. For example, a filename of **2015-01-23-contact-us.md** will result in a slug of **contact-us**. If you place this post in _Help_, the full URL will be: **/wtf/help/contact-us**.
 
 ### Post Meta Data:
 Each Markdown post file contains meta data at the top of the file. This helps Jekyll know where to place the article on the site and when to publish it.
