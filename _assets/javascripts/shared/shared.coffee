@@ -29,9 +29,8 @@ root.ElloWTFShared =
       $search_box.val("")
       $search_form.addClass("inactive")
 
-  ## temp to fake search expereience
+  ## temp to fake search experience
   watchSearchTerms: ->
-    console.log ElloWTFShared.getURLParameter('search')
     search_term = ElloWTFShared.getURLParameter('search')
     unless typeof search_term == 'undefined' || search_term == ""
       $(".search_holder .form input").val("#{search_term}")
