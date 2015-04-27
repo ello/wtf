@@ -1,6 +1,12 @@
 # Ello WTF Site
 [Jekyll](http://jekyllrb.com/)
 
+## Staging Server Info
+
+* URL: [http://ellowtf.grantblakeman.com/wtf/](http://ellowtf.grantblakeman.com/wtf/)
+* user: `ellowtf`
+* password: `saipan`
+
 ## Installing & Running Jekyll
 
 ### Installing Jekyll:
