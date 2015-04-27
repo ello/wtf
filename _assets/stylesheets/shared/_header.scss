@@ -139,6 +139,9 @@ header.top {
                       fill: $grey3;
                     }
                   }
+                  &:hover {
+                    cursor: pointer;
+                  }
                 }
               }
               &.inactive {
@@ -146,6 +149,24 @@ header.top {
                   &.clear_search {
                     display: none;
                   }
+                }
+              }
+            }
+          }
+          &.active {
+            span {
+              &.trigger {
+                a {
+                  svg {
+                    path {
+                      fill: $black;
+                    }
+                  }
+                }
+              }
+              &.form {
+                input[type=text] {
+                  border-color: $black;
                 }
               }
             }
