@@ -15,7 +15,7 @@ This Jekyll install relies on a few different gems (in addition to Jekyll), so b
 * Point your browser at: [http://localhost:4000/wtf/](http://localhost:4000/wtf/) (the trailing slash is important)
 * Content/design changes should update locally as you make them
 
-## Content Notes
+## Content Workflow
 
 All posts go in the `_posts` folder and inside their respective category folder for the sake of keeping things organized (Jekyll doesn’t actually care).
 
