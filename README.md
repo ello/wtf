@@ -25,7 +25,7 @@ Files must end in the `.md` extension and begin with a date (the date itself doe
 The words (and dashes) after the date make up the slug (end of the URL) for the post. For example, a filename of **2015-01-23-contact-us.md** will result in a slug of **contact-us**. If you place this post in _Help_, the full URL will be: **/help/contact-us**.
 
 ### Post Meta Data:
-Each Markdown post file contains meta data at the top of the file. This helps Jekyll know 
+Each Markdown post file contains meta data at the top of the file. This helps Jekyll know where to place the article on the site and when to publish it.
 ```
 ---
 layout: post
@@ -40,15 +40,17 @@ position: 3
 * `title:` The title of your article, inside of quote marks: `"I am a title"`
 * `date:` The publish date of an article (or its last updated date): `2015-01-23 01:23:45`
 * `categories:` Pick the single category for the article (see the list in the section below): `policies`
-* `position:` This determines the position of the article in the category list. Lower numbers are at the top of the list. Keep in mind that updating this may require updates to other articles in the list.
+* `position:` This determines the position of the article in the category list. Lower numbers are at the top of the list.
+
+**Other Notes:** Posts with future dates are ignored and not published. Keep in mind that updating the post position may require updates to other articles in the list to get the ordering you desire.
 
 ### Post Categories:
 Available categories (anything else will be ignored and not appear on the category lists)
 
-* about
-* help
-* policies
-* resources
+* `about`
+* `help`
+* `policies`
+* `resources`
 
 ### Post Content:
 All content goes below the _Post Meta Data_ and is formatted with Markdown.
