@@ -1,5 +1,4 @@
 # Ello WTF Site
-[Jekyll](http://jekyllrb.com/)
 
 ## Staging Server Info
 
@@ -11,7 +10,7 @@
 
 ### Installing Jekyll:
 
-This Jekyll install relies on a few different gems (in addition to Jekyll), so be sure to use bundle to install it:
+This [Jekyll](http://jekyllrb.com/) install relies on a few different gems (in addition to Jekyll), so be sure to use bundle to install it:
 
 * $ `bundle install`
 
