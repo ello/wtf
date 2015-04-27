@@ -25,6 +25,8 @@ footer_links: # Ello links should ommit the 'http://ello.co' and start with a sl
   url: /wtf/policies/rules/
 - text: Privacy Policy
   url: /wtf/policies/privacy/
+login_path: /enter
+join_path: /beta-public-profiles
 
 # Time
 timezone: Mountain Time
