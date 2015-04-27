@@ -28,6 +28,7 @@ footer_links: # Ello links should ommit the 'http://ello.co' and start with a sl
 
 # Time
 timezone: Mountain Time
+future: false # do not publish future posts
 
 # Build settings
 permalink: /:categories/:title/
