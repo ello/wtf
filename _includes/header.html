@@ -11,6 +11,18 @@
   
   <nav>
     <ul>
+      <li class="search_holder">
+        <span class="trigger">
+          <a class="search" href="/wtf/search">
+            {% include svg/mag_icon.svg %}
+          </a>
+        </span>
+        <span class="form">
+          <form action="/wtf/search" class="search_form">
+            <input class="search_box" id="search" name="search" placeholder="Search the Help Center" type="text" value="">
+          </form>
+        </span>
+      </li>
       {% assign sorted_categories = site.categories | sort %}
       {% assign current_category  = page.categories | first %}
       {% for category in sorted_categories %}
@@ -21,6 +33,7 @@
         <li><a href="{{ site.baseurl }}{{ first_post.url }}"{% if current_category %}{% if current_category == first_category %} class="current"{% endif %}{% endif %}>{{ first_category | capitalize }}</a></li>
       {% endfor %}
     </ul>
+    {% comment%}
     {% for page in site.pages %}
       {% unless page.layout == 'category' %}
       {% if page.title %}
@@ -28,6 +41,7 @@
       {% endif %}
       {% endunless %}
     {% endfor %}
+    {% endcomment %}
   </nav>
   
 </header>

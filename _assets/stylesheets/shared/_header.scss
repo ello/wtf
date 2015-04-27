@@ -78,6 +78,44 @@ header.top {
             color: $black;
           }
         }
+        &.search_holder {
+          margin-right: 1.4rem;
+          width: $largeColumn_px + 30px;
+          background-color: rgba(yellow,0.8);
+
+          span {
+            display: block;
+            float: left;
+            &.trigger {
+              padding-top: 2px;
+              width: 14px;              
+              a {
+                svg {
+                  path {
+                    @include transition_fill(150ms);
+                    fill: $grey3;
+                  }
+                }
+                &:hover {
+                  svg {
+                    path {
+                      fill: $black;
+                    }
+                  }
+                }
+              }
+            }
+            &.form {
+              margin-left: 30px;
+
+              input[type=text] {
+                padding-bottom: 0.25rem;
+                width: $largeColumn_px;
+                border-bottom: 1px solid $grey3;
+              }
+            }
+          }
+        }
       }
     }
   }
