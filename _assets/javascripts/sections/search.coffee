@@ -10,5 +10,5 @@ root.ElloWTFSearch =
     console.log 'thing!'
   
 $(document).ready ->
-  if $("body.pages").length
+  if $("body.search").length
     ElloWTFSearch.init()

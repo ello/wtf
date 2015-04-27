@@ -36,15 +36,6 @@
         <li><a href="{{ site.baseurl }}{{ first_post.url }}"{% if current_category %}{% if current_category == first_category %} class="current"{% endif %}{% endif %}>{{ first_category | capitalize }}</a></li>
       {% endfor %}
     </ul>
-    {% comment%}
-    {% for page in site.pages %}
-      {% unless page.layout == 'category' %}
-      {% if page.title %}
-      <h3><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h3>
-      {% endif %}
-      {% endunless %}
-    {% endfor %}
-    {% endcomment %}
   </nav>
   
 </header>
