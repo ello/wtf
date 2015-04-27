@@ -35,6 +35,25 @@
         {% assign first_category  = category | first %}
         <li><a href="{{ site.baseurl }}{{ first_post.url }}"{% if current_category %}{% if current_category == first_category %} class="current"{% endif %}{% endif %}>{{ first_category | capitalize }}</a></li>
       {% endfor %}
+      <li>
+        <ul class="tabs">
+          {% comment %}
+          <li>
+            <a class="btn-tab f" data-title="Friends" href="/friends" role="tab"><span>F<span class="full-label">riends</span></span></a>
+          </li>
+          <li>
+            <a class="btn-tab n" data-title="Noise" href="/noise" role="tab"><span>N<span class="full-label">oise</span></span></a>
+          </li>
+          {% endcomment %}
+          <li>
+            <a class="btn-tab" href="/enter" role="tab">Login</a>
+          </li>
+          <li>
+            <a class="btn-tab" href="/beta-public-profiles" role="tab">Sign Up</a>
+          </li>
+        </ul>
+      </li>
+
     </ul>
   </nav>
   

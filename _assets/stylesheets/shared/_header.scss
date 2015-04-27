@@ -63,7 +63,6 @@ header.top {
     }
     ul {
       margin-top: 1.25rem;
-      margin-right: -0.7rem;
       float: right;
       li {
         display: inline;
@@ -170,6 +169,27 @@ header.top {
                 }
               }
             }
+          }
+        }
+      }
+      &.tabs {
+        margin: 0 0 0 15px;
+        padding: 0;
+        li {
+          margin: -0.35rem 0 0 0;
+          padding: 0;
+          display: inline-block;
+          height: 1.875rem;
+          a {
+            padding: 0.3125rem 0.625rem;
+            color: $grey3;
+            @include transition_color(150ms);
+            &:hover {
+              color: $white;
+            }
+          }
+          &:last-child {
+            margin-left: -0.55rem;
           }
         }
       }

@@ -1,1 +1,24 @@
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ buttons
+
+.btn-tab {
+    display: inline-block;
+    position: relative;
+    margin: 0;
+    padding: 0.3125rem 0.625rem;
+    height: 1.875rem;
+    color: $grey3;
+    font-size: 0.75rem;
+    // line-height: 0.75rem;
+    text-align: center;
+    vertical-align: middle;
+    background-color: $white;
+    border: 1px solid $grey3;
+    @include transition_in_out(150ms);
+}
+.btn-tab:active,
+.btn-tab:hover,
+a.btn-tab:hover {
+    color: $white;
+    border-color: $grey3;
+    background-color: $grey3;
+}
