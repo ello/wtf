@@ -115,4 +115,3 @@ WTF is released under the [MIT License](blob/master/LICENSE)
 
 ## Code of Conduct
 Ello was created by idealists who believe that the essential nature of all human beings is to be kind, considerate, helpful, intelligent, responsible, and respectful of others. To that end, we enforce [the Ello rules](https://ello.co/wtf/policies/rules/) within all of our open source projects. If you don’t follow the rules, you risk being ignored, banned, or reported for abuse.
-
