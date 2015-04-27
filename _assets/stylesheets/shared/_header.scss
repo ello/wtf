@@ -1,7 +1,21 @@
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ header
 
+// set the body margin/padding here since it's based off the header-height
+body {
+  padding-top: 180px; // 120px header + 60px margin to content
+}
+
 header.top {
-  padding-bottom: $smallColumn_px * 1.5;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: $gutter_px $gutter_px $gutter_px $smallColumn_px;
+  width: 100%;
+  // background-color: yellow;
+  background-color: $white;
+  @include box_sizing_inset;
+  z-index: 50;
+
   h1 {
     margin-right: $smallColumn_px / 2;
     width: 60px;
@@ -39,7 +53,7 @@ header.top {
   }
 
   nav {
-    padding-right: $gutter_px;
+    // background-color: purple;
     float: right;
 
     h3 {
