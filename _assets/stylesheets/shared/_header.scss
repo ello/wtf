@@ -141,6 +141,13 @@ header.top {
                   }
                 }
               }
+              &.inactive {
+                a {
+                  &.clear_search {
+                    display: none;
+                  }
+                }
+              }
             }
           }
         }
