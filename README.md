@@ -1,5 +1,5 @@
 # Ello WTF Site
-[WTF](http://jekyllrb.com/)
+[Jekyll](http://jekyllrb.com/)
 
 ## Installing Jekyll:
 
