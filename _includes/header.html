@@ -21,6 +21,9 @@
           <form action="/wtf/search" class="search_form">
             <input class="search_box" id="search" name="search" placeholder="Search the Help Center" type="text" value="">
           </form>
+          <a class="clear_search">
+            {% include svg/clear_icon.svg %}
+          </a>
         </span>
       </li>
       {% assign sorted_categories = site.categories | sort %}

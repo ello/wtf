@@ -31,6 +31,12 @@ hr {
   }
 }
 
+svg {
+  title {
+    display: none;
+  }
+}
+
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ main layout stuff
 
 #content_container { // hack for pushing footer to bottom

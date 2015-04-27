@@ -106,12 +106,40 @@ header.top {
               }
             }
             &.form {
+              position: relative;
               margin-left: 30px;
 
               input[type=text] {
+                position: relative;
                 padding-bottom: 0.25rem;
                 width: $largeColumn_px;
                 border-bottom: 1px solid $grey3;
+                z-index: 4;
+              }
+              a {
+                &.clear_search {
+                  position: absolute;
+                  display: block;
+                  margin: 3px 0 0 0;
+                  padding: 2px;
+                  top: 0;
+                  right: 0;
+                  width: 10px;
+                  height: 10px;
+                  z-index: 5;
+                  overflow: hidden;
+                  svg {
+                    display: block;
+                    width: 8px;
+                    height: 8px;
+                    title {
+                      display: none;
+                    }
+                    polygon {
+                      fill: $grey3;
+                    }
+                  }
+                }
               }
             }
           }
