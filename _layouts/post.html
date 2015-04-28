@@ -2,6 +2,17 @@
 layout: default
 css_hook: article
 ---
+<section class="content">
+  <header>
+    <p>Updated {{ page.date | date: "%B %-d, %Y" }}</p>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <article>
+    {{ content }}
+  </article>
+</section>
+
 <aside class="category list">
   <h2>{{ page.categories | first | capitalize }}</h2>
   <ul>
@@ -13,14 +24,3 @@ css_hook: article
     {% endfor %}
   </ul>
 </aside>
-
-<section class="content">
-  <header>
-    <p>Updated {{ page.date | date: "%B %-d, %Y" }}</p>
-    <h1>{{ page.title }}</h1>
-  </header>
-
-  <article>
-    {{ content }}
-  </article>
-</section>
