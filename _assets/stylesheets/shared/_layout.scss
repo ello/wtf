@@ -109,4 +109,19 @@ svg {
     padding-bottom: $smallColumn_px + 10px + 30px; // part of the hack to push footer down
     max-width: 100%;
   }
+
+  #mobile_drawer {
+    display: none;
+  }
+
+  body {
+    &.drawer_open {
+      #main_content {
+        display: none;
+      }
+      #mobile_drawer {
+        display: inline;
+      }
+    }
+  }
 }
