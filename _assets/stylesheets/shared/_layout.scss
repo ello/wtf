@@ -115,7 +115,7 @@ svg {
   }
 
   #mobile_drawer {
-    display: none;
+    display: none !important;
   }
 
   // show/hide the drawer content
@@ -125,7 +125,7 @@ svg {
         display: none;
       }
       #mobile_drawer {
-        display: inline;
+        display: inline !important;
       }
     }
   }
@@ -133,8 +133,12 @@ svg {
   .category {
     padding-right: 0;
     width: 100%;
-    background-color: rgba(purple,0.8);
+    // background-color: rgba(purple,0.8);
     float: none;
+
+    &:nth-child(4n) {
+      width: 100%;
+    }
 
     h2, ul {
       font-size: $bigText_m;
