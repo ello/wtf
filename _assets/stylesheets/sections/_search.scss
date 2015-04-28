@@ -5,7 +5,7 @@ body {
     .content {
       padding-right: $gutter_px;
       width: 100%;
-      max-width: $largeColumn_px * 2 + $smallColumn_px;
+      max-width: $largeColumn_px * 2 + $smallColumn_px + $gutter_px;
       header,
       section.results {
         h1, h2 {
