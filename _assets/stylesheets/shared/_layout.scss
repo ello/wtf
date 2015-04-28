@@ -125,7 +125,8 @@ svg {
         display: none;
       }
       #mobile_drawer {
-        display: inline !important;
+        display: block !important;
+        width: 100%;
       }
     }
   }
@@ -143,6 +144,7 @@ svg {
     h2, ul {
       font-size: $bigText_m;
       line-height: $bigTextLine_m;
+      float: none;
     }
     h2 {
       margin-bottom: 1.2rem;
@@ -152,6 +154,7 @@ svg {
       }
     }
     ul {
+      float: none;
       margin-bottom: 1.2rem;
       li {
         margin-bottom: 0.75rem;
