@@ -104,9 +104,9 @@ footer.bottom {
 
 @media only screen and (min-width : 1px) and (max-width : 719px) {
   footer.bottom {
-    padding-top: $smallColumn_px;
+    padding-top: 10px;
     padding-bottom: 0;
-    height: $smallColumn_px + $smallColumn_px - 15px + 90px; // part of the hack to push footer down
+    height: $smallColumn_px + 10px; // part of the hack to push footer down
     max-width: 100%;
     nav {
       width: 100%;
@@ -117,13 +117,6 @@ footer.bottom {
         &:nth-child(n+2) {
           display: none;
         }
-        // &:first-child {
-        //   display: none;
-        // }
-        // &:nth-child(n+3) {
-        //   display: none;
-        // }
-
         li {
           margin-bottom: 0.25rem;
 
