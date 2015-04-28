@@ -60,3 +60,66 @@ body {
     }
   }
 }
+
+@media only screen and (min-width : 1px) and (max-width : 719px) {
+  body {
+    &.search {
+      .content {
+        padding-right: $gutter_px;
+        max-width: 100%;
+        header,
+        section.results {
+          h1, h2 {
+            // margin-bottom: 2.75rem;
+            font-size: $bigText_m;
+            line-height: $bigTextLine_m;
+          }
+
+          h2 {
+            color: $black;
+          }
+        }
+        header {
+          h1 {
+            margin-bottom: 1.5rem;
+            font-family: $bodyNormal;
+            font-size: 0.75rem;
+            line-height: auto;
+          }
+        }
+        section {
+          &.results {
+            h2 {
+              margin-bottom: 0.5rem;
+
+              a {
+                text-decoration: underline;
+
+                &:hover {
+                  color: $grey3;
+                }
+              }
+            }
+            p {
+              margin: 0;
+              span.more {
+                a {
+                  color: $black;
+                  border-bottom: 1px solid;
+                  &:hover {
+                    color: $grey3;
+                  }
+                }
+              }
+            }
+            article {
+              &.result {
+                margin-bottom: 1.25rem;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

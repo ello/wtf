@@ -124,8 +124,8 @@ body {
           margin-top: 1.75rem;
           margin-bottom: 1.5rem;
           font-family: $titleBold;
-          font-size: 1.1rem;
-          line-height: 1.35rem;
+          font-size: $bigText_m;
+          line-height: $bigTextLine_m;
         }
 
         header {
