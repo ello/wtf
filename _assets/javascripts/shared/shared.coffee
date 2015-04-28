@@ -3,6 +3,7 @@ root.ElloWTFShared =
   init: () ->
     ElloWTFShared.watchSearchHeader()
     ElloWTFShared.watchSearchTerms()
+    ElloWTFShared.watchDrawerToggle()
 
   # initAjax: () ->
   #   ElloWTFShared.doAThing()
@@ -35,6 +36,11 @@ root.ElloWTFShared =
     unless typeof search_term == 'undefined' || search_term == ""
       $(".search_holder .form input").val("#{search_term}")
       $(".search_holder .form").removeClass("inactive")
+
+  watchDrawerToggle: ->
+    $("header.top .drawer_toggle a").click (e) ->
+      e.preventDefault()
+      $('body').toggleClass('drawer_open')
 
   getURLParameter: (parameter) ->
     page_url = window.location.search.substring(1)

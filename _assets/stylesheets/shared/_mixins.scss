@@ -186,6 +186,13 @@ $smallColumn_px:     60px;
   -ms-transform: translateX(-$xAmount) translateY(-$yAmount);
   transform: translateX(-$xAmount) translateY(-$yAmount);
 }
+
+@mixin translate_x($xAmount) {
+  -webkit-transform: translateX($xAmount);
+  -ms-transform: translateX($xAmount);
+  transform: translateX($xAmount);
+}
+
 @mixin gradient($from, $to, $default) {
   background-color:     $default;
   background-image:     -moz-linear-gradient(top, $from, $to);
