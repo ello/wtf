@@ -64,7 +64,7 @@ Atlas Grotesk Bold 18pt (sub-heading within posts)
 
 html {
   font: normal 400 100%/1.5 $bodyNormal;
-  @include text_size_adjust(100);
+  @include text_size_adjust(1);
 }
 
 body {
