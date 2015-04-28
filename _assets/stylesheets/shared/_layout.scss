@@ -114,6 +114,7 @@ svg {
     display: none;
   }
 
+  // show/hide the drawer content
   body {
     &.drawer_open {
       #main_content {
@@ -123,5 +124,49 @@ svg {
         display: inline;
       }
     }
+  }
+
+  .category {
+    padding-right: 0;
+    width: 100%;
+    background-color: rgba(purple,0.8);
+    float: none;
+
+    h2, ul {
+      font-family: $titleBold;
+      font-size: $bigText_m;
+      line-height: $bigTextLine_m;
+      font-weight: 700;
+    }
+
+    ul {
+      margin: 0;
+    }
+    h2 {
+      margin-bottom: 2.75rem;
+      color: $grey3;
+      a {
+        color: $grey3;
+      }
+    }
+    ul {
+      li {
+        margin-bottom: 0;
+        // background-color: rgba(pink,0.4);
+
+        &:last-child {
+          margin-bottom: 0;
+        }
+        a {
+          display: block;
+          text-decoration: underline;
+
+          &:hover {
+            color: $grey3;
+          }
+        }
+      }
+    }
+    
   }
 }
