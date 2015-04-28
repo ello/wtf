@@ -4,12 +4,6 @@
   display: none !important;
 }
 
-html.touch {
-  body {
-    -webkit-text-size-adjust: none;
-  }
-}
-
 // Smartphones (portrait and landscape) ---------
 @media only screen and (min-width : 1px) and (max-width : 719px) {
   body {
