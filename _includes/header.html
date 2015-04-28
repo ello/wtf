@@ -7,10 +7,18 @@
       <span class="label">{{ site.title }}</span>
     </a>
   </h1>
-  {% if site.header_title %}<h2>{{ site.header_title }}</h2>{% endif %}
+  {% if site.header_title %}<h2 class="no_mobile">{{ site.header_title }}</h2>{% endif %}
   
   <nav>
     <ul>
+      <li class="drawer_toggle mobile_only">
+        <a href="#toggle_drawer">
+          <span class="icon">
+            {% include svg/drawer_toggle_icon.svg %}
+          </span>
+          <span class="label">Toggle Drawer</span>
+        </a>
+      </li>
       <li class="search_holder">
         <span class="trigger">
           <a class="search" href="/wtf/search">
@@ -33,9 +41,9 @@
         {% assign sorted_posts    = site.categories[posts_category] | sort.position %}
         {% assign first_post      = sorted_posts.first %}
         {% assign first_category  = category | first %}
-        <li><a href="{{ site.baseurl }}{{ first_post.url }}"{% if current_category %}{% if current_category == first_category %} class="current"{% endif %}{% endif %}>{{ first_category | capitalize }}</a></li>
+        <li class="no_mobile"><a href="{{ site.baseurl }}{{ first_post.url }}"{% if current_category %}{% if current_category == first_category %} class="current"{% endif %}{% endif %}>{{ first_category | capitalize }}</a></li>
       {% endfor %}
-      <li>
+      <li class="tabs_holder">
         <ul class="tabs">
           {% comment %}
           <li>

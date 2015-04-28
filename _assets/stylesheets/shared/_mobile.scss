@@ -11,10 +11,10 @@ html.touch {
 }
 
 // Smartphones (portrait and landscape) ---------
-@media only screen and (min-width : 320px) and (max-width : 641px) {
+@media only screen and (min-width : 1px) and (max-width : 719px) {
   body {
     min-width: 1px;
-    max-width: 641px;
+    max-width: 719px;
     -webkit-text-size-adjust: none;
   }
 
@@ -28,7 +28,7 @@ html.touch {
 }
 
 // Smartphones (landscape) ----------------------
-@media only screen and (min-width : 321px) and (max-width : 641px) { 
+@media only screen and (min-width : 1px) and (max-width : 719px) { 
 
 }
 

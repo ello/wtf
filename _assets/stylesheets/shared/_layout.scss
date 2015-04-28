@@ -37,6 +37,12 @@ svg {
   }
 }
 
+@media only screen and (min-width : 1px) and (max-width : 719px) {
+  body {
+    padding: 10px;
+  }
+}
+
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ main layout stuff
 
 #content_container { // hack for pushing footer to bottom
