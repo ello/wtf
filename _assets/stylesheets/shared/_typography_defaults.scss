@@ -167,12 +167,12 @@ sub {
   bottom: -0.25em;
 }
 
-code, pre {
+code, pre, blockquote {
   font-family: inherit;
   background-color: #f1f1f1;
   font-size: 0.75rem;
 }
-code {
+code, blockquote {
   display: inline-block;
   padding: 0.375rem 0.625rem;
 }
@@ -186,6 +186,12 @@ pre {
 pre code {
   padding: 0;
   background-color: transparent;
+}
+blockquote {
+  padding-top: 0;
+  padding-bottom: 0;
+  font-family: $bodyItalic;
+  font-style: italic;
 }
 
 .hide_text {

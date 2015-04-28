@@ -1,10 +1,38 @@
 ---
 layout: post
-title:  "LOLWHut"
+title:  "Other Test"
 date:   2015-04-21 01:23:18
 categories: about
 position: 3
 ---
+Ello was originally built by a group of seven well-known artists and programmers as a private social network. Over time, so many people wanted to use Ello that our servers were overwhelmed. We built a public version of Ello for everyone to use.
+
+Ello was `originally built` by a group of seven well-known artists and programmers as a private social network. Over time, so many people wanted to use Ello that our servers were overwhelmed. We built a public version of Ello for everyone to use.
+
+* Ello was originally built by a group of seven well-known artists and programmers
+* As a private social network.
+* Over time, so many people wanted to use Ello that our servers were overwhelmed.
+* We built a public version of Ello for everyone to use.
+
+Ello was originally built by a group of seven well-known artists and programmers as a private social network. Over time, so many people wanted to use Ello that our servers were overwhelmed. We built a public version of Ello for everyone to use.
+
+1. Ello was originally built by a group of seven well-known artists and programmers
+1. As a private social network.
+1. Over time, so many people wanted to use Ello that our servers were overwhelmed.
+1. We built a public version of Ello for everyone to use.
+
+Ello was originally built by a group of seven well-known artists and programmers as a private social network. Over time, so many people wanted to use Ello that our servers were overwhelmed. We built a public version of Ello for everyone to use.
+
+> Ello was originally built by a group of seven well-known artists and programmers as a private social network. Over time, so many people wanted to use Ello that our servers were overwhelmed. We built a public version of Ello for everyone to use.
+> 
+> Ello was originally built by a group of seven well-known artists and programmers as a private social network. Over time, so many people wanted to use Ello that our servers were overwhelmed. We built a public version of Ello for everyone to use.
+
+Ello was originally built by a group of seven well-known artists and programmers as a private social network. Over time, so many people wanted to use Ello that our servers were overwhelmed. We built a public version of Ello for everyone to use.
+
+```
+Ello was originally built by a group of seven well-known artists and programmers as a private social network. Over time, so many people wanted to use Ello that our servers were overwhelmed. We built a public version of Ello for everyone to use.
+```
+
 Ello was originally built by a group of seven well-known artists and programmers as a private social network. Over time, so many people wanted to use Ello that our servers were overwhelmed. We built a public version of Ello for everyone to use.
 
 ![Paul-Face.gif](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/912/ello-optimized-c9deed2f.gif)
