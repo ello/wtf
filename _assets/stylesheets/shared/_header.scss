@@ -74,7 +74,7 @@ header.top {
         &.search_holder {
           margin-right: 1.4rem;
           width: $largeColumn_px + 30px;
-          background-color: rgba(yellow,0.8);
+          // background-color: rgba(yellow,0.8);
 
           span {
             display: block;
@@ -199,8 +199,8 @@ header.top {
   }
 
   header.top {
-    padding: 10px;
-    background-color: yellow;
+    padding: 15px 10px 10px 10px;
+    // background-color: yellow;
     // background-color: $white;
 
     h1 {
@@ -214,26 +214,33 @@ header.top {
       ul {
         width: 100%;
         margin-top: 0;
-        background-color: purple;
+        // background-color: purple;
         float: none;
         li {
           display: block;
           width: 12.5%;
           float: left;
-          background-color: rgba(red,0.3);
+          // background-color: rgba(red,0.3);
 
 
           a {
-            padding: 0.7rem;
+            padding: 0;
+            width: 100%;
+            text-align: center;
           }
           &.drawer_toggle {
             a {
               span {
                 &.icon {
+                  display: block;
+                  width: 100%;
+                  height: $gutter_px;
                   svg {
+                    margin-top: 0.3rem;
                     width: 20px;
                     path {
                       fill: $grey3;
+                      @include transition_fill(150ms);
                     }
                   }
                 }
@@ -241,21 +248,37 @@ header.top {
                   display: none;
                 }
               }
+              &:hover {
+                span {
+                  &.icon {
+                    svg {
+                      path {
+                        fill: $black;
+                      }
+                    }
+                  }
+                }
+              }
             }
           }
           &.search_holder {
-            margin-right: 1.4rem;
-            width: $largeColumn_px + 30px;
-            background-color: rgba(yellow,0.8);
+            margin: 0;
+            width: 12.5%;
+            // background-color: rgba(red,0.5);
 
             span {
               display: block;
-              float: left;
+              width: 100%;
+              height: $gutter_px;
+              float: none;
               &.trigger {
                 padding-top: 2px;
-                width: 14px;              
+                width: 100%;              
                 a {
+                  display: block;
                   svg {
+                    margin-top: 0.4rem;
+                    width: 14px;
                     path {
                       @include transition_fill(150ms);
                       fill: $grey3;
@@ -271,6 +294,10 @@ header.top {
                 }
               }
               &.form {
+                display: none;
+
+
+
                 position: relative;
                 margin-left: 30px;
 
@@ -338,20 +365,21 @@ header.top {
             }
           }
           &.tabs_holder {
-            width: 25%;
-            text-align: right;
+            width: 50%;
+            float: right;
           }
         }
         &.tabs {
           margin: 0;
           padding: 0;
-          width: 100%;
+          width: auto;
+          float: right;
           li {
             display: inline;
             width: auto;
 
 
-            margin: -0.35rem 0 0 0;
+            margin: 0;
             padding: 0;
             display: inline-block;
             height: 1.875rem;
