@@ -101,3 +101,54 @@ footer.bottom {
     }
   }  
 }
+
+@media only screen and (min-width : 1px) and (max-width : 719px) {
+  footer.bottom {
+    padding-top: $smallColumn_px;
+    padding-bottom: 0;
+    height: $smallColumn_px + $smallColumn_px - 15px + 90px; // part of the hack to push footer down
+    max-width: 100%;
+    nav {
+      width: 100%;
+      ul {
+        padding-right: 0;
+        width: 100%;
+        max-width: 100%;
+        &:nth-child(n+2) {
+          display: none;
+        }
+        // &:first-child {
+        //   display: none;
+        // }
+        // &:nth-child(n+3) {
+        //   display: none;
+        // }
+
+        li {
+          margin-bottom: 0.25rem;
+
+        }
+      }
+    }
+  }
+
+  body {
+    &.drawer_open {
+      footer.bottom {
+        nav {
+          ul {
+            &:first-child {
+              display: none;
+            }
+            &:nth-child(n+2) {
+              display: inline;
+            }
+            &:nth-child(n+3) {
+              display: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}
