@@ -50,7 +50,7 @@ svg {
   padding-bottom: $smallColumn_px + $smallColumn_px + 90px + 30px; // part of the hack to push footer down
   width: 100%;
   min-height: 100%; // hack for pushing footer to bottom
-  max-width: $layoutWidth_px + $gutter_px;
+  max-width: $layoutWidth_px;
   // background-color: yellow;
 }
 
@@ -58,7 +58,7 @@ svg {
 
 .category {
   padding-right: $gutter_px;
-  width: 25%;
+  width: percentage(($largeColumn + $smallColumn) / $layoutWidth);
   // background-color: rgba(purple,0.8);
   float: left;
 
@@ -133,36 +133,24 @@ svg {
     float: none;
 
     h2, ul {
-      font-family: $titleBold;
       font-size: $bigText_m;
       line-height: $bigTextLine_m;
-      font-weight: 700;
-    }
-
-    ul {
-      margin: 0;
     }
     h2 {
-      margin-bottom: 2.75rem;
-      color: $grey3;
+      margin-bottom: 1.2rem;
+      color: $black;
       a {
-        color: $grey3;
+        color: $black;
       }
     }
     ul {
+      margin-bottom: 1.2rem;
       li {
         margin-bottom: 0;
-        // background-color: rgba(pink,0.4);
-
-        &:last-child {
-          margin-bottom: 0;
-        }
         a {
-          display: block;
-          text-decoration: underline;
-
+          color: $grey3;
           &:hover {
-            color: $grey3;
+            color: $black;
           }
         }
       }

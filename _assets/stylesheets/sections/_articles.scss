@@ -3,6 +3,7 @@
 body {
   &.article {
     .category {
+      // background-color: pink;
       ul {
         li {
           a {
@@ -23,8 +24,8 @@ body {
 
     .content {
       padding-right: $gutter_px;
-      margin-left: 25%;
-      width: 75%;
+      width: percentage((($largeColumn * 3) + ($smallColumn * 2) + $gutter) / $layoutWidth);
+      float: right;
 
       h1 {
         margin-bottom: 2.75rem;
