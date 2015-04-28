@@ -195,13 +195,12 @@ header.top {
 
   // set the body margin/padding here since it's based off the header-height
   body {
-    // padding-top: 180px; // 120px header + 60px margin to content
+    padding-top: 85px; // 55px header + 30px margin to content
   }
 
   header.top {
     padding: 15px 10px 10px 10px;
     // background-color: yellow;
-    // background-color: $white;
 
     h1 {
       display: none;
@@ -298,71 +297,71 @@ header.top {
 
 
 
-                position: relative;
-                margin-left: 30px;
+                // position: relative;
+                // margin-left: 30px;
 
-                input[type=text] {
-                  position: relative;
-                  padding-bottom: 0.25rem;
-                  width: $largeColumn_px;
-                  border-bottom: 1px solid $grey3;
-                  z-index: 4;
-                }
-                a {
-                  &.clear_search {
-                    position: absolute;
-                    display: block;
-                    margin: 3px 0 0 0;
-                    padding: 2px;
-                    top: 0;
-                    right: 0;
-                    width: 10px;
-                    height: 10px;
-                    z-index: 5;
-                    overflow: hidden;
-                    svg {
-                      display: block;
-                      width: 8px;
-                      height: 8px;
-                      title {
-                        display: none;
-                      }
-                      polygon {
-                        fill: $grey3;
-                      }
-                    }
-                    &:hover {
-                      cursor: pointer;
-                    }
-                  }
-                }
-                &.inactive {
-                  a {
-                    &.clear_search {
-                      display: none;
-                    }
-                  }
-                }
+                // input[type=text] {
+                //   position: relative;
+                //   padding-bottom: 0.25rem;
+                //   width: $largeColumn_px;
+                //   border-bottom: 1px solid $grey3;
+                //   z-index: 4;
+                // }
+                // a {
+                //   &.clear_search {
+                //     position: absolute;
+                //     display: block;
+                //     margin: 3px 0 0 0;
+                //     padding: 2px;
+                //     top: 0;
+                //     right: 0;
+                //     width: 10px;
+                //     height: 10px;
+                //     z-index: 5;
+                //     overflow: hidden;
+                //     svg {
+                //       display: block;
+                //       width: 8px;
+                //       height: 8px;
+                //       title {
+                //         display: none;
+                //       }
+                //       polygon {
+                //         fill: $grey3;
+                //       }
+                //     }
+                //     &:hover {
+                //       cursor: pointer;
+                //     }
+                //   }
+                // }
+                // &.inactive {
+                //   a {
+                //     &.clear_search {
+                //       display: none;
+                //     }
+                //   }
+                // }
               }
             }
-            &.active {
-              span {
-                &.trigger {
-                  a {
-                    svg {
-                      path {
-                        fill: $black;
-                      }
-                    }
-                  }
-                }
-                &.form {
-                  input[type=text] {
-                    border-color: $black;
-                  }
-                }
-              }
-            }
+            // &.active {
+            //   span {
+            //     &.trigger {
+            //       a {
+            //         svg {
+            //           path {
+            //             fill: $black;
+            //           }
+            //         }
+            //       }
+            //     }
+            //     &.form {
+            //       input[type=text] {
+            //         border-color: $black;
+            //       }
+            //     }
+            //   }
+            // }
           }
           &.tabs_holder {
             width: 50%;
@@ -377,22 +376,45 @@ header.top {
           li {
             display: inline;
             width: auto;
-
-
             margin: 0;
-            padding: 0;
-            display: inline-block;
-            height: 1.875rem;
-            a {
-              padding: 0.3125rem 0.625rem;
-              color: $grey3;
-              @include transition_color(150ms);
-              &:hover {
-                color: $white;
-              }
-            }
             &:last-child {
               margin-left: -0.05rem;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  body {
+    &.drawer_open {
+      header.top {
+        h1 {
+          display: inline-block;
+          width: 30px;
+          height: 30px;
+          a {
+            span {
+              &.icon {
+                svg {
+                  width: 30px;
+                  @include border_radius(30px);
+                }
+              }
+            }
+          }
+        }
+        nav {
+          ul {
+            li {
+              &.drawer_toggle {
+                width: 20px;
+                float: right;
+              }
+              &.search_holder,
+              &.tabs_holder {
+                display: none;
+              }
             }
           }
         }
