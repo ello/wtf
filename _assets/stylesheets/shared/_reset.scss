@@ -1,0 +1,46 @@
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ reset stuff
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,button,p,blockquote,th,td,
+section,aside,article,nav,header,footer{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;}
+fieldset,img{border:0;}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}
+ol,ul {list-style:none;}
+ul li a, a, li a, ul a, ul li, #nav ul li a {-webkit-text-size-adjust:none;}
+caption,th {text-align:left;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+q:before,q:after{content:'';}
+abbr,acronym {border:0;}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="submit"],
+textarea,
+button {
+  outline: none;
+  border: 0;
+}
+
+// clear after setup
+hr.clear {
+  display:block;
+  clear:both;
+  visibility:hidden;
+  height:0;
+  border-width:0;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+}
+.clear:after {
+content: ".";
+display: block;
+clear: both;
+visibility: hidden;
+line-height: 0;
+height: 0;
+}
+
+html[xmlns] .clear { display: block; }
+* html .clear { height: 1%; }

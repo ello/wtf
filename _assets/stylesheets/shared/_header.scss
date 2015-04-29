@@ -1,0 +1,425 @@
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ header
+
+// set the body margin/padding here since it's based off the header-height
+body {
+  padding-top: 180px; // 120px header + 60px margin to content
+}
+
+header.top {
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: $gutter_px $gutter_px $gutter_px $smallColumn_px;
+  width: 100%;
+  // background-color: yellow;
+  background-color: $white;
+  z-index: 50;
+
+  h1 {
+    margin-right: $smallColumn_px / 2;
+    width: 60px;
+    height: 60px;
+    float: left;
+    a {
+      span {
+        &.icon {
+          svg {
+            width: 60px;
+            @include border_radius(60px);
+
+            path {
+              &.svg__bg {
+                fill: $black;
+              }
+              &.svg__fg {
+                fill: $white;
+              }
+            }
+          }
+        }
+        &.label {
+          display: none;
+        }
+      }
+    }
+  }
+
+  h2 {
+    margin-top: 1.25rem;
+    font-family: $bodyNormal;
+    font-weight: 400;
+    float: left;
+  }
+
+  nav {
+    // background-color: purple;
+    float: right;
+
+    ul {
+      margin-top: 1.25rem;
+      float: right;
+      li {
+        display: inline;
+
+        a {
+          padding: 0.7rem;
+          color: $grey3;
+          // background-color: pink;
+
+          &:hover,
+          &.current {
+            color: $black;
+          }
+        }
+        &.search_holder {
+          margin-right: 1.4rem;
+          width: $largeColumn_px + 30px;
+          // background-color: rgba(yellow,0.8);
+
+          span {
+            display: block;
+            float: left;
+            &.trigger {
+              padding-top: 2px;
+              width: 14px;              
+              a {
+                svg {
+                  path {
+                    @include transition_fill(150ms);
+                    fill: $grey3;
+                  }
+                }
+                &:hover {
+                  svg {
+                    path {
+                      fill: $black;
+                    }
+                  }
+                }
+              }
+            }
+            &.form {
+              position: relative;
+              margin-left: 30px;
+
+              input[type=text] {
+                position: relative;
+                padding-bottom: 0.25rem;
+                width: $largeColumn_px;
+                border-bottom: 1px solid $grey3;
+                z-index: 4;
+              }
+              a {
+                &.clear_search {
+                  position: absolute;
+                  display: block;
+                  margin: 3px 0 0 0;
+                  padding: 2px;
+                  top: 0;
+                  right: 0;
+                  width: 10px;
+                  height: 10px;
+                  z-index: 5;
+                  overflow: hidden;
+                  svg {
+                    display: block;
+                    width: 8px;
+                    height: 8px;
+                    title {
+                      display: none;
+                    }
+                    polygon {
+                      fill: $grey3;
+                    }
+                  }
+                  &:hover {
+                    cursor: pointer;
+                  }
+                }
+              }
+              &.inactive {
+                a {
+                  &.clear_search {
+                    display: none;
+                  }
+                }
+              }
+            }
+          }
+          &.active {
+            span {
+              &.trigger {
+                a {
+                  svg {
+                    path {
+                      fill: $black;
+                    }
+                  }
+                }
+              }
+              &.form {
+                input[type=text] {
+                  border-color: $black;
+                }
+              }
+            }
+          }
+        }
+      }
+      &.tabs {
+        margin: 0 0 0 15px;
+        padding: 0;
+        li {
+          margin: -0.35rem 0 0 0;
+          padding: 0;
+          display: inline-block;
+          height: 1.875rem;
+          a {
+            padding: 0.3125rem 0.625rem;
+            color: $grey3;
+            @include transition_color(150ms);
+            &:hover {
+              color: $white;
+            }
+          }
+          &:last-child {
+            margin-left: -0.55rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width : 1px) and (max-width : 719px) {
+
+  // set the body margin/padding here since it's based off the header-height
+  body {
+    padding-top: 85px; // 55px header + 30px margin to content
+  }
+
+  header.top {
+    padding: 15px 10px 10px 10px;
+    // background-color: yellow;
+
+    h1 {
+      display: none;
+    }
+
+    nav {
+      width: 100%;
+      float: none;
+
+      ul {
+        width: 100%;
+        margin-top: 0;
+        // background-color: purple;
+        float: none;
+        li {
+          display: block;
+          width: 12.5%;
+          float: left;
+          // background-color: rgba(red,0.3);
+
+
+          a {
+            padding: 0;
+            width: 100%;
+            text-align: center;
+          }
+          &.drawer_toggle {
+            a {
+              span {
+                &.icon {
+                  display: block;
+                  width: 100%;
+                  height: $gutter_px;
+                  svg {
+                    margin-top: 0.3rem;
+                    width: 20px;
+                    path {
+                      fill: $grey3;
+                      @include transition_fill(150ms);
+                    }
+                  }
+                }
+                &.label {
+                  display: none;
+                }
+              }
+              &:hover {
+                span {
+                  &.icon {
+                    svg {
+                      path {
+                        fill: $black;
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+          &.search_holder {
+            margin: 0;
+            width: 12.5%;
+            // background-color: rgba(red,0.5);
+
+            span {
+              display: block;
+              width: 100%;
+              height: $gutter_px;
+              float: none;
+              &.trigger {
+                padding-top: 2px;
+                width: 100%;              
+                a {
+                  display: block;
+                  svg {
+                    margin-top: 0.4rem;
+                    width: 14px;
+                    path {
+                      @include transition_fill(150ms);
+                      fill: $grey3;
+                    }
+                  }
+                  &:hover {
+                    svg {
+                      path {
+                        fill: $black;
+                      }
+                    }
+                  }
+                }
+              }
+              &.form {
+                display: none;
+
+
+
+                // position: relative;
+                // margin-left: 30px;
+
+                // input[type=text] {
+                //   position: relative;
+                //   padding-bottom: 0.25rem;
+                //   width: $largeColumn_px;
+                //   border-bottom: 1px solid $grey3;
+                //   z-index: 4;
+                // }
+                // a {
+                //   &.clear_search {
+                //     position: absolute;
+                //     display: block;
+                //     margin: 3px 0 0 0;
+                //     padding: 2px;
+                //     top: 0;
+                //     right: 0;
+                //     width: 10px;
+                //     height: 10px;
+                //     z-index: 5;
+                //     overflow: hidden;
+                //     svg {
+                //       display: block;
+                //       width: 8px;
+                //       height: 8px;
+                //       title {
+                //         display: none;
+                //       }
+                //       polygon {
+                //         fill: $grey3;
+                //       }
+                //     }
+                //     &:hover {
+                //       cursor: pointer;
+                //     }
+                //   }
+                // }
+                // &.inactive {
+                //   a {
+                //     &.clear_search {
+                //       display: none;
+                //     }
+                //   }
+                // }
+              }
+            }
+            // &.active {
+            //   span {
+            //     &.trigger {
+            //       a {
+            //         svg {
+            //           path {
+            //             fill: $black;
+            //           }
+            //         }
+            //       }
+            //     }
+            //     &.form {
+            //       input[type=text] {
+            //         border-color: $black;
+            //       }
+            //     }
+            //   }
+            // }
+          }
+          &.tabs_holder {
+            width: 50%;
+            float: right;
+          }
+        }
+        &.tabs {
+          margin: 0;
+          padding: 0;
+          width: auto;
+          float: right;
+          li {
+            display: inline;
+            width: auto;
+            margin: 0;
+            &:last-child {
+              margin-left: -0.05rem;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  body {
+    &.drawer_open {
+      header.top {
+        h1 {
+          display: inline-block;
+          width: 30px;
+          height: 30px;
+          a {
+            span {
+              &.icon {
+                svg {
+                  width: 30px;
+                  @include border_radius(30px);
+                }
+              }
+            }
+          }
+        }
+        nav {
+          ul {
+            li {
+              &.drawer_toggle {
+                width: 20px;
+                float: right;
+              }
+              &.search_holder,
+              &.tabs_holder {
+                display: none;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+}

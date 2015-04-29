@@ -1,0 +1,147 @@
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ footer
+
+footer.bottom {
+  position: absolute;
+  bottom: 0;
+  padding-top: $smallColumn_px;
+  padding-bottom: $smallColumn_px - 15px;
+  width: 100%;
+  height: $smallColumn_px + $smallColumn_px - 15px + 90px; // part of the hack to push footer down
+  max-width: $layoutWidth_px + $gutter_px;
+  nav {
+    width: 100%;
+    ul {
+      display: block;
+      padding-right: $smallColumn_px;
+      width: 25%;
+      max-width: $largeColumn_px + $smallColumn_px;
+      float: left;
+      // background-color: rgba(blue,0.1);
+      li {
+        display: block;        
+        margin-bottom: 1rem;
+        width: 100%;
+        max-width: $largeColumn_px;
+        a {
+          display: block;
+          // background-color: rgba(pink,0.5);
+          padding: 0.25rem 0 0.25rem 0;
+          color: $grey3;
+
+          &:hover {
+            color: $black;
+          }
+
+          span {
+            &.icon {
+              display: block;
+              float: left;
+            }
+          }
+          &.ello {
+            padding-bottom: 0.05rem;
+            span {
+              
+              &.icon {
+                padding-top: 0rem;
+                margin-right: 15px;
+                margin-left: 1px;
+                svg {
+                  width: 16px;
+                  height: 16px;
+                  @include border_radius(16px);
+
+                  path {
+                    &.svg__bg {
+                      @include transition_fill(150ms);
+                      fill: $grey3;
+                    }
+                    &.svg__fg {
+                      fill: $white;
+                    }
+                  }
+                }
+              }
+            }
+          }
+          &.twitter {
+            padding-bottom: 0.25rem;
+            span {
+              &.icon {
+                padding-top: 0rem;
+                margin-right: 15px;
+                svg {
+                  width: 18px;
+                  height: 16px;
+
+                  path {
+                    @include transition_fill(150ms);
+                    fill: $grey3;
+                  }
+                }
+              }
+            }
+          }
+          &:hover {
+            span {
+              &.icon {
+                svg {
+                  path {
+                    fill: $black;
+                    &.svg__bg {
+                      fill: $black;
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }  
+}
+
+@media only screen and (min-width : 1px) and (max-width : 719px) {
+  footer.bottom {
+    padding-top: 10px;
+    padding-bottom: 0;
+    height: $smallColumn_px + 10px; // part of the hack to push footer down
+    max-width: 100%;
+    nav {
+      width: 100%;
+      ul {
+        padding-right: 0;
+        width: 100%;
+        max-width: 100%;
+        &:nth-child(n+2) {
+          display: none;
+        }
+        li {
+          margin-bottom: 0.25rem;
+
+        }
+      }
+    }
+  }
+
+  body {
+    &.drawer_open {
+      footer.bottom {
+        nav {
+          ul {
+            &:first-child {
+              display: none;
+            }
+            &:nth-child(n+2) {
+              display: inline;
+            }
+            &:nth-child(n+3) {
+              display: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}

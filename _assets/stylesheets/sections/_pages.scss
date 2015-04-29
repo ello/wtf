@@ -1,0 +1,11 @@
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ non-article pages
+
+body {
+  &.index {
+  }
+  &.category {
+    #content_container {
+      display: none;
+    }
+  }
+}

@@ -1,0 +1,13 @@
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ controls & form standards
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="submit"],
+textarea {
+  font-size: 0.75rem;
+  font-family: $bodyNormal;
+  outline: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}

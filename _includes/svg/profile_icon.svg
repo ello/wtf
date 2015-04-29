@@ -1,0 +1,6 @@
+<svg class="svg-icon svg-person" viewBox="0 0 20 20">
+  <g>
+    <circle cx="10" cy="4.8" r="2.3"></circle>
+    <path d="M10,9.9c2.3,0,4.2,1.9,4.2,4.2v3.4H5.8v-3.4 C5.8,11.7,7.7,9.9,10,9.9z"></path>
+  </g>
+</svg>
