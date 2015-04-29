@@ -1,0 +1,171 @@
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ layout defaults
+
+*, *:before, *:after {
+  @include box_sizing_inset;
+}
+
+html {
+  height:100%; // hack for pushing footer to bottom
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+body {
+  padding: $gutter_px 0 0 $smallColumn_px;
+  height:100%; // hack for pushing footer to bottom
+  background-color: $white;
+}
+
+hr {
+  display: block;
+  margin: 1em 0;
+  padding: 0;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #f1f1f1;
+
+  &.spacer {
+    width: 100%;
+    border: 0;
+    background: none;
+    clear: both;
+  }
+}
+
+svg {
+  title {
+    display: none;
+  }
+}
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ main layout stuff
+
+#content_container { // hack for pushing footer to bottom
+  position: relative;
+  min-height: 100%;
+}
+
+#main_content {
+  position: relative;
+  // padding-bottom: 2.5rem;
+  padding-bottom: $smallColumn_px + $smallColumn_px + 90px + 30px; // part of the hack to push footer down
+  width: 100%;
+  min-height: 100%; // hack for pushing footer to bottom
+  max-width: $layoutWidth_px;
+  // background-color: yellow;
+}
+
+
+
+.category {
+  padding-right: $smallColumn_px;
+  width: percentage(($largeColumn + $smallColumn) / $layoutWidth);
+  // background-color: rgba(purple,0.8);
+  float: left;
+
+  &:nth-child(4n) {
+    width: percentage(($largeColumn) / $layoutWidth);
+  }
+
+  h2, ul {
+    font-family: $titleBold;
+    font-size: $bigText;
+    line-height: $bigTextLine;
+    font-weight: 700;
+  }
+
+  ul {
+    margin: 0;
+  }
+  h2 {
+    margin-bottom: 2.75rem;
+    color: $grey3;
+    a {
+      color: $grey3;
+    }
+  }
+  ul {
+    li {
+      margin-bottom: 1.2rem;
+      // background-color: rgba(pink,0.4);
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+      a {
+        display: block;
+        text-decoration: underline;
+
+        &:hover {
+          color: $grey3;
+        }
+      }
+    }
+  }
+  
+}
+
+@media only screen and (min-width : 1px) and (max-width : 719px) {
+  body {
+    padding: 10px;
+  }
+
+  #main_content {
+    padding-bottom: $smallColumn_px + 10px + 30px; // part of the hack to push footer down
+    max-width: 100%;
+  }
+
+  #mobile_drawer {
+    display: none !important;
+  }
+
+  // show/hide the drawer content
+  body {
+    &.drawer_open {
+      #main_content {
+        display: none;
+      }
+      #mobile_drawer {
+        display: block !important;
+        width: 100%;
+      }
+    }
+  }
+
+  .category {
+    padding-right: 0;
+    width: 100%;
+    // background-color: rgba(purple,0.8);
+    float: none;
+
+    &:nth-child(4n) {
+      width: 100%;
+    }
+
+    h2, ul {
+      font-size: $bigText_m;
+      line-height: $bigTextLine_m;
+      float: none;
+    }
+    h2 {
+      margin-bottom: 1.2rem;
+      color: $black;
+      a {
+        color: $black;
+      }
+    }
+    ul {
+      float: none;
+      margin-bottom: 1.2rem;
+      li {
+        margin-bottom: 0.75rem;
+        a {
+          color: $grey3;
+          &:hover {
+            color: $black;
+          }
+        }
+      }
+    }
+    
+  }
+}

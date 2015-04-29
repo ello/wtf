@@ -1,0 +1,68 @@
+<header class="top clear">
+  <h1>
+    <a href="{{ site.baseurl }}/">
+      <span class="icon">
+        {% include svg/ello_icon.svg %}
+      </span>
+      <span class="label">{{ site.title }}</span>
+    </a>
+  </h1>
+  {% if site.header_title %}<h2 class="no_mobile">{{ site.header_title }}</h2>{% endif %}
+  
+  <nav>
+    <ul>
+      <li class="drawer_toggle mobile_only">
+        <a href="#toggle_drawer">
+          <span class="icon">
+            {% include svg/drawer_toggle_icon.svg %}
+          </span>
+          <span class="label">Toggle Drawer</span>
+        </a>
+      </li>
+      <li class="search_holder">
+        <span class="trigger">
+          <a class="search" href="/wtf/search">
+            {% include svg/mag_icon.svg %}
+          </a>
+        </span>
+        <span class="form inactive">
+          <form action="/wtf/search" class="search_form">
+            <input class="search_box" id="search" name="search" placeholder="Search the Help Center" type="text" value="">
+          </form>
+          <a class="clear_search">
+            {% include svg/clear_icon.svg %}
+          </a>
+        </span>
+      </li>
+      {% assign sorted_categories = site.categories | sort %}
+      {% assign current_category  = page.categories | first %}
+      {% for category in sorted_categories %}
+        {% assign posts_category  = category | first %}
+        {% assign sorted_posts    = site.categories[posts_category] | sort.position %}
+        {% assign first_post      = sorted_posts.first %}
+        {% assign first_category  = category | first %}
+        <li class="no_mobile"><a href="{{ site.baseurl }}{{ first_post.url }}"{% if current_category %}{% if current_category == first_category %} class="current"{% endif %}{% endif %}>{{ first_category | capitalize }}</a></li>
+      {% endfor %}
+      <li class="tabs_holder">
+        <ul class="tabs">
+          {% comment %}
+          <li>
+            <a class="btn-tab f" data-title="Friends" href="/friends" role="tab"><span>F<span class="full-label">riends</span></span></a>
+          </li>
+          <li>
+            <a class="btn-tab n" data-title="Noise" href="/noise" role="tab"><span>N<span class="full-label">oise</span></span></a>
+          </li>
+          {% endcomment %}
+          <li>
+            <a class="btn-tab" href="{{ site.login_path }}" role="tab">Login</a>
+          </li>
+          <li>
+            <a class="btn-tab" href="{{ site.join_path }}" role="tab">Sign Up</a>
+          </li>
+        </ul>
+      </li>
+
+    </ul>
+  </nav>
+  
+</header>

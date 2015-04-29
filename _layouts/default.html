@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+  {% include head.html %}
+
+  <body{% if page.css_hook %} class="{{ page.css_hook }}"{% endif %}>
+
+    <div id="content_container">
+      {% include header.html %}
+
+      <div id="main_content" class="clear">
+        {{ content }}
+      </div>
+
+      <div id="mobile_drawer" class="clear mobile_only">
+        {% include mobile_drawer.html %}
+      </div>
+
+      {% include footer.html %}
+    </div>
+
+    {% include bottom.html %}
+  </body>
+</html>
