@@ -4,6 +4,7 @@ root.ElloWTFShared =
     ElloWTFShared.watchSearchHeader()
     ElloWTFShared.watchSearchTerms()
     ElloWTFShared.watchDrawerToggle()
+    ElloWTFShared.mobileWatchSearchToggle()
 
   # initAjax: () ->
   #   ElloWTFShared.doAThing()
@@ -29,6 +30,7 @@ root.ElloWTFShared =
       e.preventDefault()
       $search_box.val("")
       $search_form.addClass("inactive")
+      $search_box.focus()
 
   ## temp to fake search experience
   watchSearchTerms: ->
@@ -36,11 +38,19 @@ root.ElloWTFShared =
     unless typeof search_term == 'undefined' || search_term == ""
       $(".search_holder .form input").val("#{search_term}")
       $(".search_holder .form").removeClass("inactive")
+      $(".search_holder").addClass("expanded")
 
   watchDrawerToggle: ->
     $("header.top .drawer_toggle a").click (e) ->
       e.preventDefault()
       $('body').toggleClass('drawer_open')
+
+  mobileWatchSearchToggle: ->
+    $(".search_holder .trigger .search").click (e) ->
+      e.preventDefault()
+
+      $(".search_holder").toggleClass("expanded")
+
 
   getURLParameter: (parameter) ->
     page_url = window.location.search.substring(1)

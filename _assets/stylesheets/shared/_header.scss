@@ -362,6 +362,35 @@ header.top {
             //     }
             //   }
             // }
+            &.expanded {
+              span {
+                &.form {
+                  display: inline-block;
+                  position: absolute;
+                  top: 1px;
+                  left: percentage(2/8);
+                  // left: 0;
+                  padding: 20px 10px 30px 10px;
+                  margin-left: 0;
+                  width: percentage(6/8);
+                  z-index: 10;
+                  // background-color: rgba(purple,0.6);
+                  background-color: $white;
+
+                  // @include opacity(80);
+
+                  input[type=text] {
+                    width: 100%;
+                  }
+                  a {
+                    &.clear_search {
+                      top: 22px;
+                      right: 12px;
+                    }
+                  }
+                }
+              }
+            }
           }
           &.tabs_holder {
             width: 50%;
