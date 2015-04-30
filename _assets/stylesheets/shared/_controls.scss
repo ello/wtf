@@ -12,14 +12,3 @@ textarea {
   -moz-appearance: none;
   -webkit-appearance: none;
 }
-
-@media only screen and (min-width : 1px) and (max-width : 768px) {  // prevents iOS from doing its dumb zooming thing
-  input[type="text"],
-  input[type="email"],
-  input[type="password"],
-  input[type="submit"],
-  textarea {
-    font-size: 13px;
-    line-height: 18px;
-  }
-}
