@@ -6,7 +6,7 @@ categories: about
 position: 1
 ---
 
-Ello is a revolutionary social network that is transforming how people connect, free from advertising, manipulation, and exploitation. Ello’s clean and beautiful design supports a global creative community where people can be whoever they want to be. As a public benefit corporation, Ello will never sell ads or user data.
+Ello is a Social Revolution that is transforming how people connect, free from advertising, manipulation, and exploitation. Ello’s clean and beautiful design supports a global creative community where people can be whoever they want to be. As a public benefit corporation, Ello will never sell ads or user data.
 
 Ello was founded by a small group of artists and programmers who had become disillusioned by all the big social networks, which had become ugly, cluttered, and full of advertisements. They just weren’t any fun any more.
 
