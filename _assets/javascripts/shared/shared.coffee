@@ -44,6 +44,7 @@ root.ElloWTFShared =
     $("header.top .drawer_toggle a").click (e) ->
       e.preventDefault()
       $('body').toggleClass('drawer_open')
+      $('body').scrollTop 0
 
   mobileWatchSearchToggle: ->
     $(".search_holder .trigger .search").click (e) ->
