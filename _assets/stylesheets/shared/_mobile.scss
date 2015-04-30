@@ -21,6 +21,14 @@
   
 }
 
+@media only screen and (min-device-width : 1px) and (max-device-width : 640px) {
+  // prevents iOS from doing its dumb zooming thing
+  input[type='text'],
+  input[type='email'] {
+    font-size: 16px;
+  }
+}
+
 // Smartphones (landscape) ----------------------
 @media only screen and (min-width : 1px) and (max-width : 719px) { 
 
