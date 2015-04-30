@@ -49,8 +49,13 @@ root.ElloWTFShared =
     $(".search_holder .trigger .search").click (e) ->
       e.preventDefault()
 
-      $(".search_holder").toggleClass("expanded")
-
+      $search_form = $(".search_holder")
+      $search_box = $search_form.find("input")
+      if $search_form.hasClass("expanded")
+        $search_form.removeClass("expanded")
+      else
+        $search_form.addClass("expanded")
+        $search_box.focus()
 
   getURLParameter: (parameter) ->
     page_url = window.location.search.substring(1)
