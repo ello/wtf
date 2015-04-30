@@ -5,7 +5,7 @@ date:   2015-04-21 01:23:18
 categories: about
 position: 3
 ---
-Here is an edit from the github website.
+Here is an edit from the github website. And an edit pushed up from local.
 
 Ello was originally built by a group of seven well-known artists and programmers as a private social network. Over time, so many people wanted to use Ello that our servers were overwhelmed. We built a public version of Ello for everyone to use.
 
