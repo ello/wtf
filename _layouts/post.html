@@ -10,7 +10,8 @@ css_hook: article
     <p class="mobile_only">Updated {{ page.date | date: "%B %-d, %Y" }}</p>
   </header>
 
-  <article>
+  {% if page.video %}<aside id="video_embed"></aside>{% endif %}
+  <article class="post_content"{% if page.video %} data-video-link="{{ page.video }}"{% endif %}>
     {{ content }}
   </article>
 </section>

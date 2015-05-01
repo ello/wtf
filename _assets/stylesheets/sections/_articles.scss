@@ -55,6 +55,13 @@ body {
         }
       }
 
+      aside {
+        &#video_embed {
+          margin-bottom: 2rem;
+          background-color: $grey1;
+        }
+      }
+
       article {
         width: 100%;
         max-width: $largeColumn_px * 2 + $smallColumn_px;
