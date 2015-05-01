@@ -28,6 +28,7 @@ root.ElloWTFArticles =
       # grab/create the embed
       embed_box = document.getElementById('video_embed')
       window.embetter.utils.buildPlayerFromServiceURL(embed_box, video_link, curServices)
+      $embed_box.removeAttr('style')
   
 $(document).ready ->
   if $("body.article").length
