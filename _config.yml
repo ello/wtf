@@ -6,12 +6,17 @@ subtitle: Help and other resources for Ello # only appears in the <title> tag of
 header_title: Social Revolution. # appears in the header when logged out
 
 ## meta tag content (also affects facebook og: tags)
+# meta description is overridden by the post excerpt on post pages
 meta_description: > # this means to ignore newlines until "meta_keywords:"
-  Social Revolution. Write an awesome description for the WTF section here.
-  You can edit this in _config.yml. It will appear in your document head meta (for
-  Google search results) and in Facebook OG tags
+  Ello is an ad-free social network leading a revolution in how people connect, 
+  where you can be whoever you want to be, and where quality, beauty, and positivity 
+  are valued above quantity and statistics.
+# meta keywords: separate each keyword/phrase with a comma, new lines are ok
 meta_keywords: > # this means to ignore newlines until "baseurl:"
-  social, revolution, social revolution, ello,
+  Ello, Ello.co, Social Network, Ad-free, No ads, no advertising, message service, data mining, 
+  free, instant message, message, messaging, private messaging, text messaging, text post, image post, 
+  sound file, video, words, friends, noise, friends and noise, Youtube, Vimeo, Facebook, Tumblr, 
+  Twitter, Instagram, App.net, Pinterest, Path
 
 ## google analytics
 ga_id: XXXXXX-1 # google analytics account code
