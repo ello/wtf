@@ -40,6 +40,8 @@ root.ElloWTFShared =
       $(".search_holder .form input").val("#{search_term}")
       $(".search_holder .form").removeClass("inactive")
       $(".search_holder").addClass("expanded")
+      if $("body.search").length
+        $(".content h1 .results em").text("#{search_term}")
 
   watchDrawerToggle: ->
     $("header.top .drawer_toggle a").click (e) ->
