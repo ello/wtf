@@ -8,6 +8,7 @@ textarea {
   font-size: 0.75rem;
   font-family: $bodyNormal;
   outline: none;
+  @include border_radius(0);
   -moz-appearance: none;
   -webkit-appearance: none;
 }

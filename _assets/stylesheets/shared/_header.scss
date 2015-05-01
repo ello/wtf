@@ -294,74 +294,35 @@ header.top {
               }
               &.form {
                 display: none;
-
-
-
-                // position: relative;
-                // margin-left: 30px;
-
-                // input[type=text] {
-                //   position: relative;
-                //   padding-bottom: 0.25rem;
-                //   width: $largeColumn_px;
-                //   border-bottom: 1px solid $grey3;
-                //   z-index: 4;
-                // }
-                // a {
-                //   &.clear_search {
-                //     position: absolute;
-                //     display: block;
-                //     margin: 3px 0 0 0;
-                //     padding: 2px;
-                //     top: 0;
-                //     right: 0;
-                //     width: 10px;
-                //     height: 10px;
-                //     z-index: 5;
-                //     overflow: hidden;
-                //     svg {
-                //       display: block;
-                //       width: 8px;
-                //       height: 8px;
-                //       title {
-                //         display: none;
-                //       }
-                //       polygon {
-                //         fill: $grey3;
-                //       }
-                //     }
-                //     &:hover {
-                //       cursor: pointer;
-                //     }
-                //   }
-                // }
-                // &.inactive {
-                //   a {
-                //     &.clear_search {
-                //       display: none;
-                //     }
-                //   }
-                // }
               }
             }
-            // &.active {
-            //   span {
-            //     &.trigger {
-            //       a {
-            //         svg {
-            //           path {
-            //             fill: $black;
-            //           }
-            //         }
-            //       }
-            //     }
-            //     &.form {
-            //       input[type=text] {
-            //         border-color: $black;
-            //       }
-            //     }
-            //   }
-            // }
+            &.expanded {
+              span {
+                &.form {
+                  display: inline-block;
+                  position: absolute;
+                  top: 1px;
+                  left: percentage(2/8);
+                  // left: 0;
+                  padding: 20px 10px 30px 10px;
+                  margin-left: 0;
+                  width: percentage(6/8);
+                  z-index: 10;
+                  // background-color: rgba(purple,0.6);
+                  background-color: $white;
+
+                  input[type=text] {
+                    width: 100%;
+                  }
+                  a {
+                    &.clear_search {
+                      top: 22px;
+                      right: 12px;
+                    }
+                  }
+                }
+              }
+            }
           }
           &.tabs_holder {
             width: 50%;
