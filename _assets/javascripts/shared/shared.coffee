@@ -5,6 +5,7 @@ root.ElloWTFShared =
     ElloWTFShared.watchSearchTerms()
     ElloWTFShared.watchDrawerToggle()
     ElloWTFShared.mobileWatchSearchToggle()
+    ElloWTFShared.mobileDrawerCategoryWatch()
 
   # initAjax: () ->
   #   ElloWTFShared.doAThing()
@@ -36,9 +37,12 @@ root.ElloWTFShared =
   watchSearchTerms: ->
     search_term = ElloWTFShared.getURLParameter('search')
     unless typeof search_term == 'undefined' || search_term == ""
-      $(".search_holder .form input").val("#{search_term}")
+      decoded_search_term = decodeURIComponent(search_term)
+      $(".search_holder .form input").val("#{decoded_search_term}")
       $(".search_holder .form").removeClass("inactive")
       $(".search_holder").addClass("expanded")
+      if $("body.search").length
+        $(".content h1 .results em").text("#{decoded_search_term}")
 
   watchDrawerToggle: ->
     $("header.top .drawer_toggle a").click (e) ->
@@ -57,6 +61,19 @@ root.ElloWTFShared =
       else
         $search_form.addClass("expanded")
         $search_box.focus()
+
+  mobileDrawerCategoryWatch: ->
+    $(".category.main h2").click (e) ->
+      if $(window).width() < 720
+        e.preventDefault()
+
+      $category = $(this).parents(".category")
+      if $category.hasClass("expanded")
+        $category.removeClass("expanded")
+      else
+        $(".category.main").each ->
+          $(this).removeClass("expanded")
+        $(this).parents(".category").toggleClass("expanded")
 
   getURLParameter: (parameter) ->
     page_url = window.location.search.substring(1)
