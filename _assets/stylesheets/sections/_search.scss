@@ -18,6 +18,11 @@ body {
 
           span {
             color: $black;
+            em {
+              font-family: $titleBold;
+              font-style: normal;
+              font-weight: 700;
+            }
           }
         }
 

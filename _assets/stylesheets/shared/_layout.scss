@@ -77,6 +77,9 @@ svg {
   h2 {
     margin-bottom: 2.75rem;
     color: $grey3;
+    span {
+      display: none;
+    }
     a {
       color: $grey3;
     }
@@ -171,6 +174,58 @@ svg {
         }
       }
     }
+
+    &.main {
+      h2 {
+        span {
+          display: inline-block;
+          margin-right: 6px;
+          width: 15px;
+          svg {
+            width: 100%;
+            g {
+              polygon,
+              path {
+                fill: $grey3;
+                @include transition_fill(150ms);
+              }
+            }
+          }
+        }
+        &:hover {
+          cursor: pointer;
+          span {
+            svg {
+              g {
+                polygon,
+                path {
+                  fill: $black
+                }
+              }
+            }
+          }
+        }
+      }
+      ul {
+        display: none;
+        margin-left: 26px;
+      }
+
+      &.expanded {
+        h2 {
+          span {
+            svg {
+              @include transform_rotate(-90deg);
+            }
+          }
+        }
+        ul {
+          display: block;
+        }
+      }
+    }
     
   }
+
+
 }
