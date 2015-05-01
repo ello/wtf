@@ -38,6 +38,7 @@ title:  "I am a title"
 date:   2015-01-23 01:23:45
 categories: about
 position: 3
+video: http://vimeo.com/30619461
 ---
 ```
 
@@ -46,6 +47,7 @@ position: 3
 * `date:` The publish date of an article (or its last updated date): `2015-01-23 01:23:45`
 * `categories:` Pick the single category for the article (see the list in the section below): `policies`
 * `position:` This determines the position of the article in the category list. Lower numbers are at the top of the list.
+* `video:` Include a Vimeo or Youtube link to feature a video at the very top of the post page (**optional**)
 
 **Other Notes:** Posts with future dates are ignored and not published. Keep in mind that updating the post position may require updates to other articles in the list to get the ordering you desire.
 
