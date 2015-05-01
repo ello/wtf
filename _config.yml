@@ -8,6 +8,7 @@ header_title: Social Revolution. # appears in the header when logged out
 #   Google search results)
 baseurl: "/wtf" # the subpath of your site, e.g. /blog/
 url: "http://wtf.ello.co" # the base hostname & protocol for your site
+ga_id: XXXXXX-1 # google analytics account code
 
 # Footer settings + links
 ello_username: ello
