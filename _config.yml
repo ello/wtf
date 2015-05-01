@@ -1,16 +1,22 @@
-# Site settings
+# Site settings +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+## title & header
 title: Ello | wtf
 subtitle: Help and other resources for Ello # only appears in the <title> tag of the site
 header_title: Social Revolution. # appears in the header when logged out
-# description: > # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results)
-baseurl: "/wtf" # the subpath of your site, e.g. /blog/
-url: "http://wtf.ello.co" # the base hostname & protocol for your site
+
+## meta tag content (also affects facebook og: tags)
+meta_description: > # this means to ignore newlines until "meta_keywords:"
+  Social Revolution. Write an awesome description for the WTF section here.
+  You can edit this in _config.yml. It will appear in your document head meta (for
+  Google search results) and in Facebook OG tags
+meta_keywords: > # this means to ignore newlines until "baseurl:"
+  social, revolution, social revolution, ello,
+
+## google analytics
 ga_id: XXXXXX-1 # google analytics account code
 
-# Footer settings + links
+## Footer settings + links
 ello_username: ello
 twitter_username: elloworld
 footer_links: # Ello links should ommit the 'http://ello.co' and start with a slash (i.e. http://ello.co/wtf/resources/community-directory/ --> /wtf/resources/community-directory/)
@@ -29,18 +35,28 @@ footer_links: # Ello links should ommit the 'http://ello.co' and start with a sl
 login_path: /enter
 join_path: /beta-public-profiles
 
-# Time
+## Time Zone and future publishing
 timezone: Mountain Time
-future: false # do not publish future posts
+future: false # false: only post future-dated articles once we've reached the proper time
 
-# Build settings
-permalink: /:categories/:title/
+# Build settings ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#### you can pretty much ignore everything in this section ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+## basic settings
+baseurl: "/wtf" # the subpath of your site, e.g. /blog/
+url: "http://wtf.ello.co" # the base hostname & protocol for your site
+permalink: /:categories/:title/ # construct our URLs (this is misleading because it's not based on title, but filename - see README)
+
+## markdown flavor
 markdown: kramdown
+
+## asset pipeline setup
 assets: # https://github.com/jekyll-assets/jekyll-assets
   # baseurl: http://my.super-cool-cdn.com/assets
   js_compressor:  uglifier
   css_compressor: sass
 
+## do not copy/move these files when running a build
 exclude:
   - README.md
   - REVISION
