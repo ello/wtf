@@ -6,20 +6,6 @@
 * user: `ellowtf`
 * password: `***REMOVED***`
 
-## Installing & Running Jekyll
-
-### Installing Jekyll:
-
-This [Jekyll](http://jekyllrb.com/) install relies on a few different gems (in addition to Jekyll), so be sure to use bundle to install it:
-
-* $ `bundle install`
-
-### Running Jekyll Locally:
-
-* $ `jekyll serve`
-* Point your browser at: [http://localhost:4000/wtf/](http://localhost:4000/wtf/) (the trailing slash is important)
-* Content/design changes should update locally as you make them
-
 ## Content Workflow
 
 All posts go in the `_posts` folder and inside their respective category folder for the sake of keeping things organized (Jekyll doesn’t actually care).
@@ -63,3 +49,17 @@ Available categories (anything else will be ignored and not appear on the catego
 All content goes below the _Post Meta Data_ and is formatted with Markdown.
 
 [Markdown Docs](http://daringfireball.net/projects/markdown/syntax)
+
+## Installing & Running Jekyll
+
+### Installing Jekyll:
+
+This [Jekyll](http://jekyllrb.com/) install relies on a few different gems (in addition to Jekyll), so be sure to run bundle install:
+
+* $ `bundle install`
+
+### Running Jekyll Locally:
+
+* $ `jekyll serve`
+* Point your browser at: [http://localhost:4000/wtf/](http://localhost:4000/wtf/) (the trailing slash is important)
+* Content/design changes should update locally as you make them
