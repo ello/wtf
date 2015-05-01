@@ -18,6 +18,9 @@ meta_keywords: > # this means to ignore newlines until "baseurl:"
   sound file, video, words, friends, noise, friends and noise, Youtube, Vimeo, Facebook, Tumblr, 
   Twitter, Instagram, App.net, Pinterest, Path
 
+## facebook og tags
+fb_site_name: Ello
+
 ## google analytics
 ga_id: XXXXXX-1 # google analytics account code
 
@@ -49,7 +52,7 @@ future: false # false: only post future-dated articles once we've reached the pr
 
 ## basic settings
 baseurl: "/wtf" # the subpath of your site, e.g. /blog/
-url: "http://wtf.ello.co" # the base hostname & protocol for your site
+url: "http://ello.co" # the base hostname & protocol for your site
 permalink: /:categories/:title/ # construct our URLs (this is misleading because it's not based on title, but filename - see README)
 
 ## markdown flavor
