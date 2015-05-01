@@ -64,8 +64,9 @@ root.ElloWTFShared =
 
   mobileDrawerCategoryWatch: ->
     $(".category.main h2").click (e) ->
-      e.preventDefault()
-      
+      if $(window).width() < 720
+        e.preventDefault()
+
       $category = $(this).parents(".category")
       if $category.hasClass("expanded")
         $category.removeClass("expanded")
