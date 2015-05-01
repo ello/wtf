@@ -183,6 +183,26 @@ svg {
           width: 15px;
           svg {
             width: 100%;
+            g {
+              polygon,
+              path {
+                fill: $grey3;
+                @include transition_fill(150ms);
+              }
+            }
+          }
+        }
+        &:hover {
+          cursor: pointer;
+          span {
+            svg {
+              g {
+                polygon,
+                path {
+                  fill: $black
+                }
+              }
+            }
           }
         }
       }
