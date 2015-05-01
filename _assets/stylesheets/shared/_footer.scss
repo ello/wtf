@@ -119,7 +119,22 @@ footer.bottom {
         }
         li {
           margin-bottom: 0.25rem;
-
+          a {
+            &.ello {
+              span {
+                &.icon {
+                  margin-right: 7px;
+                }
+              }
+            }
+            &.twitter {
+              span {
+                &.icon {
+                  margin-right: 7px;
+                }
+              }
+            }
+          }
         }
       }
     }

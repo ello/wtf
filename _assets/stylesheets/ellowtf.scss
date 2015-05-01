@@ -5,10 +5,14 @@
 // = ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ =
 // ============================================================================================
 
+@import "shared/reset";
+
 // Import webfonts
 
+// Import vendor styles
+@import "vendor/embetter";
+
 // Import the shared styles
-@import "shared/reset";
 @import "shared/mixins";
 @import "shared/color_defaults";
 @import "shared/typography_defaults";
