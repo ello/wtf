@@ -191,6 +191,18 @@ header.top {
   }
 }
 
+// ------------ logged in version
+
+body {
+  &.logged_in {
+    header.top {
+      h2 {
+        display: none;
+      }
+    }
+  }
+}
+
 @media only screen and (min-width : 1px) and (max-width : 719px) {
 
   // set the body margin/padding here since it's based off the header-height
