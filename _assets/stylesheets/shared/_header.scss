@@ -385,8 +385,18 @@ body {
             display: inline;
             width: auto;
             margin: 0;
-            &:last-child {
+            &:last-child,
+            &.last {
               margin-left: -0.05rem;
+            }
+            &.logged_in {
+              a {
+                span {
+                  &.full-label {
+                    display: none;
+                  }
+                }
+              }
             }
           }
         }
@@ -410,6 +420,10 @@ body {
                 }
               }
             }
+            img {
+              width: 30px;
+              @include border_radius(30px);
+            }
           }
         }
         nav {
@@ -425,6 +439,23 @@ body {
               }
             }
           }
+        }
+      }
+    }
+    &.logged_in {
+      header.top {
+        h1 {
+          &.profile_link {
+            display: none;
+          }
+        }
+      }
+    }
+    &.logged_in.drawer_open {
+      h1 {
+        display: none !important;
+        &.profile_link {
+          display: inline-block !important;
         }
       }
     }
