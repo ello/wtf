@@ -20,6 +20,9 @@ header.top {
     width: 60px;
     height: 60px;
     float: left;
+    &.profile_link {
+      display: none;
+    }
     a {
       span {
         &.icon {
@@ -174,6 +177,9 @@ header.top {
           padding: 0;
           display: inline-block;
           height: 1.875rem;
+          &.logged_in {
+            display: none;
+          }
           a {
             padding: 0.3125rem 0.625rem;
             color: $grey3;
@@ -182,8 +188,49 @@ header.top {
               color: $white;
             }
           }
-          &:last-child {
+          &:last-child,
+          &.last {
             margin-left: -0.55rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+// ------------ logged in version
+
+body {
+  &.logged_in {
+    header.top {
+      h2 {
+        display: none;
+      }
+
+      h1 {
+        display: none;
+        &.profile_link {
+          display: inline-block;
+        }
+        a {
+          img {
+            width: 60px;
+            @include border_radius(60px);
+          }
+        }
+      }
+      nav {
+        ul {
+          &.tabs {
+            li {
+              display: none;
+              &.logged_in {
+                display: inline-block;
+                span {
+                  display: inline-block;
+                }
+              }
+            }
           }
         }
       }
@@ -338,8 +385,18 @@ header.top {
             display: inline;
             width: auto;
             margin: 0;
-            &:last-child {
+            &:last-child,
+            &.last {
               margin-left: -0.05rem;
+            }
+            &.logged_in {
+              a {
+                span {
+                  &.full-label {
+                    display: none;
+                  }
+                }
+              }
             }
           }
         }
@@ -363,6 +420,10 @@ header.top {
                 }
               }
             }
+            img {
+              width: 30px;
+              @include border_radius(30px);
+            }
           }
         }
         nav {
@@ -378,6 +439,23 @@ header.top {
               }
             }
           }
+        }
+      }
+    }
+    &.logged_in {
+      header.top {
+        h1 {
+          &.profile_link {
+            display: none;
+          }
+        }
+      }
+    }
+    &.logged_in.drawer_open {
+      h1 {
+        display: none !important;
+        &.profile_link {
+          display: inline-block !important;
         }
       }
     }

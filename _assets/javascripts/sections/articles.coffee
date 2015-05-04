@@ -30,7 +30,7 @@ root.ElloWTFArticles =
       window.embetter.utils.buildPlayerFromServiceURL(embed_box, video_link, curServices)
       setTimeout ->
         $embed_box.removeAttr('style')
-      , 500
+      , 1000
   
 $(document).ready ->
   if $("body.article").length
