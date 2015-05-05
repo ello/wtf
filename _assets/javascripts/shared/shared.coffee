@@ -37,9 +37,9 @@ root.ElloWTFShared =
 
   ## temp to fake search experience
   watchSearchTerms: ->
-    search_term = ElloWTFShared.getURLParameter("search")
+    search_term = ElloWTFShared.getURLParameter("for")
     unless typeof search_term == "undefined" || search_term == ""
-      decoded_search_term = decodeURIComponent(search_term)
+      decoded_search_term = decodeURIComponent(search_term).replace(/\+/g , " ")
       $(".search_holder .form input").val("#{decoded_search_term}")
       $(".search_holder .form").removeClass("inactive")
       $(".search_holder").addClass("expanded")
