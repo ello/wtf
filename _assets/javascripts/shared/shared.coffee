@@ -24,6 +24,8 @@ root.ElloWTFShared =
         if search_term.length > 2
           ElloWTFSearch.searchIndex(search_term)
           $(".content h1 .search_term em").text("#{search_term}")
+          $(".content h1.main").show()
+          $(".content h1.alt").hide()
       else
         $search_form.addClass("inactive")
         ElloWTFSearch.clearResults()

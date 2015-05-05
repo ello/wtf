@@ -32,47 +32,45 @@ root.ElloWTFSearch =
     ElloWTFSearch.searchIndex(search_term)
 
   searchIndex: (search_term) ->
-    console.log 'fire search!'
     results = ElloWTFSearch.search_index.search(search_term)
     # console.log results
 
     unless typeof results == "undefined" || results.length == 0
       ElloWTFSearch.displayResults(results)
     else
-      console.log 'no results'
+      $('.content .results').html('')
 
   displayResults: (results) ->
-    console.log 'we have results!'
     $('.content .results').html('')
 
     results.forEach (result) ->
       post_id = result.ref
-      console.log post_id
-
       post_array = $.grep ElloWTFSearch.posts, (e) ->
         e.id == post_id
-
       post = post_array[0]
-      console.log post.excerpt
 
+      # clone our example result to use as a template
       $result = $('.post.result.example').clone()
 
-      # do the things
+      # add our post data to our result
       $result.removeClass('example')
       $result.find('h2 a').text(post.title)
       $result.find('a').attr('title',post.title).attr('href',post.url)
       $result.find('.excerpt').text(post.excerpt)
       $result.show()
-      console.log $result
+      # console.log $result
 
-      # add it to the page
-      $('.content .results').append($result)
-    
+      # add the result to the page
+      $('.content .results').append($result)    
 
   clearResults: ->
     console.log 'clear the things!'
     $results_box = $('.content .results')
+    $results_box.html('')
     $results_box.prepend('nothing to see here.')
+    $(".content h1 .search_term em").text("")
+    $(".content h1.main").hide()
+    $(".content h1.alt").show()
   
   
 $(document).ready ->
