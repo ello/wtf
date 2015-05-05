@@ -23,11 +23,12 @@ root.ElloWTFShared =
         $search_form.removeClass("inactive")
         if search_term.length > 2
           ElloWTFSearch.searchIndex(search_term)
+          $(".content h1 .search_term em").text("#{search_term}")
       else
         $search_form.addClass("inactive")
         ElloWTFSearch.clearResults()
       return
-    ), 300)
+    ), 150)
 
     $search_box.on "focusin", ->
       $(".search_holder").addClass("active")
@@ -49,7 +50,7 @@ root.ElloWTFShared =
       $(".search_holder .form").removeClass("inactive")
       $(".search_holder").addClass("expanded")
       if $("body.search").length
-        $(".content h1 .results em").text("#{decoded_search_term}")
+        $(".content h1 .search_term em").text("#{decoded_search_term}")
 
   ## temp to fake logged in experience
   toggleLoggedIn: ->
