@@ -62,6 +62,7 @@ root.ElloWTFSearch =
       $result.find('h2 a').text(post.title)
       $result.find('a').attr('title',post.title).attr('href',post.url)
       $result.find('.excerpt').text(post.excerpt)
+      $result.show()
       console.log $result
 
       # add it to the page
