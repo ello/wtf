@@ -1,12 +1,12 @@
 root = exports ? this
 root.ElloWTFSearch =
   init: () ->
-    ElloWTFSearch.doAThing()
+    ElloWTFSearch.initSearch()
 
   initAjax: () ->
-    ElloWTFSearch.doAThing()
+    ElloWTFSearch.initSearch()
   
-  doAThing: ->
+  initSearch: ->
     console.log 'thing!'
   
 $(document).ready ->
