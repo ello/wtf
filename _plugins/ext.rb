@@ -9,3 +9,22 @@ module ReplaceNewlineWithSpace
 end
 
 Liquid::Template.register_filter(ReplaceNewlineWithSpace)
+
+## custom tag to strip stop words from posts.json (search index)
+module StripStopWords
+  def strip_stop_words(input)
+    stop_words = []
+    File.open("stopwords.txt", "r") do |f|
+      f.each_line do |line|
+        stop_words << line.gsub!(/[\n]+/, "").to_s
+      end
+    end
+
+    for word in stop_words
+      input = input.gsub(/\b#{word}\b+/, "")
+    end
+    input.gsub("   ", " ").gsub("  ", " ")
+  end
+end
+
+Liquid::Template.register_filter(StripStopWords)
