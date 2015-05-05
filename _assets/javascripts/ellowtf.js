@@ -2,5 +2,6 @@
 //= require ./vendor/turbolinks
 //= require ./vendor/reqwest.min
 //= require ./vendor/embetter
+//= require ./vendor/lunr.min
 //= require ./shared
 //= require ./sections
