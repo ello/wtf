@@ -32,11 +32,14 @@ root.ElloWTFSearch =
     ElloWTFSearch.searchIndex(search_term)
 
   searchIndex: (search_term) ->
+    console.log 'fire search!'
     results = ElloWTFSearch.search_index.search(search_term)
     # console.log results
 
     unless typeof results == "undefined" || results.length == 0
       ElloWTFSearch.displayResults(results)
+    else
+      console.log 'no results'
 
   displayResults: (results) ->
     console.log 'we have results!'
