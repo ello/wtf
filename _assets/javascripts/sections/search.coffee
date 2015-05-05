@@ -1,39 +1,49 @@
 root = exports ? this
 root.ElloWTFSearch =
+  search_index: ''
+  posts: ''
   init: () ->
     ElloWTFSearch.initSearch()
 
-  initAjax: () ->
-    ElloWTFSearch.initSearch()
+  # initAjax: () ->
+  #   ElloWTFSearch.initSearch()
   
   initSearch: ->
     $.getJSON('/wtf/json/posts.json').done (data) ->
-      posts = data
+      ElloWTFSearch.posts = data
 
-      console.log posts
- 
-      index = lunr ->
-        @field 'title', boost: 10
-        @field 'body'
-        @field 'excerpt'
-        @ref 'id'
-        return
+      console.log ElloWTFSearch.posts
 
-      posts.forEach (post) ->
-        index.add post
-        return
+      ElloWTFSearch.createIndex()
 
-      results = index.search('created')
+  createIndex: ->
+    ElloWTFSearch.search_index = lunr ->
+      @field 'title', boost: 10
+      @field 'body'
+      @ref 'id'
+      return
 
-      console.log results
+    ElloWTFSearch.posts.forEach (post) ->
+      ElloWTFSearch.search_index.add post
+      return
 
-      post_id = results[0].ref
-      console.log post_id
+    # make first query once index is created
+    search_term = ElloWTFShared.getURLParameter("for")
+    ElloWTFSearch.searchIndex()
 
-      post = $.grep posts, (e) ->
-        e.id == post_id
+  searchIndex: ->
+    search_term = $(".search_holder .form input").val()
+    results = ElloWTFSearch.search_index.search(search_term)
 
-      console.log post[0].excerpt
+    console.log results
+
+    post_id = results[0].ref
+    console.log post_id
+
+    post = $.grep ElloWTFSearch.posts, (e) ->
+      e.id == post_id
+
+    console.log post[0].excerpt
 
 
   
