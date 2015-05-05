@@ -43,25 +43,29 @@ root.ElloWTFSearch =
 
   displayResults: (results) ->
     console.log 'we have results!'
-    post_id = results[0].ref
-    console.log post_id
+    $('.content .results').html('')
 
-    post = $.grep ElloWTFSearch.posts, (e) ->
-      e.id == post_id
+    results.forEach (result) ->
+      post_id = result.ref
+      console.log post_id
 
-    console.log post[0].excerpt
+      post_array = $.grep ElloWTFSearch.posts, (e) ->
+        e.id == post_id
 
-    $result = $('.post.result.example').clone()
+      post = post_array[0]
+      console.log post.excerpt
 
-    # do the things
-    $result.removeClass('example')
-    $result.find('h2 a').text(post[0].title)
-    $result.find('a').attr('title',post[0].title).attr('href',post[0].url)
-    $result.find('.excerpt').text(post[0].excerpt)
-    console.log $result
+      $result = $('.post.result.example').clone()
 
-    # add it to the page
-    $('.content .results').prepend($result)
+      # do the things
+      $result.removeClass('example')
+      $result.find('h2 a').text(post.title)
+      $result.find('a').attr('title',post.title).attr('href',post.url)
+      $result.find('.excerpt').text(post.excerpt)
+      console.log $result
+
+      # add it to the page
+      $('.content .results').append($result)
     
 
   clearResults: ->
