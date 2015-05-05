@@ -64,10 +64,8 @@ root.ElloWTFSearch =
       $('.content .results').append($result)    
 
   clearResults: ->
-    console.log 'clear the things!'
     $results_box = $('.content .results')
     $results_box.html('')
-    $results_box.prepend('nothing to see here.')
     $(".content h1 .search_term em").text("")
     $(".content h1.main").hide()
     $(".content h1.alt").show()
