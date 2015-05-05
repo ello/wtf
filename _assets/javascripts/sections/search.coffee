@@ -51,6 +51,19 @@ root.ElloWTFSearch =
 
     console.log post[0].excerpt
 
+    $result = $('.post.result.example').clone()
+
+    # do the things
+    $result.removeClass('example')
+    $result.find('h2 a').text(post[0].title)
+    $result.find('a').attr('title',post[0].title).attr('href',post[0].url)
+    $result.find('.excerpt').text(post[0].excerpt)
+    console.log $result
+
+    # add it to the page
+    $('.content .results').prepend($result)
+    
+
   clearResults: ->
     console.log 'clear the things!'
     $results_box = $('.content .results')
