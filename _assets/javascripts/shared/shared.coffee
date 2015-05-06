@@ -2,7 +2,7 @@ root = exports ? this
 root.ElloWTFShared =
   init: () ->
     ElloWTFShared.watchSearchHeader()
-    ElloWTFShared.watchSearchTerms()
+    ElloWTFShared.watchURLSearchTerms()
     ElloWTFShared.watchDrawerToggle()
     ElloWTFShared.mobileWatchSearchToggle()
     ElloWTFShared.mobileDrawerCategoryWatch()
@@ -16,35 +16,43 @@ root.ElloWTFShared =
     $search_form = $(".search_holder .form")
     $search_box = $search_form.find("input")
 
-    $search_box.keyup ->
+    $search_box.keyup $.debounce((->
       # console.log $search_box.val()
-      if $search_box.val() != ""
+      search_term = $search_box.val()
+      if search_term != ""
         $search_form.removeClass("inactive")
+        if search_term.length > 2
+          ElloWTFSearch.searchIndex(search_term)
+          $(".content h1 .search_term em").text("#{search_term}")
+          $(".content h1.main").show()
+          $(".content h1.alt").hide()
       else
         $search_form.addClass("inactive")
+        ElloWTFSearch.clearResults()
+      return
+    ), 150)
 
     $search_box.on "focusin", ->
       $(".search_holder").addClass("active")
     $search_box.on "focusout", ->
       $(".search_holder").removeClass("active")
 
-
     $search_form.find(".clear_search").click (e) ->
       e.preventDefault()
       $search_box.val("")
       $search_form.addClass("inactive")
       $search_box.focus()
+      ElloWTFSearch.clearResults()
 
-  ## temp to fake search experience
-  watchSearchTerms: ->
-    search_term = ElloWTFShared.getURLParameter("search")
+  watchURLSearchTerms: ->
+    search_term = ElloWTFShared.getURLParameter("for")
     unless typeof search_term == "undefined" || search_term == ""
-      decoded_search_term = decodeURIComponent(search_term)
+      decoded_search_term = decodeURIComponent(search_term).replace(/\+/g , " ")
       $(".search_holder .form input").val("#{decoded_search_term}")
       $(".search_holder .form").removeClass("inactive")
       $(".search_holder").addClass("expanded")
       if $("body.search").length
-        $(".content h1 .results em").text("#{decoded_search_term}")
+        $(".content h1 .search_term em").text("#{decoded_search_term}")
 
   ## temp to fake logged in experience
   toggleLoggedIn: ->
