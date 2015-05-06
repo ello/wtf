@@ -5,27 +5,12 @@ css_hook: search
 
 <div class="content">
   <header>
-    <h1>Search Results for <span class="results">“<em></em>”</span></h1>
+    <h1 class="main">Search Results for <span class="search_term">“<em></em>”</span></h1>
+    <h1 class="alt" style="display:none">Type a search term next to the magnifying glass above to search for something…</h1>
   </header>
 
   <section class="results">
-    {% assign current_category = 'about' %}
-    {% assign sorted_posts     = site.categories[current_category] | sort.position %}
-    {% for post in sorted_posts %}
-      <article class="post result">
-        <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <div class="desktop_excerpt no_mobile">
-          <p>{{ post.excerpt | strip_html | truncatewords: 60 }}</p>
-          <p class="more"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">More</a></p>  
-        </div>
-        <div class="mobile_excerpt mobile_only">
-          <p>
-            {{ post.excerpt | strip_html | truncatewords: 20 }}
-            <span class="more"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">More</a></span>
-          </p>
-          
-        </div>
-      </article>  
-    {% endfor %}
-  </section>  
+  </section>
+  {% include search_result.html %}
+  <p class="topic_link"><a href="{{ site.baseurl }}/">View all topics…</a></p>
 </div>

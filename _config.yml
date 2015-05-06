@@ -72,3 +72,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - lib
+  - stopwords.txt
