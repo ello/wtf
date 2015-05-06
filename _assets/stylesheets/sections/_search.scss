@@ -62,6 +62,18 @@ body {
           }
         }
       }
+      p {
+        &.topic_link {
+          padding-top: 2.25rem;
+
+          a {
+            border-bottom: 1px solid;
+            &:hover {
+              color: $grey3;
+            }
+          }
+        }
+      }
     }
   }
 }
