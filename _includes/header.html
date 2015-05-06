@@ -31,9 +31,7 @@
           </a>
         </span>
         <span class="form inactive">
-          <form action="/wtf/search" class="search_form">
-            <input class="search_box" id="search" name="search" placeholder="Search the Help Center" type="text" value="">
-          </form>
+          {% include search_form.html %}
           <a class="clear_search">
             {% include svg/clear_icon.svg %}
           </a>
