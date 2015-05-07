@@ -238,6 +238,140 @@ body {
   }
 }
 
+@media only screen and (min-width : 720px) and (max-width : 1150px) {
+
+  header.top {
+    nav {
+      ul {
+        li {
+          &.search_holder {
+            span {
+              &.trigger {
+                a {
+                  svg {
+                    width: 14px;
+                    path {
+                      @include transition_fill(150ms);
+                      fill: $grey3;
+                    }
+                  }
+                  &:hover {
+                    svg {
+                      path {
+                        fill: $black;
+                      }
+                    }
+                  }
+                }
+              }
+              &.form {
+                display: none;
+              }
+            }
+            &.expanded {
+              span {
+                &.form {
+                  display: inline-block;
+                  position: absolute;
+                  top: 1.85rem;
+                  left: percentage(2/8);
+                  padding: 20px 10px 30px 10px;
+                  margin-left: 0;
+                  width: percentage(6/8);
+                  z-index: 10;
+                  background-color: $white;
+
+                  input[type=text] {
+                    width: 100%;
+                  }
+                  a {
+                    &.clear_search {
+                      top: 22px;
+                      right: 12px;
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  body {
+    &.drawer_open {
+      header.top {
+        h1 {
+          display: inline-block;
+          width: 30px;
+          height: 30px;
+
+          &.profile_link {
+            display: none;
+          }
+          a {
+            span {
+              &.icon {
+                svg {
+                  width: 30px;
+                  @include border_radius(30px);
+                }
+              }
+            }
+            img {
+              width: 30px;
+              @include border_radius(30px);
+            }
+          }
+        }
+        nav {
+          ul {
+            li {
+              &.drawer_toggle {
+                width: 20px;
+                float: right;
+              }
+              &.search_holder,
+              &.tabs_holder {
+                display: none;
+              }
+            }
+          }
+        }
+      }
+    }
+    &.logged_in {
+      header.top {
+        h1 {
+          &.profile_link {
+            display: none;
+          }
+        }
+      }
+    }
+    &.logged_in.drawer_open {
+      header.top {
+        h1 {
+          display: none;
+          &.profile_link {
+            display: inline-block;
+          }
+        }
+      }
+    }
+  }
+
+}
+
+@media only screen and (min-width : 720px) and (max-width : 820px) {
+  header.top {
+    h2 {
+      display: none;
+    }
+  }
+}
+
 @media only screen and (min-width : 1px) and (max-width : 719px) {
 
   // set the body margin/padding here since it's based off the header-height
