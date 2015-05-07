@@ -5,9 +5,6 @@ root.ElloWTFSearch =
   init: () ->
     # don't do anything else before the posts are loaded and the index is created
     ElloWTFSearch.initSearch()
-
-  # initAjax: () ->
-  #   ElloWTFSearch.initSearch()
   
   initSearch: ->
     $.getJSON('/wtf/json/posts.json').done (data) ->
@@ -15,6 +12,9 @@ root.ElloWTFSearch =
 
       # now that we have the posts, create the index
       ElloWTFSearch.createIndex()
+
+      if $('body.search').length
+        ElloWTFSearch.invokeSearch()
 
   createIndex: ->
     ElloWTFSearch.search_index = lunr ->
@@ -38,10 +38,10 @@ root.ElloWTFSearch =
     unless typeof results == "undefined" || results.length == 0
       ElloWTFSearch.displayResults(results)
     else
-      $('.content .results').html('')
+      $('#search_content .results').html('')
 
   displayResults: (results) ->
-    $('.content .results').html('')
+    $('#search_content .results').html('')
 
     results.forEach (result) ->
       post_id = result.ref
@@ -56,21 +56,37 @@ root.ElloWTFSearch =
       $result.removeClass('example')
       $result.find('h2 a').text(post.title)
       $result.find('a').attr('title',post.title).attr('href',post.url)
-      $result.find('.excerpt').text(post.excerpt)
+      $result.find('.desktop_excerpt .excerpt').text(post.excerpt)
+      $result.find('.mobile_excerpt .excerpt').text(post.excerpt_mobile)
       $result.show()
       # console.log $result
 
       # add the result to the page
-      $('.content .results').append($result)    
+      $('#search_content .results').append($result)    
 
   clearResults: ->
-    $results_box = $('.content .results')
+    $results_box = $('#search_content .results')
     $results_box.html('')
-    $(".content h1 .search_term em").text("")
-    $(".content h1.main").hide()
-    $(".content h1.alt").show()
+    $("#search_content h1 .search_term em").text("")
+    $("#search_content h1.main").hide()
+    $("#search_content h1.alt").show()
   
+  invokeSearch: ->
+    search_term = $(".search_holder .form input").val()
+
+    $('#main_content').hide()
+    $('#search_content').show()
+
+    console.log window.location
+
+    if (history.pushState)
+      search_term_encoded = encodeURIComponent(search_term).replace(/\+/g , " ")
+      link = "#{window.location.origin}#{window.location.pathname}search?for=#{search_term}".replace("search/","").replace("searchsearch","search")
+      base_title = $('body').data('site-title')
+      title = "Search for: “#{search_term}” | #{base_title}"
+      window.history.pushState(title, title, link)
+
+      console.log link
   
 $(document).ready ->
-  if $("body.search").length
-    ElloWTFSearch.init()
+  ElloWTFSearch.init()
