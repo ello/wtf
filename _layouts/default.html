@@ -8,7 +8,9 @@
     <div id="content_container">
       {% include header.html %}
 
-      {% include search_content.html %}
+      <div id="search_content" class="clear">
+        {% include search_content.html %}
+      </div>
 
       <div id="main_content" class="clear">
         {{ content }}

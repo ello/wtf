@@ -44,7 +44,8 @@ svg {
   min-height: 100%;
 }
 
-#main_content {
+#main_content,
+#search_content {
   position: relative;
   // padding-bottom: 2.5rem;
   padding-bottom: $smallColumn_px + $smallColumn_px + 90px + 30px; // part of the hack to push footer down
@@ -110,7 +111,8 @@ svg {
     padding: 10px;
   }
 
-  #main_content {
+  #main_content,
+  #search_content {
     padding-bottom: $smallColumn_px + 10px + 30px; // part of the hack to push footer down
     max-width: 100%;
   }
