@@ -16,6 +16,9 @@ root.ElloWTFSearch =
       # now that we have the posts, create the index
       ElloWTFSearch.createIndex()
 
+      if $('body.search').length
+        ElloWTFSearch.invokeSearch()
+
   createIndex: ->
     ElloWTFSearch.search_index = lunr ->
       @field 'title', boost: 10
@@ -76,9 +79,11 @@ root.ElloWTFSearch =
     $('#main_content').hide()
     $('#search_content').show()
 
+    console.log window.location
+
     if (history.pushState)
       search_term_encoded = encodeURIComponent(search_term).replace(/\+/g , " ")
-      link = "#{window.location}search?for=#{search_term}"
+      link = "#{window.location.origin}#{window.location.pathname}search?for=#{search_term}".replace("search/","").replace("searchsearch","search")
       base_title = $('body').data('site-title')
       title = "Search for: “#{search_term}” | #{base_title}"
       window.history.pushState(title, title, link)
