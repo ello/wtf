@@ -21,7 +21,7 @@ header.top {
     height: 60px;
     float: left;
     &.profile_link {
-      display: none !important;
+      display: none;
     }
     a {
       span {
@@ -411,6 +411,10 @@ body {
           display: inline-block;
           width: 30px;
           height: 30px;
+
+          &.profile_link {
+            display: none;
+          }
           a {
             span {
               &.icon {
@@ -452,10 +456,12 @@ body {
       }
     }
     &.logged_in.drawer_open {
-      h1 {
-        display: none !important;
-        &.profile_link {
-          display: inline-block !important;
+      header.top {
+        h1 {
+          display: none;
+          &.profile_link {
+            display: inline-block;
+          }
         }
       }
     }
