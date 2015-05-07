@@ -59,7 +59,8 @@ root.ElloWTFSearch =
       $result.removeClass('example')
       $result.find('h2 a').text(post.title)
       $result.find('a').attr('title',post.title).attr('href',post.url)
-      $result.find('.excerpt').text(post.excerpt)
+      $result.find('.desktop_excerpt .excerpt').text(post.excerpt)
+      $result.find('.mobile_excerpt .excerpt').text(post.excerpt_mobile)
       $result.show()
       # console.log $result
 
