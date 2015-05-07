@@ -79,8 +79,15 @@ root.ElloWTFShared =
       if $search_form.hasClass("expanded")
         $search_form.removeClass("expanded")
       else
+        if $(window).width() < 1150 && $(window).width() > 719
+          ElloWTFShared.resizeSearchBox()
         $search_form.addClass("expanded")
         $search_box.focus()
+
+  resizeSearchBox: ($search_form) ->
+    left = $search_form.next().offset().left
+    width = ($(window).width() - left - 30)
+    $search_form.find('span.form').css('left',left).width(width)
 
   mobileDrawerCategoryWatch: ->
     $(".category.main h2").click (e) ->
