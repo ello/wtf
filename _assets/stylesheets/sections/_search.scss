@@ -1,7 +1,7 @@
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ search
 
 #search_content {
-  .content {
+  .search_content {
     padding-right: $gutter_px;
     width: 100%;
     max-width: $largeColumn_px * 2 + $smallColumn_px + $gutter_px;
@@ -78,7 +78,7 @@
 
 @media only screen and (min-width : 1px) and (max-width : 719px) {
   #search_content {
-    .content {
+    .search_content {
       padding-right: $gutter_px;
       max-width: 100%;
       header,
