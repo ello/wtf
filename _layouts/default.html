@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body{% if page.css_hook %} class="{{ page.css_hook }}"{% endif %}>
+  <body{% if page.css_hook %} class="{{ page.css_hook }}"{% endif %} data-site-title="{{ site.title }} | {{ site.subtitle }}">
 
     <div id="content_container">
       {% include header.html %}

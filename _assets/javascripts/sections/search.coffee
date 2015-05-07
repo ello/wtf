@@ -71,8 +71,19 @@ root.ElloWTFSearch =
     $("#search_content h1.alt").show()
   
   invokeSearch: ->
+    search_term = $(".search_holder .form input").val()
+
     $('#main_content').hide()
     $('#search_content').show()
+
+    if (history.pushState)
+      search_term_encoded = encodeURIComponent(search_term).replace(/\+/g , " ")
+      link = "#{window.location}search?for=#{search_term}"
+      base_title = $('body').data('site-title')
+      title = "Search for: “#{search_term}” | #{base_title}"
+      window.history.pushState(title, title, link)
+
+      console.log link
   
 $(document).ready ->
   ElloWTFSearch.init()
