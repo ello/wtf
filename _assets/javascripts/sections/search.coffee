@@ -42,6 +42,8 @@ root.ElloWTFSearch =
 
   displayResults: (results) ->
     $('#search_content .results').html('')
+    $('#main_content').hide()
+    $('#search_content').show()
 
     results.forEach (result) ->
       post_id = result.ref
