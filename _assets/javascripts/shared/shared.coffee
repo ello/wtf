@@ -113,6 +113,7 @@ root.ElloWTFShared =
 
   mobileWatchSearchToggle: ->
     $(".search_holder .trigger .search").click (e) ->
+      console.log 'yo'
       e.preventDefault()
 
       $search_form = $(".search_holder")
@@ -132,7 +133,7 @@ root.ElloWTFShared =
       left = $search_form.next().offset().left
       width = ($(window).width() - left - 30)
       $search_form.find('span.form').css('left',left).width(width)
-    else
+    else if $(window).width() > 719 && $search_form.hasClass('expanded')
       $search_form.removeClass("expanded")
       $search_form.find('span.form').removeAttr('style') # reset it in case previously fired
 
