@@ -81,7 +81,7 @@ root.ElloWTFSearch =
 
     if (history.pushState)
       search_term_encoded = encodeURIComponent(search_term).replace(/\+/g , " ")
-      link = "#{window.location.origin}#{window.location.pathname}search?for=#{search_term}".replace("search/","").replace("searchsearch","search")
+      link = "#{window.location.origin}/wtf/search?for=#{search_term}".replace("search/","").replace("searchsearch","search")
       base_title = $('body').data('site-title')
       title = "Search for: “#{search_term}” | #{base_title}"
       window.history.pushState(title, title, link)

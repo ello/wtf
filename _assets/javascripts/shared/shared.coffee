@@ -10,6 +10,7 @@ root.ElloWTFShared =
     ElloWTFShared.toggleLoggedIn()
   
   watchSearchHeader: ->
+    console.log 'hi'
     $search_form = $(".search_holder .form")
     $search_box = $search_form.find("input")
 
@@ -104,8 +105,6 @@ root.ElloWTFShared =
         return parameter_name[1]
       i++
     return
-
-
   
 $(document).ready ->
   ElloWTFShared.init()
