@@ -245,22 +245,10 @@ body {
       ul {
         li {
           &.search_holder {
-            // margin: 0;
-            // width: 12.5%;
-            // background-color: rgba(red,0.5);
-
             span {
-              // display: block;
-              // width: 100%;
-              // height: $gutter_px;
-              // float: none;
               &.trigger {
-                // padding-top: 2px;
-                // width: 100%;              
                 a {
-                  // display: block;
                   svg {
-                    // margin-top: 0.4rem;
                     width: 14px;
                     path {
                       @include transition_fill(150ms);
@@ -286,14 +274,11 @@ body {
                   display: inline-block;
                   position: absolute;
                   top: 1.85rem;
-                  // top: 1px;
                   left: percentage(2/8);
-                  // left: 0;
                   padding: 20px 10px 30px 10px;
                   margin-left: 0;
                   width: percentage(6/8);
                   z-index: 10;
-                  // background-color: rgba(purple,0.6);
                   background-color: $white;
 
                   input[type=text] {
@@ -377,6 +362,14 @@ body {
     }
   }
 
+}
+
+@media only screen and (min-width : 720px) and (max-width : 820px) {
+  header.top {
+    h2 {
+      display: none;
+    }
+  }
 }
 
 @media only screen and (min-width : 1px) and (max-width : 719px) {
