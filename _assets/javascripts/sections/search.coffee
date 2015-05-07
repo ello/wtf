@@ -38,10 +38,10 @@ root.ElloWTFSearch =
     unless typeof results == "undefined" || results.length == 0
       ElloWTFSearch.displayResults(results)
     else
-      $('.content .results').html('')
+      $('.search_content .results').html('')
 
   displayResults: (results) ->
-    $('.content .results').html('')
+    $('.search_content .results').html('')
 
     results.forEach (result) ->
       post_id = result.ref
@@ -61,16 +61,15 @@ root.ElloWTFSearch =
       # console.log $result
 
       # add the result to the page
-      $('.content .results').append($result)    
+      $('.search_content .results').append($result)    
 
   clearResults: ->
-    $results_box = $('.content .results')
+    $results_box = $('.search_content .results')
     $results_box.html('')
-    $(".content h1 .search_term em").text("")
-    $(".content h1.main").hide()
-    $(".content h1.alt").show()
+    $(".search_content h1 .search_term em").text("")
+    $(".search_content h1.main").hide()
+    $(".search_content h1.alt").show()
   
   
 $(document).ready ->
-  if $("body.search").length
-    ElloWTFSearch.init()
+  ElloWTFSearch.init()
