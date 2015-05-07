@@ -21,7 +21,7 @@ header.top {
     height: 60px;
     float: left;
     &.profile_link {
-      display: none;
+      display: none !important;
     }
     a {
       span {
