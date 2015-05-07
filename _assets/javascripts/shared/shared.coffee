@@ -16,7 +16,7 @@ root.ElloWTFShared =
     $search_form = $(".search_holder .form")
     $search_box = $search_form.find("input")
 
-    $search_box.keyup $.debounce((->
+    $search_box.keyup $.debounce(( (e) ->
       # console.log $search_box.val()
       search_term = $search_box.val()
       if search_term != ""
@@ -31,6 +31,13 @@ root.ElloWTFShared =
         ElloWTFSearch.clearResults()
       return
     ), 150)
+
+    $search_box.keydown (e) ->
+      code = e.keyCode || e.which
+      if code == 13
+        ElloWTFSearch.invokeSearch()
+        return false
+
 
     $search_box.on "focusin", ->
       $(".search_holder").addClass("active")

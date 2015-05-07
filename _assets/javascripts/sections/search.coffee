@@ -42,8 +42,6 @@ root.ElloWTFSearch =
 
   displayResults: (results) ->
     $('#search_content .results').html('')
-    $('#main_content').hide()
-    $('#search_content').show()
 
     results.forEach (result) ->
       post_id = result.ref
@@ -72,6 +70,9 @@ root.ElloWTFSearch =
     $("#search_content h1.main").hide()
     $("#search_content h1.alt").show()
   
+  invokeSearch: ->
+    $('#main_content').hide()
+    $('#search_content').show()
   
 $(document).ready ->
   ElloWTFSearch.init()
