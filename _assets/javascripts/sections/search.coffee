@@ -5,9 +5,6 @@ root.ElloWTFSearch =
   init: () ->
     # don't do anything else before the posts are loaded and the index is created
     ElloWTFSearch.initSearch()
-
-  # initAjax: () ->
-  #   ElloWTFSearch.initSearch()
   
   initSearch: ->
     $.getJSON('/wtf/json/posts.json').done (data) ->

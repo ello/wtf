@@ -8,9 +8,6 @@ root.ElloWTFShared =
     ElloWTFShared.mobileDrawerCategoryWatch()
     ## temp for dev
     ElloWTFShared.toggleLoggedIn()
-
-  # initAjax: () ->
-  #   ElloWTFShared.doAThing()
   
   watchSearchHeader: ->
     $search_form = $(".search_holder .form")

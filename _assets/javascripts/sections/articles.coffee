@@ -2,9 +2,6 @@ root = exports ? this
 root.ElloWTFArticles =
   init: () ->
     ElloWTFArticles.setUpVideo()
-
-  # initAjax: () ->
-  #   ElloWTFArticles.doAThing()
   
   setUpVideo: ->
     curServices = [
