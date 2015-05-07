@@ -79,9 +79,13 @@ root.ElloWTFSearch =
 
     console.log window.location
 
-    if (history.pushState)
-      search_term_encoded = encodeURIComponent(search_term).replace(/\+/g , " ")
-      link = "#{window.location.origin}/wtf/search?for=#{search_term}".replace("search/","").replace("searchsearch","search")
+    if (history.pushState)      
+      if search_term.length > 0
+        search_term_encoded = "?for=#{encodeURIComponent(search_term).replace(/\+/g , " ")}"
+      else
+        search_term_encoded = ""
+        ElloWTFSearch.clearResults()
+      link = "#{window.location.origin}/wtf/search#{search_term_encoded}".replace("search/","").replace("searchsearch","search")
       base_title = $('body').data('site-title')
       title = "Search for: “#{search_term}” | #{base_title}"
       window.history.pushState(title, title, link)
