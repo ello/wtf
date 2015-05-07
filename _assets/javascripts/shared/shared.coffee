@@ -1,6 +1,10 @@
 root = exports ? this
 root.ElloWTFShared =
   init: () ->
+    ## resize stuff
+    ElloWTFShared.checkMobile()
+    ElloWTFShared.masterResizeListener()
+    ## other shared functions
     ElloWTFShared.watchSearchHeader()
     ElloWTFShared.watchURLSearchTerms()
     ElloWTFShared.watchDrawerToggle()
@@ -9,8 +13,45 @@ root.ElloWTFShared =
     ## temp for dev
     ElloWTFShared.toggleLoggedIn()
   
+  checkMobile: ->
+    if /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)
+      if ($(window).width() < 720) ## do stuff for phones
+        $('html').addClass('mobile')
+        ElloWTFShared.updateOrientation()
+      else
+        $('html').addClass('tablet')
+        ElloWTFShared.updateOrientation()
+    else
+      $('html').addClass('desktop')
+
+  setOrientation: ->
+    orientation = window.orientation.toString()
+    orientations = {
+      "0": "portrait",
+      "-90": "landscape",
+      "90": "landscape",
+      "180": "portrait"
+    }
+    $("body").removeClass('portrait landscape').addClass orientations[orientation]
+    # console.log "orientation is #{orientations[orientation]}!"
+
+  updateOrientation: ->
+    ElloWTFShared.setOrientation()
+
+    ## orientation change (resize) functions here
+    ElloWTFShared.resizeSearchBox()
+
+  masterResizeListener: ->
+    if $('html.mobile, html.tablet').length > 0
+      $(window).on "orientationchange", -> ElloWTFShared.updateOrientation()
+
+    unless $('html.mobile').length or $('html.tablet').length
+      $(window).smartresize ->
+        # console.log 'resize!'
+        ## orientation resize functions here
+        ElloWTFShared.resizeSearchBox()
+
   watchSearchHeader: ->
-    console.log 'hi'
     $search_form = $(".search_holder .form")
     $search_box = $search_form.find("input")
 
@@ -79,15 +120,21 @@ root.ElloWTFShared =
       if $search_form.hasClass("expanded")
         $search_form.removeClass("expanded")
       else
-        if $(window).width() < 1150 && $(window).width() > 719
-          ElloWTFShared.resizeSearchBox()
         $search_form.addClass("expanded")
+        ElloWTFShared.resizeSearchBox()
         $search_box.focus()
 
-  resizeSearchBox: ($search_form) ->
-    left = $search_form.next().offset().left
-    width = ($(window).width() - left - 30)
-    $search_form.find('span.form').css('left',left).width(width)
+  resizeSearchBox: ->
+    $search_form = $(".search_holder")
+    if $(window).width() < 1150 && $(window).width() > 719 && $search_form.hasClass('expanded')
+      $search_form.find('span.form').removeAttr('style') # reset it in case previously fired
+
+      left = $search_form.next().offset().left
+      width = ($(window).width() - left - 30)
+      $search_form.find('span.form').css('left',left).width(width)
+    else
+      $search_form.removeClass("expanded")
+      $search_form.find('span.form').removeAttr('style') # reset it in case previously fired
 
   mobileDrawerCategoryWatch: ->
     $(".category.main h2").click (e) ->
