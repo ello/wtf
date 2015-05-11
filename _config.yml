@@ -47,6 +47,8 @@ join_path: /beta-public-profiles
 timezone: Mountain Time
 future: false # false: only post future-dated articles once we've reached the proper time
 
+## DO NOT CHANGE THINGS BELOW THIS LINE ---------------------------------------------------------------------
+
 # Build settings ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #### you can pretty much ignore everything in this section ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
