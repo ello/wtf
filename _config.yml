@@ -22,7 +22,7 @@ meta_keywords: > # this means to ignore newlines until "baseurl:"
 fb_site_name: Ello
 
 ## google analytics
-ga_id: XXXXXX-1 # google analytics account code
+ga_id: XXXXXX-1 # google analytics account code (leave blank to disable GA)
 
 ## Footer settings + links
 ello_username: ello
