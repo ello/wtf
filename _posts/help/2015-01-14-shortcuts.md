@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shortcuts"
-date:   2015-01-14 04:23:18
+date:   2015-04-21 04:23:18 MDT
 categories: help
 position: 2
 ---
