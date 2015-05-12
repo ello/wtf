@@ -18,7 +18,7 @@ This doesn’t mean that everyone always acts this way. Therefore, we’ve creat
 **Don’t threaten people.**  
 This includes threats of violence, and threats to hurt others in any way.
 
-Test emoji on webhook: :alien:
+Test emoji on webhook: :alien: :boom:
 
 **Don't post others' personal information.**  
 Don’t post any personal information of any other users or third parties unless you have express permission from them to do so.
