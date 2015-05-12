@@ -5,7 +5,9 @@ date:   2015-05-01 10:00:00 MDT
 categories: policies
 position: 3
 ---
-If all goes as planned, this will appear around 10am on May 1st. Neat.
+If all goes as planned, this will appear around 10am on May 1st. Neat. :bread: :smiley:.
+
+We have emojis: :ello: :metal:
 
 Ello was created by idealists who believe that the essential nature of all human beings is to be kind, considerate, helpful, intelligent, responsible, and respectful of others.
 
@@ -15,6 +17,8 @@ This doesn’t mean that everyone always acts this way. Therefore, we’ve creat
 
 **Don’t threaten people.**  
 This includes threats of violence, and threats to hurt others in any way.
+
+Test emoji on webhook: :alien: :boom:
 
 **Don't post others' personal information.**  
 Don’t post any personal information of any other users or third parties unless you have express permission from them to do so.

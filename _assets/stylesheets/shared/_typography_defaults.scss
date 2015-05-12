@@ -5,40 +5,40 @@
   font-weight: 400;
   font-style: normal;
   font-stretch: normal;
-  src: url("https://#{$cdnDomain}/assets/AtlasTypewriter-Regular-Web.eot");
-  src: url("https://#{$cdnDomain}/assets/AtlasTypewriter-Regular-Web.eot?#iefix") format("embedded-opentype"), url("https://#{$cdnDomain}/assets/AtlasTypewriter-Regular-Web.woff") format("woff"), url("https://#{$cdnDomain}/assets/AtlasTypewriter-Regular-Web.ttf") format("truetype"), url("https://#{$cdnDomain}/assets/AtlasTypewriter-Regular-Web.svg#AtlasTypewriterRegular") format("svg");
+  src: asset-url("AtlasTypewriter-Regular-Web.eot");
+  src: asset-url("AtlasTypewriter-Regular-Web.eot?#iefix") format("embedded-opentype"), asset-url("AtlasTypewriter-Regular-Web.woff") format("woff"), asset-url("AtlasTypewriter-Regular-Web.ttf") format("truetype"), asset-url("AtlasTypewriter-Regular-Web.svg#AtlasTypewriterRegular") format("svg");
 }
 @font-face {
   font-family: "AtlasTypewriterRegularItalic";
   font-weight: 400;
   font-style: italic;
   font-stretch: normal;
-  src: url("https://#{$cdnDomain}/assets/AtlasTypewriter-RegularItalic-Web.eot");
-  src: url("https://#{$cdnDomain}/assets/AtlasTypewriter-RegularItalic-Web.eot?#iefix") format("embedded-opentype"), url("https://#{$cdnDomain}/assets/AtlasTypewriter-RegularItalic-Web.woff") format("woff"), url("https://#{$cdnDomain}/fonts/AtlasTypewriter-RegularItalic.ttf") format("truetype"), url("https://#{$cdnDomain}/assets/AtlasTypewriter-RegularItalic-Web.svg#AtlasTypewriterRegularItalic") format("svg");
+  src: asset-url("AtlasTypewriter-RegularItalic-Web.eot");
+  src: asset-url("AtlasTypewriter-RegularItalic-Web.eot?#iefix") format("embedded-opentype"), asset-url("AtlasTypewriter-RegularItalic-Web.woff") format("woff"), url("https://#{$cdnDomain}/fonts/AtlasTypewriter-RegularItalic.ttf") format("truetype"), asset-url("AtlasTypewriter-RegularItalic-Web.svg#AtlasTypewriterRegularItalic") format("svg");
 }
 @font-face {
   font-family: "AtlasTypewriterMedium";
   font-weight: 500;
   font-style: normal;
   font-stretch: normal;
-  src: url("https://#{$cdnDomain}/assets/AtlasTypewriter-Medium-Web.eot");
-  src: url("https://#{$cdnDomain}/assets/AtlasTypewriter-Medium-Web.eot?#iefix") format("embedded-opentype"), url("https://#{$cdnDomain}/assets/AtlasTypewriter-Medium-Web.woff") format("woff"), url("https://#{$cdnDomain}/assets/AtlasTypewriter-Medium-Web.ttf") format("truetype"), url("https://#{$cdnDomain}/assets/AtlasTypewriter-Medium-Web.svg#AtlasTypewriterMedium") format("svg");
+  src: asset-url("AtlasTypewriter-Medium-Web.eot");
+  src: asset-url("AtlasTypewriter-Medium-Web.eot?#iefix") format("embedded-opentype"), asset-url("AtlasTypewriter-Medium-Web.woff") format("woff"), asset-url("AtlasTypewriter-Medium-Web.ttf") format("truetype"), asset-url("AtlasTypewriter-Medium-Web.svg#AtlasTypewriterMedium") format("svg");
 }
 @font-face {
   font-family: "AtlasTypewriterMediumItalic";
   font-weight: 500;
   font-style: italic;
   font-stretch: normal;
-  src: url("https://#{$cdnDomain}/assets/AtlasTypewriter-MediumItalic-Web.eot");
-  src: url("https://#{$cdnDomain}/assets/AtlasTypewriter-MediumItalic-Web.eot?#iefix") format("embedded-opentype"), url("https://#{$cdnDomain}/assets/AtlasTypewriter-MediumItalic-Web.woff") format("woff"), url("https://#{$cdnDomain}/assets/AtlasTypewriter-MediumItalic-Web.ttf") format("truetype"), url("https://#{$cdnDomain}/assets/AtlasTypewriter-MediumItalic-Web.svg#AtlasTypewriterMediumItalic") format("svg");
+  src: asset-url("AtlasTypewriter-MediumItalic-Web.eot");
+  src: asset-url("AtlasTypewriter-MediumItalic-Web.eot?#iefix") format("embedded-opentype"), asset-url("AtlasTypewriter-MediumItalic-Web.woff") format("woff"), asset-url("AtlasTypewriter-MediumItalic-Web.ttf") format("truetype"), asset-url("AtlasTypewriter-MediumItalic-Web.svg#AtlasTypewriterMediumItalic") format("svg");
 }
 @font-face {
   font-family: "AtlasGroteskBold";
   font-weight: 700;
   font-style: normal;
   font-stretch: normal;
-  src: url("https://#{$cdnDomain}/assets/AtlasGrotesk-Bold-Web.eot");
-  src: url("https://#{$cdnDomain}/assets/AtlasGrotesk-Bold-Web.eot?#iefix") format("embedded-opentype"), url("https://#{$cdnDomain}/assets/AtlasGrotesk-Bold-Web.woff") format("woff"), url("https://#{$cdnDomain}/assets/AtlasGrotesk-Bold-Web.ttf") format("truetype"), url("https://#{$cdnDomain}/assets/AtlasGrotesk-Bold-Web.svg#AtlasGroteskBold") format("svg");
+  src: asset-url("AtlasGrotesk-Bold-Web.eot");
+  src: asset-url("AtlasGrotesk-Bold-Web.eot?#iefix") format("embedded-opentype"), asset-url("AtlasGrotesk-Bold-Web.woff") format("woff"), asset-url("AtlasGrotesk-Bold-Web.ttf") format("truetype"), asset-url("AtlasGrotesk-Bold-Web.svg#AtlasGroteskBold") format("svg");
 }
 
 $bodyNormal:  "AtlasTypewriterRegular", "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;       // weight 400
