@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ello, Tracking, and Your Data"
+title:  "Ello, tracking, & your data"
 date:   2015-02-09 01:23:45
 categories: about
 position: 4
