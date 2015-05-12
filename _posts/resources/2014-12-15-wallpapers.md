@@ -3,7 +3,7 @@ layout: post
 title:  "Wallpapers"
 date:   2014-12-15 01:23:45 MDT
 categories: resources
-position: 2
+position: 4
 ---
 ![Color Preference 79 by @gregfoley Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2298428/ello-xhdpi-35ba2fb7.jpg)
 
