@@ -3,7 +3,7 @@ layout: post
 title:  "Contact Ello"
 date:   2014-12-26 14:10:18 MDT
 categories: help
-position: 1
+position: 11
 ---
 ## How do I contact Ello?
 
