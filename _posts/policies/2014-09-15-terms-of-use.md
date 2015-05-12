@@ -74,7 +74,7 @@ You need to be 13 years or older to use the Ello Services. If you’re under 13,
 
 ## Security and Responsible Disclosures
 
-We do our best to protect our service from security vulnerabilities, and to make the Ello Services better. You can read about this in our Security Policy.
+We do our best to protect our service from security vulnerabilities, and to make the Ello Services better. You can read about this in our [Security Policy](/wtf/policies/security-policy/).
 
 ## Ello’s Rules
 
