@@ -37,9 +37,9 @@ footer_links: # Ello links should ommit the 'http://ello.co' and start with a sl
 - text: Contact Ello
   url: /wtf/help/contact-ello/
 - text: Terms of Use
-  url: /wtf/policies/rules/
+  url: /wtf/policies/terms-of-use/
 - text: Privacy Policy
-  url: /wtf/policies/privacy/
+  url: /wtf/policies/privacy-policy/
 login_path: /enter
 join_path: /beta-public-profiles
 
