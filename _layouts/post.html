@@ -21,7 +21,7 @@ css_hook: article
   <ul>
     {% assign current_category = page.categories | first %}
     {% assign current_post     = page.id %}
-    {% assign sorted_posts     = site.categories[current_category] | sort.position %}
+    {% assign sorted_posts     = site.categories[current_category] | sort: 'position' %}
     {% for post in sorted_posts %}
       <li{% if post.id == current_post %} class="current"{% endif %}><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
