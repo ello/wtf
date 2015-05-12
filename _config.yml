@@ -60,6 +60,13 @@ permalink: /:categories/:title/ # construct our URLs (this is misleading because
 ## markdown flavor
 markdown: kramdown
 
+## emoji support - https://github.com/jekyll/jemoji
+# we don't put the emoji image files in the asset pipeline because what's the point?
+gems:
+  - jemoji
+emoji:
+  src: "/wtf"
+
 ## asset pipeline setup
 assets: # https://github.com/jekyll-assets/jekyll-assets
   # baseurl: http://my.super-cool-cdn.com/assets
