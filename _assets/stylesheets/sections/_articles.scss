@@ -67,6 +67,10 @@ body {
         max-width: $largeColumn_px * 2 + $smallColumn_px;
         word-wrap: break-word;
 
+        h1 {
+          margin-top: 3.25rem;
+        }
+
         a {          
           border-bottom: 1px solid;
 
