@@ -60,6 +60,10 @@ permalink: /:categories/:title/ # construct our URLs (this is misleading because
 ## markdown flavor
 markdown: kramdown
 
+## emoji support - https://github.com/jekyll/jemoji
+gems:
+  - jemoji
+
 ## asset pipeline setup
 assets: # https://github.com/jekyll-assets/jekyll-assets
   # baseurl: http://my.super-cool-cdn.com/assets
