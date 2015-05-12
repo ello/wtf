@@ -3,7 +3,7 @@ layout: post
 title:  "Ello Terms of Use"
 date:   2015-05-01 01:23:45 MDT
 categories: policies
-position: 1
+position: 2
 ---
 Even though you may feel that reading the Terms of Use of a service like the Ello Services is a boring waste of time, we highly recommend that you read Ello's Terms of Use (“Terms”). The Terms are a contract between you and Ello, PBC (“Ello”, “us”, “we”), which is applicable when you use our web sites (including [www.ello.co](http://www.ello.co)), services, mobile applications, products, and content provided by Ello, globally, in existence now or in the future, forever and ever (“Ello Services” or “Service”).
 

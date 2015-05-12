@@ -3,7 +3,7 @@ layout: post
 title:  "Ello Security Policy"
 date:   2014-07-03 01:23:45 MDT
 categories: policies
-position: 2
+position: 4
 ---
 Ello welcomes the assistance of the security community. We especially appreciate help finding vulnerabilities and bugs in Ello’s technology and interface. If you are a security specialist and find a vulnerability, please let us know right away.
 

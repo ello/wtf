@@ -3,7 +3,7 @@ layout: post
 title:  "Ello Privacy Policy"
 date:   2015-05-01 01:23:45 MDT
 categories: policies
-position: 1
+position: 3
 ---
 ## Your Privacy is Important
 
