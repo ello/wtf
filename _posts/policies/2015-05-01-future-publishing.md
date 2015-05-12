@@ -7,7 +7,7 @@ position: 3
 ---
 If all goes as planned, this will appear around 10am on May 1st. Neat. :bread: :smiley:.
 
-We have emojis: :ello:
+We have emojis: :ello: :metal:
 
 Ello was created by idealists who believe that the essential nature of all human beings is to be kind, considerate, helpful, intelligent, responsible, and respectful of others.
 

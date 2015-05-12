@@ -33,6 +33,6 @@ Liquid::Template.register_filter(StripStopWords)
 require 'jemoji'
 module Emoji
   emoji = Emoji.create("ello") do |char|
-    char.add_tag "notes"
+    char.add_tag "ello"
   end
 end
