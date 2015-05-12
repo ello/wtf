@@ -56,6 +56,10 @@ You do not need to repeat the title of your post—it will be automatically add 
 
 Lists (ordered, with numbers, or unordered, with bullet points) will be formatted. Code and blockquote formatting is also available.
 
+#### Emoji Support
+
+Emoji Support is baked in, just like the main site. Use colons to wrap [the emoji you want](http://www.emoji-cheat-sheet.com) to use: `:bread:` or `:ello:` :bread: :+1:
+
 ## Installing & Running Jekyll
 
 ### Installing Jekyll:
