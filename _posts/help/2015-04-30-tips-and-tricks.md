@@ -3,6 +3,6 @@ layout: post
 title:  "Video: Tips and Tricks"
 date:   2015-04-30 04:23:18 MDT
 categories: help
-position: 2
+position: 4
 video: http://vimeo.com/126525591
 ---

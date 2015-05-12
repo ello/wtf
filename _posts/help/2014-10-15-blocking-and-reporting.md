@@ -3,7 +3,7 @@ layout: post
 title:  "Blocking & Reporting"
 date:   2015-02-24 04:23:18 MDT
 categories: help
-position: 2
+position: 9
 ---
 Ello has a zero-tolerance policy for abusive behavior.
 
