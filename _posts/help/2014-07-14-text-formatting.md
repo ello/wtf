@@ -21,7 +21,7 @@ If you wish to format text in other ways, or want to enter formatting commands q
 
 For more advanced text editing, Ello uses Markdown, a series of formatting commands that you enter with your keyboard as you type. Ello Markdown is a fast, simple way to type special characters that tell Ello how to display your text.
 
-We chose to include Markdown as a way to format text in the Omnibar for its simplicity, flexibility, and ubiquity. Programmers have been using Markdown since the late 1980's, but anyone can use it and it is very easy to learn. 
+We chose to include Markdown as a way to format text in the Omnibar for its simplicity, flexibility, and ubiquity. Programmers have been using Markdown since the late 1980’s, but anyone can use it and it is very easy to learn. 
 
 Below is a guide to Ello Markdown.
 
@@ -43,17 +43,17 @@ Surrounding text by two asterix makes text bold:
 
 Both * or _ symbols work to make text bold or italic. This way you can combine bold and italic as needed in the same sentence. For example:
 
-`**Everyone _must_ drink beer at 7 o'clock today.**`
+`**Everyone _must_ drink beer at 7 o’clock today.**`
 
-**Everyone _must_ drink beer at 7 o'clock today.**
+**Everyone _must_ drink beer at 7 o’clock today.**
 
 ## Strikethrough
 
 Put a double ~ symbol on either side of the text you want to strikethrough. For example:
 
-`~~I don't like cheese~~`
+`~~I don’t like cheese~~`
 
-<p><strike>I don't like cheese</strike></p>
+<p><strike>I don’t like cheese</strike></p>
 
 ## Bulleted Lists
 
