@@ -21,7 +21,7 @@ You get to choose whether you keep the url or not. It’s your post, after all! 
 
 ## How can I tell sound and video files apart before playing them?
 
-Sound files have a round button; video has a square button. A video preview is rectangular because it is the proportion of the video, while a sound preview is square because it is based on the album's cover art.
+Sound files have a round button; video has a square button. A video preview is rectangular because it is the proportion of the video, while a sound preview is square because it is based on the album’s cover art.
 
 ## I don’t like the third party ads in embedded media and I never want to see them on Ello. How do I hide media that may have ads?
 

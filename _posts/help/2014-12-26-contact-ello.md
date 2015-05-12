@@ -7,7 +7,7 @@ position: 11
 ---
 ## How do I contact Ello?
 
-Ello is run by a small team of real people who are very busy building Ello, so we ask that you only contact us if you can't find help elsewhere.
+Ello is run by a small team of real people who are very busy building Ello, so we ask that you only contact us if you can’t find help elsewhere.
 
 **Abusive behavior reports:** [reportabuse@ello.co](mailto:reportabuse@ello.co)  
 **Bug reports:** [bugs@ello.co](mailto:bugs@ello.co)  
@@ -37,4 +37,4 @@ Requests from the working press can be sent to [press@ello.co](mailto:press@ello
 
 We are creating Ello to work for everyone. Ello is developing special features to aid members of the Ello community who have a disability. Check back for more news about these features as they roll out. E-mail [accessibility@ello.co](mailto:accessibility@ello.co) with questions.
 
-**We'll get back to you as fast as we can. Forgive any slow replies. We're busy working on Ello!**
+**We’ll get back to you as fast as we can. Forgive any slow replies. We’re busy working on Ello!**

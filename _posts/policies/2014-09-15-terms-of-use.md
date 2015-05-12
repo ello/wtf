@@ -5,7 +5,7 @@ date:   2015-05-01 01:23:45 MDT
 categories: policies
 position: 2
 ---
-Even though you may feel that reading the Terms of Use of a service like the Ello Services is a boring waste of time, we highly recommend that you read Ello's Terms of Use (“Terms”). The Terms are a contract between you and Ello, PBC (“Ello”, “us”, “we”), which is applicable when you use our web sites (including [www.ello.co](http://www.ello.co)), services, mobile applications, products, and content provided by Ello, globally, in existence now or in the future, forever and ever (“Ello Services” or “Service”).
+Even though you may feel that reading the Terms of Use of a service like the Ello Services is a boring waste of time, we highly recommend that you read Ello’s Terms of Use (“Terms”). The Terms are a contract between you and Ello, PBC (“Ello”, “us”, “we”), which is applicable when you use our web sites (including [www.ello.co](http://www.ello.co)), services, mobile applications, products, and content provided by Ello, globally, in existence now or in the future, forever and ever (“Ello Services” or “Service”).
 
 By accessing or using the Ello Services (whether or not you create a member account), you agree to be bound to the Terms. That means that if you don’t agree to these Terms, please don’t use the Ello Services. Additionally, you must abide by our Rules, which are found here: [[link to Rules](/wtf/policies/rules/)], and are incorporated into the Terms. Please read the Rules, which include important rules and guidelines governing the behavior we expect of Ello Services users, as well as the actions we may take if you do not follow the Rules.
 
@@ -44,9 +44,9 @@ We may modify or adapt your Content in order to transmit, display or distribute 
 
 ## User Activity
 
-If you haven't uploaded a profile picture or header image within 60 days of creating your account, we may remove your account and allow another user to select your username. We may send you a warning e-mail before doing so.
+If you haven’t uploaded a profile picture or header image within 60 days of creating your account, we may remove your account and allow another user to select your username. We may send you a warning e-mail before doing so.
 
-Also, if you haven't logged into your account for 365 days, we may delete your account to make room for new users. Again, we will send you a warning e-mail to let you know that your account is about to be removed, giving you a chance to log in and keep your account.
+Also, if you haven’t logged into your account for 365 days, we may delete your account to make room for new users. Again, we will send you a warning e-mail to let you know that your account is about to be removed, giving you a chance to log in and keep your account.
 
 If you use a robot to post on the Ello Services, or to sign up for multiple accounts, or to follow lots of other users, we may delete your account. If you follow too many other users we may delete your account if we feel you are not acting like a human being.
 
