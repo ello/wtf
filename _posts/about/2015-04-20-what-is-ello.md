@@ -46,4 +46,4 @@ You never have to pay anything, and you can keep using Ello forever, for free.
 
 ## Privacy
 
-Unlike virtually every other social network, you can opt out of information sharing on Ello. Read [how Ello uses information](https://ello.co/wtf/post/information-use) to learn more.
+Unlike virtually every other social network, you can opt out of information sharing on Ello. Read [how Ello uses information](/wtf/about/ello-tracking-and-your-data/) to learn more.

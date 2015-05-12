@@ -5,7 +5,7 @@ date:   2015-05-01 01:23:45 MDT
 categories: policies
 position: 2
 ---
-Even though you may feel that reading the Terms of Use of a service like the Ello Services is a boring waste of time, we highly recommend that you read Ello’s Terms of Use (“Terms”). The Terms are a contract between you and Ello, PBC (“Ello”, “us”, “we”), which is applicable when you use our web sites (including [www.ello.co](http://www.ello.co)), services, mobile applications, products, and content provided by Ello, globally, in existence now or in the future, forever and ever (“Ello Services” or “Service”).
+Even though you may feel that reading the Terms of Use of a service like the Ello Services is a boring waste of time, we highly recommend that you read Ello’s Terms of Use (“Terms”). The Terms are a contract between you and Ello, PBC (“Ello”, “us”, “we”), which is applicable when you use our web sites (including [www.ello.co](https://www.ello.co)), services, mobile applications, products, and content provided by Ello, globally, in existence now or in the future, forever and ever (“Ello Services” or “Service”).
 
 By accessing or using the Ello Services (whether or not you create a member account), you agree to be bound to the Terms. That means that if you don’t agree to these Terms, please don’t use the Ello Services. Additionally, you must abide by our Rules, which are found here: [[link to Rules](/wtf/policies/rules/)], and are incorporated into the Terms. Please read the Rules, which include important rules and guidelines governing the behavior we expect of Ello Services users, as well as the actions we may take if you do not follow the Rules.
 

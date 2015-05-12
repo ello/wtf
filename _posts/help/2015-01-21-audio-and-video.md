@@ -29,4 +29,4 @@ Some of the sound and video services that users choose to post may include third
 
 If you don’t want to see media that may contain ads, you can hide it by going to your [Settings](/settings) page. Scroll to “Embedded Media”, and click YES to hide embedded media.
 
-Ello does not make money off third party advertisements, and will never sell user data. Read more about Ello’s ad-free policy [here](https://ello.co/wtf/post/why-no-ads).
+Ello does not make money off third party advertisements, and will never sell user data. Read more about Ello’s ad-free policy [here](/wtf/post/why-no-ads).
