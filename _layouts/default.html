@@ -3,10 +3,14 @@
 
   {% include head.html %}
 
-  <body{% if page.css_hook %} class="{{ page.css_hook }}"{% endif %}>
+  <body{% if page.css_hook %} class="{{ page.css_hook }}"{% endif %} data-site-title="{{ site.title }} | {{ site.subtitle }}">
 
     <div id="content_container">
       {% include header.html %}
+
+      <div id="search_content" class="clear" style="display:none;">
+        {% include search_content.html %}
+      </div>
 
       <div id="main_content" class="clear">
         {{ content }}
