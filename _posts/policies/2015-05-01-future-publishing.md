@@ -7,6 +7,8 @@ position: 3
 ---
 If all goes as planned, this will appear around 10am on May 1st. Neat. :bread: :smiley:.
 
+We have emojis: :ello:
+
 Ello was created by idealists who believe that the essential nature of all human beings is to be kind, considerate, helpful, intelligent, responsible, and respectful of others.
 
 This doesn’t mean that everyone always acts this way. Therefore, we’ve created a list of simple rules that you need to follow when you use Ello. If you don't follow the rules, you risk being kicked off Ello and banned as a user forever.
