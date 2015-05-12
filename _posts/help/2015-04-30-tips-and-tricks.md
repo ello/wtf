@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ello: Tips and Tricks"
+title:  "Video: Tips and Tricks"
 date:   2015-04-30 04:23:18 MDT
 categories: help
 position: 2
