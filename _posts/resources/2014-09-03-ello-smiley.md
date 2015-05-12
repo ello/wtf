@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is the Ello Smiley?"
-date:   2014-09-03 01:23:45
+date:   2014-09-03 01:23:45 MDT
 categories: resources
 position: 1
 ---
