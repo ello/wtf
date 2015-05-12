@@ -71,22 +71,33 @@ Have Fun by [@upso](/upso)
 [Get the shirt](http://ello.threadless.com/#/product/bread/mens)
 
 
+![Color Cave by @nopattern Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/931523/ello-xhdpi-f3c9ec16.jpg)
+
+Color Cave by [@nopattern](/nopattern)
+
+[1280x800](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_3840x2400.jpg)  
+[iPhone](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone+5.jpg) / [iPhone 6](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone+6.jpg) / [iPhone 6+](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone+6%2B.jpg) / [iPad](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPad.jpg)
+
+[Get the shirt](http://ello.threadless.com/#/product/nopattern/mens)
 
 
+![Ello Logo on White Background Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/792509/ello-xhdpi-3d7d0f9a.jpg)
+
+[1280x800](http://wallpapers.ello.co/white/Ello.Wallpaper-White_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/white/Ello.Wallpaper-White_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/white/Ello.Wallpaper-White_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/white/Ello.Wallpaper-White_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/white/Ello.Wallpaper-White_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/white/Ello.Wallpaper-White_3840x2400.jpg)  
+[iPhone](http://wallpapers.ello.co/white/Ello.Wallpaper-White_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/white/Ello.Wallpaper-White_iPhone+5.jpg) / [iPhone 6](http://wallpapers.ello.co/white/Ello.Wallpaper-White_iPhone+6.jpg) / [iPhone 6+](http://wallpapers.ello.co/white/Ello.Wallpaper-White_iPhone+6%2B.jpg) / [iPad](http://wallpapers.ello.co/white/Ello.Wallpaper-White_iPad.jpg)
+
+[Get the shirt](http://ello.threadless.com/#/product/white/mens)
 
 
+![Ello Logo on Dark Grey Background Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/792510/ello-xhdpi-0e7f2a18.jpg)
+
+[1280x800](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_3840x2400.jpg)  
+[iPhone](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_iPhone+5.jpg) / [iPhone 6](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_iPhone+6.jpg) / [iPhone 6+](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_iPhone+6%2B.jpg) / [iPad](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_iPad.jpg)
 
 
+![Ello Logo on Black Background Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/792511/ello-xhdpi-788ce5d9.jpg)
 
+[1280x800](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_3840x2400.jpg)  
+[iPhone](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_iPhone+5.jpg) / [iPhone 6](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_iPhone+6.jpg) / [iPhone 6+](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_iPhone+6%2B.jpg) / [iPad](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_iPad.jpg)
 
-
-
-
-![Color Preference 79 by @gregfoley Wallpaper]()
-
-Color Preference 79 by [@gregfoley](/gregfoley)
-
-[1280x800]() / [1440x900]() / [1680x1050]() / [1920x1200]() / [2560x1440]() / [3840x2400]()  
-[iPhone]() / [iPhone 5]() / [iPhone 6]() / [iPhone 6+]() / [iPad]()
-
-[Get the shirt]()
+[Get the shirt](http://ello.threadless.com/#/product/black/mens)
