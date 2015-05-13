@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who Created Ello?"
+title:  "Who created Ello?"
 date:   2014-06-11 01:23:18
 categories: about
 position: 2
