@@ -40,7 +40,7 @@ video: http://vimeo.com/30619461
 **Other Notes:**
 * Posts with future dates are ignored and not published until their publish date is reached _(remember to set you time zone AND remember that times are in 24-hour format: i.e. 2pm is 14:00)_.
 * Keep in mind that updating the post position may require updates to other articles in the list to get the ordering you desire.
-* The `title_alternate` is optional. If not provided, the normal `title` will be used in the <title> tag. The Post category, main site title, and site tag line will still be appended. These are all configurable in the `_config.yml` file.
+* The `title_alternate` is optional. If not provided, the normal `title` will be used in the <title> tag. The Post category, main site title, and site subtitle line will still be appended. These are all configurable in the `_config.yml` file.
 
 ### Post Categories:
 Available categories (anything else will be ignored and not appear on the category lists)
