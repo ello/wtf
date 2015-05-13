@@ -3,7 +3,7 @@
   <meta content="width=device-width,initial-scale = 1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>{% if page.title %}{{ page.title }} – {{ page.categories | first | capitalize }} | {% endif %}{{ site.title }} | {{ site.subtitle }}</title>
+  <title>{% if page.title_alternate %}{{ page.title_alternate }} – {{ page.categories | first | capitalize }} | {% else if page.title %}{{ page.title }} – {{ page.categories | first | capitalize }} | {% endif %}{{ site.title }} | {{ site.subtitle }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.title }} – {% if page.categories %}{{ page.categories | first | capitalize }} – {% endif %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.meta_description | replace: '  ', ' ' }}{% endif %}">
   {% if site.meta_keywords %}<meta name="keywords" content="{{ site.meta_keywords | replace: '  ', ' ' }}">{% endif %}
   {% if page.excerpt %}<meta name="author" content="Ello">{% endif %}
