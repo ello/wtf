@@ -31,7 +31,7 @@ video: http://vimeo.com/30619461
 
 * `layout:` this should _always_ be set to `post`
 * `title:` The title of your article, inside of quote marks: `"I am a title"`
-* `title_alternate:` The title you wish to appear in the <title> tag of the site: `"I am a title for the title bar"` **(optional)**
+* `title_alternate:` The title you wish to appear in the `<title>` tag of the site: `"I am a title for the title bar"` **(optional)**
 * `date:` The publish date of an article (or its last updated date): `2015-01-23 01:23:45 MDT` (remember to include your time zone at the end: i.e. `EST` or `MDT`)
 * `categories:` Pick the single category for the article (see the list in the section below): `policies`
 * `position:` This determines the position of the article in the category list. Lower numbers are at the top of the list. Other posts in the category are not auto-matically re-numbered, so if you want to place a new post at the top of the category, you will need to edit the `position` in the other posts as well.
@@ -40,7 +40,7 @@ video: http://vimeo.com/30619461
 **Other Notes:**
 * Posts with future dates are ignored and not published until their publish date is reached _(remember to set you time zone AND remember that times are in 24-hour format: i.e. 2pm is 14:00)_.
 * Keep in mind that updating the post position may require updates to other articles in the list to get the ordering you desire.
-* The `title_alternate` is optional. If not provided, the normal `title` will be used in the <title> tag. The Post category, main site title, and site subtitle line will still be appended. These are all configurable in the `_config.yml` file.
+* The `title_alternate` is optional. If not provided, the normal `title` will be used in the `<title>` tag. The Post category, main site title, and site subtitle line will still be appended. These are all configurable in the `_config.yml` file.
 
 ### Post Categories:
 Available categories (anything else will be ignored and not appear on the category lists)
