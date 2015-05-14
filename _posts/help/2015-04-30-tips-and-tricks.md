@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Video: Tips and tricks"
+title_alternate:  "Ello: Tips and tricks"
+date:   2015-04-30 04:23:18 MDT
+categories: help
+position: 2
+video: http://vimeo.com/126525591
+---
