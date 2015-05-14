@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Video: Tips and Tricks"
-title_alternate:  "Watch the Tips and Tricks Video"
+title_alternate:  "Ello: Tips and Tricks"
 date:   2015-04-30 04:23:18 MDT
 categories: help
-position: 4
+position: 2
 video: http://vimeo.com/126525591
 ---
