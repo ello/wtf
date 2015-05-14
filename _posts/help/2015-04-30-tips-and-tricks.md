@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Video: Tips and Tricks"
+title:  "Video: tips and tricks"
 title_alternate:  "Ello: Tips and Tricks"
 date:   2015-04-30 04:23:18 MDT
 categories: help
