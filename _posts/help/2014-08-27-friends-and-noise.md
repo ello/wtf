@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Friends & Noise"
+title:  "Friends & noise"
 date:   2014-08-27 04:23:18 MDT
 categories: help
 position: 7
