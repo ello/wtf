@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  "What is Ello?"
+title_alternate:  "What is Ello? :kissing:"
 date:   2015-04-20 10:43:18
 categories: about
 position: 1
 ---
 
-:kissing:
-
-<br><br>
 
 Ello is a Social Revolution that is transforming how people connect, free from advertising, manipulation, and exploitation. Ello’s clean and beautiful design supports a global creative community where people can be whoever they want to be. As a public benefit corporation, Ello will never sell ads or user data.
 
