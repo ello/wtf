@@ -6,7 +6,7 @@ css_hook: article
   <header>
     <h2 class="mobile_only">{{ page.categories | first | capitalize }}</h2>
     <p class="no_mobile">Updated {{ page.date | date: "%B %-d, %Y" }}</p>
-    <h1>{{ page.title }}</h1>
+    <h1>{% if page.title_alternate %}{{ page.title_alternate }}{% else %}{{ page.title }}{% endif %}</h1>
     <p class="mobile_only">Updated {{ page.date | date: "%B %-d, %Y" }}</p>
   </header>
 
