@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ello Feature List"
+title:  "Ello feature list"
 date:   2015-04-02 01:23:45 MDT
 categories: resources
 position: 1
