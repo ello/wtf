@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "What is the Ello Smiley?"
+title:  "Ello Smiley"
+title_alternate: "What is the Ello Smiley?"
 date:   2015-04-02 01:23:45 MDT
 categories: resources
 position: 7
