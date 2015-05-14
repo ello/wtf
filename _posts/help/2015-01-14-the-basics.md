@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Video: the basics"
+title:  "Video: The basics"
 date:   2015-01-14 04:23:18 MDT
 categories: help
 position: 1
