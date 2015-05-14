@@ -6,7 +6,7 @@ categories: about
 position: 1
 ---
 
-`{{ '&#58;kissing&#58;' | markdownify | strip_html }}`  
+:kissing:
 
 Ello is a Social Revolution that is transforming how people connect, free from advertising, manipulation, and exploitation. Ello’s clean and beautiful design supports a global creative community where people can be whoever they want to be. As a public benefit corporation, Ello will never sell ads or user data.
 
