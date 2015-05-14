@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Ello?"
-title_alternate:  "What is Ello? :kissing:"
+title_alternate:  "What is Ello?"
 date:   2015-04-20 10:43:18
 categories: about
 position: 1
