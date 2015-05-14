@@ -6,7 +6,7 @@ css_hook: article
   <header>
     <h2 class="mobile_only">{{ page.categories | first | capitalize }}</h2>
     <p class="no_mobile">Updated {{ page.date | date: "%B %-d, %Y" }}</p>
-    <h1>{{ page.title }}</h1>
+    <h1>{% if page.title_alternate %}{{ page.title_alternate }}{% else %}{{ page.title }}{% endif %}</h1>
     <p class="mobile_only">Updated {{ page.date | date: "%B %-d, %Y" }}</p>
   </header>
 
@@ -21,7 +21,7 @@ css_hook: article
   <ul>
     {% assign current_category = page.categories | first %}
     {% assign current_post     = page.id %}
-    {% assign sorted_posts     = site.categories[current_category] | sort.position %}
+    {% assign sorted_posts     = site.categories[current_category] | sort: 'position' %}
     {% for post in sorted_posts %}
       <li{% if post.id == current_post %} class="current"{% endif %}><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
