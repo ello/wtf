@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Community Directory"
+title:  "Community directory"
 date:   2015-04-02 01:23:45 MDT
 categories: resources
-position: 2
+position: 1
 ---
 Many people have been asking how to find others that share a specific interest.
 
