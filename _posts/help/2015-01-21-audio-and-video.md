@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Audio & Video"
+title:  "Audio & video"
 date:   2015-01-21 04:23:18 MDT
 categories: help
 position: 8
