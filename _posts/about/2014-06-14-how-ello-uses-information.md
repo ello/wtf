@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Ello Uses Information"
+title:  "How Ello uses information"
 date:   2014-06-15 04:23:18 MDT
 categories: about
 position: 5
