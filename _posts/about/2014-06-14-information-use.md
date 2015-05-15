@@ -23,10 +23,10 @@ To the best of our knowledge, this also makes what you do on Ello useless to Goo
 
 ## You Can Opt Out
 
-There are some Ello users who don't want to share any information, even anonymous information, about themselves with anybody. We're cool with that.
+There are some Ello users who don’t want to share any information, even anonymous information, about themselves with anybody. We’re cool with that.
 
 On your Ello settings page, you can choose to turn Google Analytics and Segment off completely when you visit Ello. Ello also respects [Do Not Track (DNT)](http://donottrack.us/) settings in browsers. In these cases Ello will not send any information about your visit to Google at all.*
 
 Please read The Ello [Privacy Policy](/wtf/policies/privacy-policy/) in full.
 
-_* If you choose to use a Chrome web browser, an Android smartphone, or if you have recently used services like Google Search or YouTube, your web browser or device may be sending data back to Google that Ello can't control._
+_* If you choose to use a Chrome web browser, an Android smartphone, or if you have recently used services like Google Search or YouTube, your web browser or device may be sending data back to Google that Ello can’t control._
