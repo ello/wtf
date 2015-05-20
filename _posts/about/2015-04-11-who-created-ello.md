@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Who created Ello?"
-date:   2014-06-11 01:23:18
+date:   2014-07-03 10:43:18 MST
 categories: about
 position: 2
 ---
