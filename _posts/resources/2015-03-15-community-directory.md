@@ -23,9 +23,9 @@ Have fun! :v:
 
 **[Architecture](/elloarchitecture)** · Lead: [@rachelmauricio](/rachelmauricio)
 
-**[Backcountry](/ellobackcountry)** | Lead: [@dutchess70](/dutchess70)
+**[Backcountry](/ellobackcountry)** - Lead: [@dutchess70](/dutchess70)
 
-**[Books](/ellobooks)** | Lead: [@vivlio](/vivlio)
+**[Books](/ellobooks)**  Lead: [@vivlio](/vivlio)
 
 **[Brewing](/ellobrew)** | Lead: [@katatonic](/katatonic)
 
