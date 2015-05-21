@@ -7,11 +7,6 @@
       <span class="label">{{ site.title }}</span>
     </a>
   </h1>
-  <h1 class="profile_link">
-    <a href="{{ site.url }}/gb">
-      <img src="https://d324imu86q1bqn.cloudfront.net/uploads/user/avatar/21/ello-large-79830951.png" />
-    </a>
-  </h1>
   {% if site.header_title %}<h2 class="no_mobile">{{ site.header_title }}</h2>{% endif %}
   
   <nav>
@@ -48,17 +43,11 @@
       {% endfor %}
       <li class="tabs_holder">
         <ul class="tabs">
-          <li class="logged_in">
+          <li>
             <a class="btn-tab f" data-title="Friends" href="{{ site.url }}/friends" role="tab"><span>F<span class="full-label">riends</span></span></a>
           </li>
-          <li class="logged_in last">
+          <li class="last">
             <a class="btn-tab n" data-title="Noise" href="{{ site.url }}/noise" role="tab"><span>N<span class="full-label">oise</span></span></a>
-          </li>
-          <li>
-            <a class="btn-tab" href="{{ site.login_path }}" role="tab">Login</a>
-          </li>
-          <li>
-            <a class="btn-tab" href="{{ site.join_path }}" role="tab">Sign Up</a>
           </li>
         </ul>
       </li>
