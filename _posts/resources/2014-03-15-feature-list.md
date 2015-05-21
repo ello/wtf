@@ -11,20 +11,24 @@ We created this list of built and upcoming features so you can watch Ello roll o
 
 ## Coming Soon
 
-* Enhanced search & discovery
 * Hashtag integration
 * Love + Love bookmarking stream
 * Private accounts
-* Rich (multimedia) commenting
-* Mobile web refinements
 * Online/offline user designation
 * Emoji index
-* @@ Private Messaging
+* Private Messaging
 * Auto-push posts to other networks
 * iOS, Android, & Windows mobile apps
+* Updated WTF Section
+* Real Time Alerts
+* Private Accounts
+* Private Groups
 
 ## Built
 
+* Mobile web refinements
+* Enhanced search & discovery
+* Rich (multimedia) commenting
 * Repost w/ author attribution
 * Video integration (Youtube, Vimeo, DailyMotion)
 * Audio integration (Soundcloud, Mixcloud)
