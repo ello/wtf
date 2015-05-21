@@ -63,7 +63,7 @@ Have fun! :v:
 
 **[Latino](/ellolatino)** · Lead: [@wgmeets](/wgmeets)
 
-**[Lucid Dreams](/elloluciddreams)** · Lead:@marcelleliemantiemant
+**[Lucid Dreams](/elloluciddreams)** · Lead: [@marcelleliemantiemant](/marcelleliemantiemant)
 
 **[Motorcycles](/ellomotorcycles)** · Lead: [@joycomplex](/joycomplex)
 
