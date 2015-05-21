@@ -21,7 +21,7 @@ Have fun! :v:
 
 ---
 
-**[Architecture](/elloarchitecture)** | Lead: [@rachelmauricio](/rachelmauricio)
+**[Architecture](/elloarchitecture)** · Lead: [@rachelmauricio](/rachelmauricio)
 
 **[Backcountry](/ellobackcountry)** | Lead: [@dutchess70](/dutchess70)
 
