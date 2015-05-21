@@ -37,7 +37,7 @@ Have fun! :v:
 
 **[Dance](/ellodance)** · Lead: [@patriciaallison](/patriciaallison)
 
-**[Design](/ellodesign)** · Lead: [@todd & @lucian](/lucian)
+**[Design](/ellodesign)** · Lead: [@cgwarex](/cgwarex)
 
 **[Drag](/ellodrag)** · Lead: [@sisterindica](/sisterindica)
 
