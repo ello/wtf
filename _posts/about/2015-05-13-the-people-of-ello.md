@@ -6,8 +6,6 @@ categories: about
 position: 9
 ---
 
-![](http://i.imgur.com/7HJsKFn.jpg)
-
 ## Founders
 
 Paul Budnitz, Chief Executive Officer [@budnitz](https://ello.co/budnitz)  
