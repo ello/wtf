@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blocking & reporting"
+title:  "Blocking & Reporting"
 date:   2015-02-24 04:23:18 MDT
 categories: help
 position: 9
