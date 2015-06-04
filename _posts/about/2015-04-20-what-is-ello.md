@@ -6,7 +6,7 @@ date:   2014-07-03 10:43:18 MST
 categories: about
 position: 1
 ---
-![Ello Logo](http://i.imgur.com/0Zw53tU.jpg)<br>
+![Ello Logo](http://i.imgur.com/pkUzmlX.jpg)<br>
 
 
 
