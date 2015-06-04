@@ -7,7 +7,9 @@ position: 8
 ---
 ## What audio and video services does Ello support?
 
-You can embed audio and video files in your posts from services including Youtube, Vimeo, DailyMotion, Soundcloud, and Mixcloud. We’ll keep adding other services to this list over time!
+You can embed audio and video files in your posts from services including Youtube, Vimeo, DailyMotion, Soundcloud, Mixcloud, Ustream, and Bandcamp*. We’ll keep adding other services to this list over time!
+
+*Right now, in order to embed a Bandcamp file, you need the original url containing "bandcamp.com". You can find the original url by opening the page source and copying the url from the page’s meta data.
 
 ## How do I add an audio or video file to my post?
 
