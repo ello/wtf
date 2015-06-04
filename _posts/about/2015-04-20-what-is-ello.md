@@ -6,7 +6,7 @@ date:   2014-07-03 10:43:18 MST
 categories: about
 position: 1
 ---
-![Ello Logo](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2418695/ello-xhdpi-c4251575.jpg)<br>
+![Ello Logo](http://i.imgur.com/0Zw53tU.jpg)<br>
 
 
 
