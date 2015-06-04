@@ -6,7 +6,7 @@ date:   2014-07-03 10:43:18 MST
 categories: about
 position: 1
 ---
-![Fist Emoji](http://i.imgur.com/NGDYMjQ.png)<br>
+![Fist Emoji](http://i.imgur.com/1RHWp9X.png)<br>
 
 
 
