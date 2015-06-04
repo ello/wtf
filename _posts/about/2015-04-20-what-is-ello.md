@@ -6,7 +6,7 @@ date:   2014-07-03 10:43:18 MST
 categories: about
 position: 1
 ---
-![Ello Logo](http://i.imgur.com/286IGlv.jpg)<br>
+![Fist Emoji](http://i.imgur.com/E4aTorV.png)<br>
 
 
 
