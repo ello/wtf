@@ -5,6 +5,8 @@ date:   2014-06-15 04:23:18 MDT
 categories: about
 position: 6
 ---
+![Fist](http://i.imgur.com/VwvKhdn.png)<br>
+
 When you use Ello, we collect some information related to your visit. This information helps us understand how people are using Ello, so we can make Ello better.
 
 For example, if we create a feature that everybody is using, we want to know about that. If we have a lot of visitors from The Netherlands (which we do) then we might translate our Help section into Dutch (which we are considering, except none of us speak Dutch).
