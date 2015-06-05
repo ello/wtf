@@ -5,7 +5,6 @@ date:   2014-07-03 01:23:45 EST
 categories: about
 position: 3
 ---
-![Raisedhands](http://i.imgur.com/E6fjRFy.png)
 Your social network is owned by advertisers.
 
 Every post you share, every friend you make, and every link you follow is tracked, recorded, and converted into data. Advertisers buy your data so they can show you more ads. You are the product that’s bought and sold.
