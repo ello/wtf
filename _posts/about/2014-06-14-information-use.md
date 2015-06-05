@@ -5,7 +5,7 @@ date:   2014-06-15 04:23:18 MDT
 categories: about
 position: 6
 ---
-![Fist](http://i.imgur.com/VwvKhdn.png)<br>
+![Pointdown](http://i.imgur.com/wISHQcP.png)<br>
 
 When you use Ello, we collect some information related to your visit. This information helps us understand how people are using Ello, so we can make Ello better.
 
