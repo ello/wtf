@@ -5,7 +5,8 @@ date:   2015-05-1 01:23:45 MDT
 categories: about
 position: 9
 ---
-![Wave](http://i.imgur.com/47SYnoB.png)<br>
+![Wave](http://i.imgur.com/nvHsjfQ.png)<br>
+
 ## Founders
 
 Paul Budnitz, Chief Executive Officer [@budnitz](https://ello.co/budnitz)  
