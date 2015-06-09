@@ -11,3 +11,7 @@ gem 'capistrano-rvm'
 gem 'jemoji'
 gem 'rack'
 gem 'puma'
+
+group :development, :test do
+  gem 'html-proofer'
+end
