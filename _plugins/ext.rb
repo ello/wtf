@@ -1,10 +1,10 @@
-require "jekyll-assets"
-require "uglifier"
+require 'jekyll-assets'
+require 'uglifier'
 
 ## custom tag to replace new lines with a space (instead of strip_newline)
 module ReplaceNewlineWithSpace
   def replace_newline_with_space(input)
-    input.gsub!(/[\n]+/, " ")
+    input.gsub!(/[\n]+/, ' ')
   end
 end
 
@@ -14,16 +14,16 @@ Liquid::Template.register_filter(ReplaceNewlineWithSpace)
 module StripStopWords
   def strip_stop_words(input)
     stop_words = []
-    File.open("stopwords.txt", "r") do |f|
+    File.open('stopwords.txt', 'r') do |f|
       f.each_line do |line|
-        stop_words << line.gsub!(/[\n]+/, "").to_s
+        stop_words << line.gsub!(/[\n]+/, '').to_s
       end
     end
 
     for word in stop_words
-      input = input.gsub(/\b#{word}\b+/, "")
+      input = input.gsub(/\b#{word}\b+/, '')
     end
-    input.gsub("   ", " ").gsub("  ", " ")
+    input.gsub('   ', ' ').gsub('  ', ' ')
   end
 end
 
@@ -32,7 +32,7 @@ Liquid::Template.register_filter(StripStopWords)
 ## custom emoji
 require 'jemoji'
 module Emoji
-  emoji = Emoji.create("ello") do |char|
-    char.add_tag "ello"
+  emoji = Emoji.create('ello') do |char|
+    char.add_tag 'ello'
   end
 end

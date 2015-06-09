@@ -7,13 +7,14 @@
       <span class="label">{{ site.title }}</span>
     </a>
   </h1>
-  <h1 class="profile_link">
-    <a href="{{ site.url }}/gb">
-      <img src="https://d324imu86q1bqn.cloudfront.net/uploads/user/avatar/21/ello-large-79830951.png" />
-    </a>
-  </h1>
+  <!-- Temporarily disabled until we get shared logins working  -->
+  <!-- <h1 class="profile_link"> -->
+    <!-- <a href="{{ site.url }}/gb"> -->
+      <!-- <img src="https://d324imu86q1bqn.cloudfront.net/uploads/user/avatar/21/ello-large-79830951.png" /> -->
+    <!-- </a> -->
+  <!-- </h1> -->
   {% if site.header_title %}<h2 class="no_mobile">{{ site.header_title }}</h2>{% endif %}
-  
+
   <nav>
     <ul>
       <li class="drawer_toggle mobile_only">
@@ -32,9 +33,9 @@
         </span>
         <span class="form inactive">
           {% include search_form.html %}
-          <a class="clear_search">
+          <span class="clear_search">
             {% include svg/clear_icon.svg %}
-          </a>
+          </span>
         </span>
       </li>
       {% assign sorted_categories = site.categories | sort %}
@@ -49,21 +50,21 @@
       <li class="tabs_holder">
         <ul class="tabs">
           <li class="logged_in">
-            <a class="btn-tab f" data-title="Friends" href="{{ site.url }}/friends" role="tab"><span>F<span class="full-label">riends</span></span></a>
+            <a class="btn-tab f" data-title="Friends" href="{{ site.webapp_url }}/friends" role="tab"><span>F<span class="full-label">riends</span></span></a>
           </li>
           <li class="logged_in last">
-            <a class="btn-tab n" data-title="Noise" href="{{ site.url }}/noise" role="tab"><span>N<span class="full-label">oise</span></span></a>
+            <a class="btn-tab n" data-title="Noise" href="{{ site.webapp_url }}/noise" role="tab"><span>N<span class="full-label">oise</span></span></a>
           </li>
           <li>
-            <a class="btn-tab" href="{{ site.login_path }}" role="tab">Login</a>
+            <a class="btn-tab" href="{{ site.webapp_url }}/{{ site.login_path }}" role="tab">Login</a>
           </li>
           <li>
-            <a class="btn-tab" href="{{ site.join_path }}" role="tab">Sign Up</a>
+            <a class="btn-tab" href="{{ site.webapp_url }}/{{ site.join_path }}" role="tab">Sign Up</a>
           </li>
         </ul>
       </li>
 
     </ul>
   </nav>
-  
+
 </header>
