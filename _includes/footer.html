@@ -36,6 +36,6 @@
         <li{% if local_path == link_1.url %} class="current"{% endif %}><a href="{{ link_1.url }}"{% if link_1.url contains 'http' %} target="_blank"{% endif %}>{{ link_1.text }}</a></li>
         <li{% if local_path == link_2.url %} class="current"{% endif %}><a href="{{ link_2.url }}"{% if link_2.url contains 'http' %} target="_blank"{% endif %}>{{ link_2.text }}</a></li>
       </ul>
-    {% endfor %}    
+    {% endfor %}
   </nav>
 </footer>
