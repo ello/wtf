@@ -55,6 +55,7 @@ future: false # false: only post future-dated articles once we've reached the pr
 ## basic settings
 baseurl: "/wtf" # the subpath of your site, e.g. /blog/
 url: "http://ello.co" # the base hostname & protocol for your site
+webapp_url: "https://ello.co"
 permalink: /:categories/:title/ # construct our URLs (this is misleading because it's not based on title, but filename - see README)
 
 ## markdown flavor
