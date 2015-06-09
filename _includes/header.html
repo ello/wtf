@@ -7,11 +7,12 @@
       <span class="label">{{ site.title }}</span>
     </a>
   </h1>
-  <h1 class="profile_link">
-    <a href="{{ site.url }}/gb">
-      <img src="https://d324imu86q1bqn.cloudfront.net/uploads/user/avatar/21/ello-large-79830951.png" />
-    </a>
-  </h1>
+  <!-- Temporarily disabled until we get shared logins working  -->
+  <!-- <h1 class="profile_link"> -->
+    <!-- <a href="{{ site.url }}/gb"> -->
+      <!-- <img src="https://d324imu86q1bqn.cloudfront.net/uploads/user/avatar/21/ello-large-79830951.png" /> -->
+    <!-- </a> -->
+  <!-- </h1> -->
   {% if site.header_title %}<h2 class="no_mobile">{{ site.header_title }}</h2>{% endif %}
 
   <nav>
@@ -32,9 +33,9 @@
         </span>
         <span class="form inactive">
           {% include search_form.html %}
-          <a class="clear_search">
+          <span class="clear_search">
             {% include svg/clear_icon.svg %}
-          </a>
+          </span>
         </span>
       </li>
       {% assign sorted_categories = site.categories | sort %}
