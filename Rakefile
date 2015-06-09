@@ -13,8 +13,7 @@ begin
                       parallel: { in_processes: 3 },
                       # Can eventually move to url_swap when https://github.com/gjtorikian/html-proofer/issues/219 is merged
                       href_swap:  { /^\/wtf/ => '' },
-                      url_ignore:  [ 'post_url', '#toggle_drawer', /^\/wtf\/assets/, /^\/wtf\/emoji/ ],
-                      disable_external: true).run
+                      url_ignore:  [ 'post_url', '#toggle_drawer', /^\/wtf\/assets/, /^\/wtf\/emoji/ ]).run
   end
 
 rescue LoadError
