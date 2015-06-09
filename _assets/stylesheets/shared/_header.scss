@@ -112,7 +112,7 @@ header.top {
                 border-bottom: 1px solid $grey3;
                 z-index: 4;
               }
-              a {
+              span {
                 &.clear_search {
                   position: absolute;
                   display: block;
@@ -141,7 +141,7 @@ header.top {
                 }
               }
               &.inactive {
-                a {
+                span {
                   &.clear_search {
                     display: none;
                   }
@@ -284,7 +284,7 @@ body {
                   input[type=text] {
                     width: 100%;
                   }
-                  a {
+                  span {
                     &.clear_search {
                       top: 22px;
                       right: 12px;
@@ -495,7 +495,7 @@ body {
                   input[type=text] {
                     width: 100%;
                   }
-                  a {
+                  span {
                     &.clear_search {
                       top: 22px;
                       right: 12px;
