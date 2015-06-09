@@ -17,6 +17,8 @@ begin
                                      /^\/wtf\/emoji/ ]).run
   end
 
+  task :default => :test
+
 rescue LoadError
   # Nothing to do
 end
