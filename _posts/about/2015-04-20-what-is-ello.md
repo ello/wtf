@@ -6,9 +6,6 @@ date:   2014-07-03 10:43:18 MST
 categories: about
 position: 1
 ---
-![Fist Emoji](http://i.imgur.com/B14eKun.png)<br>
-
-
 
 Ello is a Social Revolution that is transforming how people connect, free from advertising, manipulation, and exploitation. Ello’s clean and beautiful design supports a global creative community where people can be whoever they want to be. As a public benefit corporation, Ello will never sell ads or user data.
 
