@@ -7,7 +7,7 @@ position: 4
 ---
 ![Color Preference 79 by @gregfoley Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2298428/ello-xhdpi-35ba2fb7.jpg)
 
-Color Preference 79 by @gregfoley
+Color Preference 79 by [@gregfoley](/gregfoley)
 
 [1280x800](http://wallpapers.ello.co/threadless/greg_foley/Ello.Wallpaper.Greg.Foley_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/threadless/greg_foley/Ello.Wallpaper.Greg.Foley_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/threadless/greg_foley/Ello.Wallpaper.Greg.Foley_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/threadless/greg_foley/Ello.Wallpaper.Greg.Foley_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/threadless/greg_foley/Ello.Wallpaper.Greg.Foley_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/threadless/greg_foley/Ello.Wallpaper.Greg.Foley_3840x2400.jpg)  
 [iPhone](http://wallpapers.ello.co/threadless/greg_foley/Ello.Wallpaper.Greg.Foley_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/threadless/greg_foley/Ello.Wallpaper.Greg.Foley_iPhone+5.jpg) / [iPhone 6](http://wallpapers.ello.co/threadless/greg_foley/Ello.Wallpaper.Greg.Foley_iPhone+6.jpg) / [iPhone 6+](http://wallpapers.ello.co/threadless/greg_foley/Ello.Wallpaper.Greg.Foley_iPhone+6%2B.jpg) / [iPad](http://wallpapers.ello.co/threadless/greg_foley/Ello.Wallpaper.Greg.Foley_iPad.jpg)
@@ -17,7 +17,7 @@ Color Preference 79 by @gregfoley
 
 ![XXX by @praystation Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2005895/ello-xhdpi-7e01d1a8.jpg)
 
-XXX by @praystation
+XXX by @praystation by [@praystation](/praystation)
 
 [1280x800](http://wallpapers.ello.co/threadless/xxx/Ello.Wallpaper.JoshuaDavis_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/threadless/xxx/Ello.Wallpaper.JoshuaDavis_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/threadless/xxx/Ello.Wallpaper.JoshuaDavis_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/threadless/xxx/Ello.Wallpaper.JoshuaDavis_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/threadless/xxx/Ello.Wallpaper.JoshuaDavis_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/threadless/xxx/Ello.Wallpaper.JoshuaDavis_3840x2400.jpg)  
 [iPhone](http://wallpapers.ello.co/threadless/xxx/Ello.Wallpaper.JoshuaDavis_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/threadless/xxx/Ello.Wallpaper.JoshuaDavis_iPhone+5.jpg) / [iPhone 6](http://wallpapers.ello.co/threadless/xxx/Ello.Wallpaper.JoshuaDavis_iPhone+6.jpg) / [iPhone 6+](http://wallpapers.ello.co/threadless/xxx/Ello.Wallpaper.JoshuaDavis_iPhone+6%2B.jpg) / [iPad](http://wallpapers.ello.co/threadless/xxx/Ello.Wallpaper.JoshuaDavis_iPad.jpg)
@@ -27,7 +27,7 @@ XXX by @praystation
 
 ![Breakfast by @celeste Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/1870840/ello-xhdpi-95d77c88.jpg)
 
-Breakfast 79 by @celeste
+Breakfast 79 by [@celeste](/celeste)
 
 [1280x800](http://wallpapers.ello.co/threadless/breakfast/Ello.Wallpaper.CelestePrevost_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/threadless/breakfast/Ello.Wallpaper.CelestePrevost_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/threadless/breakfast/Ello.Wallpaper.CelestePrevost_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/threadless/breakfast/Ello.Wallpaper.CelestePrevost_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/threadless/breakfast/Ello.Wallpaper.CelestePrevost_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/threadless/breakfast/Ello.Wallpaper.CelestePrevost_3840x2400.jpg)  
 [iPhone](http://wallpapers.ello.co/threadless/breakfast/Ello.Wallpaper.CelestePrevost_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/threadless/breakfast/Ello.Wallpaper.CelestePrevost_iPhone+5.jpg) / [iPhone 6](http://wallpapers.ello.co/threadless/breakfast/Ello.Wallpaper.CelestePrevost_iPhone+6.jpg) / [iPhone 6+](http://wallpapers.ello.co/threadless/breakfast/Ello.Wallpaper.CelestePrevost_iPhone+6%2B.jpg) / [iPad](http://wallpapers.ello.co/threadless/breakfast/Ello.Wallpaper.CelestePrevost_iPad.jpg)
@@ -55,7 +55,7 @@ Breakfast 79 by @celeste
 
 ![Have Fun by @upso Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/1118147/ello-xhdpi-dcc0d6a1.jpg)
 
-Have Fun by @upso
+Have Fun by [@upso](/upso)
 
 [1280x800](http://wallpapers.ello.co/threadless/upso/Ello.Wallpaper.DustinHostetler.Gold_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/threadless/upso/Ello.Wallpaper.DustinHostetler_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/threadless/upso/Ello.Wallpaper.DustinHostetler_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/threadless/upso/Ello.Wallpaper.DustinHostetler_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/threadless/upso/Ello.Wallpaper.DustinHostetler_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/threadless/upso/Ello.Wallpaper.DustinHostetler_3840x2400.jpg)  
 [iPhone](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/threadless/upso/Ello.Wallpaper.DustinHostetler.Gold_iPhone+5.jpg) / [iPhone 6](http://wallpapers.ello.co/threadless/upso/Ello.Wallpaper.DustinHostetler.Gold_iPhone+6.jpg) / [iPhone 6+](http://wallpapers.ello.co/threadless/upso/Ello.Wallpaper.DustinHostetler.Gold_iPhone+6%2B.jpg) / [iPad](http://wallpapers.ello.co/threadless/upso/Ello.Wallpaper.DustinHostetler.Gold_iPad.jpg)
@@ -73,7 +73,7 @@ Have Fun by @upso
 
 ![Color Cave by @nopattern Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/931523/ello-xhdpi-f3c9ec16.jpg)
 
-Color Cave by @nopattern
+Color Cave by [@nopattern](/nopattern)
 
 [1280x800](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_3840x2400.jpg)  
 [iPhone](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone+5.jpg) / [iPhone 6](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone+6.jpg) / [iPhone 6+](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone+6%2B.jpg) / [iPad](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPad.jpg)
