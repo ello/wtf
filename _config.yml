@@ -55,15 +55,25 @@ future: false # false: only post future-dated articles once we've reached the pr
 ## basic settings
 baseurl: "/wtf" # the subpath of your site, e.g. /blog/
 url: "http://ello.co" # the base hostname & protocol for your site
+webapp_url: "https://ello.co"
 permalink: /:categories/:title/ # construct our URLs (this is misleading because it's not based on title, but filename - see README)
-
-## markdown flavor
-markdown: kramdown
 
 ## emoji support - https://github.com/jekyll/jemoji
 # we don't put the emoji image files in the asset pipeline because what's the point?
 gems:
   - jemoji
+  - jekyll-html-pipeline
+
+## markdown flavor
+markdown: HTMLPipeline
+html_pipeline:
+  filters:
+    - "markdownfilter"
+    - "mentionfilter"
+  context:
+    asset_root: "http://ello.co/wtf"
+    base_url:   "https://ello.co"
+
 emoji:
   src: "/wtf"
 
