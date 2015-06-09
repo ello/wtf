@@ -77,9 +77,13 @@ assets: # https://github.com/jekyll-assets/jekyll-assets
 exclude:
   - README.md
   - REVISION
+  - Procfile
+  - Rakefile
   - Capfile
   - Gemfile
   - Gemfile.lock
+  - config.ru
+  - vendor
   - lib
   - config
   - stopwords.txt
