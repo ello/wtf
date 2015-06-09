@@ -10,7 +10,7 @@ root.ElloWTFShared =
     ElloWTFShared.watchDrawerToggle()
     ElloWTFShared.mobileWatchSearchToggle()
     ElloWTFShared.mobileDrawerCategoryWatch()
-  
+
   checkMobile: ->
     if /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)
       if ($(window).width() < 720) ## do stuff for phones
@@ -152,6 +152,6 @@ root.ElloWTFShared =
         return parameter_name[1]
       i++
     return
-  
+
 $(document).ready ->
   ElloWTFShared.init()
