@@ -21,8 +21,9 @@ meta_keywords: > # this means to ignore newlines until "baseurl:"
 ## facebook og tags
 fb_site_name: Ello
 
-## google analytics
+## analytics
 ga_id: XXXXXX-1 # google analytics account code (leave blank to disable GA)
+segment_write_key: abcdef # added to site config in _plugins/env.rb
 
 ## Footer settings + links
 ello_username: ello
