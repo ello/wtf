@@ -43,14 +43,12 @@ Breakfast 79 by @celeste
 [iPhone](http://wallpapers.ello.co/nasa2/Ello.NASA.Wallpaper_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/nasa2/Ello.NASA.Wallpaper_iPhone%205.jpg) / [iPhone 6](http://wallpapers.ello.co/nasa2/Ello.NASA.Wallpaper_iPhone%206.jpg) / [iPhone 6\+](http://wallpapers.ello.co/nasa2/Ello.NASA.Wallpaper_iPhone%206%2b.jpg) / [iPad](http://wallpapers.ello.co/nasa2/Ello.NASA.Wallpaper_iPad.jpg)
 
 
-![Pillars of Creation (Infrare) Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/1870803/ello-xhdpi-bdcd41e7.jpg)
+![Pillars of Creation (Infrared) Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/1870803/ello-xhdpi-bdcd41e7.jpg)
 
-[Pillars of Creation (Infrare)](http://www.spacetelescope.org/news/heic1501/)
+[Pillars of Creation (Infrared)](http://www.spacetelescope.org/news/heic1501/)
 
 [1280x800](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_3840x2400.jpg)  
 [iPhone](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_iPhone%205.jpg) / [iPhone 6](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_iPhone%206.jpg) / [iPhone 6\+](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_iPhone%206%2b.jpg) / [iPad](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_iPad.jpg)
-
-[Get the shirt]()
 
 
 ![Have Fun by @upso Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/1118147/ello-xhdpi-dcc0d6a1.jpg)
