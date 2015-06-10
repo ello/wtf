@@ -15,8 +15,7 @@ begin
                         'post_url',
                         '#toggle_drawer',
                         /^\/wtf\/assets/,
-                        /^\/wtf\/emoji/,
-                        /iPhone%206%2b/
+                        /^\/wtf\/emoji/
                       ]).run
   end
 
