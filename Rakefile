@@ -14,8 +14,7 @@ begin
                       url_ignore:  [ 'post_url',
                                      '#toggle_drawer',
                                      /^\/wtf\/assets/,
-                                     /^\/wtf\/emoji/ ],
-                     verbose: true).run
+                                     /^\/wtf\/emoji/ ]).run
   end
 
   task :default => :test
