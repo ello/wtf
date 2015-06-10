@@ -66,7 +66,7 @@ Have Fun by @upso
 ![:bread: Wallpaper](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/1877350/ello-xhdpi-66312e5a.jpg)
 
 [1280x800](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_3840x2400.jpg)  
-[iPhone](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone%205.jpg) / [iPhone 6](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone%206.jpg) / [iPhone 6%20](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone%206%2b.jpg) / [iPad](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPad.jpg)
+[iPhone](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone%205.jpg) / [iPhone 6](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone%206.jpg) / [iPhone 6\+](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone%206%2b.jpg) / [iPad](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPad.jpg)
 
 [Get the shirt](http://ello.threadless.com/#/product/bread/mens)
 
@@ -76,7 +76,7 @@ Have Fun by @upso
 Color Cave by @nopattern
 
 [1280x800](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_3840x2400.jpg)  
-[iPhone](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone%205.jpg) / [iPhone 6](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone%206.jpg) / [iPhone 6%20](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone%206%2b.jpg) / [iPad](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPad.jpg)
+[iPhone](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone%205.jpg) / [iPhone 6](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone%206.jpg) / [iPhone 6\+](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPhone%206%2b.jpg) / [iPad](http://wallpapers.ello.co/threadless/chuck_anderson/Ello.Wallpaper.Chuck.Anderson_iPad.jpg)
 
 [Get the shirt](http://ello.threadless.com/#/product/nopattern/mens)
 
