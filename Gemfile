@@ -15,8 +15,4 @@ gem 'puma'
 
 group :development, :test do
   gem 'html-proofer', github: 'gjtorikian/html-proofer'
-
-  gem 'capistrano-rails'
-  gem 'capistrano-bundler'
-  gem 'capistrano-rvm'
 end
