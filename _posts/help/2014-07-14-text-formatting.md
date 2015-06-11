@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Text formatting"
+title:  "Text Formatting"
 date:   2014-07-14 04:23:18 MDT
 categories: help
 position: 10
