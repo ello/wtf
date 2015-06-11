@@ -10,9 +10,7 @@ root.ElloWTFShared =
     ElloWTFShared.watchDrawerToggle()
     ElloWTFShared.mobileWatchSearchToggle()
     ElloWTFShared.mobileDrawerCategoryWatch()
-    ## temp for dev
-    ElloWTFShared.toggleLoggedIn()
-  
+
   checkMobile: ->
     if /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)
       if ($(window).width() < 720) ## do stuff for phones
@@ -99,12 +97,6 @@ root.ElloWTFShared =
       $(".search_holder").addClass("expanded")
       $("#search_content h1 .search_term em").text("#{decoded_search_term}")
 
-  ## temp to fake logged in experience
-  toggleLoggedIn: ->
-    logged_in = ElloWTFShared.getURLParameter("logged_in")
-    if logged_in == "true"
-      $("body").addClass("logged_in")
-
   watchDrawerToggle: ->
     $("header.top .drawer_toggle a").click (e) ->
       e.preventDefault()
@@ -160,6 +152,6 @@ root.ElloWTFShared =
         return parameter_name[1]
       i++
     return
-  
+
 $(document).ready ->
   ElloWTFShared.init()

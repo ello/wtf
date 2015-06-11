@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Community directory"
+title:  "Community Directory"
 date:   2015-04-02 01:23:45 MDT
 categories: resources
 position: 1
@@ -21,97 +21,97 @@ Have fun! :v:
 
 ---
 
-**[Architecture](/elloarchitecture)** / Lead: [@rachelmauricio](/rachelmauricio)
+**[Architecture]({{ site.webapp_url }}/elloarchitecture)** · Lead: @rachelmauricio
 
-**[Backcountry](/ellobackcountry)** / Lead: [@dutchess70](/dutchess70)
+**[Backcountry]({{ site.webapp_url }}/ellobackcountry)** · Lead: @dutchess70
 
-**[Books](/ellobooks)** / Lead: [@vivlio](/vivlio)
+**[Books]({{ site.webapp_url }}/ellobooks)** · Lead: @vivlio
 
-**[Brewing](/ellobrew)** / Lead: [@katatonic](/katatonic)
+**[Brewing]({{ site.webapp_url }}/ellobrew)** · Lead: @katatonic
 
-**[Cars](/ellocars)** / Lead: [@omni-car](/car)
+**[Cars]({{ site.webapp_url }}/ellocars)** · Lead: @omni-car
 
-**[Cooking](/ellocooking)** / Lead: [@floatingkitchen](/floatingkitchen)
+**[Cooking]({{ site.webapp_url }}/ellocooking)** · Lead: @floatingkitchen
 
-**[Crafting](/ellocrafting)** / Lead: [@matttheshark](/matttheshark)
+**[Crafting]({{ site.webapp_url }}/ellocrafting)** · Lead: @matttheshark
 
-**[Dance](/ellodance)** / Lead: [@patriciaallison](/patriciaallison)
+**[Dance]({{ site.webapp_url }}/ellodance)** · Lead: @patriciaallison
 
-**[Design](/ellodesign)** / Lead: [@todd & @lucian](/lucian)
+**[Design]({{ site.webapp_url }}/ellodesign)** · Lead: @cgwarex
 
-**[Drag](/ellodrag)** / Lead: [@sisterindica](/sisterindica)
+**[Drag]({{ site.webapp_url }}/ellodrag)** · Lead: @sisterindica
 
-**[Events](/elloevents)** / Lead: [@amber](/amber)
+**[Events]({{ site.webapp_url }}/elloevents)** · Lead: @amber
 
-**[Fashion](/ellofashion)** / Lead: [@pjsmith](/pjsmith)
+**[Fashion]({{ site.webapp_url }}/ellofashion)** · Lead: @pjsmith
 
-**[Film](/ellofilm)** / Lead: [@diogovarelasilva](/diogovarelasilva)
+**[Film]({{ site.webapp_url }}/ellofilm)** · Lead: @diogovarelasilva
 
-**[Finance](/ellofinance)** / Lead: TBD
+**[Finance]({{ site.webapp_url }}/ellofinance)** · Lead: TBD
 
-**[Gifs](/ellogifs)** / Lead: [@amber](/amber)
+**[Gifs]({{ site.webapp_url }}/ellogifs)** · Lead: @amber
 
-**[Graffiti](/ellograffiti)** / Lead: [@fylling](/fylling)
+**[Graffiti]({{ site.webapp_url }}/ellograffiti)** · Lead: @fylling
 
-**[Green](/ellogreen)** / Lead: [@josephandrew](/josephandrew)
+**[Green]({{ site.webapp_url }}/ellogreen)** · Lead: @josephandrew
 
-**[History](/ellohistory)** / Lead: [@wheatbeerbaron](/wheatbeerbaron)
+**[History]({{ site.webapp_url }}/ellohistory)** · Lead: @wheatbeerbaron
 
-**[Jewelry](/ellojewelry)** / Lead: [@andreali](/andreali)
+**[Jewelry]({{ site.webapp_url }}/ellojewelry)** · Lead: @andreali
 
-**[Languages](/ellolanguages)** / Lead: [@keiser9000](/keiser9000)
+**[Languages]({{ site.webapp_url }}/ellolanguages)** · Lead: @keiser9000
 
-**[Latino](/ellolatino)** / Lead: [@wgmeets](/wgmeets)
+**[Latino]({{ site.webapp_url }}/ellolatino)** · Lead: @wgmeets
 
-**[Lucid Dreams](/elloluciddreams)** / Lead:@marcelleliemantiemant
+**[Lucid Dreams]({{ site.webapp_url }}/elloluciddreams)** · Lead: @marcelleliemantiemant
 
-**[Motorcycles](/ellomotorcycles)** / Lead: [@joycomplex](/joycomplex)
+**[Motorcycles]({{ site.webapp_url }}/ellomotorcycles)** · Lead: @joycomplex
 
-**[Music (General)](/ellomusic)** / Lead: [@adachic](/adachic)
+**[Music (General)]({{ site.webapp_url }}/ellomusic)** · Lead: @adachic
 
-**[Music (Ambient)](/elloambient)** / Lead: [@johnkochnorthrup](/johnkochnorthrup)
+**[Music (Ambient)]({{ site.webapp_url }}/elloambient)** · Lead: @johnkochnorthrup
 
-**[Music (Electronic)](/elloelectronic)** / Lead: [@larsbamble](/larsbamble)
+**[Music (Electronic)]({{ site.webapp_url }}/elloelectronic)** · Lead: @larsbamble
 
-**[Music (Hip Hop)](/ellohiphop)** / Lead: [@ricojames](/ricojames)
+**[Music (Hip Hop)]({{ site.webapp_url }}/ellohiphop)** · Lead: @ricojames
 
-**[Music (Trip Hop)](/ellotriphop)** / Lead: [@tolv](/tolv)
+**[Music (Trip Hop)]({{ site.webapp_url }}/ellotriphop)** · Lead: @tolv
 
-**[News](/ellonews)** / Lead: [@newsfeather](/newsfeather)
+**[News]({{ site.webapp_url }}/ellonews)** · Lead: @newsfeather
 
-**[NSFW](/ellonsfw)** / Lead: [@theoem](/theoem)
+**[NSFW]({{ site.webapp_url }}/ellonsfw)** · Lead: @theoem
 
-**[Photography](/ellophotography)** / Lead: [@juangonzalez](/juangonzalez)
+**[Photography]({{ site.webapp_url }}/ellophotography)** · Lead: @juangonzalez
 
-**[Roller coasters](/ellocoaster)** / Lead: [@mooses](/mooses)
+**[Roller coasters]({{ site.webapp_url }}/ellocoaster)** · Lead: @mooses
 
-**[Science](/elloscience)** / Lead: [@anna](/anna)
+**[Science]({{ site.webapp_url }}/elloscience)** · Lead: @anna
 
-**[Snowskate](/ellosnowskate)** / Lead: [@aburman](/aburman)
+**[Snowskate]({{ site.webapp_url }}/ellosnowskate)** · Lead: @aburman
 
-**[Sports](/ellosport)** / Lead: [@jpurvisturton](/jpurvisturton)
+**[Sports]({{ site.webapp_url }}/ellosport)** · Lead: @jpurvisturton
 
-**[Stickers](/ellostickers)** / Lead: [@fylling](/fylling)
+**[Stickers]({{ site.webapp_url }}/ellostickers)** · Lead: @fylling
 
-**[Street Art](/ellostreet)** / Lead: [@bbluesman](/bbluesman)
+**[Street Art]({{ site.webapp_url }}/ellostreet)** · Lead: @bbluesman
 
-**[Tech](/ellotech)** / Lead: [@rusty](/rusty)
+**[Tech]({{ site.webapp_url }}/ellotech)** · Lead: @rusty
 
-**[Tennis](/ellotennis)** / Lead: [@wheatbeerbaron](/wheatbeerbaron)
+**[Tennis]({{ site.webapp_url }}/ellotennis)** · Lead: @wheatbeerbaron
 
-**[Travel](/ellotravel)** / Lead: [@andreameli](/andreameli)
+**[Travel]({{ site.webapp_url }}/ellotravel)** · Lead: @andreameli
 
-**[Typography](/ellotypography)** / Lead: [@johnfarrell](/johnfarrell)
+**[Typography]({{ site.webapp_url }}/ellotypography)** · Lead: @johnfarrell
 
-**[Vintage](/ellovintage)** / Lead: [@marcbee](/marcbee)
+**[Vintage]({{ site.webapp_url }}/ellovintage)** · Lead: @marcbee
 
-**[Whiskey](/ellowhiskey)** / Lead: [@theoem](/theoem)
+**[Whiskey]({{ site.webapp_url }}/ellowhiskey)** · Lead: @theoem
 
-**[Wine](/ellowine)** / Lead: [@weinreporter](/weinreporter)
+**[Wine]({{ site.webapp_url }}/ellowine)** · Lead: @weinreporter
 
-**[Writing](/ellowrites)** / Lead: [@kseniaanske](/kseniaanske)
+**[Writing]({{ site.webapp_url }}/ellowrites)** · Lead: @kseniaanske
 
-**[Yoga](/elloyoga)** / Lead: [@chelsea](/chelsea)
+**[Yoga]({{ site.webapp_url }}/elloyoga)** · Lead: @chelsea
 
-**[Zen](/ellozen)** / Lead: [@consciousflow](/consciousflow)
+**[Zen]({{ site.webapp_url }}/ellozen)** · Lead: @consciousflow
 

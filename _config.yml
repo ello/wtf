@@ -3,7 +3,7 @@
 ## title & header
 title: Ello | wtf
 subtitle: Help and other resources for Ello # only appears in the <title> tag of the site
-header_title: Social Revolution. # appears in the header when logged out
+header_title: Beautiful & Ad-free. # appears in the header when logged out
 
 ## meta tag content (also affects facebook og: tags)
 # meta description is overridden by the post excerpt on post pages
@@ -21,8 +21,8 @@ meta_keywords: > # this means to ignore newlines until "baseurl:"
 ## facebook og tags
 fb_site_name: Ello
 
-## google analytics
-ga_id: XXXXXX-1 # google analytics account code (leave blank to disable GA)
+## analytics
+segment_write_key: abcdef # overridden by the SEGMENT_WRITE_KEY environment variable, don't set here
 
 ## Footer settings + links
 ello_username: ello
@@ -55,15 +55,25 @@ future: false # false: only post future-dated articles once we've reached the pr
 ## basic settings
 baseurl: "/wtf" # the subpath of your site, e.g. /blog/
 url: "http://ello.co" # the base hostname & protocol for your site
+webapp_url: "https://ello.co"
 permalink: /:categories/:title/ # construct our URLs (this is misleading because it's not based on title, but filename - see README)
-
-## markdown flavor
-markdown: kramdown
 
 ## emoji support - https://github.com/jekyll/jemoji
 # we don't put the emoji image files in the asset pipeline because what's the point?
 gems:
   - jemoji
+  - jekyll-html-pipeline
+
+## markdown flavor
+markdown: HTMLPipeline
+html_pipeline:
+  filters:
+    - "markdownfilter"
+    - "mentionfilter"
+  context:
+    asset_root: "http://ello.co/wtf"
+    base_url:   "https://ello.co"
+
 emoji:
   src: "/wtf"
 

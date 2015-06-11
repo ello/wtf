@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Audio & video"
+title:  "Audio & Video"
 date:   2015-01-21 04:23:18 MDT
 categories: help
 position: 8
 ---
 ## What audio and video services does Ello support?
 
-You can embed audio and video files in your posts from services including Youtube, Vimeo, DailyMotion, Soundcloud, and Mixcloud. We’ll keep adding other services to this list over time!
+You can embed audio and video files in your posts from services including Youtube, Vimeo, DailyMotion, Soundcloud, Mixcloud, Ustream, and Bandcamp*. We’ll keep adding other services to this list over time!
+
+*Right now, in order to embed a Bandcamp file, you need the original url containing "bandcamp.com". You can find the original url by opening the page source and copying the url from the page’s meta data.
 
 ## How do I add an audio or video file to my post?
 
@@ -27,6 +29,6 @@ Sound files have a round button; video has a square button. A video preview is r
 
 Some of the sound and video services that users choose to post may include third party ads (including YouTube, Soundcloud, and others). Some people want to see this kind of media, and some people don’t, so on Ello we’ve given you a choice.
 
-If you don’t want to see media that may contain ads, you can hide it by going to your [Settings](/settings) page. Scroll to “Embedded Media”, and click YES to hide embedded media.
+If you don’t want to see media that may contain ads, you can hide it by going to your [Settings]({{ site.webapp_url }}/settings) page. Scroll to “Embedded Media”, and click YES to hide embedded media.
 
-Ello does not make money off third party advertisements, and will never sell user data. Read more about Ello’s ad-free policy [here](/wtf/post/why-no-ads).
+Ello does not make money off third party advertisements, and will never sell user data. Read more about Ello’s ad-free policy [here](/wtf/about/ello-tracking-and-your-data/).
