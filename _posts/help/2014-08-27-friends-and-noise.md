@@ -23,7 +23,7 @@ As a general guideline, we have found that following more than about 60 people i
 
 ## How can I add someone to FRIENDS or NOISE?
 
-Go to the user’s profile page and click on FRIENDS or NOISE in the upper right-hand corner. You can also drag their user icon onto either the FRIENDS or NOISE tab.
+Go to the user’s profile page and click on FRIENDS or NOISE below their username. You can also drag their user icon onto either the FRIENDS or NOISE tab.
 
 ![Friends, Noise, and Block buttons](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2193936/ello-xhdpi-754a0887.jpg)
 
@@ -35,8 +35,8 @@ You can move people in bulk by scrolling through the full list of people you are
 
 ## How can I stop following someone in my FRIENDS or NOISE stream?
 
-Go to the user’s profile page and hover over the grey-ed button in the right-hand corner. When it turns red, click and the user will be removed from that stream.
+Go to the user’s profile page and click the grey-ed button below their username.
 
 ## Can I view NOISE using the same expanded layout as FRIENDS?
 
-Yes. Toggle your NOISE layout back and forth from expanded to compressed view by pressing Shift—5.
+Yes. Toggle your NOISE layout back and forth from expanded to compressed view by pressing =.
