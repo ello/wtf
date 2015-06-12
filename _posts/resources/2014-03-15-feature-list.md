@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beta Feature List"
-date:   2015-04-02 01:23:45 MDT
+date:   2015-06-11 01:23:45 MDT
 categories: resources
 position: 3
 ---
