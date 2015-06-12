@@ -12,7 +12,7 @@ Ello is run by a small team of real people who are very busy building Ello, so w
 **Abusive behavior reports:** [reportabuse@ello.co](mailto:reportabuse@ello.co)  
 **Bug reports:** [bugs@ello.co](mailto:bugs@ello.co)  
 **Feature suggestions:** [suggestions@ello.co](mailto:suggestions@ello.co)  
-**Jobs:** More info here.  
+**Jobs:** More info [here](/wtf/about/careers/).  
 **Everything else:** [hello@ello.co](mailto:hello@ello.co)  
 
 You can also mention @wtf directly on Ello.
@@ -25,7 +25,7 @@ All users must follow the Ello Rules, and there are consequences for not followi
 
 ## How do I report copyright or trademark infringement?
 
-Ello complies with the Digital Millennium Copyright Act. Please read our Terms of Use here for more information on reporting copyright infringement.
+Ello complies with the Digital Millennium Copyright Act. Please read our Terms of Use [here](/wtf/policies/terms-of-use/) for more information on reporting copyright infringement.
 
 To report trademark infringement, please e-mail [reportabuse@ello.co](mailto:reportabuse@ello.co). If you are unable to claim an unassigned username, it may be reserved. Check by e-mailing us.
 
