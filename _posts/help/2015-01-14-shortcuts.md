@@ -8,15 +8,17 @@ position: 6
 
 `1` Toggle Drawer
 
+`2` Focus Omnibar 
+
 `F` Navigate to Friends stream
 
 `N` Navigate to Noise stream
 
+`R` Open notifications
+
 `=` Toggle grid mode for main content
 
 `+` Toggle grid mode for drawer content
-
-`R` Open notifications
 
 `?` Show help modal
 
