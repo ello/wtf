@@ -60,6 +60,7 @@ We strongly suggest that you consider this when deciding what to post and what n
 Ello uses cookies to enable our servers to recognize your web browser and tell us how and when you use the Site. A cookie is a small amount of information that is stored in your web browser, which may contain information about you and the way you use the internet and services like the Site. We use cookies to identify our users, provide automatic login, and personalize your Ello experience. We also may use cookies embedded in emails to help figure out whether anyone is actually reading the drivel that we write.
 
 You can turn cookies off on your web browser, but if you do, the Site may not work properly, and in some cases, you may not be able to log into the Site at all.
+
 There are many other third party services and web sites that may place cookies in your browser. Our privacy policy only covers our use of Ello cookies, not cookies used by third parties.
 
 ## Choices
