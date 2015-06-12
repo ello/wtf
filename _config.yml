@@ -33,7 +33,7 @@ footer_links: # Ello links should ommit the 'http://ello.co' and start with a sl
 - text: Ello Community Directory
   url: /wtf/resources/community-directory/
 - text: Ello Manifesto
-  url: /wtf/about/manifesto/
+  url: /wtf/about/ello-manifesto/
 - text: Contact Ello
   url: /wtf/help/contact-ello/
 - text: Terms of Use
