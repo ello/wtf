@@ -33,6 +33,4 @@ When you BLOCK another user, they can no longer view your profile or posts. We a
 
 Hover your mouse just to the right of the grey icons beneath the post, and a red circle with a line through it will appear.
 
-![Post meta data](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2122174/ello-optimized-addd35d9.gif)
-
 Click the icon and select the category of abuse to submit the flag.
