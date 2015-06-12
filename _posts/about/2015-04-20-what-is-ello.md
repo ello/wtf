@@ -13,7 +13,7 @@ Ello was founded by a small group of artists and programmers who had become disi
 
 So we decided to build our own.
 
-We posted the Ello Manifesto, promising to never, ever sell advertising or user data. Read more about the Ello no-ad policy here.
+We posted the Ello Manifesto, promising to never, ever sell advertising or user data. Read more about the Ello no-ad policy [here](/wtf/about/ello-tracking-and-your-data/).
 
 Then we got to work designing the clean and beautiful social network that we ourselves want to use.
 
@@ -37,7 +37,7 @@ On October 23, 2014 Ello became a USA Public Benefit Corporation, a special kind
 
 It is legally impossible for Ello’s investors (or anyone else) to ever force Ello to sell user data or serve advertisements.
 
-You can read more about Ello’s PBC charter here.
+You can read more about Ello’s PBC charter [here](/wtf/about/pbc/).
 
 ## Support Ello
 
