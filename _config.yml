@@ -31,7 +31,7 @@ footer_links: # Ello links should ommit the 'http://ello.co' and start with a sl
 - text: Ello x Threadless Store
   url: http://ello.threadless.com/
 - text: Ello Community Directory
-  url: /wtf/help/community-directory/
+  url: /wtf/resources/community-directory/
 - text: Ello Manifesto
   url: /wtf/help/manifesto/
 - text: Contact Ello
