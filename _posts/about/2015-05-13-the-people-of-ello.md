@@ -34,6 +34,7 @@ Colin Gray, Senior iOS Engineer @colinta
 Chelsea Kantola, Community Coordinator @chelsea
 Brittany LaValley, Assistant and General Manager @be13
 Amanda Levinson, Acting Director of Marketing @amandalevinson
+Anna Quinlan, Community Manager @anna
 Pete Sheinbaum, Chief Operating Officer @sheinbaum
 Jesse Trimble, Full Stack Engineer @trmbl
 Ryan Tyer, Principal Scalability Engineer @rtyer
