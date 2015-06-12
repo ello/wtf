@@ -193,7 +193,7 @@
     getData: function(mediaUrl, callback) {
       var videoId = mediaUrl.split('vimeo.com/')[1];
       reqwest({
-        url: 'http://vimeo.com/api/v2/video/'+ videoId +'.json',
+        url: 'https://vimeo.com/api/v2/video/'+ videoId +'.json',
         type: 'jsonp',
         error: function (err) {
           // console.log('vimeo error');
