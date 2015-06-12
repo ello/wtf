@@ -7,8 +7,6 @@ position: 3
 ---
 ## Ello is in Beta.
 
-![Okay sign](http://i.imgur.com/IGy5ogq.png)<br>
-
 We created this list of built and upcoming features so you can watch Ello roll out. Features added recently are highlighted in bold. Check here often: new features & updates are added daily.
 
 ## Coming Soon
