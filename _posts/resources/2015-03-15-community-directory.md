@@ -21,97 +21,100 @@ Have fun! :v:
 
 ---
 
-**[Architecture]({{ site.webapp_url }}/elloarchitecture)** · Lead: @rachelmauricio
+## Ello-curated:
 
-**[Backcountry]({{ site.webapp_url }}/ellobackcountry)** · Lead: @dutchess70
+**[Gifs](https://ello.co/ellogifs)**
 
-**[Books]({{ site.webapp_url }}/ellobooks)** · Lead: @vivlio
+**[Jewelry](https://ello.co/ellojewelry)** 
 
-**[Brewing]({{ site.webapp_url }}/ellobrew)** · Lead: @katatonic
+**[NSFW](https://ello.co/ellonsfw)**
 
-**[Cars]({{ site.webapp_url }}/ellocars)** · Lead: @omni-car
+**[Science](https://ello.co/elloscience)**
 
-**[Cooking]({{ site.webapp_url }}/ellocooking)** · Lead: @floatingkitchen
+**[Whiskey](https://ello.co/ellowhiskey)**
 
-**[Crafting]({{ site.webapp_url }}/ellocrafting)** · Lead: @matttheshark
+## Community-curated:
 
-**[Dance]({{ site.webapp_url }}/ellodance)** · Lead: @patriciaallison
+**[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
-**[Design]({{ site.webapp_url }}/ellodesign)** · Lead: @cgwarex
+**[Backcountry](https://ello.co/ellobackcountry)** · Lead: @dutchess70
 
-**[Drag]({{ site.webapp_url }}/ellodrag)** · Lead: @sisterindica
+**[Books](https://ello.co/ellobooks)** · Lead: @vivlio
 
-**[Events]({{ site.webapp_url }}/elloevents)** · Lead: @amber
+**[Brewing](https://ello.co/ellobrew)** · Lead: @katatonic
 
-**[Fashion]({{ site.webapp_url }}/ellofashion)** · Lead: @pjsmith
+**[Cars](https://ello.co/ellocars)** · Lead: @omni-car
 
-**[Film]({{ site.webapp_url }}/ellofilm)** · Lead: @diogovarelasilva
+**[Cooking](https://ello.co/ellocooking)** · Lead: @floatingkitchen
 
-**[Finance]({{ site.webapp_url }}/ellofinance)** · Lead: TBD
+**[Crafting](https://ello.co/ellocrafting)** · Lead: @matttheshark
 
-**[Gifs]({{ site.webapp_url }}/ellogifs)** · Lead: @amber
+**[Dadaism](https://ello.co/ellodadaism)** · Lead: @leapofdesire
 
-**[Graffiti]({{ site.webapp_url }}/ellograffiti)** · Lead: @fylling
+**[Dance](https://ello.co/ellodance)** · Lead: @patriciaallison
 
-**[Green]({{ site.webapp_url }}/ellogreen)** · Lead: @josephandrew
+**[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
 
-**[History]({{ site.webapp_url }}/ellohistory)** · Lead: @wheatbeerbaron
+**[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
 
-**[Jewelry]({{ site.webapp_url }}/ellojewelry)** · Lead: @andreali
+**[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
 
-**[Languages]({{ site.webapp_url }}/ellolanguages)** · Lead: @keiser9000
+**[Film](https://ello.co/ellofilm)** · Lead: @diogovarelasilva
 
-**[Latino]({{ site.webapp_url }}/ellolatino)** · Lead: @wgmeets
+**[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
 
-**[Lucid Dreams]({{ site.webapp_url }}/elloluciddreams)** · Lead: @marcelleliemantiemant
+**[Green](https://ello.co/ellogreen)** · Lead: @josephandrew
 
-**[Motorcycles]({{ site.webapp_url }}/ellomotorcycles)** · Lead: @joycomplex
+**[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
-**[Music (General)]({{ site.webapp_url }}/ellomusic)** · Lead: @adachic
+**[Latino](https://ello.co/ellolatino)** · Lead: @wgmeets
 
-**[Music (Ambient)]({{ site.webapp_url }}/elloambient)** · Lead: @johnkochnorthrup
+**[Literature](https://ello.co/elloliterature)** · Lead: @runspotrun
 
-**[Music (Electronic)]({{ site.webapp_url }}/elloelectronic)** · Lead: @larsbamble
+**[Lucid Dreams](https://ello.co/elloluciddreams)** · Lead: @marcelleliemantiemant
 
-**[Music (Hip Hop)]({{ site.webapp_url }}/ellohiphop)** · Lead: @ricojames
+**[Motorcycles](https://ello.co/ellomotorcycles)** · Lead: @joycomplex
 
-**[Music (Trip Hop)]({{ site.webapp_url }}/ellotriphop)** · Lead: @tolv
+**[Music (General)](https://ello.co/ellomusic)** · Lead: @adachic
 
-**[News]({{ site.webapp_url }}/ellonews)** · Lead: @newsfeather
+**[Music (Ambient)](https://ello.co/elloambient)** · Lead: @johnkochnorthrup
 
-**[NSFW]({{ site.webapp_url }}/ellonsfw)** · Lead: @theoem
+**[Music (Electronic)](https://ello.co/elloelectronic)** · Lead: @larsbamble
 
-**[Photography]({{ site.webapp_url }}/ellophotography)** · Lead: @juangonzalez
+**[Music (Hip Hop)](https://ello.co/ellohiphop)** · Lead: @ricojames
 
-**[Roller coasters]({{ site.webapp_url }}/ellocoaster)** · Lead: @mooses
+**[Music (Trip Hop)](https://ello.co/ellotriphop)** · Lead: @tolv
 
-**[Science]({{ site.webapp_url }}/elloscience)** · Lead: @anna
+**[News](https://ello.co/ellonews)** · Lead: @newsfeather
 
-**[Snowskate]({{ site.webapp_url }}/ellosnowskate)** · Lead: @aburman
+**[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
-**[Sports]({{ site.webapp_url }}/ellosport)** · Lead: @jpurvisturton
+**[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
 
-**[Stickers]({{ site.webapp_url }}/ellostickers)** · Lead: @fylling
+**[Postal History](https://ello.co/postalhistory)** · Lead: @edbuzz
 
-**[Street Art]({{ site.webapp_url }}/ellostreet)** · Lead: @bbluesman
+**[Roller Coasters](https://ello.co/ellocoaster)** · Lead: @mooses
 
-**[Tech]({{ site.webapp_url }}/ellotech)** · Lead: @rusty
+**[Snowskate](https://ello.co/ellosnowskate)** · Lead: @aburman
 
-**[Tennis]({{ site.webapp_url }}/ellotennis)** · Lead: @wheatbeerbaron
+**[Sports](https://ello.co/ellosport)** · Lead: @jpurvisturton
 
-**[Travel]({{ site.webapp_url }}/ellotravel)** · Lead: @andreameli
+**[Stickers](https://ello.co/ellostickers)** · Lead: @fylling
 
-**[Typography]({{ site.webapp_url }}/ellotypography)** · Lead: @johnfarrell
+**[Street Art](https://ello.co/ellostreet)** · Lead: @bbluesman
 
-**[Vintage]({{ site.webapp_url }}/ellovintage)** · Lead: @marcbee
+**[Tech](https://ello.co/ellotech)** · Lead: @rusty
 
-**[Whiskey]({{ site.webapp_url }}/ellowhiskey)** · Lead: @theoem
+**[Travel](https://ello.co/ellotravel)** · Lead: @andreameli
 
-**[Wine]({{ site.webapp_url }}/ellowine)** · Lead: @weinreporter
+**[Typography](https://ello.co/ellotypography)** · Lead: @johnfarrell
 
-**[Writing]({{ site.webapp_url }}/ellowrites)** · Lead: @kseniaanske
+**[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
-**[Yoga]({{ site.webapp_url }}/elloyoga)** · Lead: @chelsea
+**[Wine](https://ello.co/ellowine)** · Lead: @weinreporter
 
-**[Zen]({{ site.webapp_url }}/ellozen)** · Lead: @consciousflow
+**[Writing](https://ello.co/ellowrites)** · Lead: @kseniaanske
 
+**[Yoga](https://ello.co/elloyoga)** · Lead: @chelsea 
+
+**[Zen](https://ello.co/ellozen)** · Lead: @consciousflow
