@@ -18,4 +18,6 @@ position: 6
 
 `R` Open notifications
 
+`?` Show help modal
+
 `CMD/CTRL + Enter` Submit a post or comment.
