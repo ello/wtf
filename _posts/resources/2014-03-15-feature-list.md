@@ -12,7 +12,6 @@ We created this list of built and upcoming features so you can watch Ello roll o
 ## Coming Soon
 
 * Hashtag integration
-* Love + Love bookmarking stream
 * Private accounts
 * Online/offline user designation
 * Emoji index
@@ -26,6 +25,7 @@ We created this list of built and upcoming features so you can watch Ello roll o
 
 ## Built
 
+* Love + Love bookmarking stream
 * Mobile web refinements
 * Enhanced search & discovery
 * Rich (multimedia) commenting
