@@ -10,6 +10,18 @@ root.ElloWTFShared =
     ElloWTFShared.watchDrawerToggle()
     ElloWTFShared.mobileWatchSearchToggle()
     ElloWTFShared.mobileDrawerCategoryWatch()
+    ElloWTFShared.trackPageChange()
+
+  trackPageChange: ->
+    # This script is sourced once on every pageload. We only want to register
+    # the segment listener once, so hack around the multi sourcing of this
+    # script with a root variable.
+    unless root.SEGMENT_LISTENING?
+      root.SEGMENT_LISTENING = true
+
+      $(document).on 'page:change', ->
+        window.analytics?.page()
+
 
   checkMobile: ->
     if /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)
@@ -105,7 +117,6 @@ root.ElloWTFShared =
 
   mobileWatchSearchToggle: ->
     $(".search_holder .trigger .search").click (e) ->
-      console.log 'yo'
       e.preventDefault()
 
       $search_form = $(".search_holder")
