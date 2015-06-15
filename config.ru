@@ -1,4 +1,5 @@
 require 'newrelic_rpm'
+require 'new_relic/rack/agent_hooks'
 
 app = Rack::Builder.new do
   map '/wtf' do
