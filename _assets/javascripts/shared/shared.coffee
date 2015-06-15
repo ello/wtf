@@ -11,6 +11,20 @@ root.ElloWTFShared =
     ElloWTFShared.mobileWatchSearchToggle()
     ElloWTFShared.mobileDrawerCategoryWatch()
     ElloWTFShared.trackPageChange()
+    ElloWTFShared.disableTurbolinksForElloWebLinks()
+
+  disableTurbolinksForElloWebLinks: ->
+    unless root.ELLO_WEB_TURBOLINKS_DISABLED?
+      root.ELLO_WEB_TURBOLINKS_DISABLED = true
+
+      $(document).on 'page:before-change', (e) ->
+        if (url = e.originalEvent.data.url)
+          uri = document.createElement('a')
+          uri.href = url
+
+          unless uri.pathname.match(/\/wtf/)
+            e.preventDefault()
+            window.location.href = url
 
   trackPageChange: ->
     # This script is sourced once on every pageload. We only want to register
