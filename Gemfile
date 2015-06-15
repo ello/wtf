@@ -10,6 +10,7 @@ gem 'jemoji'
 gem 'jekyll-html-pipeline'
 gem 'github-markdown'
 gem 'gemoji'
+gem 'newrelic_rpm'
 
 gem 'rack'
 gem 'puma'
