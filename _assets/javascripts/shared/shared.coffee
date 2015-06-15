@@ -20,7 +20,9 @@ root.ElloWTFShared =
       root.SEGMENT_LISTENING = true
 
       $(document).on 'page:change', ->
-        window.analytics?.page()
+        loc = window.location
+        fullUrl = "#{loc.protocol}//#{loc.hostname}#{loc.pathname}#{loc.search}"
+        window.analytics?.page(url: fullUrl, path: loc.pathname)
 
 
   checkMobile: ->
