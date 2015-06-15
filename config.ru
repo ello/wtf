@@ -1,5 +1,8 @@
+require 'newrelic_rpm'
+
 app = Rack::Builder.new do
   map '/wtf' do
+    use NewRelic::Rack::AgentHooks
     use Rack::Static, urls: [''], root: '_site', index: 'index.html'
 
     run lambda { |env|
