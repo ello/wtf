@@ -15,7 +15,7 @@ Ello is run by a small team of real people who are very busy building Ello, so w
 **Jobs:** More info [here](/wtf/about/careers/).  
 **Everything else:** [hello@ello.co](mailto:hello@ello.co)  
 
-You can also mention @wtf directly on Ello.
+You can also mention <span>@</span>wtf directly on Ello.
 
 ## How do I report abusive behavior?
 
