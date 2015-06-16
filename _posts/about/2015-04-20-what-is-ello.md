@@ -27,6 +27,6 @@ Love,
 
 Ello
 
-Read the [Ello Manifesto](/wtf/about/ello-manifesto/).
-Learn about [Ello’s no-ads policy](/wtf/about/ello-tracking-and-your-data/) and read the [Ello PBC Charter](/wtf/about/pbc/), which legally assures that Ello will never sell ads or user data.
-Check out the [Ello WTF section](/wtf/) for help, video tutorials, and more.
+* Read the [Ello Manifesto](/wtf/about/ello-manifesto/).
+* Learn about [Ello’s no-ads policy](/wtf/about/ello-tracking-and-your-data/) and read the [Ello PBC Charter](/wtf/about/pbc/), which legally assures that Ello will never sell ads or user data.
+* Check out the [Ello WTF section](/wtf/) for help, video tutorials, and more.
