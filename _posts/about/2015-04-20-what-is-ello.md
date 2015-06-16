@@ -25,6 +25,8 @@ We’re so glad you’re here.
 
 Love, 
 
+:sparkles:
+
 Ello
 
 * Read the [Ello Manifesto](/wtf/about/ello-manifesto/).
