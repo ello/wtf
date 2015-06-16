@@ -2,49 +2,31 @@
 layout: post
 title:  "What is Ello?"
 title_alternate:  "What is Ello?"
-date:   2014-07-03 10:43:18 MST
+date:   2015-06-16 10:43:18 MST
 categories: about
 position: 1
 ---
 
-Ello is a Social Revolution that is transforming how people connect, free from advertising, manipulation, and exploitation. Ello’s clean and beautiful design supports a global creative community where people can be whoever they want to be. As a public benefit corporation, Ello will never sell ads or user data.
+Ello is a beautiful & ad-free social network where you can connect with friends, be inspired, and share what matters most. Ello’s gorgeous fullscreen design supports high-res images, long form text, GIFs, video, sound files — you name it — without the clutter you’ll find on other ad-based social networks.
 
-Ello was founded by a small group of artists and programmers who had become disillusioned by all the big social networks, which had become ugly, cluttered, and full of advertisements. They just weren’t any fun any more.
+In the beginning Ello was a private social network, created by a [small group of artists](/wtf/about/who-created-ello/) who had grown tired of the negativity, clutter, data mining, and ads that had invaded other social networks. Many of us felt obligated to have pages on those other networks, but nobody was really having fun. So we built a network of our own.
 
-So we decided to build our own.
+One of the fundamental principles behind Ello is that you always control what you see. You will never be forced to see paid ads or boosted posts. There are no algorithms that prioritize paid content over messages from your friends, which means you can always post the things you love for all your followers to see for free. 
 
-We posted the Ello Manifesto, promising to never, ever sell advertising or user data. Read more about the Ello no-ad policy [here](/wtf/about/ello-tracking-and-your-data/).
+On Ello, nobody collects and sells data about you to the highest bidder. Never ever. This commitment is one reason why Ello remains so positive and so much fun, since every feature we create is really just for you. There’s nobody messing with us behind the scenes.
 
-Then we got to work designing the clean and beautiful social network that we ourselves want to use.
+We invited our friends to join Ello, and our friends invited their friends. Many of them are well known artists, designers, and musicians, who brought their fans along with them. Soon thousands, and then millions of people began signing up. 
 
-Ello launched in late 2014 with just 90 people on the network, and there are millions of people here today. Ello remains creative, open, free, and extremely positive.
+We posted the [Ello Manifesto](/wtf/about/ello-manifesto/) on the home page to let people know what we’re about, and then we opened Ello to anyone who values beauty, positivity, and connecting with people and things they love.
 
-Welcome!
+There is a better way.
 
-## Ello doesn’t have ads.
+We’re so glad you’re here.
 
-We believe that advertisements on a social network are tacky and insult our intelligence.
+Love, 
 
-On ad-based networks, many of our favorite posts are never seen by our friends at all, because ads take priority. Businesses have to pay for the people that follow them to see the things they post.
+Ello
 
-Every move we make is tracked and recorded. Every post is scanned and sold to the highest bidder. The advertiser is the customer, and we’re the ones being bought and sold.
-
-Ello will never serve ads, and will never sell user data.
-
-## Ello is a PBC
-
-On October 23, 2014 Ello became a USA Public Benefit Corporation, a special kind of for-profit company based in the USA that works for the public benefit, not just for profit.
-
-It is legally impossible for Ello’s investors (or anyone else) to ever force Ello to sell user data or serve advertisements.
-
-You can read more about Ello’s PBC charter [here](/wtf/about/pbc/).
-
-## Support Ello
-
-Ello is completely free to use. We occasionally offer special features and products to our users. If we create something you really like, you may choose to support Ello by buying it.
-
-You never have to pay anything, and you can keep using Ello forever, for free.
-
-## Privacy
-
-Unlike virtually every other social network, you can opt out of information sharing on Ello. Read [how Ello uses information](/wtf/about/ello-tracking-and-your-data/) to learn more.
+Read the [Ello Manifesto](/wtf/about/ello-manifesto/).
+Learn about [Ello’s no-ads policy](/wtf/about/ello-tracking-and-your-data/) and read the [Ello PBC Charter](/wtf/about/pbc/), which legally assures that Ello will never sell ads or user data.
+Check out the [Ello WTF section](/wtf/) for help, video tutorials, and more.
