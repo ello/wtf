@@ -1,8 +1,4 @@
-# Ello WTF Site
-
-## Staging Server Info
-
-* URL: [http://ello-wtf-staging.herokuapp.com/wtf/](http://ello-wtf-staging.herokuapp.com/wtf/)
+# Ello WTF
 
 ## Content Workflow
 
@@ -10,6 +6,10 @@
 2. Commit changes, check CircleCI to see if changes pass.
 3. See how changes look on the staging server.
 3. Deploy master branch on Heroku.
+
+## Staging Server Info
+
+* URL: [http://ello-wtf-staging.herokuapp.com/wtf/](http://ello-wtf-staging.herokuapp.com/wtf/)
 
 ### Filename:
 
