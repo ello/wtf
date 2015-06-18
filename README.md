@@ -14,7 +14,8 @@
 
 1. Edit the master branch in Github. Make sure no one else is editing so you don't collide.
 2. Commit changes, check CircleCI to see if changes pass.
-3. Deploy master branch on Herok
+3. See how changes look on the new staging server.
+3. Deploy master branch on Heroku.
 
 ### Filename:
 
