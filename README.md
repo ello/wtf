@@ -1,12 +1,6 @@
 # Ello WTF Site
 
-## Old Staging Server Info
-
-* URL: [***REMOVED***](***REMOVED***)
-* user: `ellowtf`
-* password: `***REMOVED***`
-
-## New Staging Server Info
+## Staging Server Info
 
 * URL: [http://ello-wtf-staging.herokuapp.com/wtf/](http://ello-wtf-staging.herokuapp.com/wtf/)
 
@@ -86,3 +80,9 @@ This [Jekyll](http://jekyllrb.com/) install relies on a few different gems (in a
 * $ `jekyll serve`
 * Point your browser at: [http://localhost:4000/wtf/](http://localhost:4000/wtf/) (the trailing slash is important)
 * Content/design changes should update locally as you make them
+
+## Old Staging Server Info
+
+* URL: [***REMOVED***](***REMOVED***)
+* user: `ellowtf`
+* password: `***REMOVED***`
