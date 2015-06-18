@@ -11,6 +11,8 @@
 
 * URL: [http://ello-wtf-staging.herokuapp.com/wtf/](http://ello-wtf-staging.herokuapp.com/wtf/)
 
+## Post/Page Info
+
 ### Filename:
 
 All posts go in the `_posts` folder and inside their respective category folder to keep things organized.
