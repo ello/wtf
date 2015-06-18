@@ -1,16 +1,25 @@
 # Ello WTF Site
 
-## Staging Server Info
+## Old Staging Server Info
 
 * URL: [http://ellowtf.grantblakeman.com/wtf/](http://ellowtf.grantblakeman.com/wtf/)
 * user: `ellowtf`
 * password: `saipan`
 
+## New Staging Server Info
+
+* URL: [http://ello-wtf-staging.herokuapp.com/wtf/](http://ello-wtf-staging.herokuapp.com/wtf/)
+
 ## Content Workflow
+
+1. Edit the master branch in Github. Make sure no one else is editing so you don't collide.
+2. Commit changes, check CircleCI to see if changes pass.
+3. Deploy master branch on Herok
+
+### Filename:
 
 All posts go in the `_posts` folder and inside their respective category folder to keep things organized.
 
-### Filename:
 Files must end in the `.md` extension and begin with a date (use the date the article was first created).
 
 The words (and dashes) after the date make up the slug (end of the URL) for the post. For example, a filename of **2015-01-23-contact-us.md** will result in a slug of **contact-us**. If you place this post in _Help_, the full URL will be: **/wtf/help/contact-us**.
