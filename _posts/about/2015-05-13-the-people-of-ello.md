@@ -28,7 +28,7 @@ Aaron Brown, Director of Infrastructure @aayore
 Jason Collins, VP of Engineering @theoem
 Mike Conigliaro, Sr. DevOps Engineer @mconigliaro
 Casey Doran, Director of Product @dcdoran
-Sean Dougherty, Mobile Lead @seand
+Sean Dougherty, Mobile Lead @sean
 Andy Ennamorato, Full Stack Engineer @virtualandy
 Colin Gray, Senior iOS Engineer @colinta
 Chelsea Kantola, Community Coordinator @chelsea
@@ -38,6 +38,14 @@ Anna Quinlan, Community Manager @anna
 Pete Sheinbaum, Chief Operating Officer @sheinbaum
 Jesse Trimble, Full Stack Engineer @trmbl
 Ryan Tyer, Principal Scalability Engineer @rtyer
-Alexi Ueltzen, Community Evangelist @aueltzen
+Alexi Ueltzen, Community Evangelist @alexi
 Marc Wren, Product Developer @soulfresh
 Amber Young, Community Coordinator @amber
+Suttida Yang, Director of Marketing @suttida
+
+## Dogs
+
+Potus @awww_potus
+Mr. Peanut @mrpeanut
+Ollie @olliethefrenchie
+Mochi @mochi
