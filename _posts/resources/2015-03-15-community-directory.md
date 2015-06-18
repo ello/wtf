@@ -101,6 +101,8 @@ Have fun! :v:
 
 **[Stickers](https://ello.co/ellostickers)** · Lead: @fylling
 
+**[Startups]((https://ello.co/ellostartups)** · Lead: @arinewman
+
 **[Street Art](https://ello.co/ellostreet)** · Lead: @bbluesman
 
 **[Tech](https://ello.co/ellotech)** · Lead: @rusty
