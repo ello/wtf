@@ -13,7 +13,7 @@ Read on to learn how.
 
 The simplest way is to highlight some of the text in your Omnibar post. A small WYSIWYG appears, which will allow you to make your text bold, italic, or add a link.
 
-![Edit menu](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/1710/ello-xhdpi-ff2b9d2d.jpg)
+![Edit menu](http://i.imgur.com/wUajhId.png)
 
 If you wish to format text in other ways, or want to enter formatting commands quickly using your keyboard, read on below to learn how to use Ello Markdown Language.
 
