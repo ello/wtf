@@ -51,7 +51,7 @@ Have fun! :v:
 
 **[Cooking](https://ello.co/ellocooking)** · Lead: @floatingkitchen
 
-**[Computer Games](https://ello.co/computergames)** · Lead: @jdarnold
+**[Computer Games](https://ello.co/ellocomputergames)** · Lead: @jdarnold
 
 **[Crafting](https://ello.co/ellocrafting)** · Lead: @matttheshark
 
