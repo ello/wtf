@@ -43,9 +43,15 @@ Have fun! :v:
 
 **[Brewing](https://ello.co/ellobrew)** · Lead: @katatonic
 
+**[Bridges](https://ello.co/ellobridges)** · Lead: @anthonystevens
+
 **[Cars](https://ello.co/ellocars)** · Lead: @omni-car
 
+**[Collage](https://ello.co/ellocollage)** · Leads: @rubenb & @maxomatic
+
 **[Cooking](https://ello.co/ellocooking)** · Lead: @floatingkitchen
+
+**[Computer Games](https://ello.co/computergames)** · Lead: @jdarnold
 
 **[Crafting](https://ello.co/ellocrafting)** · Lead: @matttheshark
 
@@ -55,6 +61,8 @@ Have fun! :v:
 
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
 
+**[DIY](https://ello.co/ellodiy)** · Lead: @alexi
+
 **[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
 
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
@@ -62,8 +70,6 @@ Have fun! :v:
 **[Film](https://ello.co/ellofilm)** · Lead: @diogovarelasilva
 
 **[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
-
-**[Green](https://ello.co/ellogreen)** · Lead: @josephandrew
 
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
@@ -75,6 +81,8 @@ Have fun! :v:
 
 **[Motorcycles](https://ello.co/ellomotorcycles)** · Lead: @joycomplex
 
+**[Murals](https://ello.co/ellomural)** · Lead: @inkmonstr
+
 **[Music (General)](https://ello.co/ellomusic)** · Lead: @adachic
 
 **[Music (Ambient)](https://ello.co/elloambient)** · Lead: @johnkochnorthrup
@@ -85,17 +93,17 @@ Have fun! :v:
 
 **[Music (Trip Hop)](https://ello.co/ellotriphop)** · Lead: @tolv
 
-**[News](https://ello.co/ellonews)** · Lead: @newsfeather
-
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
 
 **[Postal History](https://ello.co/postalhistory)** · Lead: @edbuzz
 
-**[Roller Coasters](https://ello.co/ellocoaster)** · Lead: @mooses
+**[Quotes](https://ello.co/quotes)** · Lead: @mattlaff
 
-**[Snowskate](https://ello.co/ellosnowskate)** · Lead: @aburman
+**[Railways](https://ello.co/ellorailways)** · Lead: @edbuzz
+
+**[Roller Coasters](https://ello.co/ellocoaster)** · Lead: @mooses
 
 **[Sports](https://ello.co/ellosport)** · Lead: @jpurvisturton
 
