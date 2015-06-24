@@ -15,43 +15,43 @@ In addition to most of the things you can do on Ello on the web, Ello’s iOS Ap
 We’re still working on the App. Here’s a list of features that are built, and those that are coming soon!
 
 ## Coming Soon
-* Post and Comment Editing
+* Post and comment editing
 * Video embed creation (Youtube, Vimeo, DailyMotion)
 * Audio embed creation (Soundcloud, Mixcloud)
-* Emoji Autocompleter
-* @mention Autocompleter
+* Emoji autocompleter
+* @mention autocompleter
 * Improved error handling
-* Content Search integration
+* Content search integration
 * Private accounts
-* Custom Emoji index
-* Private Messaging
+* Custom emoji index
+* Private messaging
 * Auto-push posts to other networks
-* Real Time Alerts
-* Private Messaging
-* Private Groups
-* Notification Center Filtering
-* Landscape for Videos and Images
+* Real time alerts
+* Private messaging
+* Private groups
+* Notification center filtering
+* Landscape for videos and images
 * Re-order content blocks within Omnibar
 * Omnibar post text advanced (bold, italic, urls)
-* Contextual Push Notifications
-* Improved WTF Integration
+* Contextual push notifications
+* Improved WTF integration
 * View blocked/muted users in settings
-* Animated Loading Indicators
-* Reply All
+* Animated loading indicators
+* Reply all
 * Add content to reposts
 
 
 ## Built
-* Onboarding Walkthrough
+* Onboarding walkthrough
 * Loves + Loves bookmarking stream
 * User search & content discovery
 * Commenting
 * Repost w/ author attribution
 * Notification Center
-* Blocking & Muting
+* Blocking & muting
 * Views per post
 * Find and invite friends
-* In-line Emoji integration
+* In-line emoji integration
 * View Followers & Following lists
 * Tutorial
 * WTF section (Help, About & Policies)
@@ -66,7 +66,7 @@ We’re still working on the App. Here’s a list of features that are built, an
 * Omnibar post Emoji
 * Omnibar delete posts
 * Time stamp displays post detail/permalink
-* Reply to Comments
+* Reply to comments
 * Push notifications
 
 **Note:**
