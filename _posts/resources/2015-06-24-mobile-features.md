@@ -6,9 +6,7 @@ categories: resources
 position: 4
 ---
 
-# Ello Mobile Apps
-
-## Ello App for iPhone & iPad
+# Ello App for iPhone & iPad
 
 Download the [Ello App](http://appstore.com/ello/ello) in the Apple App Store.
 
@@ -16,7 +14,7 @@ In addition to most of the things you can do on Ello on the web, Ello’s iOS Ap
 
 We’re still working on the App. Here’s a list of features that are built, and those that are coming soon!
 
-**Coming Soon**
+## Coming Soon
 Post and Comment Editing
 Video embed creation (Youtube, Vimeo, DailyMotion)
 Audio embed creation (Soundcloud, Mixcloud)
@@ -43,7 +41,7 @@ Reply All
 Add content to reposts
 
 
-**Built**
+## Built
 Onboarding Walkthrough
 Loves + Loves bookmarking stream
 User search & content discovery
@@ -83,7 +81,7 @@ If you want your posts to appear on Ello iOS, please set "Post Adult Content" to
 
 
 
-## Ello Apps for Android
+# Ello Apps for Android
 
 The Ello Android App is in the works!  
 
