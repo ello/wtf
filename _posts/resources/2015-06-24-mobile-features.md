@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "I am a title"
-title_alternate: "I am a title for the title bar"
-date: 2015-01-23 01:23:45 MDT
+title: "Ello Mobile Apps"
+date: 2015-06-24 01:23:45 MDT
 categories: resources
 position: 4
 ---
