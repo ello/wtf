@@ -15,59 +15,59 @@ In addition to most of the things you can do on Ello on the web, Ello’s iOS Ap
 We’re still working on the App. Here’s a list of features that are built, and those that are coming soon!
 
 ## Coming Soon
-Post and Comment Editing
-Video embed creation (Youtube, Vimeo, DailyMotion)
-Audio embed creation (Soundcloud, Mixcloud)
-Emoji Autocompleter
-@mention Autocompleter
-Improved error handling
-Content Search integration
-Private accounts
-Custom Emoji index
-Private Messaging
-Auto-push posts to other networks
-Real Time Alerts
-Private Messaging
-Private Groups
-Notification Center Filtering
-Landscape for Videos and Images
-Re-order content blocks within Omnibar
-Omnibar post text advanced (bold, italic, urls)
-Contextual Push Notifications
-Improved WTF Integration
-View blocked/muted users in settings
-Animated Loading Indicators
-Reply All
-Add content to reposts
+* Post and Comment Editing
+* Video embed creation (Youtube, Vimeo, DailyMotion)
+* Audio embed creation (Soundcloud, Mixcloud)
+* Emoji Autocompleter
+* @mention Autocompleter
+* Improved error handling
+* Content Search integration
+* Private accounts
+* Custom Emoji index
+* Private Messaging
+* Auto-push posts to other networks
+* Real Time Alerts
+* Private Messaging
+* Private Groups
+* Notification Center Filtering
+* Landscape for Videos and Images
+* Re-order content blocks within Omnibar
+* Omnibar post text advanced (bold, italic, urls)
+* Contextual Push Notifications
+* Improved WTF Integration
+* View blocked/muted users in settings
+* Animated Loading Indicators
+* Reply All
+* Add content to reposts
 
 
 ## Built
-Onboarding Walkthrough
-Loves + Loves bookmarking stream
-User search & content discovery
-Commenting
-Repost w/ author attribution
-Notification Center
-Blocking & Muting
-Views per post
-Find and invite friends
-In-line Emoji integration
-View Followers & Following lists
-Tutorial
-WTF section (Help, About & Policies)
-Post #, Follower # & Following #
-Image optimization
-Follow (Friends/Noise)
-Unfollow (Friends/Noise)
-Content flagging
-Omnibar post text (basic)
-Omnibar post images
-Omnibar post animated GIFs
-Omnibar post Emoji
-Omnibar delete posts
-Time stamp displays post detail/permalink
-Reply to Comments
-Push notifications
+* Onboarding Walkthrough
+* Loves + Loves bookmarking stream
+* User search & content discovery
+* Commenting
+* Repost w/ author attribution
+* Notification Center
+* Blocking & Muting
+* Views per post
+* Find and invite friends
+* In-line Emoji integration
+* View Followers & Following lists
+* Tutorial
+* WTF section (Help, About & Policies)
+* Post #, Follower # & Following #
+* Image optimization
+* Follow (Friends/Noise)
+* Unfollow (Friends/Noise)
+* Content flagging
+* Omnibar post text (basic)
+* Omnibar post images
+* Omnibar post animated GIFs
+* Omnibar post Emoji
+* Omnibar delete posts
+* Time stamp displays post detail/permalink
+* Reply to Comments
+* Push notifications
 
 **Note:**
 
