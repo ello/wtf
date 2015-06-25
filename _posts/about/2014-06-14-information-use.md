@@ -3,7 +3,7 @@ layout: post
 title:  "How Ello Uses Information"
 date:   2015-06-11 04:23:18 MDT
 categories: about
-position: 6
+position: 7
 ---
 When you use Ello, we collect some information related to your visit. This information helps us understand how people are using Ello, so we can make Ello better.
 
