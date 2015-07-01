@@ -6,7 +6,7 @@ categories: about
 position: 4
 ---
 
-![bill-of-rights](https://ello-staging-direct-uploads.s3.amazonaws.com/uploads/c491612e-632f-4ab3-82a3-c5a99a4c2607/ello-27a38e2b-3178-4cd0-b530-3a203e6f014d.gif)
+![bill-of-rights](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/693814/ello-xhdpi-b62bd5c3.jpg)
 
 Ello was created by seven artists as a beautiful & ad-free social network, an alternative to the status quo.
 
