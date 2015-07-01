@@ -26,4 +26,4 @@ All of these principles are the building blocks of Ello, and fundamental reasons
 
 **There is a better way.**
 
-[Sign & share the Ello Bill of Rights now.](https://bill-of-rights.ello.co/)
+[Sign & share the Ello Bill of Rights now](https://bill-of-rights.ello.co/).
