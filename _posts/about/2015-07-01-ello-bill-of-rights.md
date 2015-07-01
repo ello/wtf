@@ -6,48 +6,20 @@ categories: about
 position: 4
 ---
 
-TO ENCOURAGE an atmosphere of responsibility and transparency, while creating the most positive social network experience, Ello has created this bill of rights for all social network users.
-<br>
-**We believe:**
-<br>
-**I. You have the right to privacy.**
+![bill-of-rights](https://ello-staging-direct-uploads.s3.amazonaws.com/uploads/c491612e-632f-4ab3-82a3-c5a99a4c2607/ello-27a38e2b-3178-4cd0-b530-3a203e6f014d.gif)
 
-Data about you should not be collected, bought, or sold to third parties.<br><br>
+Ello was created by seven artists as a beautiful & ad-free social network, an alternative to the status quo.
 
-**II. You have the right not to be tracked.**
+We were fed up with big social networks that had grown cluttered with ads, that use algorithms to control what we see, and that are clearly more interested in collecting as much data as possible about us than maintaining a positive, inspiring community.
 
-You should be able to turn off tracking when you use a social network.<br><br>
+The situation has become like George Orwell’s 1984 — these corporations track and record everything we do, and sell us to the highest bidder for profit, manipulation, and control.
 
-**III. You have the right to control what you see.**
+To honor of the spirit of U.S. Independence Day on July 4, 2015, Ello released the Ello Bill of Rights for social networks.
 
-You should never be forced to see ads or boosted posts from people and companies that you haven’t chosen to follow.<br><br>
+The document outlines 10 basic rights that all social networks should provide to their users. These include rights to privacy and transparency, the right to control and own what you post, the right to relationships that won't be exploited for gain, the right to delete your account permanently at any time, and more.
 
-**IV. Your followers have the right to see everything you post publicly.**
+All of these principals are the building blocks of Ello, and fundamental reasons why this networks remains so beautiful, positive, and inspiring.
 
-What you see should not be controlled by algorithms that favor paid posts by advertisers over friends. Everyone that follows you should see everything you post for free.<br><br>
+**There is a better way.**
 
-**V. You have the right to own what you post.**
-
-You should not give up ownership of the things that you create when you post them on a social network.<br><br>
-
-**VI. You have the right to be anyone you want.**
-
-You’re safest when you control what you disclose on a social network. You should not be required to give your real name, age, sex, race, marital status, sexual orientation, religion, education, home address, or any other personal information which could be sold to third parties.<br><br>
-
-**VII. You have the right to relationships that won’t be exploited.**
-
-When a social network uses your network of friends to sell things, they violate your trust.<br><br>
-
-**VIII. You have the right to clear and transparent terms & conditions.**
-
-Terms should be written in simple language that you can understand.<br><br>
-
-**IX. You have the right to see all the data collected about you.**
-
-When a social network builds a secret dossier that you don’t have access to, it violates your privacy and threatens civil rights. Downloading your data should be as easy as clicking a button.<br><br>
-
-**X. You have the right to permanently delete your account.**
-
-Leaving your social network should be simple, hassle-free, and permanent.
-
-
+[Sign & share the Ello Bill of Rights now.](https://bill-of-rights.ello.co/)
