@@ -6,6 +6,10 @@ categories: about
 position: 4
 ---
 
+**Ello! PBC**
+
+**BILL OF RIGHTS**
+
 ![bill-of-rights](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/693814/ello-xhdpi-b62bd5c3.jpg)
 
 Ello was created by seven artists as a beautiful & ad-free social network, an alternative to the status quo.
