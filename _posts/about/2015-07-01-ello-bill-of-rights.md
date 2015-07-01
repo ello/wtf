@@ -8,9 +8,7 @@ position: 4
 
 TO ENCOURAGE an atmosphere of responsibility and transparency, while creating the most positive social network experience, Ello has created this bill of rights for all social network users.
 <br>
-<br>
 **We believe:**
-<br>
 <br>
 **I. You have the right to privacy.**
 
