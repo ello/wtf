@@ -7,44 +7,46 @@ position: 4
 ---
 
 TO ENCOURAGE an atmosphere of responsibility and transparency, while creating the most positive social network experience, Ello has created this bill of rights for all social network users.
-
+<br>
+<br>
 **We believe:**
-
+<br>
+<br>
 **I. You have the right to privacy.**
 
-Data about you should not be collected, bought, or sold to third parties.
+Data about you should not be collected, bought, or sold to third parties.<br><br>
 
 **II. You have the right not to be tracked.**
 
-You should be able to turn off tracking when you use a social network.
+You should be able to turn off tracking when you use a social network.<br><br>
 
 **III. You have the right to control what you see.**
 
-You should never be forced to see ads or boosted posts from people and companies that you haven’t chosen to follow.
+You should never be forced to see ads or boosted posts from people and companies that you haven’t chosen to follow.<br><br>
 
 **IV. Your followers have the right to see everything you post publicly.**
 
-What you see should not be controlled by algorithms that favor paid posts by advertisers over friends. Everyone that follows you should see everything you post for free.
+What you see should not be controlled by algorithms that favor paid posts by advertisers over friends. Everyone that follows you should see everything you post for free.<br><br>
 
 **V. You have the right to own what you post.**
 
-You should not give up ownership of the things that you create when you post them on a social network.
+You should not give up ownership of the things that you create when you post them on a social network.<br><br>
 
 **VI. You have the right to be anyone you want.**
 
-You’re safest when you control what you disclose on a social network. You should not be required to give your real name, age, sex, race, marital status, sexual orientation, religion, education, home address, or any other personal information which could be sold to third parties.
+You’re safest when you control what you disclose on a social network. You should not be required to give your real name, age, sex, race, marital status, sexual orientation, religion, education, home address, or any other personal information which could be sold to third parties.<br><br>
 
 **VII. You have the right to relationships that won’t be exploited.**
 
-When a social network uses your network of friends to sell things, they violate your trust.
+When a social network uses your network of friends to sell things, they violate your trust.<br><br>
 
 **VIII. You have the right to clear and transparent terms & conditions.**
 
-Terms should be written in simple language that you can understand.
+Terms should be written in simple language that you can understand.<br><br>
 
 **IX. You have the right to see all the data collected about you.**
 
-When a social network builds a secret dossier that you don’t have access to, it violates your privacy and threatens civil rights. Downloading your data should be as easy as clicking a button.
+When a social network builds a secret dossier that you don’t have access to, it violates your privacy and threatens civil rights. Downloading your data should be as easy as clicking a button.<br><br>
 
 **X. You have the right to permanently delete your account.**
 
