@@ -7,7 +7,7 @@ position: 6
 ---
 Ello is a [Public Benefit Corporation](/wtf/about/pbc/), with a legal obligation to never display paid third party advertising, sell user data to a third party, or sell our company to anyone that would ever do any of those things.
 
-We believe that the best privacy protection is transparency, so all of us can make smart choices about how to use Ello.
+We believe that the best privacy protection is transparency, so all of us can make smart choices about how to use Ello. Read Ello's Bill of Rights [here](https://bill-of-rights.ello.co/).
 
 Here is information about the data that Ello collects when you join our social network:
 
