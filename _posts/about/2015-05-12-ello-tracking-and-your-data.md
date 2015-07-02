@@ -23,6 +23,8 @@ In order to make Ello better, we do collect some anonymized user data through Go
 
 Furthermore, if you don’t even want to be tracked anonymously, you may opt-out of anonymous Google Analytics and Segment on your Ello settings page. Ello also respects do-not-track browser code and plugins.
 
+Ello also uses MailChimp to send out newsletters about product updates, feature releases and other relevant information. We may track open and click rates in MailChimp to make sure we’re not clogging your inbox with information you don’t care about. You can unsubscribe from newsletters on your settings page.
+
 Ello allows people to post third party media, such as YouTube, Vimeo, Soundcloud, and other streaming services, that may include embedded advertising. Ello doesn’t make money from ads shown in embedded media, and offers you the option to hide this media when using Ello if you don’t want to see it. Power to the people, right on.
 
 We’re always working on improving Ello, and will continue to enhance our privacy tools as Ello develops over time.
