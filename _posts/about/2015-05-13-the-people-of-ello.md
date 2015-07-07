@@ -18,14 +18,7 @@ Jay Zeschin, Chief Architect @jayzes
 
 ## Staff
 
-Micah Adams, Full Stack Engineer @larquin
-Eric Allen, Full Stack Engineer @ej
-Josh Anderson, Director of People @josha
-Bob Bonifield, Sr. Full Stack Engineer @bob
 Ryan Boyajian, Lead Developer @666
-Brandon Brisbon, Sr. Android Engineer @bris
-Aaron Brown, Director of Infrastructure @aayore
-Jason Collins, VP of Engineering @theoem
 Mike Conigliaro, Sr. DevOps Engineer @mconigliaro
 Casey Doran, Director of Product @dcdoran
 Sean Dougherty, Mobile Lead @sean
@@ -36,16 +29,12 @@ Brittany LaValley, Assistant and General Manager @be13
 Amanda Levinson, Acting Director of Marketing @amandalevinson
 Anna Quinlan, Community Manager @anna
 Pete Sheinbaum, Chief Operating Officer @sheinbaum
-Jesse Trimble, Full Stack Engineer @trmbl
 Ryan Tyer, Principal Scalability Engineer @rtyer
 Alexi Ueltzen, Community Evangelist @alexi
-Marc Wren, Product Developer @soulfresh
-Amber Young, Community Coordinator @amber
 Suttida Yang, Director of Marketing @suttida
 
 ## Dogs
 
 Potus @awww_potus
 Mr. Peanut @mrpeanut
-Ollie @olliethefrenchie
 Mochi @mochi
