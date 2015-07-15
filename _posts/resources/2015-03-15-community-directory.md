@@ -23,15 +23,16 @@ Have fun! :v:
 
 ## Ello-curated:
 
+**[DIY](https://ello.co/ellodiy)**
+
 **[Gifs](https://ello.co/ellogifs)**
 
 **[Jewelry](https://ello.co/ellojewelry)** 
 
-**[NSFW](https://ello.co/ellonsfw)**
-
 **[Science](https://ello.co/elloscience)**
 
-**[Whiskey](https://ello.co/ellowhiskey)**
+**[Yoga](https://ello.co/elloyoga)**
+
 
 ## Community-curated:
 
@@ -61,8 +62,6 @@ Have fun! :v:
 
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
 
-**[DIY](https://ello.co/ellodiy)** · Lead: @alexi
-
 **[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
 
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
@@ -70,6 +69,8 @@ Have fun! :v:
 **[Film](https://ello.co/ellofilm)** · Lead: @diogovarelasilva
 
 **[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
+
+**[Green](https://ello.co/ellogreen)** · Lead: @dredmorbius
 
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
@@ -92,6 +93,8 @@ Have fun! :v:
 **[Music (Hip Hop)](https://ello.co/ellohiphop)** · Lead: @ricojames
 
 **[Music (Trip Hop)](https://ello.co/ellotriphop)** · Lead: @tolv
+
+**[NSFW](https://ello.co/ellonsfw)** · Lead: @theoem
 
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
@@ -121,10 +124,12 @@ Have fun! :v:
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
+**[Whiskey](https://ello.co/ellowhiskey)** · Lead: @theoem
+
 **[Wine](https://ello.co/ellowine)** · Lead: @weinreporter
 
 **[Writing](https://ello.co/ellowrites)** · Lead: @kseniaanske
 
 **[Yoga](https://ello.co/elloyoga)** · Lead: @chelsea 
 
-**[Zen](https://ello.co/ellozen)** · Lead: @consciousflow
+**[Zen](https://ello.co/ellozen)** · Lead: TBD
