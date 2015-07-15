@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The People of Ello"
-date:   2015-06-11 01:23:45 MDT
+date:   2015-07-15 10:23:45 MDT
 categories: about
 position: 10
 ---
@@ -26,7 +26,6 @@ Andy Ennamorato, Full Stack Engineer @virtualandy
 Colin Gray, Senior iOS Engineer @colinta
 Chelsea Kantola, Community Coordinator @chelsea
 Brittany LaValley, Assistant and General Manager @be13
-Amanda Levinson, Acting Director of Marketing @amandalevinson
 Anna Quinlan, Community Manager @anna
 Pete Sheinbaum, Chief Operating Officer @sheinbaum
 Ryan Tyer, Principal Scalability Engineer @rtyer
@@ -35,6 +34,7 @@ Suttida Yang, Director of Marketing @suttida
 
 ## Dogs
 
-Potus @awww_potus
+Potus [@awww_potus](https://ello.co/awww_potus)
 Mr. Peanut @mrpeanut
 Mochi @mochi
+Nala @nala
