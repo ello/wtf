@@ -32,15 +32,6 @@
           </span>
         </span>
       </li>
-      {% assign sorted_categories = site.categories | sort %}
-      {% assign current_category  = page.categories | first %}
-      {% for category in sorted_categories %}
-        {% assign posts_category  = category | first %}
-        {% assign sorted_posts    = site.categories[posts_category] | sort: 'position' %}
-        {% assign first_post      = sorted_posts.first %}
-        {% assign first_category  = category | first %}
-        <li class="no_mobile"><a href="{{ site.baseurl }}{{ first_post.url }}"{% if current_category %}{% if current_category == first_category %} class="current"{% endif %}{% endif %}>{{ first_category | capitalize }}</a></li>
-      {% endfor %}
       <li class="no_mobile"><a href="/">Back to Ello</a></li>
     </ul>
   </nav>
