@@ -1,13 +1,13 @@
 <header class="top clear">
   <h1>
-    <a href="/">
+    <a href="{{ site.baseurl }}/" data-no-turbolink>
       <span class="icon">
         {% include svg/ello_icon.svg %}
       </span>
       <span class="label">{{ site.title }}</span>
     </a>
   </h1>
-  {% if site.header_title %}<h2 class="no_mobile">{{ site.header_title }}</h2>{% endif %}
+  {% if site.header_title %}<h2 class="no_mobile"><a href="{{ site.baseurl }}/">{{ site.header_title }}</a></h2>{% endif %}
 
   <nav>
     <ul>
