@@ -8,7 +8,7 @@ root.ElloWTFShared =
     ElloWTFShared.watchSearchHeader()
     ElloWTFShared.watchURLSearchTerms()
     ElloWTFShared.watchDrawerToggle()
-    ElloWTFShared.mobileWatchSearchToggle()
+    ElloWTFShared.watchSearchToggle()
     ElloWTFShared.mobileDrawerCategoryWatch()
 
   checkMobile: ->
@@ -103,15 +103,18 @@ root.ElloWTFShared =
       $('body').toggleClass('drawer_open')
       $('body').scrollTop 0
 
-  mobileWatchSearchToggle: ->
+  watchSearchToggle: ->
     $(".search_holder .trigger .search").click (e) ->
+      console.log 'yo, i clicked'
       e.preventDefault()
 
       $search_form = $(".search_holder")
       $search_box = $search_form.find("input")
       if $search_form.hasClass("expanded")
+        console.log 'wtf'
         $search_form.removeClass("expanded")
       else
+        console.log 'other no'
         $search_form.addClass("expanded")
         ElloWTFShared.resizeSearchBox()
         $search_box.focus()
@@ -125,7 +128,7 @@ root.ElloWTFShared =
       width = ($(window).width() - left - 30)
       $search_form.find('span.form').css('left',left).width(width)
     else if $(window).width() > 719 && $search_form.hasClass('expanded')
-      $search_form.removeClass("expanded")
+      # $search_form.removeClass("expanded") # might now need this anymore
       $search_form.find('span.form').removeAttr('style') # reset it in case previously fired
 
   mobileDrawerCategoryWatch: ->
