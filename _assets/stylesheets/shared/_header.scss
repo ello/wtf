@@ -55,6 +55,13 @@ header.top {
     font-size: $bigText_m;
     font-size: $bigTextLine_m;
     float: left;
+
+    strong,
+    em {
+      font-style: normal;
+      font-weight: 700;
+      font-family: $titleBold;
+    }
   }
 
   nav {
@@ -388,6 +395,12 @@ header.top {
 
     h1 {
       display: none;
+    }
+
+    h2 {
+      strong {
+        display: none;
+      }
     }
 
     nav {
