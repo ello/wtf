@@ -77,12 +77,13 @@ svg {
   }
   h2 {
     margin-bottom: 2.75rem;
-    color: $grey3;
+    color: $black;
     span {
       display: none;
     }
     a {
-      color: $grey3;
+      color: $black;
+      text-decoration: underline;
     }
   }
   ul {
@@ -95,6 +96,7 @@ svg {
       }
       a {
         display: block;
+        color: $grey3;
         text-decoration: underline;
 
         &:hover {
