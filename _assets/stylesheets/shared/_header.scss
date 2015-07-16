@@ -48,9 +48,12 @@ header.top {
   }
 
   h2 {
-    margin-top: 1.25rem;
-    font-family: $bodyNormal;
-    font-weight: 400;
+    margin-top: 1rem;
+    font-family: $titleBold;
+    font-style: normal;
+    font-weight: 700;
+    font-size: $bigText_m;
+    font-size: $bigTextLine_m;
     float: left;
   }
 

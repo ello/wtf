@@ -3,7 +3,7 @@
 ## title & header
 title: Ello | wtf
 subtitle: Help and other resources for Ello # only appears in the <title> tag of the site
-header_title: Beautiful & ad-free. # appears in the header when logged out
+header_title: Ello WTF # appears in the header when logged out
 
 ## meta tag content (also affects facebook og: tags)
 # meta description is overridden by the post excerpt on post pages
