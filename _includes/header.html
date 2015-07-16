@@ -41,17 +41,7 @@
         {% assign first_category  = category | first %}
         <li class="no_mobile"><a href="{{ site.baseurl }}{{ first_post.url }}"{% if current_category %}{% if current_category == first_category %} class="current"{% endif %}{% endif %}>{{ first_category | capitalize }}</a></li>
       {% endfor %}
-      <li class="tabs_holder">
-        <ul class="tabs">
-          <li>
-            <a class="btn-tab f" data-title="Friends" href="{{ site.webapp_url }}/friends" role="tab"><span>F<span class="full-label">riends</span></span></a>
-          </li>
-          <li class="last">
-            <a class="btn-tab n" data-title="Noise" href="{{ site.webapp_url }}/noise" role="tab"><span>N<span class="full-label">oise</span></span></a>
-          </li>
-        </ul>
-      </li>
-
+      <li class="no_mobile"><a href="/">Back to Ello</a></li>
     </ul>
   </nav>
 
