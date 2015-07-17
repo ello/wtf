@@ -52,6 +52,10 @@ body {
           color: $grey3;
           text-align: right;
           float: right;
+
+          &.timestamp {
+            padding-left: 10px;
+          }
         }
       }
 
