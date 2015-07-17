@@ -146,6 +146,9 @@ svg {
       margin-bottom: 1.2rem;
       li {
         margin-bottom: 0.75rem;
+        &.current {
+          display: none;
+        }
         a {
           color: $grey3;
           &:hover {
