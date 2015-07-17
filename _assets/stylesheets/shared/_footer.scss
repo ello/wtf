@@ -82,12 +82,79 @@ footer.bottom {
               }
             }
           }
+          &.threadless {
+            padding-bottom: 0.25rem;
+            span {
+              &.icon {
+                padding-top: 0rem;
+                margin-right: 15px;
+                svg {
+                  width: 18px;
+                  height: 16px;
+
+                  path {
+                    @include transition_fill(150ms);
+                    fill: $grey3;
+                  }
+                }
+              }
+            }
+          }
+          &.ios_app {
+            padding-bottom: 0.25rem;
+            span {
+              &.icon {
+                padding-top: 0rem;
+                margin-right: 15px;
+                svg {
+                  width: 18px;
+                  height: 16px;
+
+                  path,
+                  rect,
+                  ellipse {
+                    @include transition_fill(150ms);
+                    fill: $grey3;
+                  }
+                }
+              }
+            }
+          }
+          &.community_directory {
+            padding-bottom: 0.25rem;
+            span {
+              &.icon {
+                padding-top: 0rem;
+                margin-right: 15px;
+                svg {
+                  width: 18px;
+                  height: 16px;
+
+                  path,
+                  rect {
+                    @include transition_fill(150ms);
+                    fill: $grey3;
+                    &.stroke {
+                      fill: none;
+                      stroke: $grey3;
+                    }
+                  }
+                }
+              }
+            }
+          }
           &:hover {
             span {
               &.icon {
                 svg {
-                  path {
+                  path,
+                  rect,
+                  ellipse {
                     fill: $black;
+                    &.stroke {
+                      fill: none;
+                      stroke: $grey3;
+                    }
                     &.svg__bg {
                       fill: $black;
                     }
