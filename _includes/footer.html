@@ -56,7 +56,7 @@
       {% endif %}
     </ul>
 
-    {% assign footer_columns = "column-1|column-2|column-3" | split: "|" %}
+    {% assign footer_columns = "column-1|column-2" | split: "|" %}
     {% assign links_total = site.footer_links | size %}
     {% for column in footer_columns %}
       {% capture local_path %}{{ site.baseurl }}{{ page.url }}{% endcapture %}
