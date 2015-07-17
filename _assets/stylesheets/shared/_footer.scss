@@ -42,6 +42,10 @@ footer.bottom {
               float: left;
             }
           }
+          strong {
+            font-family: $bodyNormal;
+            font-weight: 400;
+          }
           &.ello {
             padding-bottom: 0.05rem;
             span {
@@ -174,6 +178,22 @@ footer.bottom {
       }
     }
   }  
+}
+
+@media only screen and (min-width : 720px) and (max-width : 914px) {
+  footer.bottom {
+    nav {
+      ul {
+        li {
+          a {
+            strong {
+              display: none;
+            }
+          }
+        }
+      }
+    }
+  }
 }
 
 @media only screen and (min-width : 1px) and (max-width : 719px) {
