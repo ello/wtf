@@ -111,12 +111,16 @@ body {
   body {
     &.article {
       .category.list {
-        padding-top: 1.75rem;
+        padding-top: 15px;
         width: 100%;
         float: none;
 
         h2 {
           display: none;
+        }
+
+        ul {
+          margin-top: 0;
         }
       }
 
@@ -181,6 +185,23 @@ body {
 
         article {
           max-width: 100%;
+
+          p {
+            &:last-child {
+              margin-bottom: 5px;
+            }
+          }
+        }
+      }
+      hr {
+        &.article_end {
+          display: block;
+          margin: 0 0 0 -10px;
+          padding: 0 10px 0 10px;
+          width: 100%;
+          -webkit-box-sizing: content-box;
+          -moz-box-sizing: content-box;
+          box-sizing: content-box;
         }
       }
     }
