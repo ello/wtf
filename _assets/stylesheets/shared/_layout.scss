@@ -48,7 +48,7 @@ svg {
 #search_content {
   position: relative;
   // padding-bottom: 2.5rem;
-  padding-bottom: $smallColumn_px + $smallColumn_px + 90px + 30px; // part of the hack to push footer down
+  padding-bottom: $smallColumn_px + $smallColumn_px + 15px + 90px + 30px; // part of the hack to push footer down
   width: 100%;
   min-height: 100%; // hack for pushing footer to bottom
   max-width: $layoutWidth_px;
