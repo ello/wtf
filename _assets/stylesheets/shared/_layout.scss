@@ -115,7 +115,7 @@ svg {
 
   #main_content,
   #search_content {
-    padding-bottom: $smallColumn_px + 10px + 30px; // part of the hack to push footer down
+    padding-bottom: ($smallColumn_px * 2.5) + 10px + 30px; // part of the hack to push footer down
     max-width: 100%;
   }
 
@@ -124,7 +124,7 @@ svg {
   }
   #mobile_drawer {
     position: relative;
-    padding-bottom: $smallColumn_px + 10px + 30px; // part of the hack to push footer down
+    padding-bottom: ($smallColumn_px * 2.5) + 10px + 30px; // part of the hack to push footer down
     width: 100%;
     min-height: 100%; // hack for pushing footer to bottom
   }

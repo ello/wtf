@@ -48,7 +48,7 @@ footer.bottom {
               
               &.icon {
                 padding-top: 0rem;
-                margin-right: 15px;
+                margin-right: 16px;
                 margin-left: 1px;
                 svg {
                   width: 16px;
@@ -90,11 +90,12 @@ footer.bottom {
             padding-bottom: 0.25rem;
             span {
               &.icon {
-                padding-top: 0rem;
-                margin-right: 15px;
+                padding-top: 0.05rem;
+                margin-right: 14px;
+                margin-left: -1px;
                 svg {
-                  width: 18px;
-                  height: 16px;
+                  width: 20px;
+                  height: 15px;
 
                   path {
                     @include transition_fill(150ms);
@@ -108,10 +109,11 @@ footer.bottom {
             padding-bottom: 0.25rem;
             span {
               &.icon {
-                padding-top: 0rem;
-                margin-right: 15px;
+                padding-top: 0.05rem;
+                margin-right: 19px;
+                margin-left: 3px;
                 svg {
-                  width: 18px;
+                  width: 11px;
                   height: 16px;
 
                   path,
@@ -128,11 +130,12 @@ footer.bottom {
             padding-bottom: 0.25rem;
             span {
               &.icon {
-                padding-top: 0rem;
-                margin-right: 15px;
+                padding-top: 0.05rem;
+                margin-right: 16px;
+                margin-left: 2px;
                 svg {
-                  width: 18px;
-                  height: 16px;
+                  width: 15px;
+                  height: 15px;
 
                   path,
                   rect {
@@ -177,7 +180,7 @@ footer.bottom {
   footer.bottom {
     padding-top: 10px;
     padding-bottom: 0;
-    height: $smallColumn_px + 10px; // part of the hack to push footer down
+    height: ($smallColumn_px * 2.5) + 10px; // part of the hack to push footer down
     max-width: 100%;
     nav {
       width: 100%;
@@ -185,27 +188,11 @@ footer.bottom {
         padding-right: 0;
         width: 100%;
         max-width: 100%;
-        &:nth-child(n+2) {
+        &:nth-child(n+3) {
           display: none;
         }
         li {
           margin-bottom: 0.25rem;
-          a {
-            &.ello {
-              span {
-                &.icon {
-                  margin-right: 7px;
-                }
-              }
-            }
-            &.twitter {
-              span {
-                &.icon {
-                  margin-right: 7px;
-                }
-              }
-            }
-          }
         }
       }
     }
