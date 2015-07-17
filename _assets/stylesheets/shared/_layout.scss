@@ -119,30 +119,6 @@ svg {
     max-width: 100%;
   }
 
-  #mobile_drawer {
-    display: none !important;
-  }
-  #mobile_drawer {
-    position: relative;
-    padding-bottom: ($smallColumn_px * 2.5) + 10px + 30px; // part of the hack to push footer down
-    width: 100%;
-    min-height: 100%; // hack for pushing footer to bottom
-  }
-
-
-  // show/hide the drawer content
-  body {
-    &.drawer_open {
-      #main_content {
-        display: none;
-      }
-      #mobile_drawer {
-        display: block !important;
-        width: 100%;
-      }
-    }
-  }
-
   .category {
     padding-right: 0;
     width: 100%;

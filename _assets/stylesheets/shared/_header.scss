@@ -354,62 +354,11 @@ header.top {
   }
 
   body {
-    &.drawer_open {
-      header.top {
-        h1 {
-          display: inline-block;
-          width: 30px;
-          height: 30px;
-
-          &.profile_link {
-            display: none;
-          }
-          a {
-            span {
-              &.icon {
-                svg {
-                  width: 30px;
-                  @include border_radius(30px);
-                }
-              }
-            }
-            img {
-              width: 30px;
-              @include border_radius(30px);
-            }
-          }
-        }
-        nav {
-          ul {
-            li {
-              &.drawer_toggle {
-                width: 20px;
-                float: right;
-              }
-              &.search_holder,
-              &.tabs_holder {
-                display: none;
-              }
-            }
-          }
-        }
-      }
-    }
     // &.logged_in {
     //   header.top {
     //     h1 {
     //       &.profile_link {
     //         display: none;
-    //       }
-    //     }
-    //   }
-    // }
-    // &.logged_in.drawer_open {
-    //   header.top {
-    //     h1 {
-    //       display: none;
-    //       &.profile_link {
-    //         display: inline-block;
     //       }
     //     }
     //   }
@@ -467,39 +416,6 @@ header.top {
             padding: 0;
             width: 100%;
             text-align: center;
-          }
-          &.drawer_toggle {
-            a {
-              span {
-                &.icon {
-                  display: block;
-                  width: 100%;
-                  height: $gutter_px;
-                  svg {
-                    margin-top: 0.3rem;
-                    width: 20px;
-                    path {
-                      fill: $grey3;
-                      @include transition_fill(150ms);
-                    }
-                  }
-                }
-                &.label {
-                  display: none;
-                }
-              }
-              &:hover {
-                span {
-                  &.icon {
-                    svg {
-                      path {
-                        fill: $black;
-                      }
-                    }
-                  }
-                }
-              }
-            }
           }
           &.search_holder {
             margin: 0;
@@ -606,62 +522,11 @@ header.top {
   }
 
   body {
-    &.drawer_open {
-      header.top {
-        h1 {
-          display: inline-block;
-          width: 30px;
-          height: 30px;
-
-          &.profile_link {
-            display: none;
-          }
-          a {
-            span {
-              &.icon {
-                svg {
-                  width: 30px;
-                  @include border_radius(30px);
-                }
-              }
-            }
-            img {
-              width: 30px;
-              @include border_radius(30px);
-            }
-          }
-        }
-        nav {
-          ul {
-            li {
-              &.drawer_toggle {
-                width: 20px;
-                float: right;
-              }
-              &.search_holder,
-              &.tabs_holder {
-                display: none;
-              }
-            }
-          }
-        }
-      }
-    }
     // &.logged_in {
     //   header.top {
     //     h1 {
     //       &.profile_link {
     //         display: none;
-    //       }
-    //     }
-    //   }
-    // }
-    // &.logged_in.drawer_open {
-    //   header.top {
-    //     h1 {
-    //       display: none;
-    //       &.profile_link {
-    //         display: inline-block;
     //       }
     //     }
     //   }
