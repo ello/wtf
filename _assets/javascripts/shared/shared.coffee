@@ -7,7 +7,6 @@ root.ElloWTFShared =
     ## other shared functions
     ElloWTFShared.watchSearchHeader()
     ElloWTFShared.watchURLSearchTerms()
-    ElloWTFShared.watchDrawerToggle()
     ElloWTFShared.watchSearchToggle()
     ElloWTFShared.mobileDrawerCategoryWatch()
 
@@ -96,12 +95,6 @@ root.ElloWTFShared =
       $(".search_holder .form").removeClass("inactive")
       $(".search_holder").addClass("expanded")
       $("#search_content h1 .search_term em").text("#{decoded_search_term}")
-
-  watchDrawerToggle: ->
-    $("header.top .drawer_toggle a").click (e) ->
-      e.preventDefault()
-      $('body').toggleClass('drawer_open')
-      $('body').scrollTop 0
 
   watchSearchToggle: ->
     $(".search_holder .trigger .search").click (e) ->

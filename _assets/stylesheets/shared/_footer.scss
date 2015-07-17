@@ -197,24 +197,4 @@ footer.bottom {
       }
     }
   }
-
-  body {
-    &.drawer_open {
-      footer.bottom {
-        nav {
-          ul {
-            &:first-child {
-              display: none;
-            }
-            &:nth-child(n+2) {
-              display: inline;
-            }
-            &:nth-child(n+3) {
-              display: none;
-            }
-          }
-        }
-      }
-    }
-  }
 }
