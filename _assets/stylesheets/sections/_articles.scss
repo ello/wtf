@@ -111,12 +111,16 @@ body {
   body {
     &.article {
       .category.list {
-        padding-top: 1.75rem;
+        padding-top: 15px;
         width: 100%;
         float: none;
 
         h2 {
           display: none;
+        }
+
+        ul {
+          margin-top: 0;
         }
       }
 
@@ -132,22 +136,15 @@ body {
         }
 
         h2 {
-          margin: 1.75rem -10px 20px -10px;
-          padding-bottom: 20px;
-          width: 100%;
+          margin-top: 1.75rem;
+          margin-bottom: 1.5rem;
           font-family: $titleBold;
           font-size: $bigText_m;
           line-height: $bigTextLine_m;
-          border-bottom: 1px solid $grey1;
-
-          a {
-            padding: 0 10px 0 10px;
-            width: 100%;
-            color: $black;
-          }
         }
 
         header {
+          position: relative;
           width: 100%;
           max-width: 100%;
           h1 {
@@ -157,11 +154,26 @@ body {
             clear: both;
           }
           h2 {
-            margin-top: 0;
-            margin-bottom: 1.2rem;
-            color: $grey3;
+            display: block;
+            margin: 0 0 20px -10px;
+            padding: 0 10px 20px 10px;
+            width: 100%;
+            font-family: $titleBold;
+            font-size: $bigText_m;
+            line-height: $bigTextLine_m;
+            border-bottom: 1px solid $grey1;
+            -webkit-box-sizing: content-box;
+            -moz-box-sizing: content-box;
+            box-sizing: content-box;
             float: none;
             clear: both;
+
+            a {
+              display: block;
+              // padding: 0 10px 0 10px;
+              width: 100%;
+              color: $black;
+            }
           }
           p {
             margin: 0 0 1.5rem;
@@ -173,6 +185,23 @@ body {
 
         article {
           max-width: 100%;
+
+          p {
+            &:last-child {
+              margin-bottom: 5px;
+            }
+          }
+        }
+      }
+      hr {
+        &.article_end {
+          display: block;
+          margin: 0 0 0 -10px;
+          padding: 0 10px 0 10px;
+          width: 100%;
+          -webkit-box-sizing: content-box;
+          -moz-box-sizing: content-box;
+          box-sizing: content-box;
         }
       }
     }
