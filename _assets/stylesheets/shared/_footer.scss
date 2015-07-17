@@ -13,9 +13,13 @@ footer.bottom {
     ul {
       display: block;
       padding-right: $smallColumn_px;
-      width: 25%;
+      width: percentage(($largeColumn + $smallColumn) / $layoutWidth);
       max-width: $largeColumn_px + $smallColumn_px;
       float: left;
+
+      &:nth-child(4n) {
+        width: percentage(($largeColumn) / $layoutWidth);
+      }
       // background-color: rgba(blue,0.1);
       li {
         display: block;        
