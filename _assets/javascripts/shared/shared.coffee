@@ -10,34 +10,6 @@ root.ElloWTFShared =
     ElloWTFShared.watchDrawerToggle()
     ElloWTFShared.mobileWatchSearchToggle()
     ElloWTFShared.mobileDrawerCategoryWatch()
-    ElloWTFShared.trackPageChange()
-    ElloWTFShared.disableTurbolinksForElloWebLinks()
-
-  disableTurbolinksForElloWebLinks: ->
-    unless root.ELLO_WEB_TURBOLINKS_DISABLED?
-      root.ELLO_WEB_TURBOLINKS_DISABLED = true
-
-      $(document).on 'page:before-change', (e) ->
-        if (url = e.originalEvent.data.url)
-          uri = document.createElement('a')
-          uri.href = url
-
-          unless uri.pathname.match(/\/wtf/)
-            e.preventDefault()
-            window.location.href = url
-
-  trackPageChange: ->
-    # This script is sourced once on every pageload. We only want to register
-    # the segment listener once, so hack around the multi sourcing of this
-    # script with a root variable.
-    unless root.SEGMENT_LISTENING?
-      root.SEGMENT_LISTENING = true
-
-      $(document).on 'page:change', ->
-        loc = window.location
-        fullUrl = "#{loc.protocol}//#{loc.hostname}#{loc.pathname}#{loc.search}"
-        window.analytics?.page(url: fullUrl, path: loc.pathname)
-
 
   checkMobile: ->
     if /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)
