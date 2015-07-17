@@ -94,6 +94,7 @@ root.ElloWTFShared =
       $(".search_holder .form input").val("#{decoded_search_term}")
       $(".search_holder .form").removeClass("inactive")
       $(".search_holder").addClass("expanded")
+      $("header.top").addClass("search_open")
       $("#search_content h1 .search_term em").text("#{decoded_search_term}")
 
   watchSearchToggle: ->
@@ -106,9 +107,11 @@ root.ElloWTFShared =
       if $search_form.hasClass("expanded")
         console.log 'wtf'
         $search_form.removeClass("expanded")
+        $("header.top").removeClass("search_open")
       else
         console.log 'other no'
         $search_form.addClass("expanded")
+        $("header.top").addClass("search_open")
         ElloWTFShared.resizeSearchBox()
         $search_box.focus()
 

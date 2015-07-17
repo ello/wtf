@@ -328,7 +328,7 @@ header.top {
   }
 
   header.top {
-    padding: 15px 10px 10px 10px;
+    padding: 10px;
     // background-color: yellow;
 
     h1 {
@@ -358,6 +358,12 @@ header.top {
         font-weight: 400;
       }
       strong {
+        display: none;
+      }
+    }
+
+    &.search_open {
+      h1, h2 {
         display: none;
       }
     }
@@ -420,15 +426,18 @@ header.top {
             }
             &.expanded {
               span {
+                &.trigger {
+                  position: absolute;
+                  left: 10px;
+                }
                 &.form {
                   display: inline-block;
                   position: absolute;
                   top: 1px;
-                  left: percentage(2/8);
-                  // left: 0;
-                  padding: 20px 10px 30px 10px;
+                  left: 35px;
+                  padding: 15px 45px 30px 10px;
                   margin-left: 0;
-                  width: percentage(6/8);
+                  width: 100%;
                   z-index: 10;
                   // background-color: rgba(purple,0.6);
                   background-color: $white;
