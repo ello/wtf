@@ -135,22 +135,36 @@ svg {
       float: none;
     }
     h2 {
-      margin-bottom: 1.2rem;
+      margin-bottom: 0;
+      margin-left: -10px;
+      margin-right: -10px;
       color: $black;
       a {
+        display: block;
+        padding: 20px 10px 20px 10px;
         color: $black;
+        text-decoration: none;
       }
+      border-bottom: 1px solid $grey1;
+    }
+    &:first-child {
+      margin-top: -20px;
     }
     ul {
       float: none;
-      margin-bottom: 1.2rem;
+      margin: 20px -10px 0 -10px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid $grey1;
       li {
         margin-bottom: 0.75rem;
         &.current {
           display: none;
         }
         a {
+          padding-left: 10px;
+          padding-right: 10px;
           color: $grey3;
+          text-decoration: none;
           &:hover {
             color: $black;
           }
@@ -161,17 +175,9 @@ svg {
     &.main {
       ul {
         display: none;
-        margin-left: 26px;
       }
 
       &.expanded {
-        h2 {
-          span {
-            svg {
-              @include transform_rotate(-90deg);
-            }
-          }
-        }
         ul {
           display: block;
         }
