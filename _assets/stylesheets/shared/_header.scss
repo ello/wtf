@@ -332,10 +332,31 @@ header.top {
     // background-color: yellow;
 
     h1 {
-      display: none;
+      margin-right: 15px;
+      width: 30px;
+      height: 30px;
+      a {
+        span {
+          &.icon {
+            svg {
+              width: 30px;
+            }
+          }
+        }
+      }
     }
 
     h2 {
+      margin-top: 0.5rem;
+      font-family: $bodyNormal;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 0.75rem;
+      em {
+        font-family: $bodyNormal;
+        font-style: normal;
+        font-weight: 400;
+      }
       strong {
         display: none;
       }
@@ -346,17 +367,12 @@ header.top {
       float: none;
 
       ul {
-        width: 100%;
-        margin-top: 0;
+        margin-top: 8px;
         // background-color: purple;
-        float: none;
         li {
           display: block;
-          width: 12.5%;
           float: left;
           // background-color: rgba(red,0.3);
-
-
           a {
             padding: 0;
             width: 100%;
@@ -364,7 +380,9 @@ header.top {
           }
           &.search_holder {
             margin: 0;
-            width: 12.5%;
+            margin-top: -2px;
+            margin-right: 1rem;
+            width: 20px;
             // background-color: rgba(red,0.5);
 
             span {
@@ -377,8 +395,10 @@ header.top {
                 width: 100%;              
                 a {
                   display: block;
+                  &.label {
+                    display: none;
+                  }
                   svg {
-                    margin-top: 0.4rem;
                     width: 14px;
                     path {
                       @include transition_fill(150ms);
