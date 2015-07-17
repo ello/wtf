@@ -48,7 +48,7 @@ svg {
 #search_content {
   position: relative;
   // padding-bottom: 2.5rem;
-  padding-bottom: $smallColumn_px + $smallColumn_px + 90px + 30px; // part of the hack to push footer down
+  padding-bottom: $smallColumn_px + $smallColumn_px + 15px + 90px + 30px; // part of the hack to push footer down
   width: 100%;
   min-height: 100%; // hack for pushing footer to bottom
   max-width: $layoutWidth_px;
@@ -77,12 +77,13 @@ svg {
   }
   h2 {
     margin-bottom: 2.75rem;
-    color: $grey3;
+    color: $black;
     span {
       display: none;
     }
     a {
-      color: $grey3;
+      color: $black;
+      text-decoration: underline;
     }
   }
   ul {
@@ -95,6 +96,7 @@ svg {
       }
       a {
         display: block;
+        color: $grey3;
         text-decoration: underline;
 
         &:hover {
@@ -113,32 +115,8 @@ svg {
 
   #main_content,
   #search_content {
-    padding-bottom: $smallColumn_px + 10px + 30px; // part of the hack to push footer down
+    padding-bottom: ($smallColumn_px * 2.5) + 10px + 30px; // part of the hack to push footer down
     max-width: 100%;
-  }
-
-  #mobile_drawer {
-    display: none !important;
-  }
-  #mobile_drawer {
-    position: relative;
-    padding-bottom: $smallColumn_px + 10px + 30px; // part of the hack to push footer down
-    width: 100%;
-    min-height: 100%; // hack for pushing footer to bottom
-  }
-
-
-  // show/hide the drawer content
-  body {
-    &.drawer_open {
-      #main_content {
-        display: none;
-      }
-      #mobile_drawer {
-        display: block !important;
-        width: 100%;
-      }
-    }
   }
 
   .category {
@@ -157,19 +135,36 @@ svg {
       float: none;
     }
     h2 {
-      margin-bottom: 1.2rem;
+      margin-bottom: 0;
+      margin-left: -10px;
+      margin-right: -10px;
       color: $black;
       a {
+        display: block;
+        padding: 20px 10px 20px 10px;
         color: $black;
+        text-decoration: none;
       }
+      border-bottom: 1px solid $grey1;
+    }
+    &:first-child {
+      margin-top: -20px;
     }
     ul {
       float: none;
-      margin-bottom: 1.2rem;
+      margin: 20px -10px 0 -10px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid $grey1;
       li {
         margin-bottom: 0.75rem;
+        &.current {
+          display: none;
+        }
         a {
+          padding-left: 10px;
+          padding-right: 10px;
           color: $grey3;
+          text-decoration: none;
           &:hover {
             color: $black;
           }
@@ -178,49 +173,11 @@ svg {
     }
 
     &.main {
-      h2 {
-        span {
-          display: inline-block;
-          margin-right: 6px;
-          width: 15px;
-          svg {
-            width: 100%;
-            g {
-              polygon,
-              path {
-                fill: $grey3;
-                @include transition_fill(150ms);
-              }
-            }
-          }
-        }
-        &:hover {
-          cursor: pointer;
-          span {
-            svg {
-              g {
-                polygon,
-                path {
-                  fill: $black
-                }
-              }
-            }
-          }
-        }
-      }
       ul {
         display: none;
-        margin-left: 26px;
       }
 
       &.expanded {
-        h2 {
-          span {
-            svg {
-              @include transform_rotate(-90deg);
-            }
-          }
-        }
         ul {
           display: block;
         }
