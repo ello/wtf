@@ -99,17 +99,14 @@ root.ElloWTFShared =
 
   watchSearchToggle: ->
     $(".search_holder .trigger .search").click (e) ->
-      console.log 'yo, i clicked'
       e.preventDefault()
 
       $search_form = $(".search_holder")
       $search_box = $search_form.find("input")
       if $search_form.hasClass("expanded")
-        console.log 'wtf'
         $search_form.removeClass("expanded")
         $("header.top").removeClass("search_open")
       else
-        console.log 'other no'
         $search_form.addClass("expanded")
         $("header.top").addClass("search_open")
         ElloWTFShared.resizeSearchBox()
