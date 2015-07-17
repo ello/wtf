@@ -231,9 +231,6 @@ header.top {
           padding: 0;
           display: inline-block;
           height: 1.875rem;
-          // &.logged_in {
-          //   display: none;
-          // }
           a {
             padding: 0.3125rem 0.625rem;
             color: $grey3;
@@ -251,46 +248,6 @@ header.top {
     }
   }
 }
-
-// ------------ logged in version
-
-// body {
-//   &.logged_in {
-//     header.top {
-//       h2 {
-//         display: none;
-//       }
-
-//       h1 {
-//         display: none;
-//         &.profile_link {
-//           display: inline-block;
-//         }
-//         a {
-//           img {
-//             width: 60px;
-//             @include border_radius(60px);
-//           }
-//         }
-//       }
-//       nav {
-//         ul {
-//           &.tabs {
-//             li {
-//               display: none;
-//               &.logged_in {
-//                 display: inline-block;
-//                 span {
-//                   display: inline-block;
-//                 }
-//               }
-//             }
-//           }
-//         }
-//       }
-//     }
-//   }
-// }
 
 @media only screen and (min-width : 720px) and (max-width : 1150px) {
 
@@ -351,18 +308,6 @@ header.top {
         }
       }
     }
-  }
-
-  body {
-    // &.logged_in {
-    //   header.top {
-    //     h1 {
-    //       &.profile_link {
-    //         display: none;
-    //       }
-    //     }
-    //   }
-    // }
   }
 
 }
@@ -506,31 +451,10 @@ header.top {
                 }
               }
             }
-            // &.logged_in {
-            //   a {
-            //     span {
-            //       &.full-label {
-            //         display: none;
-            //       }
-            //     }
-            //   }
-            // }
           }
         }
       }
     }
-  }
-
-  body {
-    // &.logged_in {
-    //   header.top {
-    //     h1 {
-    //       &.profile_link {
-    //         display: none;
-    //       }
-    //     }
-    //   }
-    // }
   }
 
 }
