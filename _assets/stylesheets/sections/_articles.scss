@@ -132,11 +132,19 @@ body {
         }
 
         h2 {
-          margin-top: 1.75rem;
-          margin-bottom: 1.5rem;
+          margin: 1.75rem -10px 20px -10px;
+          padding-bottom: 20px;
+          width: 100%;
           font-family: $titleBold;
           font-size: $bigText_m;
           line-height: $bigTextLine_m;
+          border-bottom: 1px solid $grey1;
+
+          a {
+            padding: 0 10px 0 10px;
+            width: 100%;
+            color: $black;
+          }
         }
 
         header {
