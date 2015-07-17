@@ -4,18 +4,22 @@ footer.bottom {
   position: absolute;
   bottom: 0;
   padding-top: $smallColumn_px;
-  padding-bottom: $smallColumn_px - 15px;
+  padding-bottom: $smallColumn_px;
   width: 100%;
-  height: $smallColumn_px + $smallColumn_px - 15px + 90px; // part of the hack to push footer down
+  height: $smallColumn_px + $smallColumn_px + 90px; // part of the hack to push footer down
   max-width: $layoutWidth_px + $gutter_px;
   nav {
     width: 100%;
     ul {
       display: block;
       padding-right: $smallColumn_px;
-      width: 25%;
+      width: percentage(($largeColumn + $smallColumn) / $layoutWidth);
       max-width: $largeColumn_px + $smallColumn_px;
       float: left;
+
+      &:nth-child(4n) {
+        width: percentage(($largeColumn) / $layoutWidth);
+      }
       // background-color: rgba(blue,0.1);
       li {
         display: block;        
@@ -38,13 +42,17 @@ footer.bottom {
               float: left;
             }
           }
+          strong {
+            font-family: $bodyNormal;
+            font-weight: 400;
+          }
           &.ello {
             padding-bottom: 0.05rem;
             span {
               
               &.icon {
                 padding-top: 0rem;
-                margin-right: 15px;
+                margin-right: 16px;
                 margin-left: 1px;
                 svg {
                   width: 16px;
@@ -82,12 +90,82 @@ footer.bottom {
               }
             }
           }
+          &.threadless {
+            padding-bottom: 0.25rem;
+            span {
+              &.icon {
+                padding-top: 0.05rem;
+                margin-right: 14px;
+                margin-left: -1px;
+                svg {
+                  width: 20px;
+                  height: 15px;
+
+                  path {
+                    @include transition_fill(150ms);
+                    fill: $grey3;
+                  }
+                }
+              }
+            }
+          }
+          &.ios_app {
+            padding-bottom: 0.25rem;
+            span {
+              &.icon {
+                padding-top: 0.05rem;
+                margin-right: 19px;
+                margin-left: 3px;
+                svg {
+                  width: 11px;
+                  height: 16px;
+
+                  path,
+                  rect,
+                  ellipse {
+                    @include transition_fill(150ms);
+                    fill: $grey3;
+                  }
+                }
+              }
+            }
+          }
+          &.community_directory {
+            padding-bottom: 0.25rem;
+            span {
+              &.icon {
+                padding-top: 0.05rem;
+                margin-right: 16px;
+                margin-left: 2px;
+                svg {
+                  width: 15px;
+                  height: 15px;
+
+                  path,
+                  rect {
+                    @include transition_fill(150ms);
+                    fill: $grey3;
+                    &.stroke {
+                      fill: none;
+                      stroke: $grey3;
+                    }
+                  }
+                }
+              }
+            }
+          }
           &:hover {
             span {
               &.icon {
                 svg {
-                  path {
+                  path,
+                  rect,
+                  ellipse {
                     fill: $black;
+                    &.stroke {
+                      fill: none;
+                      stroke: $grey3;
+                    }
                     &.svg__bg {
                       fill: $black;
                     }
@@ -102,11 +180,27 @@ footer.bottom {
   }  
 }
 
+@media only screen and (min-width : 720px) and (max-width : 914px) {
+  footer.bottom {
+    nav {
+      ul {
+        li {
+          a {
+            strong {
+              display: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
 @media only screen and (min-width : 1px) and (max-width : 719px) {
   footer.bottom {
     padding-top: 10px;
     padding-bottom: 0;
-    height: $smallColumn_px + 10px; // part of the hack to push footer down
+    height: ($smallColumn_px * 2.5) + 15px; // part of the hack to push footer down
     max-width: 100%;
     nav {
       width: 100%;
@@ -114,47 +208,11 @@ footer.bottom {
         padding-right: 0;
         width: 100%;
         max-width: 100%;
-        &:nth-child(n+2) {
+        &:nth-child(n+3) {
           display: none;
         }
         li {
           margin-bottom: 0.25rem;
-          a {
-            &.ello {
-              span {
-                &.icon {
-                  margin-right: 7px;
-                }
-              }
-            }
-            &.twitter {
-              span {
-                &.icon {
-                  margin-right: 7px;
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-
-  body {
-    &.drawer_open {
-      footer.bottom {
-        nav {
-          ul {
-            &:first-child {
-              display: none;
-            }
-            &:nth-child(n+2) {
-              display: inline;
-            }
-            &:nth-child(n+3) {
-              display: none;
-            }
-          }
         }
       }
     }

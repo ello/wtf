@@ -3,7 +3,6 @@
 ## title & header
 title: Ello | wtf
 subtitle: Help and other resources for Ello # only appears in the <title> tag of the site
-header_title: Beautiful & ad-free. # appears in the header when logged out
 
 ## meta tag content (also affects facebook og: tags)
 # meta description is overridden by the post excerpt on post pages
@@ -27,11 +26,11 @@ segment_write_key: abcdef # overridden by the SEGMENT_WRITE_KEY environment vari
 ## Footer settings + links
 ello_username: ello
 twitter_username: elloworld
+community_directory_link: "/wtf/resources/community-directory/"
+ios_app_store_link: "http://appstore.com/ello/ello"
+threadless_store_link: "http://ello.threadless.com/"
+
 footer_links: # Ello links should ommit the 'http://ello.co' and start with a slash (i.e. http://ello.co/wtf/resources/community-directory/ --> /wtf/resources/community-directory/)
-- text: Ello x Threadless Store
-  url: http://ello.threadless.com/
-- text: Ello Community Directory
-  url: /wtf/resources/community-directory/
 - text: Ello Manifesto
   url: /wtf/about/ello-manifesto/
 - text: Contact Ello

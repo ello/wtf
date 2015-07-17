@@ -106,9 +106,8 @@
         &.results {
           h2 {
             margin-bottom: 0.5rem;
-
             a {
-              text-decoration: underline;
+              text-decoration: none;
 
               &:hover {
                 color: $grey3;
@@ -119,17 +118,20 @@
             margin: 0;
             span.more {
               a {
-                color: $black;
+                color: $grey3;
                 border-bottom: 1px solid;
                 &:hover {
-                  color: $grey3;
+                  color: $black;
                 }
               }
             }
           }
           article {
             &.result {
-              margin-bottom: 1.25rem;
+              margin: 0 (-$gutter_px - 10px) 20px -10px;
+              padding: 0 ($gutter_px + 10px) 20px 10px;
+
+              border-bottom: 1px solid $grey1;
             }
           }
         }

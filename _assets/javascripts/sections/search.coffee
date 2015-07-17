@@ -77,7 +77,7 @@ root.ElloWTFSearch =
     $('#main_content').hide()
     $('#search_content').show()
 
-    console.log window.location
+    # console.log window.location
 
     if (history.pushState)      
       if search_term.length > 0
@@ -90,7 +90,7 @@ root.ElloWTFSearch =
       title = "Search for: “#{search_term}” | #{base_title}"
       window.history.pushState(title, title, link)
 
-      console.log link
+      # console.log link
   
 $(document).ready ->
   ElloWTFSearch.init()
