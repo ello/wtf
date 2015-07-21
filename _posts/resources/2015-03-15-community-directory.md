@@ -38,6 +38,8 @@ Have fun! :v:
 
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
+**[Auto](https://ello.co/elloauto)** · Lead: @fulltilt
+
 **[Backcountry](https://ello.co/ellobackcountry)** · Lead: @dutchess70
 
 **[Books](https://ello.co/ellobooks)** · Lead: @vivlio
@@ -46,7 +48,11 @@ Have fun! :v:
 
 **[Bridges](https://ello.co/ellobridges)** · Lead: @anthonystevens
 
+**[Business](https://ello.co/ellobusiness)** · Lead: @youngstapreneur
+
 **[Cars](https://ello.co/ellocars)** · Lead: @omni-car
+
+**[Coffee](https://ello.co/ellocoffee)** · Lead: @scafa 
 
 **[Collage](https://ello.co/ellocollage)** · Leads: @rubenb & @maxomatic
 
@@ -64,9 +70,13 @@ Have fun! :v:
 
 **[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
 
+**[Equestrian](https://ello.co/elloequestrian)** · Lead: @sophiesoloneventing
+
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
 
 **[Film](https://ello.co/ellofilm)** · Lead: @diogovarelasilva
+
+**[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & @fashionsabi
 
 **[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
 
@@ -79,6 +89,8 @@ Have fun! :v:
 **[Literature](https://ello.co/elloliterature)** · Lead: @runspotrun
 
 **[Lucid Dreams](https://ello.co/elloluciddreams)** · Lead: @marcelleliemantiemant
+
+**[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
 **[Motorcycles](https://ello.co/ellomotorcycles)** · Lead: @joycomplex
 
@@ -96,6 +108,10 @@ Have fun! :v:
 
 **[NSFW](https://ello.co/ellonsfw)** · Lead: @theoem
 
+**[Outside](https://ello.co/ellooutside)** · Lead: @wasimofnazareth
+
+**[Painting](https://ello.co/ellopainting)** · Lead: @laurenmgeorge
+
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
@@ -107,6 +123,8 @@ Have fun! :v:
 **[Railways](https://ello.co/ellorailways)** · Lead: @edbuzz
 
 **[Roller Coasters](https://ello.co/ellocoaster)** · Lead: @mooses
+
+**[Sound Design](https://ello.co/sounddesign)** · Lead: @le-siul
 
 **[Sports](https://ello.co/ellosport)** · Lead: @jpurvisturton
 
@@ -130,6 +148,4 @@ Have fun! :v:
 
 **[Writing](https://ello.co/ellowrites)** · Lead: @kseniaanske
 
-**[Yoga](https://ello.co/elloyoga)** · Lead: @chelsea 
-
-**[Zen](https://ello.co/ellozen)** · Lead: TBD
+**[Zen](https://ello.co/ellozen)** · Lead: @afurst
