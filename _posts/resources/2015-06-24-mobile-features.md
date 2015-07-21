@@ -3,7 +3,7 @@ layout: post
 title: "Ello Mobile Apps"
 date: 2015-06-24 01:23:45 MDT
 categories: resources
-position: 4
+position: 3
 ---
 
 # Ello App for iPhone & iPad
