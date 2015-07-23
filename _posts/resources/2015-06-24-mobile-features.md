@@ -81,7 +81,7 @@ If you want your posts to appear on Ello iOS, please set "Post Adult Content" to
 
 
 
-## Ello Apps for Android
+## Ello App for Android
 
 The Ello Android App is in the works!  
 
