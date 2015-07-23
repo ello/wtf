@@ -133,8 +133,6 @@ Have fun! :v:
 
 **[Travel](https://ello.co/ellotravel)** · Lead: @andreameli
 
-**[Typography](https://ello.co/ellotypography)** · Lead: @johnfarrell
-
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
 **[Whiskey](https://ello.co/ellowhiskey)** · Lead: @theoem
