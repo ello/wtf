@@ -6,7 +6,7 @@ categories: resources
 position: 4
 ---
 
-# Ello App for iPhone & iPad
+## Ello App for iPhone & iPad
 
 Download the [Ello App](http://appstore.com/ello/ello) in the Apple App Store.
 
@@ -81,7 +81,7 @@ If you want your posts to appear on Ello iOS, please set "Post Adult Content" to
 
 
 
-# Ello Apps for Android
+## Ello Apps for Android
 
 The Ello Android App is in the works!  
 
