@@ -21,19 +21,6 @@ Have fun! :v:
 
 ---
 
-## Ello-curated:
-
-**[DIY](https://ello.co/ellodiy)**
-
-**[Gifs](https://ello.co/ellogifs)**
-
-**[Jewelry](https://ello.co/ellojewelry)** 
-
-**[Science](https://ello.co/elloscience)**
-
-**[Yoga](https://ello.co/elloyoga)**
-
-
 ## Community-curated:
 
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
@@ -68,6 +55,8 @@ Have fun! :v:
 
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
 
+**[DIY](https://ello.co/ellodiy)** · Lead: @alexi
+
 **[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
 
 **[Equestrian](https://ello.co/elloequestrian)** · Lead: @sophiesoloneventing
@@ -78,9 +67,13 @@ Have fun! :v:
 
 **[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & @fashionsabi
 
+**[Gifs](https://ello.co/ellogifs)** · Lead: @liam
+
 **[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
 
 **[Green](https://ello.co/ellogreen)** · Lead: @dredmorbius
+
+**[Jewelry](https://ello.co/ellojewelry)** · Lead: @andreali
 
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
@@ -124,6 +117,8 @@ Have fun! :v:
 
 **[Roller Coasters](https://ello.co/ellocoaster)** · Lead: @mooses
 
+**[Science](https://ello.co/elloscience)** · Lead: @anna
+
 **[Sound Design](https://ello.co/sounddesign)** · Lead: @le-siul
 
 **[Sports](https://ello.co/ellosport)** · Lead: @jpurvisturton
@@ -147,5 +142,7 @@ Have fun! :v:
 **[Wine](https://ello.co/ellowine)** · Lead: @weinreporter
 
 **[Writing](https://ello.co/ellowrites)** · Lead: @kseniaanske
+
+**[Yoga](https://ello.co/elloyoga)** · Lead: @chelsea
 
 **[Zen](https://ello.co/ellozen)** · Lead: @afurst
