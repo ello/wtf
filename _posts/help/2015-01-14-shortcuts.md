@@ -20,8 +20,6 @@ position: 6
 
 `=` Toggle grid mode for main content
 
-`+` Toggle grid mode for drawer content
-
 `?` Show help modal
 
 `CMD/CTRL + Enter` Submit a post or comment.
