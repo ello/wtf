@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beta Feature List"
-date:   2015-06-11 01:23:45 MDT
+date:   2015-07-31 01:23:45 MDT
 categories: resources
 position: 3
 ---
@@ -11,20 +11,21 @@ We created this list of built and upcoming features so you can watch Ello roll o
 
 ## Coming Soon
 
-* Hashtag integration
+* Hashtag integration (iOS)
 * Private accounts
 * Online/offline user designation
 * Emoji index
 * Private Messaging
 * Auto-push posts to other networks
-* iOS, Android, & Windows mobile apps
+* Android mobile app
 * Updated WTF Section
 * Real Time Alerts
-* Private Accounts
 * Private Groups
 
 ## Built
 
+* Hashtag integration (web)
+* iOS mobile app
 * Love + Love bookmarking stream
 * Mobile web refinements
 * Enhanced search & discovery
