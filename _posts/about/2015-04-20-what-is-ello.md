@@ -7,29 +7,25 @@ categories: about
 position: 1
 ---
 
-Ello is a beautiful & ad-free social network where you can connect with friends, be inspired, and share what matters most. Ello’s gorgeous fullscreen design supports high-res images, long form text, GIFs, video, sound files — you name it — without the clutter you’ll find on other ad-based social networks.
+Ello is a place to discover beautiful art, be inspired by meaningful stories, and connect with creators around the world.
 
-In the beginning Ello was a private social network, created by a [small group of artists](/wtf/about/who-created-ello/) who had grown tired of the negativity, clutter, data mining, and ads that had invaded other social networks. Many of us felt obligated to have pages on those other networks, but nobody was really having fun. So we built a network of our own.
+In the beginning Ello was a private social network, built by a [small group of creators](/wtf/about/who-created-ello/) who had become frustrated by the negativity that had invaded the big social networks. Many of us felt obliged to have profiles on those networks, but nobody was having much fun. 
 
-One of the fundamental principles behind Ello is that you always control what you see. You will never be forced to see paid ads or boosted posts. There are no algorithms that prioritize paid content over messages from your friends, which means you can always post the things you love for all your followers to see for free. 
+We built Ello as an oasis, a place of our own to share the things we love with friends and peers. After a while so many people were asking to join our little private network that we realized it was time to make Ello public.
 
-On Ello, nobody collects and sells data about you to the highest bidder. Never ever. This commitment is one reason why Ello remains so positive and so much fun, since every feature we create is really just for you. There’s nobody messing with us behind the scenes.
+[The Ello Bill of Rights](https://bill-of-rights.ello.co/) states that every social media user should have the right to control everything that they see. Because Ello will always be ad-free and will never sell user data. , there are no algorithms that prioritize paid content over posts by people you love — Ello is presented in simple chronological order. This means that the many artists, storytellers, entrepreneurs, journalists, technologists, adventurers, car enthusiasts, whiskey lovers, and creators of all kinds never have to pay for followers to read their posts. 
 
-We invited our friends to join Ello, and our friends invited their friends. Many of them are well known artists, designers, and musicians, who brought their fans along with them. Soon thousands, and then millions of people began signing up. 
+That’s a big reason why so many creative people are connecting and finding inspiration on Ello. 
 
-We posted the [Ello Manifesto](/wtf/about/ello-manifesto/) on the home page to let people know what we’re about, and then we opened Ello to anyone who values beauty, positivity, and connecting with people and things they love.
+Another is our commitment to beauty, safety, and transparency. As a [Public Benefit Corporation](https://ello.co/wtf/about/pbc/) Ello is legally required to work for the benefit of everyone on our network.
 
-There is a better way.
+All that said, what matters most is how much fun we’re having building this positive creative network together. Ello encourages us to take a stand for the things we love, to be grateful for the people that inspire us, and to become our best selves. We’re so glad you’re here.
 
-We’re so glad you’re here.
+Be inspired, and have fun on Ello.
 
-Love, 
+Learn more:
 
-:sparkles:
-
-Ello
-
-* Read the [Ello Manifesto](/wtf/about/ello-manifesto/).
-* Download the [Ello iPhone app](http://appstore.com/ello/ello).
+* Read the [Ello Manifesto](/wtf/about/ello-manifesto/) and [Bill of Rights](https://bill-of-rights.ello.co/).
 * Learn about [Ello’s no-ads policy](/wtf/about/ello-tracking-and-your-data/) and read the [Ello PBC Charter](/wtf/about/pbc/), which legally assures that Ello will never sell ads or user data.
-* Check out the [Ello WTF section](/wtf/) for help, video tutorials, and more.
+* Check out [Ello WTF](/wtf/) for FAQ, policies, help, video tutorials, and much more.
+* Download the [Ello iOS App](http://appstore.com/ello/ello).
