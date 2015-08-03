@@ -13,7 +13,7 @@ In the beginning Ello was a private social network, built by a [small group of c
 
 We built Ello as an oasis, a place of our own to share the things we love with friends and peers. After a while so many people were asking to join our little private network that we realized it was time to make Ello public.
 
-[The Ello Bill of Rights](https://bill-of-rights.ello.co/) states that every social media user should have the right to control everything that they see. Because Ello will always be ad-free and will never sell user data. , there are no algorithms that prioritize paid content over posts by people you love — Ello is presented in simple chronological order. This means that the many artists, storytellers, entrepreneurs, journalists, technologists, adventurers, car enthusiasts, whiskey lovers, and creators of all kinds never have to pay for followers to read their posts. 
+[The Ello Bill of Rights](https://bill-of-rights.ello.co/) states that every social media user should have the right to control everything that they see. Because Ello will always be ad-free and will never sell user data, there are no algorithms that prioritize paid content over posts by people you love — Ello is presented in simple chronological order. This means that the many artists, storytellers, entrepreneurs, journalists, technologists, adventurers, car enthusiasts, whiskey lovers, and creators of all kinds never have to pay for followers to read their posts. 
 
 That’s a big reason why so many creative people are connecting and finding inspiration on Ello. 
 
