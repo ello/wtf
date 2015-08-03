@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Ello?"
 title_alternate:  "What is Ello?"
-date:   2015-08-03 10:43:18 MST
+date:   2015-08-03 8:43:18 MST
 categories: about
 position: 1
 ---
