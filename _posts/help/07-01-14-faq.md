@@ -19,7 +19,7 @@ We also believe that you should have control everything you see. That means no m
 
 That’s a big reason why so many creative people are connecting and finding inspiration here. Another is our commitment to beauty, safety, and transparency. As a [Public Benefit Corporation](https://ello.co/wtf/about/pbc/) Ello is legally required to work for the benefit of everyone on our network.
 
-All that said, what matters most is how much fun we’re having build Ello together.
+All that said, what matters most is how much fun we’re having building Ello together.
 
 Ello encourages us to take a stand for the things we love, to be grateful for the people that inspire us, and to become our best selves. We’re so glad you’re here.
 
