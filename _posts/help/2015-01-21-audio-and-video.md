@@ -39,34 +39,34 @@ Ello does not make money off third party advertisements, and will never sell use
 
 `https://www.youtube.com/watch?v=l9XdkPsaynk`
 
-<div class="embetter" data-youtube-id="l9XdkPsaynk"><a href="https://www.youtube.com/watch?v=l9XdkPsaynk" target="_blank"><img src="http://img.youtube.com/vi/l9XdkPsaynk/0.jpg"></a></div>
+<div class="embetter" data-youtube-id="l9XdkPsaynk"><a href="https://www.youtube.com/watch?v=l9XdkPsaynk" target="_blank"><img src="http://img.youtube.com/vi/l9XdkPsaynk/0.jpg" alt="youtube"></a></div>
 
 ### Dailymotion
 
 `http://www.dailymotion.com/video/x14y6rv`
 
-<div class="embetter" data-dailymotion-id="x14y6rv"><a href="http://www.dailymotion.com/video/x14y6rv" target="_blank"><img src="http://www.dailymotion.com/thumbnail/video/x14y6rv"></a></div>
+<div class="embetter" data-dailymotion-id="x14y6rv"><a href="http://www.dailymotion.com/video/x14y6rv" target="_blank"><img src="http://www.dailymotion.com/thumbnail/video/x14y6rv" alt="dailymotion"></a></div>
 
 ### Codepen
 
 `http://codepen.io/nicoptere/pen/mgpxB`
 
-<div class="embetter" data-codepen-id="nicoptere/pen/mgpxB"><a href="http://codepen.io/nicoptere/pen/mgpxB" target="_blank"><img src="http://codepen.io/nicoptere/pen/mgpxB/image/large.png"></a></div>
+<div class="embetter" data-codepen-id="nicoptere/pen/mgpxB"><a href="http://codepen.io/nicoptere/pen/mgpxB" target="_blank"><img src="http://codepen.io/nicoptere/pen/mgpxB/image/large.png" alt="codepen"></a></div>
 
 ### Vimeo
 
 `https://vimeo.com/99276873`
 
-<div class="embetter" data-vimeo-id="99276873"><a href="https://vimeo.com/99276873" target="_blank"><img src="http://i.vimeocdn.com/video/480405928_640.jpg"></a></div>
+<div class="embetter" data-vimeo-id="99276873"><a href="https://vimeo.com/99276873" target="_blank"><img src="http://i.vimeocdn.com/video/480405928_640.jpg" alt="vimeo"></a></div>
 
 ### Soundcloud
 
 `https://soundcloud.com/plasticsoundsupply/drop-logik-time-lost`
 
-<div class="embetter" data-soundcloud-id="tracks/175330421"><a href="https://soundcloud.com/plasticsoundsupply/drop-logik-time-lost" target="_blank"><img src="https://i1.sndcdn.com/artworks-000096107951-bsqr4t-t500x500.jpg"></a></div>
+<div class="embetter" data-soundcloud-id="tracks/175330421"><a href="https://soundcloud.com/plasticsoundsupply/drop-logik-time-lost" target="_blank"><img src="https://i1.sndcdn.com/artworks-000096107951-bsqr4t-t500x500.jpg" alt="Soundcloud"></a></div>
 
 ### Mixcloud
 
-`ttps://www.mixcloud.com/Davealex/ebm-mixtape-dj-davealex/`
+`https://www.mixcloud.com/Davealex/ebm-mixtape-dj-davealex/`
 
-<div class="embetter" data-mixcloud-id="Davealex/ebm-mixtape-dj-davealex/"><a href="https://www.mixcloud.com/Davealex/ebm-mixtape-dj-davealex/" target="_blank"><img src="//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/dc3ea751-8fae-414d-8685-1f04ef329a7f.jpg"></a></div>
+<div class="embetter" data-mixcloud-id="Davealex/ebm-mixtape-dj-davealex/"><a href="https://www.mixcloud.com/Davealex/ebm-mixtape-dj-davealex/" target="_blank"><img src="//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/dc3ea751-8fae-414d-8685-1f04ef329a7f.jpg" alt="Mixcloud"></a></div>
