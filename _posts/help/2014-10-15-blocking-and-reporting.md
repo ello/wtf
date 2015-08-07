@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blocking & Reporting"
-date:   2015-02-24 04:23:18 MDT
+date:   2015-08-07 04:23:18 MDT
 categories: help
 position: 9
 ---
@@ -19,7 +19,7 @@ Please note that this email box is strictly for abuse-related matters, and we wi
 
 ## How can I BLOCK or MUTE someone who is annoying me?
 
-From a user’s profile page, or from the search view, click the “block” icon.
+From a user’s profile page, click the three dots next to the FOLLOW button. 
 
 ![Friends, Noise, and Block buttons](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2122129/ello-optimized-a8c350e7.gif)
 
@@ -31,6 +31,6 @@ When you BLOCK another user, they can no longer view your profile or posts. We a
 
 ## How do I flag inappropriate content?
 
-Hover your mouse just to the right of the grey icons beneath the post, and a red circle with a line through it will appear.
+Hover your mouse just to the right of the grey icons beneath the post, and a flag button will appear. 
 
-Click the icon and select the category of abuse to submit the flag.
+Click the flag and select the category of inappropriate content you wish to submit.
