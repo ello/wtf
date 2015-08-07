@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Friends & Noise"
-date:   2014-08-27 04:23:18 MDT
+date:   2015-08-07 04:23:18 MDT
 categories: help
 position: 7
 ---
@@ -23,20 +23,18 @@ As a general guideline, we have found that following more than about 60 people i
 
 ## How can I add someone to FRIENDS or NOISE?
 
-Go to the user’s profile page and click on FRIENDS or NOISE below their username. You can also drag their user icon onto either the FRIENDS or NOISE tab.
+Go to the user’s profile page and click on FOLLOW button. You will have the option to select FRIEND or NOISE.
 
 ![Friends, Noise, and Block buttons](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2193936/ello-xhdpi-754a0887.jpg)
 
 ## How do I move people I am following between FRIENDS and NOISE?
 
-On a laptop or desktop computer, simply drag and drop user icons into the FRIENDS or NOISE tabs.
-
-You can move people in bulk by scrolling through the full list of people you are following (click the followers link on your profile page, and then click the FRIENDS or NOISE button next to each user avatar).
+Scroll through the full list of people you are following (click the followers link on your profile page, and then click the FOLLOW button next to each user avatar).
 
 ## How can I stop following someone in my FRIENDS or NOISE stream?
 
-Go to the user’s profile page and click the grey-ed button below their username.
+Go to the user’s profile page, click the button that says FRIEND or NOISE (depending on which stream they are in), and select "Unfollow" from the pop-up menu. 
 
-## Can I view NOISE using the same expanded layout as FRIENDS?
+## Can I view NOISE using the same expanded layout as FRIENDS, and vice-versa?
 
-Yes. Toggle your NOISE layout back and forth from expanded to compressed view by pressing =.
+Yes. If you are using Ello on the web, you can toggle back and forth from expanded to grid view by pressing =. You can also click on the grid icon at teh bottom right of any page! 
