@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Friends & Noise"
-date:   2015-08-07 04:23:18 MDT
+date:   2015-08-07 03:23:18 MDT
 categories: help
 position: 7
 ---
@@ -25,7 +25,9 @@ As a general guideline, we have found that following more than about 60 people i
 
 Go to the user’s profile page and click on FOLLOW button. You will have the option to select FRIEND or NOISE.
 
-![Friends, Noise, and Block buttons](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2193936/ello-xhdpi-754a0887.jpg)
+![Friends, Noise, and Block buttons](http://i.imgur.com/8QMUKX2.png?1)
+
+![Following Stream button](http://i.imgur.com/uKB7pkp.png?1)
 
 ## How do I move people I am following between FRIENDS and NOISE?
 
