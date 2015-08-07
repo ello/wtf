@@ -15,9 +15,9 @@ You can embed audio and video files in your posts from services including Youtub
 
 Paste a link to the sound or video file that you want to add to your post directly into the Omnibar. A preview of the embedded audio/video file will appear in your post! See the examples below.
 <br>
-**Youtube** | `https://www.youtube.com/watch?v=l9XdkPsaynk`
+**Youtube** | `https://www.youtube.com/watch?v=lfJETqgWNK4`
 
-<div class="embetter" data-youtube-id="l9XdkPsaynk"><a href="https://www.youtube.com/watch?v=l9XdkPsaynk" target="_blank"><img src="http://img.youtube.com/vi/l9XdkPsaynk/0.jpg" alt="youtube"></a></div>
+<div class="embetter" data-youtube-id="lfJETqgWNK4"><a href="https://www.youtube.com/watch?v=lfJETqgWNK4" target="_blank"><img src="http://img.youtube.com/vi/lfJETqgWNK4/0.jpg"></a></div>
 
 **Dailymotion** | `http://www.dailymotion.com/video/x14y6rv`
 
