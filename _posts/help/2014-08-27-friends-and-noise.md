@@ -9,7 +9,7 @@ One of the things we wanted most when we set out to create Ello was a system to 
 
 The solution we came up with for Ello is called FRIENDS & NOISE.
 
-![Friends and Noise buttons](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/768805/ello-xhdpi-f43c55c9.jpg)
+![Friends and Noise buttons](http://i.imgur.com/A4s8fsH.jpg?1)
 
 Here’s how it works:
 
