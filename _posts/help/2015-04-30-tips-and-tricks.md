@@ -10,4 +10,5 @@ video:
   url: https://vimeo.com/126525591
   id: 126525591
   img: https://i.vimeocdn.com/video/523432499_640.jpg
+  alt: "Ello Video: Tips and Tricks"
 ---
