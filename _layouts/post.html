@@ -13,8 +13,13 @@ css_hook: article
     <p class="mobile_only">Updated {{ page.date | date: "%B %-d, %Y" }}</p>
   </header>
 
-  {% if page.video %}<aside id="video_embed"></aside>{% endif %}
-  <article class="post_content"{% if page.video %} data-video-link="{{ page.video }}"{% endif %}>
+  {% if page.video %}
+    <aside id="video_embed">
+      <div class="embetter" data-{{page.video.source}}-id="124436717"><a href="{{page.video.url}}" target="_blank"><img src="{{page.video.img}}" alt="{{page.video.alt}}"></a></div>
+    </aside>
+  {% endif %}
+
+  <article class="post_content">
     {{ content }}
   </article>
 </section>
