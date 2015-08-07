@@ -5,7 +5,7 @@ date:   2015-08-07 01:23:45 MDT
 categories: resources
 position: 1
 ---
-Many Ello community members have created communities as a way to share and discuss specific interests 
+Many Ello community members have created communities as a way to share and discuss specific interests. 
 
 You can join any community simply by following them as you would any other account.
 
