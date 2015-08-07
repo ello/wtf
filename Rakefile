@@ -17,7 +17,11 @@ begin
                         '#toggle_drawer',
                         /^\/wtf\/assets/,
                         /^\/wtf\/emoji/
-                      ]).run
+                      ],
+                      typhoeus: {
+                        ssl_verifypeer: false,
+                        ssl_verifyhost: 0
+                      }).run
   end
 
   task :default => :test
