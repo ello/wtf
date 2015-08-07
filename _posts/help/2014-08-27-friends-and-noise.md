@@ -25,7 +25,7 @@ As a general guideline, we have found that following more than about 60 people i
 
 Go to the user’s profile page and click on FOLLOW button. You will have the option to select FRIEND or NOISE.
 
-![Friends, Noise, and Block buttons](http://i.imgur.com/54MjGw0.png)
+![Friends, Noise, and Block buttons](http://i.imgur.com/crDzAgF.png)
 
 ![Following Stream button](http://i.imgur.com/V0jhGDv.png)
 
