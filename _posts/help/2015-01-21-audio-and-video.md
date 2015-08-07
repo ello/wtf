@@ -19,13 +19,13 @@ Paste a link to the sound or video file that you want to add to your post direct
 
 <div class="embetter" data-youtube-id="lfJETqgWNK4"><a href="https://www.youtube.com/watch?v=lfJETqgWNK4" target="_blank"><img src="http://img.youtube.com/vi/lfJETqgWNK4/0.jpg"></a></div>
 
+**Vimeo** | `https://vimeo.com/129568177`
+
+<div class="embetter" data-vimeo-id="129568177"><a href="https://vimeo.com/129568177" target="_blank"><img src="https://i.vimeocdn.com/video/527727231_640.jpg"></a></div>
+
 **Dailymotion** | `http://www.dailymotion.com/video/x2zv2k4`
 
 <div class="embetter" data-dailymotion-id="x2zv2k4"><a href="http://www.dailymotion.com/video/x2zv2k4" target="_blank"><img src="http://www.dailymotion.com/thumbnail/video/x2zv2k4"></a></div>
-
-**Vimeo** | `https://vimeo.com/99276873`
-
-<div class="embetter" data-vimeo-id="99276873"><a href="https://vimeo.com/99276873" target="_blank"><img src="http://i.vimeocdn.com/video/480405928_640.jpg" alt="vimeo"></a></div>
 
 **Soundcloud** | `https://soundcloud.com/plasticsoundsupply/drop-logik-time-lost`
 
