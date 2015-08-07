@@ -17,15 +17,15 @@ Paste a link to the sound or video file that you want to add to your post direct
 <br>
 **Youtube** | `https://www.youtube.com/watch?v=lfJETqgWNK4`
 
-<div class="embetter" data-youtube-id="lfJETqgWNK4"><a href="https://www.youtube.com/watch?v=lfJETqgWNK4" target="_blank"><img src="http://img.youtube.com/vi/lfJETqgWNK4/0.jpg"></a></div>
+<div class="embetter" data-youtube-id="lfJETqgWNK4"><a href="https://www.youtube.com/watch?v=lfJETqgWNK4" target="_blank"><img src="http://img.youtube.com/vi/lfJETqgWNK4/0.jpg" alt="Youtubed"></a></div>
 
 **Vimeo** | `https://vimeo.com/129568177`
 
-<div class="embetter" data-vimeo-id="129568177"><a href="https://vimeo.com/129568177" target="_blank"><img src="https://i.vimeocdn.com/video/527727231_640.jpg"></a></div>
+<div class="embetter" data-vimeo-id="129568177"><a href="https://vimeo.com/129568177" target="_blank"><img src="https://i.vimeocdn.com/video/527727231_640.jpg" alt="Vimeo"></a></div>
 
 **Dailymotion** | `http://www.dailymotion.com/video/x2zv2k4`
 
-<div class="embetter" data-dailymotion-id="x2zv2k4"><a href="http://www.dailymotion.com/video/x2zv2k4" target="_blank"><img src="http://www.dailymotion.com/thumbnail/video/x2zv2k4"></a></div>
+<div class="embetter" data-dailymotion-id="x2zv2k4"><a href="http://www.dailymotion.com/video/x2zv2k4" target="_blank"><img src="http://www.dailymotion.com/thumbnail/video/x2zv2k4" alt="Dailymotion"></a></div>
 
 **Soundcloud** | `https://soundcloud.com/plasticsoundsupply/drop-logik-time-lost`
 
@@ -37,7 +37,7 @@ Paste a link to the sound or video file that you want to add to your post direct
 
 **CodePen** | `http://codepen.io/cacheflowe/pen/domZpQ`
 
-<div class="embetter" data-codepen-id="cacheflowe/pen/domZpQ"><a href="http://codepen.io/cacheflowe/pen/domZpQ" target="_blank"><img src="http://codepen.io/cacheflowe/pen/domZpQ/image/large.png"></a></div>
+<div class="embetter" data-codepen-id="cacheflowe/pen/domZpQ"><a href="http://codepen.io/cacheflowe/pen/domZpQ" target="_blank"><img src="http://codepen.io/cacheflowe/pen/domZpQ/image/large.png" alt="Codepen"></a></div>
 
 You can move the file up and down within your post using the arrow in the upper right-hand corner to position it where you want it.
 
