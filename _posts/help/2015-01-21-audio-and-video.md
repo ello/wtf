@@ -19,9 +19,9 @@ Paste a link to the sound or video file that you want to add to your post direct
 
 <div class="embetter" data-youtube-id="lfJETqgWNK4"><a href="https://www.youtube.com/watch?v=lfJETqgWNK4" target="_blank"><img src="http://img.youtube.com/vi/lfJETqgWNK4/0.jpg"></a></div>
 
-**Dailymotion** | `http://www.dailymotion.com/video/x14y6rv`
+**Dailymotion** | `http://www.dailymotion.com/video/x2zv2k4`
 
-<div class="embetter" data-dailymotion-id="x14y6rv"><a href="http://www.dailymotion.com/video/x14y6rv" target="_blank"><img src="http://www.dailymotion.com/thumbnail/video/x14y6rv" alt="dailymotion"></a></div>
+<div class="embetter" data-dailymotion-id="x2zv2k4"><a href="http://www.dailymotion.com/video/x2zv2k4" target="_blank"><img src="http://www.dailymotion.com/thumbnail/video/x2zv2k4"></a></div>
 
 **Vimeo** | `https://vimeo.com/99276873`
 
