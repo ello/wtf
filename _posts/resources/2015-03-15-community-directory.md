@@ -1,23 +1,21 @@
 ---
 layout: post
 title:  "Community Directory"
-date:   2015-06-11 01:23:45 MDT
+date:   2015-08-07 01:23:45 MDT
 categories: resources
 position: 1
 ---
-Many people have been asking how to find others that share a specific interest.
+Many Ello community members have created communities as a way to share and discuss specific interests 
 
-Content search, #tagging, and groups are coming. In the meantime, we’re experimenting with community pages (repurposed user accounts) led by real humans.
+You can join any community simply by following them as you would any other account.
 
-Join a community simply by following the main account.
-
-You can find other community members by searching through the “Followers” list.
+Find other community members by searching through the “Followers” list.
 
 Comment on ongoing conversations, or request that a post be reposted by @mentioning the community anywhere on Ello, including your own posts.
 
-Email us at [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new community.
+Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new community.
 
-Have fun! :v:
+Have fun on Ello! :v:
 
 ---
 
