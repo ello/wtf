@@ -31,6 +31,4 @@ When you BLOCK another user, they can no longer view your profile or posts. We a
 
 ## How do I flag inappropriate content?
 
-Hover your mouse just to the right of the grey icons beneath the post, and a flag button will appear. 
-
-Click the flag and select the category of inappropriate content you wish to submit.
+Hover your mouse just to the right of the grey icons beneath the post, and a flag button will appear. Click the flag and select the category of inappropriate content you wish to submit.
