@@ -21,7 +21,7 @@ Please note that this email box is strictly for abuse-related matters, and we wi
 
 From a user’s profile page, click the three dots next to the FOLLOW button. 
 
-![Block and Mute buttons](http://i.imgur.com/KfLux1i.png)
+![Block and Mute buttons](http://i.imgur.com/9OrnbN8.jpg)
 
 Select BLOCK or MUTE.
 
