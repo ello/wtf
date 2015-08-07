@@ -9,9 +9,7 @@ Many Ello community members have created communities as a way to share and discu
 
 You can join any community simply by following them as you would any other account.
 
-Find other community members by searching through the “Followers” list.
-
-Comment on ongoing conversations, or request that a post be reposted by @mentioning the community anywhere on Ello, including your own posts.
+Find other community members by searching through the “Followers” list. Comment on ongoing conversations, or request that a post be reposted by @mentioning the community anywhere on Ello, including your own posts.
 
 Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new community.
 
