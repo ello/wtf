@@ -21,7 +21,7 @@ Please note that this email box is strictly for abuse-related matters, and we wi
 
 From a user’s profile page, click the three dots next to the FOLLOW button. 
 
-![Friends, Noise, and Block buttons](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2122129/ello-optimized-a8c350e7.gif)
+![Block and Mute buttons](http://i.imgur.com/KfLux1i.png)
 
 Select BLOCK or MUTE.
 
