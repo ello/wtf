@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Ello Uses Information"
-date:   2015-06-11 04:23:18 MDT
+date:   2015-08-10 04:23:18 MDT
 categories: about
 position: 7
 ---
@@ -17,13 +17,13 @@ This solution offers an acceptable level of anonymity and privacy, while providi
 
 The information Ello collects includes your location, language, referring web site, and time spent visiting Ello.
 
-This information is anonymous and aggregated. Before information about you is stored on the Google/Segment servers, your IP address is stripped and anonymized. This means that it is very difficult for anyone (including Ello, Google, and Segment) to trace that data back to any one user. We can see how people are using Ello in general, but not what you are doing in particular.
+This information is anonymous and aggregated. Before information about you is stored on the Google/Segment servers, your IP address is stripped and anonymized. This means that it is very difficult for anyone (including Ello, Google, and Segment) to trace that data back to any specific user. We can see how people are using Ello in general, but not what you are doing in particular.
 
 To the best of our knowledge, this also makes what you do on Ello useless to Google for advertising purposes.
 
 ## You Can Opt Out
 
-There are some Ello users who don’t want to share any information, even anonymous information, about themselves with anybody. We’re cool with that.
+There are some people using Ello who don’t want to share any information, even anonymous information, about themselves with anybody. We’re cool with that.
 
 On your Ello settings page, you can choose to turn Google Analytics and Segment off completely when you visit Ello. Ello also respects [Do Not Track (DNT)](http://donottrack.us/) settings in browsers. In these cases Ello will not send any information about your visit to Google at all.*
 
