@@ -16,5 +16,5 @@ gem 'rack'
 gem 'puma'
 
 group :development, :test do
-  gem 'html-proofer', github: 'gjtorikian/html-proofer'
+  gem 'html-proofer'
 end
