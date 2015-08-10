@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ello & Your Data"
-date:   2015-06-11 01:23:45
+date:   2015-08-10 01:23:45
 categories: about
 position: 6
 ---
@@ -17,9 +17,9 @@ When you use Ello, some information needs to be saved about your account in orde
 
 When you create an account we do require you to use a valid email address. We may use it if we need to reach you about important system updates; to reset your password; to contact you if there are any safety or other issues you should be aware of; to send you our newsletter if you opt-in to it; and to verify that you are a real human being of some kind and not a robot.
 
-Besides the obvious information mentioned above, that’s used to make Ello run, Ello does not seek to collect or store data linked to individual users. You can download all of the information that Ello has stored about you on your [Settings]({{ site.webapp_url }}/settings) page on a desktop under “Your Data” (coming soon to mobile). It’s yours after all!
+Besides the obvious information mentioned above, that’s used to make Ello run, Ello does not seek to collect or store data linked to individuals. You can download all of the information that Ello has stored about you on your [Settings]({{ site.webapp_url }}/settings) page on a desktop under “Your Data” (coming soon to mobile). It’s yours after all!
 
-In order to make Ello better, we do collect some anonymized user data through Google Analytics and Segment. This information shows us in a general way how people are using Ello, where they are coming from, how long they spend on Ello, etc. — which helps us develop new features and improve Ello. That said, we only need general data to do this (not data about any individual users), so all of this data is immediately anonymized when you visit Ello so that it cannot easily be traced back to you by us or anyone else.
+In order to make Ello better, we do collect some anonymized data through Google Analytics and Segment. This information shows us in a general way how people are using Ello, where they are coming from, how long they spend on Ello, etc. — which helps us develop new features and improve Ello. That said, we only need general data to do this (not data about individuals), so all of this data is immediately anonymized when you visit Ello so that it cannot easily be traced back to you by us or anyone else.
 
 Furthermore, if you don’t even want to be tracked anonymously, you may opt-out of anonymous Google Analytics and Segment on your Ello settings page. Ello also respects do-not-track browser code and plugins.
 
