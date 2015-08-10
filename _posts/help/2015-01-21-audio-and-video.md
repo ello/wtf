@@ -17,42 +17,36 @@ Paste a link to the sound or video file that you want to add to your post direct
 
 <br>
 **Youtube**
-<br>
 `https://www.youtube.com/watch?v=lfJETqgWNK4`
 
 <div class="embetter" data-youtube-id="lfJETqgWNK4"><a href="https://www.youtube.com/watch?v=lfJETqgWNK4" target="_blank"><img src="http://img.youtube.com/vi/lfJETqgWNK4/0.jpg" alt="Youtubed"></a></div>
 
 <br>
 **Vimeo**
-<br>
 `https://vimeo.com/129568177`
 
 <div class="embetter" data-vimeo-id="129568177"><a href="https://vimeo.com/129568177" target="_blank"><img src="https://i.vimeocdn.com/video/527727231_640.jpg" alt="Vimeo"></a></div>
 
 <br>
 **Dailymotion**
-<br>
 `http://www.dailymotion.com/video/x2zv2k4`
 
 <div class="embetter" data-dailymotion-id="x2zv2k4"><a href="http://www.dailymotion.com/video/x2zv2k4" target="_blank"><img src="http://www.dailymotion.com/thumbnail/video/x2zv2k4" alt="Dailymotion"></a></div>
 
 <br>
 **Soundcloud**
-<br>
 `https://soundcloud.com/plasticsoundsupply/drop-logik-time-lost`
 
 <div class="embetter" data-soundcloud-id="tracks/175330421"><a href="https://soundcloud.com/plasticsoundsupply/drop-logik-time-lost" target="_blank"><img src="https://i1.sndcdn.com/artworks-000096107951-bsqr4t-t500x500.jpg" alt="Soundcloud"></a></div>
 
 <br>
 **Mixcloud**
-<br>
 `https://www.mixcloud.com/Davealex/ebm-mixtape-dj-davealex/`
 
 <div class="embetter" data-mixcloud-id="Davealex/ebm-mixtape-dj-davealex/"><a href="https://www.mixcloud.com/Davealex/ebm-mixtape-dj-davealex/" target="_blank"><img src="//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/dc3ea751-8fae-414d-8685-1f04ef329a7f.jpg" alt="Mixcloud"></a></div>
 
 <br>
-**CodePen**
-<br>
+**CodePen**<br>
 `http://codepen.io/cacheflowe/pen/domZpQ`
 
 <div class="embetter" data-codepen-id="cacheflowe/pen/domZpQ"><a href="http://codepen.io/cacheflowe/pen/domZpQ" target="_blank"><img src="http://codepen.io/cacheflowe/pen/domZpQ/image/large.png" alt="Codepen"></a></div>
