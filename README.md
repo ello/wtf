@@ -31,6 +31,7 @@ title_alternate: "I am a title for the title bar"
 date: 2015-01-23 01:23:45 MDT
 categories: about
 position: 3
+excerpt: "I am an (optional) SEO-friendly excerpt. Filling me out will place me in the <meta> description and as the summary for the search results page. The length can be a few sentences, but don’t make it too long!"
 video: http://vimeo.com/30619461
 ---
 ```
@@ -41,6 +42,7 @@ video: http://vimeo.com/30619461
 * `date:` The publish date of an article (or its last updated date): `2015-01-23 01:23:45 MDT` (remember to include your time zone at the end: i.e. `EST` or `MDT`)
 * `categories:` Pick the single category for the article (see the list in the section below): `policies`
 * `position:` This determines the position of the article in the category list. Lower numbers are at the top of the list. Other posts in the category are not auto-matically re-numbered, so if you want to place a new post at the top of the category, you will need to edit the `position` in the other posts as well.
+* `excerpt:` Optional. If filled out with a couple sentences, it will get used in the description `<meta>` tag for the page and also in the search results display.
 * `video:` Include a Vimeo or Youtube link to feature a video at the very top of the post page **(optional)**
 
 **Other Notes:**
