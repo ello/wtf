@@ -35,16 +35,17 @@ Paste a link to the sound or video file that you want to add to your post direct
 
 <div class="embetter" data-soundcloud-id="tracks/175330421"><a href="https://soundcloud.com/plasticsoundsupply/drop-logik-time-lost" target="_blank"><img src="https://i1.sndcdn.com/artworks-000096107951-bsqr4t-t500x500.jpg" alt="Soundcloud"></a></div>
 
-<br><br>
+<br>
 **Mixcloud** | `https://www.mixcloud.com/Davealex/ebm-mixtape-dj-davealex/`
 
 <div class="embetter" data-mixcloud-id="Davealex/ebm-mixtape-dj-davealex/"><a href="https://www.mixcloud.com/Davealex/ebm-mixtape-dj-davealex/" target="_blank"><img src="//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/dc3ea751-8fae-414d-8685-1f04ef329a7f.jpg" alt="Mixcloud"></a></div>
 
-<br><br>
+<br>
 **CodePen** | `http://codepen.io/cacheflowe/pen/domZpQ`
 
 <div class="embetter" data-codepen-id="cacheflowe/pen/domZpQ"><a href="http://codepen.io/cacheflowe/pen/domZpQ" target="_blank"><img src="http://codepen.io/cacheflowe/pen/domZpQ/image/large.png" alt="Codepen"></a></div>
 
+<br>
 You can move the file up and down within your post using the arrow in the upper right-hand corner to position it where you want it.
 
 ## Why does the original url remain once the sound or video preview appears?
