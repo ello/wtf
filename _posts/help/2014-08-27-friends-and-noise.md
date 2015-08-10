@@ -9,7 +9,7 @@ One of the things we wanted most when we set out to create Ello was a system to 
 
 The solution we came up with for Ello is called FRIENDS & NOISE.
 
-![Friends and Noise buttons](http://i.imgur.com/G0Gg88r.png)
+![Friends and Noise buttons](http://i.imgur.com/G0Gg88r.png) 
 
 Here’s how it works:
 
@@ -27,7 +27,7 @@ Go to the user’s profile page and click on FOLLOW button. You will have the op
 
 ![Friends, Noise, and Block buttons](http://i.imgur.com/WNNBXBO.png?1)
 
-![Following Stream button](http://i.imgur.com/b2wnLEU.jpg?2)
+ ![Following Stream button](http://i.imgur.com/b2wnLEU.jpg?2)
 
 ## How do I move people I am following between FRIENDS and NOISE?
 
