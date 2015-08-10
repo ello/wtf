@@ -9,7 +9,7 @@ One of the things we wanted most when we set out to create Ello was a system to 
 
 The solution we came up with for Ello is called FRIENDS & NOISE.
 
-![Friends and Noise buttons](http://i.imgur.com/fwUNk6s.png)
+![Friends and Noise buttons](http://i.imgur.com/MvJRvbg.png)
 
 Here’s how it works:
 
@@ -25,9 +25,9 @@ As a general guideline, we have found that following more than about 60 people i
 
 Go to the user’s profile page and click on FOLLOW button. You will have the option to select FRIEND or NOISE.
 
-![Friends, Noise, and Block buttons](http://i.imgur.com/crDzAgF.png)
+![Friends, Noise, and Block buttons](http://i.imgur.com/rEXWslb.png)
 
-![Following Stream button](http://i.imgur.com/V0jhGDv.png)
+![Following Stream button](http://i.imgur.com/9JtwDvG.png)
 
 ## How do I move people I am following between FRIENDS and NOISE?
 
