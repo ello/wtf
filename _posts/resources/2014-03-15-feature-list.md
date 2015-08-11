@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beta Feature List"
-date:   2015-07-31 01:23:45 MDT
+date:   2015-08-10 01:23:45 MDT
 categories: resources
 position: 3
 ---
@@ -13,7 +13,7 @@ We created this list of built and upcoming features so you can watch Ello roll o
 
 * Hashtag integration (iOS)
 * Private accounts
-* Online/offline user designation
+* Online/offline designation
 * Emoji index
 * Private Messaging
 * Auto-push posts to other networks
@@ -39,12 +39,11 @@ We created this list of built and upcoming features so you can watch Ello roll o
 * Notification Center
 * Blocking & Muting
 * Simple Commenting
-* @mention pre-population on user profiles
+* @mention pre-population on profiles
 * Improved error handling
-* Enhanced user Discovery
+* Enhanced Discovery
 * Fluid grid Noise view
 * Views per post
-* Drag users between Friends & Noise (stilly buggy)
 * Email notifications (Following/Invite Accepted/Mentions)
 * Invitation system & ability to invite Friends
 * Network-wide in-stream announcement system
