@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ello Mobile Apps"
-date: 2015-06-24 01:23:45 MDT
+date: 2015-08-10 01:23:45 MDT
 categories: resources
 position: 4
 ---
@@ -44,7 +44,7 @@ We’re still working on the App. Here’s a list of features that are built, an
 ## Built
 * Onboarding walkthrough
 * Loves + Loves bookmarking stream
-* User search & content discovery
+* People search & content discovery
 * Commenting
 * Repost w/ author attribution
 * Notification Center
