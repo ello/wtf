@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blocking & Reporting"
-date:   2015-08-07 01:23:18 MDT
+date:   2015-08-10 01:23:18 MDT
 categories: help
 position: 11
 ---
@@ -19,7 +19,7 @@ Please note that this email box is strictly for abuse-related matters, and we wi
 
 ## How can I BLOCK or MUTE someone who is annoying me?
 
-From a user’s profile page, click the three dots next to the FOLLOW button. 
+From a profile page, click the three dots next to the FOLLOW button. 
 
 ![Block and Mute buttons](http://i.imgur.com/armZsIj.png?1)
 
