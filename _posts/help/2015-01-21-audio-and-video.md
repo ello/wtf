@@ -58,7 +58,7 @@ Sound files have a round button; video has a square button. A video preview is r
 
 ## I don’t like the third party ads in embedded media and I never want to see them on Ello. How do I hide media that may have ads?
 
-Some of the sound and video services that users choose to post may include third party ads (including YouTube, Soundcloud, and others). Some people want to see this kind of media, and some people don’t, so on Ello we’ve given you a choice.
+Some of the embedded sound & video services that people on Ello choose to post may include third party ads (including YouTube, Soundcloud, and others). Some people want to see this kind of media, and some people don’t, so on Ello we’ve given you a choice.
 
 If you don’t want to see media that may contain ads, you can hide it by going to your [Settings]({{ site.webapp_url }}/settings) page. Scroll to “Embedded Media”, and click YES to hide embedded media.
 
