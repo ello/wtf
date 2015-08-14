@@ -2,7 +2,7 @@
 layout: post
 title:  "Video: Tips & Tricks"
 title_alternate:  "Ello: Tips & Tricks"
-date:   2015-04-30 04:23:18 MDT
+date:   2015-08-14 04:23:18 MDT
 categories: help
 position: 2
 video:
