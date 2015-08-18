@@ -5,10 +5,6 @@ title_alternate:  "Ello: Tips & Tricks"
 date:   2015-08-14 04:23:18 MDT
 categories: help
 position: 2
-video:
-  source: vimeo
-  url: https://vimeo.com/126525591
-  id: 126525591
-  img: https://i.vimeocdn.com/video/523432499_640.jpg
-  alt: "Ello Video: Tips and Tricks"
 ---
+
+<div class="embetter" data-vimeo-id="126525591"><a href="https://vimeo.com/126525591" target="_blank"><img src="http://i.vimeocdn.com/video/529707820_640.jpg" alt="Ello Tip"></a></div>
