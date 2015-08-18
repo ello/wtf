@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The People of Ello"
-date:   2015-07-15 10:23:45 MDT
+date:   2015-08-18 10:23:45 MDT
 categories: about
 position: 10
 ---
@@ -19,7 +19,6 @@ Jay Zeschin, Chief Architect @jayzes
 ## Staff
 
 Ryan Boyajian, Lead Developer @666
-Mike Conigliaro, Sr. DevOps Engineer @mconigliaro
 Casey Doran, Director of Product @dcdoran
 Sean Dougherty, Mobile Lead @sean
 Andy Ennamorato, Full Stack Engineer @virtualandy
@@ -30,7 +29,7 @@ Anna Quinlan, Community Manager @anna
 Pete Sheinbaum, Chief Operating Officer @sheinbaum
 Ryan Tyer, Principal Scalability Engineer @rtyer
 Alexi Ueltzen, Community Evangelist @alexi
-Suttida Yang, Director of Marketing @suttida
+Amber Young, Community Coordinator @amber 
 
 ## Dogs
 
