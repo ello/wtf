@@ -51,6 +51,8 @@ Have fun on Ello! :v:
 
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
 
+**[Dice and Paper](https://ello.co/ello_dice_and_paper)** · Lead: @fuckyouthatsmyname
+
 **[DIY](https://ello.co/ellodiy)** · Lead: @alexi
 
 **[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
@@ -60,6 +62,8 @@ Have fun on Ello! :v:
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
 
 **[Film](https://ello.co/ellofilm)** · Lead: @diogovarelasilva
+
+**[Film Photography](https://ello.co/ello_filmphotography)** · Lead: @hjs-photo
 
 **[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & @fashionsabi
 
@@ -80,6 +84,8 @@ Have fun on Ello! :v:
 **[Lucid Dreams](https://ello.co/elloluciddreams)** · Lead: @marcelleliemantiemant
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
+
+**[Mobile Photo](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
 
 **[Motorcycles](https://ello.co/ellomotorcycles)** · Lead: @joycomplex
 
