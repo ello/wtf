@@ -3,7 +3,7 @@ layout: post
 title:  "Beta Feature List"
 date:   2015-08-10 01:23:45 MDT
 categories: resources
-position: 3
+position: 4
 ---
 ## Ello is in Beta.
 
