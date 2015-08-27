@@ -26,9 +26,9 @@ Over months of watching communities grow, we’ve learned some practices that ca
 
 * **Most of all, have fun!**
 
-##What’s an “Ello Featured Community”?
+## What’s an “Ello Featured Community”?
 
-Exceptional communities that build a substantial following may be asked to become an “Ello Featured Community”. Think “Employee of the Month,” but for communities! 
+**Exceptional communities that build a substantial following may be asked to become an “Ello Featured Community”. Think “Employee of the Month,” but for communities!**
 
 Ello Featured Communities can show up on the Ello homepage, may be recommended when people create new accounts, or listed in the Ello Community Directory.
 
