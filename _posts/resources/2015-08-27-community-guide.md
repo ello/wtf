@@ -45,8 +45,3 @@ Communities that are featured usually:
 If you’d like your community to be considered as an Ello Featured Community, please e-mail the Ello Community Support Team at hello@ello.co, and we’ll get back to you.
 
 Have fun building communities on Ello!
-
-Love,
-
-Ello
-Beautiful & Ad-free
