@@ -12,7 +12,7 @@ position: 5
 
 **Chronological:** The way posts are displayed on Ello: the most recent post or comment is always shown first. Ello doesn’t use manipulative algorithms that control what you see (see Algorithm, above).
 
-**Container:** A section of the Omnibar with text, images, video, or audio. Organize your posts quickly by dragging and reordering containers (see Omnibar, below).
+**Container:** A section of the omnibar with text, images, video, or audio. Organize your posts quickly by dragging and reordering containers (see Omnibar, below).
 
 **[Community](https://ello.co/wtf/resources/community-directory/):** An account that serves a group of people on Ello who share a common interest.
 
