@@ -18,7 +18,7 @@ position: 5
 
 **Creator:** Anybody that makes and shares something they love. Ello is a network made for creators.
 
-**[Discover](https://ello.co/discover/]:** An engine for finding creators that inspire you. The more creators you follow, the more inspiring Ello becomes.
+**[Discover](https://ello.co/discover/):** An engine for finding creators that inspire you. The more creators you follow, the more inspiring Ello becomes.
 
 **[Ello Bill of Rights](https://bill-of-rights.ello.co/):** A list of rights for social network users that encourages an atmosphere of responsibility and transparency.
 
