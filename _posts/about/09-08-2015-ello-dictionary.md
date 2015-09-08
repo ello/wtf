@@ -26,7 +26,7 @@ position: 5
 
 **[@ello](https://ello.co/ello):** Follow @ello and find the day’s best posts on Ello.
 
-**[@elloblog](https://ello.co/ello):** @elloblog is where you will find Ello product updates, in-depth interviews, and round-ups of amazing people on Ello.
+**[@elloblog](https://ello.co/elloblog):** @elloblog is where you will find Ello product updates, in-depth interviews, and round-ups of amazing people on Ello.
 
 **[Friends](https://ello.co/wtf/help/friends-and-noise/):** A stream of your favorite posts, shown by default in an expanded list format. Follow the people you care about most as “Friends”! (See Noise, below.)
 
