@@ -2,8 +2,8 @@
 layout: post
 title:  "Ello Dictionary"
 date:   2015-09-07 04:23:18 MDT
-categories: help
-position: 13
+categories: about
+position: 12
 ---
 
 Algorithm: Computer program used by a social network that controls what you see by putting some posts (usually ads and paid content) above others (usually posts by people that you have chosen to follow). Ello doesn’t use algorithms, and all posts on Ello are chronological.
