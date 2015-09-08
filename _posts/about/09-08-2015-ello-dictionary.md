@@ -34,9 +34,9 @@ position: 5
 
 **Loves:** An easy way to show respect for another person's creation. On Ello, Loving is more than just a click! It’s also a bookmark tool so you can go back and see your favorite posts.
 
-**[Markdown](https://ello.co/wtf/help/text-formatting/):** A technical language you can use on Ello to formatting your posts quickly and easily. For example, `*bold*` will bold.
+**[Markdown](https://ello.co/wtf/help/text-formatting/):** A technical language you can use on Ello to format your posts quickly and easily. For example, `*bold*` will bold.
 
-**@mention:** A way to get a someone's attention on Ello. In a post or comment, you can @mention their username and they’ll be notified. 
+**@mention:** A way to get someone's attention on Ello. In a post or comment, you can @mention their username and they’ll be notified. 
 
 **[Noise](https://ello.co/wtf/help/friends-and-noise/):** A second stream where you can follow people on Ello. Noise defaults to a compressed, fluid grid view that makes it fast to look at a lot of posts quickly (see Friends, above).
 
@@ -44,7 +44,7 @@ position: 5
 
 **[Public Benefit Corporation](https://ello.co/wtf/about/pbc/):** Also called a PBC, a new kind of for-profit company in the USA that exists to produce a benefit for society as a whole — not just to make money for its investors. Ello is a PBC with a legal obligation to never sell ads or user data to third parties.
 
-**Say Ello:** Introduce yourself and post what you’re passionate using the omnibar.
+**Say Ello:** Introduce yourself and post what you’re passionate about using the omnibar.
 
 **Stream:** You have two streams on Ello: Friends and Noise. When you follow someone, this is where their posts will appear (see Friends & Noise, above).
 
