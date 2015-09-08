@@ -8,7 +8,7 @@ position: 5
 
 **Algorithm:** Computer program used by a social network that controls what you see by putting some posts (usually ads and paid content) above others (usually posts by people that you have chosen to follow). Ello doesn’t use algorithms, and all posts on Ello are chronological.
 
-**[: bread :](https://ello.co/wtf/resources/bread/):** People use the bread emoji to show particular appreciation or love for a post. Before the days of “Loves” on Ello, the community posted the :bread: emoji when they liked something, and the tradition stuck.
+**[Bread](https://ello.co/wtf/resources/bread/):** People use the bread emoji to show particular appreciation or love for a post. Before the days of “Loves” on Ello, the community posted the :bread: emoji when they liked something, and the tradition stuck.
 
 **Chronological:** The way posts are displayed on Ello: the most recent post or comment is always shown first. Ello doesn’t use manipulative algorithms that control what you see (see Algorithm, above).
 
