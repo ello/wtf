@@ -16,12 +16,15 @@ We’re still working on the App. Here’s a list of features that are built, an
 
 ## Coming Soon
 * Post and comment editing
+* Multi-Region posting
+* Reply all to comments
+* Animated loading indicators
+* Re-order content blocks within Omnibar
+* Text formatting
 * Video embed creation (Youtube, Vimeo, DailyMotion)
 * Audio embed creation (Soundcloud, Mixcloud)
 * Emoji autocompleter
-* @mention autocompleter
 * Improved error handling
-* Content search integration
 * Private accounts
 * Custom emoji index
 * Private messaging
@@ -29,19 +32,17 @@ We’re still working on the App. Here’s a list of features that are built, an
 * Real time alerts
 * Private messaging
 * Private groups
-* Notification center filtering
-* Landscape for videos and images
-* Re-order content blocks within Omnibar
-* Omnibar post text advanced (bold, italic, urls)
-* Contextual push notifications
-* Improved WTF integration
 * View blocked/muted users in settings
-* Animated loading indicators
-* Reply all
 * Add content to reposts
 
 
 ## Built
+* Notification center filtering
+* Content search integration
+* Landscape for videos and images
+* Contextual push notifications
+* Improved WTF integration
+* @mention autocompleter
 * Onboarding walkthrough
 * Loves + Loves bookmarking stream
 * People search & content discovery
