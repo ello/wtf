@@ -11,19 +11,20 @@ We created this list of built and upcoming features so you can watch Ello roll o
 
 ## Coming Soon
 
-* Hashtag integration (iOS)
+* Improved Discovery
 * Private accounts
 * Online/offline designation
 * Emoji index
 * Private Messaging
 * Auto-push posts to other networks
 * Android mobile app
-* Updated WTF Section
 * Real Time Alerts
 * Private Groups
 
 ## Built
 
+* Updated WTF Section
+* Hashtag integration (iOS)
 * Hashtag integration (web)
 * iOS mobile app
 * Love + Love bookmarking stream
