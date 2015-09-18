@@ -71,7 +71,7 @@ Have fun on Ello! :v:
 
 **[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
 
-**[Green](https://ello.co/ellogreen)** · Lead: @dredmorbius
+**[Green](https://ello.co/ellogreen)** · Lead: @andrew--lf
 
 **[Jewelry](https://ello.co/ellojewelry)** · Lead: @andreali
 
@@ -134,6 +134,8 @@ Have fun on Ello! :v:
 **[Tech](https://ello.co/ellotech)** · Lead: @rusty
 
 **[Travel](https://ello.co/ellotravel)** · Lead: @andreameli
+
+**[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
