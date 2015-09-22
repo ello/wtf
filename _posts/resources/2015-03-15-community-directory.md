@@ -65,6 +65,8 @@ Have fun on Ello! :v:
 
 **[Film Photography](https://ello.co/ello_filmphotography)** · Lead: @hjs-photo
 
+**[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
+
 **[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & @fashionsabi
 
 **[Gifs](https://ello.co/ellogifs)** · Lead: @liam
@@ -72,6 +74,8 @@ Have fun on Ello! :v:
 **[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
 
 **[Green](https://ello.co/ellogreen)** · Lead: @andrew--lf
+
+**[Jazz](https://ello.co/jazzcommunity)** · Lead: @jakebeamish
 
 **[Jewelry](https://ello.co/ellojewelry)** · Lead: @andreali
 
@@ -121,6 +125,8 @@ Have fun on Ello! :v:
 
 **[Science](https://ello.co/elloscience)** · Lead: @anna
 
+**[Sneakers](https://ello.co/ellosneakers)** Lead: @captnblastoff
+
 **[Sound Design](https://ello.co/sounddesign)** · Lead: @le-siul
 
 **[Sports](https://ello.co/ellosport)** · Lead: @jpurvisturton
@@ -131,7 +137,11 @@ Have fun on Ello! :v:
 
 **[Street Art](https://ello.co/ellostreet)** · Lead: @bbluesman
 
+**[Tea](https://ello.co/t-e-a)** · Lead: @danielhong
+
 **[Tech](https://ello.co/ellotech)** · Lead: @rusty
+
+**[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
 
 **[Travel](https://ello.co/ellotravel)** · Lead: @andreameli
 
