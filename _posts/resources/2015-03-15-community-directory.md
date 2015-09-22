@@ -51,8 +51,6 @@ Have fun on Ello! :v:
 
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
 
-**[Dice and Paper](https://ello.co/ello_dice_and_paper)** · Lead: @fuckyouthatsmyname
-
 **[DIY](https://ello.co/ellodiy)** · Lead: @alexi
 
 **[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
