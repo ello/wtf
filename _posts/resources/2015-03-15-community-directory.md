@@ -73,8 +73,6 @@ Have fun on Ello! :v:
 
 **[Green](https://ello.co/ellogreen)** · Lead: @andrew--lf
 
-**[Jazz](https://ello.co/jazzcommunity)** · Lead: @jakebeamish
-
 **[Jewelry](https://ello.co/ellojewelry)** · Lead: @andreali
 
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
@@ -100,6 +98,8 @@ Have fun on Ello! :v:
 **[Music (Electronic)](https://ello.co/elloelectronic)** · Lead: @larsbamble
 
 **[Music (Hip Hop)](https://ello.co/ellohiphop)** · Lead: @ricojames
+
+**[Music (Jazz)](https://ello.co/jazzcommunity)** · Lead: @jakebeamish
 
 **[Music (Trip Hop)](https://ello.co/ellotriphop)** · Lead: @tolv
 
