@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Community Directory"
-date:   2015-08-07 01:23:45 MDT
+date:   2015-09-22 01:23:45 MDT
 categories: resources
 position: 1
 ---
