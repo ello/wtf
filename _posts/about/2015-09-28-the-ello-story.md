@@ -16,7 +16,7 @@ Social networks fit many needs. On Ello, we’re here to provide the best experi
 
 Ello is still in Beta, and we are always adding new features and functionality. You can download the [Ello iOS App](http://appstore.com/ello/ello), and an Android App is in the works.
 
-<br><br>
+<br>
 
 Stay tuned, much more on the way!
 
