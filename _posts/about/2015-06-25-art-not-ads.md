@@ -3,7 +3,7 @@ layout: post
 title:  "Art not Ads"
 date:   2015-06-11 01:23:45
 categories: about
-position: 7
+position: 8
 ---
 
 _Art not Ads_ is an Ello-funded initiative that supports artists making art about issues that matter to the Ello community. 
