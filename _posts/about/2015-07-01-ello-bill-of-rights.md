@@ -3,7 +3,7 @@ layout: post
 title: "Ello Bill of Rights"
 date: 2015-08-07 01:00:00 MDT
 categories: about
-position: 4
+position: 5
 ---
 
 To honor the spirit of U.S. Independence Day on July 4, 2015, Ello released the [Ello Bill of Rights for Social Network Users](https://bill-of-rights.ello.co/).
