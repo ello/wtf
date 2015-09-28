@@ -3,7 +3,7 @@ layout: post
 title:  "The People of Ello"
 date:   2015-08-18 10:23:45 MDT
 categories: about
-position: 12
+position: 13
 ---
 
 ## Founders
