@@ -3,7 +3,7 @@ layout: post
 title:  "Who Created Ello?"
 date:   2014-07-03 10:43:18 MST
 categories: about
-position: 2
+position: 3
 ---
 Ello was originally built by a group of seven well-known artists and programmers as a private social network. Over time, so many people wanted to use Ello that our servers were overwhelmed. We built a public version of Ello for everyone to use.
 
