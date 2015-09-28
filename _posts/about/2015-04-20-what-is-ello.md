@@ -11,7 +11,7 @@ Ello is a friendly social network where inspiration is shared through images and
 
 Ello is not about who you’re with or where you’re going. Ello feeds your imagination and reminds you to let yourself wander. On Ello, share what you love, love what you share, and discover cool stuff you can’t find anywhere else. 
 
-Enjoy Ello any way you like, online or through our app— always ad-free, without anyone controlling what you see or tracking your data. It’s a simple, clean, beautiful world where you are invited to belong. Come inside and see for yourself.
+Enjoy Ello any way you like, online or through our app — always ad-free, without anyone controlling what you see or tracking your data. It’s a simple, clean, beautiful world where you are invited to belong. Come inside and see for yourself.
 
 Ello is for you, me and the creator in both of us. 
 
