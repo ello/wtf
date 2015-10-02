@@ -12,9 +12,9 @@ People quickly signed up to become part of a community that offered something di
  
 Ello was created for your inspiration. It’s a place to get lost and found in new images, stories, and people you won’t experience anywhere else. 
  
-Social networks fit many needs. On Ello, we’re here to provide the best experience possible for the creators that makes up the core of our community. 
+Social networks fit many needs. On Ello, we’re here to provide the best experience possible for the creators that make up the core of our community. 
 
-Ello is still in Beta, and we are always adding new features and functionality. You can download the [Ello iOS App](http://appstore.com/ello/ello), and an Android App is in the works.
+Ello is still in Beta. We are always adding new features and improving functionality. You can download the [Ello iOS App](http://appstore.com/ello/ello), and an Android App is in the works.
 
 <br>
 
