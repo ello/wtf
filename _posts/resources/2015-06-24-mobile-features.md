@@ -84,9 +84,7 @@ If you want your posts to appear on Ello iOS, please set "Post Adult Content" to
 
 ## Ello App for Android
 
-The Ello Android App is in the works!  
-
-Our dedicated team of awesome mobile developers are working day and night to bring it to you. Stay tuned! 
+An Android App is an important part of Ello's future. We are currently redesigning the Ello interface and gearing up to release many new features later this year. We plan to get an awesome Android App out to all of you following that.
 
 ![android-logo](http://i.imgur.com/30IR5l8.jpg)
 
