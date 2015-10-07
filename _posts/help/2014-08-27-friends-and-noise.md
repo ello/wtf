@@ -5,7 +5,7 @@ date:   2015-08-10 03:23:18 MDT
 categories: help
 position: 9
 ---
-One of the things we wanted most when we set out to create Ello was a system to help manage clutter. On other social networks we often found ourselves sifting through hundreds of posts that we weren’t very interested in, trying to find posts by the people that we really cared about most.
+One of the things we wanted most when we set out to create Ello was a system to help manage clutter. On other networks we often found ourselves sifting through hundreds of posts that we weren’t very interested in, trying to find posts by the people that we really cared about most.
 
 The solution we came up with for Ello is called FRIENDS & NOISE.
 
