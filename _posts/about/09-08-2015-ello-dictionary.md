@@ -22,7 +22,7 @@ position: 6
 
 **[Ello Bill of Rights](https://bill-of-rights.ello.co/):** A list of rights for social network users that encourages an atmosphere of responsibility and transparency.
 
-**[Ello Manifesto](https://ello.co/wtf/about/ello-manifesto/):** Ello’s vision of a better way to build a social network for creators. Without ads, without data mining, without deception. 
+**[Ello Manifesto](https://ello.co/wtf/about/ello-manifesto/):** Ello’s vision of a better way to build a network for creators. Without ads, without data mining, without deception. 
 
 **[@ello](https://ello.co/ello):** Follow @ello and find the day’s best posts on Ello.
 
