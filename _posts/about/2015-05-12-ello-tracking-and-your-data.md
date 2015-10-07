@@ -9,7 +9,7 @@ Ello is a [Public Benefit Corporation](/wtf/about/pbc/), with a legal obligation
 
 We believe that the best privacy protection is transparency, so all of us can make smart choices about how to use Ello. Read Ello's Bill of Rights [here](https://bill-of-rights.ello.co/).
 
-Here is information about the data that Ello collects when you join our social network:
+Here is information about the data that Ello collects when you join our network:
 
 We believe that you should be able to be anyone you want on Ello, and you are not required to use your real name when signing up. Quite honestly, we don’t care who you are because we don’t serve ads and don’t sell user data.
 
