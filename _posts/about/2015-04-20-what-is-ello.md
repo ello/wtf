@@ -7,7 +7,7 @@ categories: about
 position: 1
 ---
 
-Ello is a friendly social network where inspiration is shared through images and stories. It’s a place for you to connect with people and things beyond your current circles. 
+Ello is a friendly network where inspiration is shared through images and stories. It’s a place for you to connect with people and things beyond your current circles. 
 
 Ello is not about who you’re with or where you’re going. Ello feeds your imagination and reminds you to let yourself wander. On Ello, share what you love, love what you share, and discover cool stuff you can’t find anywhere else. 
 
