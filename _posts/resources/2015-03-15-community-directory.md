@@ -87,6 +87,8 @@ Have fun on Ello! :v:
 
 **[Mobile Photo](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
 
+**[Monochromatic](https://ello.co/monochromatica)** · Lead: @aelisei
+
 **[Motorcycles](https://ello.co/ellomotorcycles)** · Lead: @joycomplex
 
 **[Murals](https://ello.co/ellomural)** · Lead: @inkmonstr
