@@ -67,6 +67,8 @@ Have fun on Ello! :v:
 
 **[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & @fashionsabi
 
+**[Geometry](https://ello.co/geometry)** · Lead: @aarton
+
 **[Gifs](https://ello.co/ellogifs)** · Lead: @amber
 
 **[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
