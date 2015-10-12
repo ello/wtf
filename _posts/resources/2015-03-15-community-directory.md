@@ -119,6 +119,8 @@ Have fun on Ello! :v:
 
 **[Postal History](https://ello.co/postalhistory)** · Lead: @edbuzz
 
+**[Privacy](https://ello.co/elloprivacy)** · Lead: @mrbinsk
+
 **[Quotes](https://ello.co/quotes)** · Lead: @mattlaff
 
 **[Railways](https://ello.co/ellorailways)** · Lead: @edbuzz
