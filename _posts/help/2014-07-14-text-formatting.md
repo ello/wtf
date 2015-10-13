@@ -82,3 +82,9 @@ For example, type this:
 and get this:
 
 [Visit Ello Now!](https://www.ello.co)
+
+## Code Blocks
+
+Add code blocks by adding ` before and after text.
+
+``Check out this code block.``
