@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Where the fuck is the Android App?"
+date:   2015-08-10 01:00:00 MDT
+categories: help
+position: 2
+---
+
+Android users, we feel your frustration. Many Ello team members use Android devices too. 
+
+We are currently improving the Ello interface and gearing up to release many new features later this year. We plan to get an awesome Android App out to all of you following that.
+
+In the meantime, we use the Chrome mobile browser to access Ello on Android, and it works brilliantly! 
+
+Please know that an Android Ello App is an important part of Ello’s future. We’ll get it in your pockets as soon as we can.
