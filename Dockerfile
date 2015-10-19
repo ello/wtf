@@ -1,5 +1,5 @@
 # Choose the official Ruby 2.2 image as our starting point
-FROM ruby:2.2
+FROM ruby:2.2.3
 
 # Set the locale
 ENV LANG "en_US.UTF-8"
