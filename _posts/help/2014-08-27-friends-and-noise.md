@@ -37,4 +37,6 @@ Go to the person’s profile page, click the button that says FRIEND or NOISE (d
 
 ## Can I view NOISE using the same expanded layout as FRIENDS, and vice-versa?
 
-Yes. If you are using Ello on the web, you can toggle back and forth from expanded to grid view by pressing =. You can also click on the grid icon at the bottom right of any page! 
+Yes! If you are using Ello on the web, toggle back and forth from expanded to grid view by clicking the grid/list icons at the bottom right corner of your window.  You can also use the = hotkey if you want to switch on the fly.
+
+Ello will remember your view preferences on each of your devices, so the next time you return your views will remain the same!
