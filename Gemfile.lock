@@ -99,12 +99,11 @@ GEM
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.11)
-    puma (2.11.3)
-      rack (>= 1.1, < 2.0)
+    puma (2.14.0)
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
-    rack (1.6.1)
+    rack (1.6.4)
     rake (10.4.2)
     rb-fsevent (0.9.5)
     rb-inotify (0.9.5)
@@ -156,4 +155,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   1.10.4
+   1.10.6
