@@ -62,6 +62,7 @@ permalink: /:categories/:title/ # construct our URLs (this is misleading because
 gems:
   - jemoji
   - jekyll-html-pipeline
+  - jekyll-assets
 
 ## markdown flavor
 markdown: HTMLPipeline
@@ -96,3 +97,5 @@ exclude:
   - lib
   - config
   - stopwords.txt
+
+plugins: _plugins
