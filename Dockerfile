@@ -13,6 +13,7 @@ RUN apt-get update -qq && \
 # Set up working directory
 RUN mkdir /app
 WORKDIR /app
+VOLUME /app
 
 # Set up gems
 RUN gem install bundler
