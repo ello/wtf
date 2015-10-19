@@ -84,9 +84,3 @@ This [Jekyll](http://jekyllrb.com/) install relies on a few different gems (in a
 * $ `jekyll serve`
 * Point your browser at: [http://localhost:4000/wtf/](http://localhost:4000/wtf/) (the trailing slash is important)
 * Content/design changes should update locally as you make them
-
-## Old Staging Server Info
-
-* URL: [http://ellowtf.grantblakeman.com/wtf/](http://ellowtf.grantblakeman.com/wtf/)
-* user: `ellowtf`
-* password: `saipan`
