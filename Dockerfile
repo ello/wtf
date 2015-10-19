@@ -1,12 +1,8 @@
-# Choose the official Ruby 2.2 image as our starting point
 FROM ruby:2.2.3
-
-# Speed up Nokogiri install
-ENV NOKOGIRI_USE_SYSTEM_LIBRARIES 1
 
 # Run updates
 RUN apt-get update -qq && \
-    apt-get install -y build-essential nodejs libxml2-dev && \
+    apt-get install -y build-essential nodejs && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
@@ -25,4 +21,4 @@ EXPOSE 4000
 
 # Add the rest of the app's code
 COPY . /app
-CMD ["/usr/local/bundle/bin/bundle", "exec", "jekyll", "serve", "-w", "--force_polling", "-P", "4000", "-H", "0.0.0.0", "-V"]
+CMD ["/usr/local/bundle/bin/bundle", "exec", "jekyll", "serve", "--force_polling", "-P", "4000", "-H", "0.0.0.0"]
