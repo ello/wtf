@@ -51,7 +51,7 @@ Have fun on Ello! :v:
 
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
 
-**[Dice and Paper](https://ello.co/ello_dice_and_paper)** · Lead: @TBA
+**[Dice and Paper](https://ello.co/ello_dice_and_paper)** · Lead: @fuckyouthatsmyname
 
 **[DIY](https://ello.co/ellodiy)** · Lead: @alexi
 
@@ -142,6 +142,8 @@ Have fun on Ello! :v:
 **[Startups](https://ello.co/ellostartups)** · Lead: @arinewman
 
 **[Street Art](https://ello.co/ellostreet)** · Lead: @bbluesman
+
+**[Surf Photography](https://ello.co/surfphotography)**  · Lead: @TBA
 
 **[Tea](https://ello.co/t-e-a)** · Lead: @danielhong
 
