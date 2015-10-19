@@ -31,8 +31,6 @@ Have fun on Ello! :v:
 
 **[Bridges](https://ello.co/ellobridges)** · Lead: @anthonystevens
 
-**[Business](https://ello.co/ellobusiness)** · Lead: @youngstapreneur
-
 **[Cars](https://ello.co/ellocars)** · Lead: @omni-car
 
 **[Coffee](https://ello.co/ellocoffee)** · Lead: @scafa 
@@ -83,8 +81,6 @@ Have fun on Ello! :v:
 
 **[Latino](https://ello.co/ellolatino)** · Lead: @wgmeets
 
-**[Literature](https://ello.co/elloliterature)** · Lead: @runspotrun
-
 **[Lucid Dreams](https://ello.co/elloluciddreams)** · Lead: @marcelleliemantiemant
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
@@ -108,8 +104,6 @@ Have fun on Ello! :v:
 **[Music (Jazz)](https://ello.co/jazzcommunity)** · Lead: @jakebeamish
 
 **[Music (Trip Hop)](https://ello.co/ellotriphop)** · Lead: @tolv
-
-**[NSFW](https://ello.co/ellonsfw)** · Lead: @theoem
 
 **[Outside](https://ello.co/ellooutside)** · Lead: @wasimofnazareth
 
@@ -156,8 +150,6 @@ Have fun on Ello! :v:
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
-
-**[Whiskey](https://ello.co/ellowhiskey)** · Lead: @theoem
 
 **[Wine](https://ello.co/ellowine)** · Lead: @weinreporter
 
