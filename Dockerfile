@@ -21,4 +21,4 @@ EXPOSE 4000
 
 # Add the rest of the app's code
 COPY . /app
-CMD ["/usr/local/bundle/bin/bundle", "exec", "jekyll", "serve", "--force_polling", "-P", "4000", "-H", "0.0.0.0"]
+CMD ["/usr/local/bundle/bin/bundle", "exec", "jekyll", "serve", "--watch", "--force_polling", "--port", "4000", "--host", "0.0.0.0", "--verbose"]
