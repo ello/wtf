@@ -21,8 +21,6 @@ Have fun on Ello! :v:
 
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
-**[Auto](https://ello.co/elloauto)** · Lead: @fulltilt
-
 **[Backcountry](https://ello.co/ellobackcountry)** · Lead: @dutchess70
 
 **[Books](https://ello.co/ellobooks)** · Lead: @vivlio
