@@ -35,6 +35,8 @@ Have fun on Ello! :v:
 
 **[Coffee](https://ello.co/ellocoffee)** · Lead: @scafa 
 
+**[Collaboration](https://ello.co/ellocollaboration)** Lead: @domtru
+
 **[Collage](https://ello.co/ellocollage)** · Leads: @rubenb & @maxomatic
 
 **[Cooking](https://ello.co/ellocooking)** · Lead: @floatingkitchen
