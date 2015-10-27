@@ -33,7 +33,7 @@ Have fun on Ello! :v:
 
 **[Coffee](https://ello.co/ellocoffee)** · Lead: @scafa 
 
-**[Collaboration](https://ello.co/ellocollaboration)** · Lead: @domtru
+**[Collaboration](https://ello.co/ellocollaboration)** · Lead: @domtru & @brianmichealjones
 
 **[Collage](https://ello.co/ellocollage)** · Leads: @rubenb & @maxomatic
 
