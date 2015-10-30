@@ -22,5 +22,5 @@ These updates (and more coming!) make it fast and easy for you to share what you
 
 Ello is for you, me and the creator in all of us. 
 
-<div class="blackbutton">[Get started](https://ello.co/)</div> [Learn More](https://ello.co/wtf/about/what-is-ello/)
+<a class="blackbutton" href="https://ello.co">Get started)</a> [Learn More](https://ello.co/wtf/about/what-is-ello/)
 
