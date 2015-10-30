@@ -5,6 +5,7 @@
     position: relative;
     margin: 0;
     padding: 30px;
+    padding: 30px;
     height: 60px;
     font-size: 0.75rem;
     color: white;
@@ -13,8 +14,8 @@
     text-align: center;
     vertical-align: middle;
     background-color: black;
+}
 .blackbutton:hover {
     background-color: $grey1;
     color: white;
-}
 }
