@@ -31,5 +31,5 @@ _**Join us.**_
 
 Experience a worldwide community of millions who respect creativity over corporate control, and connection over manipulation. Together we’ve built a home for those who believe that unbridled creativity moves the world forward. 
 
-<a class="blackbuttons" href="https://ello.co/">Get started.</a>
+<a class="blackbutton" href="https://ello.co/">Get started.</a>
 
