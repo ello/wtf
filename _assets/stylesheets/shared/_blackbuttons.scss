@@ -4,8 +4,8 @@
     display: inline-block;
     position: relative;
     margin: 0;
-    padding: 30px;
-    padding: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
     height: 60px;
     font-size: 0.75rem;
     color: white;
@@ -19,4 +19,5 @@
 .blackbutton:hover {
     background-color: $grey3;
     color: white;
+    opacity: 100%;
 }
