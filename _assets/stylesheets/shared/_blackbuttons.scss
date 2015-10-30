@@ -6,7 +6,8 @@
     margin: 0;
     padding-right: 30px;
     padding-left: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 25px;
+    padding-top: 25px
     height: 60px;
     font-size: 0.75rem;
     color: white;
@@ -20,5 +21,5 @@
 .blackbutton:hover {
     background-color: $grey3;
     color: white;
-    transition-property: none;
+    transition: none;
 }
