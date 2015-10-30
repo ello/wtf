@@ -7,10 +7,10 @@
     padding: 0.3125rem 0.625rem;
     height: 1.875rem;
     font-size: 0.75rem;
+    color: white;
+    text-decoration: none;
     // line-height: 0.75rem;
     text-align: center;
     vertical-align: middle;
     background-color: black;
-    border: 1px solid $grey3;
-    @include transition_in_out(150ms);
 }
