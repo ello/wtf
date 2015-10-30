@@ -137,7 +137,7 @@ Have fun on Ello! :v:
 
 **[Science](https://ello.co/elloscience)** · Lead: @anna
 
-**[Sneakers](https://ello.co/ellosneakers)** Lead: @captnblastoff
+**[Sneakers](https://ello.co/ellosneakers)** · Lead: @captnblastoff
 
 **[Sound Design](https://ello.co/sounddesign)** · Lead: @le-siul
 
