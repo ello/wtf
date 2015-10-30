@@ -6,18 +6,21 @@ categories: about
 position: 2
 ---
 
-Ello launched in 2014 as a private network, built by a [small group of seven friends](https://ello.co/wtf/about/who-created-ello/). Our goal was to create a network different from anything out there, and to move people in a new direction.
+Ello launched in 2014 as a private creative network, built by a group of seven artists and designers as an oasis from mainstream social networks.
+
+Rather than following the path of big networks that had become cluttered and filled with ads, we decided to create our own space to celebrate everything that drives and inspires us. It turned out that a lot of other people were looking for exactly the same thing. 
+
+When we first opened Ello to the world, we had ten thousand people signing up every hour. At that point we could have cashed in and sold out— but that would have gone against everything we stand for, at the expense of losing the wonderful place that we’d created and come to love. Ello is open, positive, fun, and echoes the safety and freedom of the Internet we enjoyed when it was still young. We made the conscious decision to stay small, and stay real. As Ello CEO & Co-founder Paul Budnitz says: 
+
+“We’re not interested in building another Wal-Mart of the Internet, a place where everyone is encouraged to act the same and one size fits all, and where people’s creativity is squashed by a network’s endless appetite to collect and sell user data.”
+
+Ello never was and never will be just another generic social network. Everything we do is focused on Ello’s mission to be the best place in the world for creative people to be inspired, and to inspire others. 
  
-People quickly signed up to become part of a community that offered something different. They found inspiration in photos and stories shared by people around the world. They shared things of their own. Ello has become a home for authentic content that isn’t posted anywhere else. More importantly, Ello is a place where people are free to feel like they belong.  
- 
-Ello was created for your inspiration. It’s a place to get lost and found in new images, stories, and people you won’t experience anywhere else. 
- 
-Networks fit many needs. On Ello, we’re here to provide the best experience possible for the creators that make up the core of our community. 
+We have recently completed major improvements to Ello’s core functionality, including better search tools, new posting & discovery features, and our new [iOS app](http://appstore.com/ello/ello). [Ello Android](https://ello.co/wtf/help/android/) is on the way. In the meantime, Ello continues to work brilliantly on your mobile browser.
 
-Ello is still in Beta. We are always adding new features and improving functionality. You can download the [Ello iOS App](http://appstore.com/ello/ello), and an Android App is in the works.
+These updates (and more coming!) make it fast and easy for you to share what you love, while discovering unique things and new people that inspire you. Ello feeds your imagination and reminds you to let yourself wander. 
 
-<br>
+Ello is for you, me and the creator in all of us. 
 
-Stay tuned, much more on the way!
+[Get started](https://ello.co/) [Learn More](https://ello.co/wtf/about/what-is-ello/)
 
-:ello:
