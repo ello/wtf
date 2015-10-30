@@ -7,27 +7,29 @@ categories: about
 position: 1
 ---
 
-Ello is a friendly network where inspiration is shared through images and stories. It’s a place for you to connect with people and things beyond your current circles. 
+**Be inspired.**
 
-Ello is not about who you’re with or where you’re going. Ello feeds your imagination and reminds you to let yourself wander. On Ello, share what you love, love what you share, and discover cool stuff you can’t find anywhere else. 
+Ello is a community of creators, thinkers, and dreamers sharing inspiration through images and stories.  
 
-Enjoy Ello any way you like, online or through our app — always ad-free, without anyone controlling what you see or tracking your data. It’s a simple, clean, beautiful world where you are invited to belong. Come inside and see for yourself.
+Ello is not about who you’re with or where you’re going. Ello feeds your imagination and reminds you to let yourself wander.  It’s a visually-driven network where you’ll find things you can’t find anywhere else. Your posts live in a clean and beautiful space that’s simple to use, with a host of features that amplify your creativity. 
 
-Ello is for you, me and the creator in both of us. 
+Ad-free forever, you and the things you share will never be leveraged to sell ads. 
 
-A network for creators. 
+_**Explore and connect differently.**_ 
 
-Be inspired. 
+Ello is a network outside of the ordinary where you connect with new people and things beyond your current social circles. It’s a friendly community that welcomes everyone— from professional artists and creators to bloggers, curators, and everyday dreamers. If you live to be inspired or inspire others, Ello is for you.
 
-Love,
+_**Post what you love.**_
 
-:ello:
+Publish full-screen images, video, audio, GIFs, and long form writing in a simple and clean environment that brings out the best in creative work. Share what you care about most. Let inspiration be your guide. 
 
-Ello
+_**Feel safe.**_
 
-## Learn more:
+As a [Public Benefit Corporation](https://ello.co/wtf/about/pbc/), Ello has a legally binding commitment to [never sell ads and user data](https://ello.co/wtf/about/ello-tracking-and-your-data/). Control what you share and decide what you see. Posts are displayed in chronological order, with no manipulative algorithms influencing your stream. 
 
-* Read the [Ello Manifesto](/wtf/about/ello-manifesto/) and [Ello Bill of Rights](https://bill-of-rights.ello.co/).
-* Learn about [Ello’s No-ads Policy](/wtf/about/ello-tracking-and-your-data/) and read the [Ello PBC Charter](/wtf/about/pbc/), which legally assures that Ello will never sell ads or user data.
-* Check out [Ello WTF](/wtf/) for FAQ, policies, help, video tutorials, and much more.
-* Download the [Ello iOS App](http://appstore.com/ello/ello).
+_**Join us.**_
+
+Experience a worldwide community of millions who respect creativity over corporate control, and connection over manipulation. Together we’ve built a home for those who believe that unbridled creativity moves the world forward. 
+
+[Get started.](https://ello.co/)
+
