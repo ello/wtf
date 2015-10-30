@@ -1,16 +1,21 @@
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ black buttons
 
 .blackbutton {
-    box-sizing: border-box;
-    color: rgb(255, 255, 255);
     display: inline-block;
-    font-style: normal;
+    position: relative;
+    margin: 0;
+    padding: 30px;
+    padding: 30px;
     height: 60px;
+    font-size: 0.75rem;
+    color: white;
+    text-decoration: none;
     line-height: 24px;
-    margin-top: 0px;
-    max-width: 200px;
-    width: 86.7344px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: black;
     }
+    
 .blackbutton:hover {
     background-color: $grey3;
     color: white;
