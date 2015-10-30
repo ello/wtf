@@ -21,7 +21,11 @@ Have fun on Ello! :v:
 
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
+**[Art](https://ello.co/elloart)** · Lead: @carlosbob
+
 **[Backcountry](https://ello.co/ellobackcountry)** · Lead: @dutchess70
+
+**[Bikes](https://ello.co/bikelove)** · Lead: @kansascity
 
 **[Books](https://ello.co/ellobooks)** · Lead: @vivlio
 
@@ -32,6 +36,8 @@ Have fun on Ello! :v:
 **[Cars](https://ello.co/ellocars)** · Lead: @omni-car
 
 **[Coffee](https://ello.co/ellocoffee)** · Lead: @scafa 
+
+**[Coffee Lovers](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
 
 **[Collaboration](https://ello.co/ellocollaboration)** · Lead: @domtru & @brianmichealjones
 
@@ -61,6 +67,8 @@ Have fun on Ello! :v:
 
 **[Film](https://ello.co/ellofilm)** · Lead: @diogovarelasilva
 
+**[Film Grain](https://ello.co/filmgrain)** · Lead: @perf
+
 **[Film Photography](https://ello.co/ello_filmphotography)** · Lead: @hjs-photo
 
 **[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
@@ -85,6 +93,8 @@ Have fun on Ello! :v:
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
+**[Minerals](https://ello.co/mineralcase)** · Lead: @sturmmadchen
+
 **[Mobile Photo](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
 
 **[Monochromatic](https://ello.co/monochromatica)** · Lead: @aelisei
@@ -104,6 +114,8 @@ Have fun on Ello! :v:
 **[Music (Jazz)](https://ello.co/jazzcommunity)** · Lead: @jakebeamish
 
 **[Music (Trip Hop)](https://ello.co/ellotriphop)** · Lead: @tolv
+
+**[Nikon](https://ello.co/ellonikon)** · Lead: @edbuzz
 
 **[Outside](https://ello.co/ellooutside)** · Lead: @wasimofnazareth
 
