@@ -163,7 +163,7 @@ Have fun on Ello! :v:
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
-**[Wine](https://ello.co/ellowine)** · Lead: @weinreporter
+**[Wine](https://ello.co/ellowine)** · Lead: @petramayer
 
 **[Writing](https://ello.co/ellowrites)** · Lead: @kseniaanske
 
