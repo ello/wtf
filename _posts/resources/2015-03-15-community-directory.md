@@ -149,7 +149,7 @@ Have fun on Ello! :v:
 
 **[Street Art](https://ello.co/ellostreet)** · Lead: @bbluesman
 
-**[Surf Photography](https://ello.co/surfphotography)**  · Lead: @TBA
+**[Surf Photography](https://ello.co/surfphotography)**  · Lead: Mike Healey
 
 **[Tea](https://ello.co/t-e-a)** · Lead: @danielhong
 
