@@ -61,6 +61,8 @@ Have fun on Ello! :v:
 
 **[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
 
+**[Engineering](https://ello.co/elloengineering)** · Lead: @justjose
+
 **[Equestrian](https://ello.co/elloequestrian)** · Lead: @sophiesoloneventing
 
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
