@@ -27,6 +27,8 @@ Have fun on Ello! :v:
 
 **[Bikes](https://ello.co/bikelove)** · Lead: @kansascity
 
+**[Board Games](https://ello.co/elloboardgames)** · Lead: @jdarnold
+
 **[Books](https://ello.co/ellobooks)** · Lead: @vivlio
 
 **[Brewing](https://ello.co/ellobrew)** · Lead: @katatonic
@@ -101,7 +103,11 @@ Have fun on Ello! :v:
 
 **[Monochromatic](https://ello.co/monochromatica)** · Lead: @aelisei
 
+**[Montreal](https://ello.co/ellomontreal)** · Lead: @julienlaplanche
+
 **[Motorcycles](https://ello.co/ellomotorcycles)** · Lead: @joycomplex
+
+**[Movies](https://ello.co/ellomovies)** · Lead: @fulltilt
 
 **[Murals](https://ello.co/ellomural)** · Lead: @inkmonstr
 
@@ -116,6 +122,8 @@ Have fun on Ello! :v:
 **[Music (Jazz)](https://ello.co/jazzcommunity)** · Lead: @jakebeamish
 
 **[Music (Trip Hop)](https://ello.co/ellotriphop)** · Lead: @tolv
+
+**[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
 
 **[Nikon](https://ello.co/ellonikon)** · Lead: @edbuzz
 
