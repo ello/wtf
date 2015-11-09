@@ -22,6 +22,7 @@ Ryan Boyajian, Lead Developer @666
 Casey Doran, Director of Product @dcdoran
 Sean Dougherty, Mobile Lead @sean
 Colin Gray, Senior iOS Engineer @colinta
+Justin Holmes, Junior Full Stack Engineer @holmezi
 Chelsea Kantola, Community Coordinator @chelsea
 Brittany LaValley, Assistant and General Manager @be13
 Anna Quinlan, Community Manager @anna
