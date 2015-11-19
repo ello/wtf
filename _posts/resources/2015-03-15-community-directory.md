@@ -73,7 +73,7 @@ Have fun on Ello! :v:
 
 **[Film](https://ello.co/ellofilm)** · Lead: @diogovarelasilva
 
-**[Film Grain](https://ello.co/filmgrain)** · Lead: @perf
+**[Film Grain](https://ello.co/filmgrain)** · Lead: @perfilyev
 
 **[Film Photography](https://ello.co/ello_filmphotography)** · Lead: @hjs-photo
 
