@@ -47,7 +47,7 @@ Have fun on Ello! :v:
 
 **[Cooking](https://ello.co/ellocooking)** · Lead: @floatingkitchen
 
-**[Comics](https://ello.co/comicbuzz)** · Lead: TBA
+**[Comics](https://ello.co/comicbuzz)**
 
 **[Computer Games](https://ello.co/ellocomputergames)** · Lead: @jdarnold
 
@@ -85,11 +85,11 @@ Have fun on Ello! :v:
 
 **[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
 
-**[Graffiti (Mexican)](https://ello.co/mexicobeta)** · Lead: TBA
+**[Graffiti (Mexican)](https://ello.co/mexicobeta)**
 
 **[Green](https://ello.co/ellogreen)** · Lead: @andrew--lf
 
-**[iPhoneography](https://ello.co/ello_iphoneography)** · Lead: TBA
+**[iPhoneography](https://ello.co/ello_iphoneography)** 
 
 **[Jewelry](https://ello.co/ellojewelry)** · Lead: @andreali
 
@@ -127,7 +127,7 @@ Have fun on Ello! :v:
 
 **[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
 
-**[NHL](https://ello.co/nhlwraparound)** · Lead: TBA
+**[NHL](https://ello.co/nhlwraparound)** 
 
 **[Nikon](https://ello.co/ellonikon)** · Lead: @edbuzz
 
@@ -135,7 +135,7 @@ Have fun on Ello! :v:
 
 **[Painting](https://ello.co/ellopainting)** · Lead: @laurenmgeorge
 
-**[Pentax](https://ello.co/ellopentax)** · Lead: TBA
+**[Pentax](https://ello.co/ellopentax)**
 
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
@@ -165,7 +165,7 @@ Have fun on Ello! :v:
 
 **[Street Art](https://ello.co/ellostreet)** · Lead: @bbluesman
 
-**[Surf Photography](https://ello.co/surfphotography)**  · Lead: Mike Healey
+**[Surf Photography](https://ello.co/surfphotography)**  
 
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
 
