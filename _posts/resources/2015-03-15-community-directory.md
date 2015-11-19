@@ -51,8 +51,6 @@ Have fun on Ello! :v:
 
 **[Computer Games](https://ello.co/ellocomputergames)** · Lead: @jdarnold
 
-**[Crafting](https://ello.co/ellocrafting)** · Lead: @matttheshark
-
 **[Dadaism](https://ello.co/ellodadaism)** · Lead: @leapofdesire
 
 **[Dance](https://ello.co/ellodance)** · Lead: @patriciaallison
@@ -127,8 +125,6 @@ Have fun on Ello! :v:
 
 **[Music (Jazz)](https://ello.co/ellojazz)** · Lead: @pete_gitlin
 
-**[Music (Trip Hop)](https://ello.co/ellotriphop)** · Lead: @tolv
-
 **[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
 
 **[NHL](https://ello.co/nhlwraparound)** · Lead: TBA
@@ -138,6 +134,8 @@ Have fun on Ello! :v:
 **[Outside](https://ello.co/ellooutside)** · Lead: @wasimofnazareth
 
 **[Painting](https://ello.co/ellopainting)** · Lead: @laurenmgeorge
+
+**[Pentax](https://ello.co/ellopentax)** · Lead: TBA
 
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
@@ -168,10 +166,6 @@ Have fun on Ello! :v:
 **[Street Art](https://ello.co/ellostreet)** · Lead: @bbluesman
 
 **[Surf Photography](https://ello.co/surfphotography)**  · Lead: Mike Healey
-
-**[Tea](https://ello.co/t-e-a)** · Lead: @danielhong
-
-**[Tech](https://ello.co/ellotech)** · Lead: @rusty
 
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
 
