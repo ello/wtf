@@ -89,9 +89,11 @@ Have fun on Ello! :v:
 
 **[Green](https://ello.co/ellogreen)** · Lead: @andrew--lf
 
-**[iPhoneography](https://ello.co/ello_iphoneography)** 
+**[iPhoneography](https://ello.co/ello_iphoneography)** · Lead: @kanemassey
 
 **[Jewelry](https://ello.co/ellojewelry)** · Lead: @andreali
+
+**[Kite Surfing](https://ello.co/kitesurgers)** · Lead: @oceanromeo
 
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
