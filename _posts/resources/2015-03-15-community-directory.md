@@ -137,7 +137,7 @@ Have fun on Ello! :v:
 
 **[Painting](https://ello.co/ellopainting)** · Lead: @laurenmgeorge
 
-**[Pentax](https://ello.co/ellopentax)**
+**[Pentax](https://ello.co/ellopentax)** · Lead: @annemio
 
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
