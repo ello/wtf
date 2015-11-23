@@ -93,7 +93,7 @@ Have fun on Ello! :v:
 
 **[Jewelry](https://ello.co/ellojewelry)** · Lead: @andreali
 
-**[Kite Surfing](https://ello.co/kitesurgers)** · Lead: @oceanromeo
+**[Kite Surfing](https://ello.co/kitesurfers)** · Lead: @oceanromeo
 
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
