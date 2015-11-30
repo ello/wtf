@@ -91,7 +91,7 @@ Have fun on Ello! :v:
 
 **[Green](https://ello.co/ellogreen)** · Lead: @andrew--lf
 
-**[iPhoneography](https://ello.co/ello_iphoneography)** · Lead: @kanemassey
+**[iPhoneography](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
 **[Jewelry](https://ello.co/ellojewelry)** · Lead: @andreali
 
