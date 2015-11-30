@@ -67,6 +67,8 @@ Have fun on Ello! :v:
 
 **[Equestrian](https://ello.co/elloequestrian)** · Lead: @sophiesoloneventing
 
+**[Ethics](https://ello.co/elloethics)**
+
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
 
 **[Film](https://ello.co/ellofilm)** · Lead: @diogovarelasilva
@@ -155,6 +157,8 @@ Have fun on Ello! :v:
 
 **[Science](https://ello.co/elloscience)** · Lead: @anna
 
+**[Self Portraiture](https://ello.co/elloselfportraiture)** 
+
 **[Sneakers](https://ello.co/ellosneakers)** · Lead: @captnblastoff
 
 **[Sound Design](https://ello.co/sounddesign)** · Lead: @le-siul
@@ -167,7 +171,11 @@ Have fun on Ello! :v:
 
 **[Street Art](https://ello.co/ellostreet)** · Lead: @bbluesman
 
+**[Street Style](https://ello.co/ellostreetstyle)** · Lead: @makotoiwasa
+
 **[Surf Photography](https://ello.co/surfphotography)**  
+
+**[Tattoos](https://ello.co/ellotattoos)**
 
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
 
