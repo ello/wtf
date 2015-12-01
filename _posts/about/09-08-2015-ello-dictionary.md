@@ -28,8 +28,6 @@ position: 6
 
 **[@elloblog](https://ello.co/elloblog):** @elloblog is where you will find Ello product updates, in-depth interviews, and round-ups of amazing people on Ello.
 
-**[Friends](https://ello.co/wtf/help/friends-and-noise/):** A stream of your favorite posts, shown by default in an expanded list format. Follow the people you care about most as “Friends”! (See Noise, below.)
-
 **Inspiration:** One of the drivers of Self-Actualization in Maslow’s Hierarchy of Needs. Ello’s mission is to create a safe place for creators to inspire and be inspired.
 
 **Loves:** An easy way to show respect for another person's creation. On Ello, Loving is more than just a click! It’s also a bookmark tool so you can go back and see your favorite posts.
@@ -38,15 +36,15 @@ position: 6
 
 **@mention:** A way to get someone's attention on Ello. In a post or comment, you can @mention their username and they’ll be notified. 
 
-**[Noise](https://ello.co/wtf/help/friends-and-noise/):** A second stream where you can follow people on Ello. Noise defaults to a compressed, fluid grid view that makes it fast to look at a lot of posts quickly (see Friends, above).
-
 **Omnibar:** The black bar up top never disappears. Use the omnibar to post what you’re passionate about, no matter where you are on Ello.
 
 **[Public Benefit Corporation](https://ello.co/wtf/about/pbc/):** Also called a PBC, a new kind of for-profit company in the USA that exists to produce a benefit for society as a whole — not just to make money for its investors. Ello is a PBC with a legal obligation to never sell ads or user data to third parties.
 
 **Say Ello:** Introduce yourself and post what you’re passionate about using the omnibar.
 
-**Stream:** You have two streams on Ello: Friends and Noise. When you follow someone, this is where their posts will appear (see Friends & Noise, above).
+**[Starred](https://ello.co/starred):** A second stream that lets you separate your favorite or least favorite posts. Use it to reduce clutter and organize your Ello experience any way you like.
+
+**Stream:** You have two streams on Ello. This is where posts appear from the people you follow and Star.
 
 **#tag:** A way of categorizing posts, so that you and everyone else can find them. Click a #tag to jump to a list of all posts on Ello with the same tag. You can also use #tags in search. 
 
