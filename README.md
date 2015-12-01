@@ -71,6 +71,19 @@ Lists (ordered, with numbers, or unordered, with bullet points) will be formatte
 
 Emoji Support is baked in, just like the main site. Use colons to wrap [the emoji you want](http://www.emoji-cheat-sheet.com) to use: `:bread:` or `:ello:` :bread: :+1:
 
+
+## Making changes and previewing them locally
+
+1. Download and install [Github for Mac](https://desktop.github.com/)
+2. Download and install the [Atom Editor](https://atom.io/)
+3. Download and install the [Docker Toolbox](https://www.docker.com/docker-toolbox)
+4. Create a [Docker Hub account](https://hub.docker.com/) and ping ops@ello.co to get added to the Ello account
+5. From Github for Mac, sign into your Github account. Click the `+` button in the upper left, switch to the `Clone` tab, and clone the `ello-wtf` repository.
+6. Make changes to your local copy of WTF using Atom, then preview them
+   in browser, restarting the container with Kitematic as needed. When
+   you're done, commit your changes in Github for Mac and sync them to
+   Github 
+
 ## Installing & Running Jekyll
 
 ### Installing Jekyll:
