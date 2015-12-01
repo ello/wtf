@@ -4,14 +4,11 @@
 
 1. Edit the master branch in Github. Make sure no one else is editing so you don't collide.
 2. Commit changes, check CircleCI to see if changes pass.
-3. See how changes look on the staging server.
+3. See how changes look on the [staging server](http://ello-wtf-staging.herokuapp.com/wtf/).
 3. Deploy master branch on Heroku.
 
-## Staging Server Info
 
-* URL: [http://ello-wtf-staging.herokuapp.com/wtf/](http://ello-wtf-staging.herokuapp.com/wtf/)
-
-## Post/Page Info
+## Authoring Posts & Pages
 
 ### Filename:
 
@@ -63,7 +60,7 @@ All content goes below the _Post Meta Data_ and is formatted with Markdown.
 
 [Markdown Docs](http://daringfireball.net/projects/markdown/syntax)
 
-You do not need to repeat the title of your post—it will be automatically add from the Post Meta Data. The most common sub-title or sub-section format option is the `<h2>` which, in Markdown, is represented by using: `##`.
+You do not need to repeat the title of your post — it will be automatically add from the Post Meta Data. The most common sub-title or sub-section format option is the `<h2>` which, in Markdown, is represented by using: `##`.
 
 Lists (ordered, with numbers, or unordered, with bullet points) will be formatted. Code and blockquote formatting is also available.
 
@@ -72,7 +69,9 @@ Lists (ordered, with numbers, or unordered, with bullet points) will be formatte
 Emoji Support is baked in, just like the main site. Use colons to wrap [the emoji you want](http://www.emoji-cheat-sheet.com) to use: `:bread:` or `:ello:` :bread: :+1:
 
 
-## Making changes and previewing them locally
+## Making changes & previewing them locally with Docker
+
+This is an easier alternative to the Jekyll install option below.
 
 1. Download and install [Github for Mac](https://desktop.github.com/)
 2. Download and install the [Atom Editor](https://atom.io/)
