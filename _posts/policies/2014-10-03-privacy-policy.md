@@ -96,4 +96,4 @@ You can also always find the most current version of this policy on our web site
 We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at [legal@ello.co](mailto:legal@ello.co) or contact us at the following address: Ello PBC, 688 Pine Street, Suite 2A, Burlington, VT 05401 or phone number: (802)557-0997.
 
 **Link to Archived Versions**  
-You can find archived versions of our [Privacy Policy](https://github.com/ello/policies/blob/master/privacy_policy.md) on GitHub.
+You can find archived versions of our [Privacy Policy](https://github.com/ello/wtf) on GitHub.
