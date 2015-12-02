@@ -6,11 +6,11 @@ categories: help
 position: 5
 ---
 
-`2` Focus Omnibar 
+`2` Focus Omnibar
 
-`F` Navigate to Friends stream
+`F` Navigate to Following stream
 
-`N` Navigate to Noise stream
+`N` Navigate to Starred stream
 
 `R` Navigate to Notifications
 
