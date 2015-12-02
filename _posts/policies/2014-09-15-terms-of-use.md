@@ -27,7 +27,7 @@ Soon, we will provide more settings, such as the ability to designate your Ello 
 
 We don’t claim ownership over any Content that you post on the Ello Services. “Content” means any content or creative expression that you’re able to upload or post on the Ello Services, including text, images, files, animations, logos, comments, or otherwise. However, when you post or transfer Content to the Ello Services, you give us a non-exclusive, royalty-free, world-wide, perpetual, transferable license to use, store, reproduce, adapt (so we can properly post your Content), distribute and publicly display your Content in order to provide the Ello Services.
 
-You are responsible for the Content you submit to the Ello Services. You assume all risks associated with it, including accuracy, intellectual property claims, or any other legal rights claims. You represent and warrant that (i) you either own the Content you post, or that you have all necessary rights to post that Content on the Ello Services, (ii) your Content does not infringe any third party’s rights, and (iii) you can grant the licenses you grant in these Terms. 
+You are responsible for the Content you submit to the Ello Services. You assume all risks associated with it, including accuracy, intellectual property claims, or any other legal rights claims. You represent and warrant that (i) you either own the Content you post, or that you have all necessary rights to post that Content on the Ello Services, (ii) your Content does not infringe any third party’s rights, and (iii) you can grant the licenses you grant in these Terms.
 
 When you post on the Ello Services, you are agreeing to allow other Ello Services members and members of the public (unless you set your Settings to prevent public display) to view, distribute and display your Content. Consider the Content you post on the Ello Services to be publicly available indefinitely since it may be distributed by other Ello Services members through social media or otherwise, or be cached on third party search engines, even after your Ello Services account is terminated. Be aware that it is extremely difficult to remove content from the Internet that becomes publicly available.
 
@@ -115,4 +115,4 @@ These Terms are an agreement between you and Ello, PBC, 688 Pine Street 2A, Burl
 Effective: April 1, 2015
 
 **Link to Archived Versions**  
-You can find archived versions of our [Terms of Use](https://github.com/ello/policies/blob/master/terms_of_use.md) on GitHub.
+You can find archived versions of our [Terms of Use](https://github.com/ello/wtf) on GitHub.
