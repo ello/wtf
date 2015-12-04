@@ -21,6 +21,8 @@ Have fun on Ello! :v:
 
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
+**[Australia](https://ello.co/elloaustralia)**
+
 **[Art](https://ello.co/elloart)** · Lead: @carlosbob
 
 **[Backcountry](https://ello.co/ellobackcountry)** · Lead: @dutchess70
@@ -102,6 +104,8 @@ Have fun on Ello! :v:
 **[Latino](https://ello.co/ellolatino)** · Lead: @wgmeets
 
 **[Lucid Dreams](https://ello.co/elloluciddreams)** · Lead: @marcelleliemantiemant
+
+**[Makers](htttps://ello.co/ellomakers)** · Lead: @iamthelab
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
