@@ -105,7 +105,7 @@ Have fun on Ello! :v:
 
 **[Lucid Dreams](https://ello.co/elloluciddreams)** · Lead: @marcelleliemantiemant
 
-**[Makers](htttps://ello.co/ellomakers)** · Lead: @iamthelab
+**[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
