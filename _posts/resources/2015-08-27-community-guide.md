@@ -20,9 +20,9 @@ Over months of watching communities grow, we’ve learned some practices that ca
 
 * **Use large, high-quality images whenever possible.** Images that are 1000 pixels wide or larger look best on Ello.
 
-* **Add personality to your posts.** At least a quarter of your posts should be in your own voice. Keep things alive by adding comments when you repost someone else’s post. 
+* **Add personality to your posts.** At least a quarter of your posts should be in your own voice. Keep things alive by adding comments when you repost someone else’s post.
 
-* **Format your posts.** You can use bold, italics, and hyperlinks in your text. Keep longer text blocks short and readable by breaking them up with regular line breaks. 
+* **Format your posts.** You can use bold, italics, and hyperlinks in your text. Keep longer text blocks short and readable by breaking them up with regular line breaks.
 
 * **Most of all, have fun!**
 
