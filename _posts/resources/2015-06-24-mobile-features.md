@@ -74,20 +74,18 @@ We’re still working on the App. Here’s a list of features that are built, an
 
 Ello doesn’t censor.
 
-However, Apple iOS rules block the sharing of NSFW content through iOS apps. Accounts & posts marked NSFW will not appear in search results on the Ello iOS App but will appear when using Ello on the web. 
+However, Apple iOS rules block the sharing of NSFW content through iOS apps. Accounts & posts marked NSFW will not appear in search results on the Ello iOS App but will appear when using Ello on the web.
 
 If you want your posts to appear on Ello iOS, please set "Post Adult Content" to "No"!
 
-![apple-logo](http://i.imgur.com/KepPfmh.jpg)
+{% image apple.jpg %}
 
 
 
 ## Ello App for Android
 
-An Android App is an important part of Ello's future. 
+An Android App is an important part of Ello's future.
 
 We are currently improving the Ello interface and gearing up to release many new features later this year. We plan to get an awesome Android App out to all of you following that.
 
-![android-logo](http://i.imgur.com/30IR5l8.jpg)
-
-
+{% image android.jpg %}

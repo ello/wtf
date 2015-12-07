@@ -19,9 +19,9 @@ Please note that this email box is strictly for abuse-related matters, and we wi
 
 ## How can I BLOCK or MUTE someone who is annoying me?
 
-From a profile page, click the three dots next to the FOLLOW button. 
+From a profile page, click the three dots next to the FOLLOW button.
 
-![Block and Mute buttons](https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/3034146/ello-optimized-24790d8d.jpg)
+{% image follow-block.jpg %}
 
 Select BLOCK or MUTE.
 
