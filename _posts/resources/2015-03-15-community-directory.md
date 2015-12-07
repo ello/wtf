@@ -21,7 +21,7 @@ Have fun on Ello! :v:
 
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
-**[Australia](https://ello.co/elloaustralia)**
+**[Australia](https://ello.co/elloaustralia)** · Lead: @hughmcintyre
 
 **[Art](https://ello.co/elloart)** · Lead: @carlosbob
 
@@ -92,6 +92,10 @@ Have fun on Ello! :v:
 **[Graffiti (Mexican)](https://ello.co/mexicobeta)**
 
 **[Green](https://ello.co/ellogreen)** · Lead: @andrew--lf
+
+**[Horse Photography](https://ello.co/ellohorsephotography)** 
+
+**[Houston](https://ello.co/ellohouston)** · Lead: @rexrazo
 
 **[iPhoneography](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
