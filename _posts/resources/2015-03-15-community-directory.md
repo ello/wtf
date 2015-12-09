@@ -5,6 +5,9 @@ date:   2015-09-22 01:23:45 MDT
 categories: resources
 position: 1
 ---
+
+<!--- DO NOT DELETE. App links lead here. --->
+
 Many Ello community members have created communities as a way to share and discuss specific interests. 
 
 You can join any community simply by following them as you would any other account.
