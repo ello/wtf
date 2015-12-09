@@ -96,6 +96,8 @@ Have fun on Ello! :v:
 
 **[Green](https://ello.co/ellogreen)** · Lead: @andrew--lf
 
+**[History](https://ello.co/oldendaze)** · Lead: @anthonystevens
+
 **[Horse Photography](https://ello.co/ellohorsephotography)** 
 
 **[Houston](https://ello.co/ellohouston)** · Lead: @rexrazo
@@ -174,6 +176,8 @@ Have fun on Ello! :v:
 
 **[Sound Design](https://ello.co/sounddesign)** · Lead: @le-siul
 
+**[Space](https://ello.co/ellospace)** 
+
 **[Sports](https://ello.co/ellosport)** · Lead: @jpurvisturton
 
 **[Stickers](https://ello.co/ellostickers)** · Lead: @fylling
@@ -189,6 +193,8 @@ Have fun on Ello! :v:
 **[Tattoos](https://ello.co/ellotattoos)**
 
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
+
+**[Toronto](https://ello.co/ellotoronto)** 
 
 **[Travel](https://ello.co/ellotravel)** · Lead: @andreameli
 
