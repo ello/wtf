@@ -174,8 +174,6 @@ Have fun on Ello! :v:
 
 **[Stickers](https://ello.co/ellostickers)** · Lead: @fylling
 
-**[Startups](https://ello.co/ellostartups)** · Lead: @arinewman
-
 **[Street Art](https://ello.co/ellostreet)** · Lead: @bbluesman
 
 **[Street Style](https://ello.co/ellostreetstyle)** · Lead: @makotoiwasa
