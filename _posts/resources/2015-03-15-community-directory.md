@@ -56,8 +56,6 @@ Have fun on Ello! :v:
 
 **[Computer Games](https://ello.co/ellocomputergames)** · Lead: @jdarnold
 
-**[Dadaism](https://ello.co/ellodadaism)** · Lead: @leapofdesire
-
 **[Dance](https://ello.co/ellodance)** · Lead: @patriciaallison
 
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
@@ -79,8 +77,6 @@ Have fun on Ello! :v:
 **[Film](https://ello.co/ellofilm)** · Lead: @diogovarelasilva
 
 **[Film Grain](https://ello.co/filmgrain)** · Lead: @perfilyev
-
-**[Film Photography](https://ello.co/ello_filmphotography)** · Lead: @hjs-photo
 
 **[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
 
@@ -104,15 +100,11 @@ Have fun on Ello! :v:
 
 **[iPhoneography](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
-**[Jewelry](https://ello.co/ellojewelry)** · Lead: @andreali
-
 **[Kite Surfing](https://ello.co/kitesurfers)** · Lead: @oceanromeo
 
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
 **[Latino](https://ello.co/ellolatino)** · Lead: @wgmeets
-
-**[Lucid Dreams](https://ello.co/elloluciddreams)** · Lead: @marcelleliemantiemant
 
 **[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
 
