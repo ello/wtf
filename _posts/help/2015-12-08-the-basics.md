@@ -1,3 +1,5 @@
+<!--- DO NOT DELETE. "Help" on iOS links here. --->
+
 ---
 layout: post
 title:  "iOS Basics"
