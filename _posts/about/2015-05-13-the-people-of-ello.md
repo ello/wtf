@@ -27,7 +27,6 @@ Chelsea Kantola, Community Coordinator @chelsea
 Brittany LaValley, Assistant and General Manager @be13
 Anna Quinlan, Community Manager @anna
 Pete Sheinbaum, Chief Operating Officer @sheinbaum
-Ryan Tyer, Principal Scalability Engineer @rtyer
 Alexi Ueltzen, Community Evangelist @alexi
 Amber Young, Community Coordinator @amber
 
