@@ -144,9 +144,13 @@ Have fun on Ello! :v:
 
 **[Painting](https://ello.co/ellopainting)** · Lead: @laurenmgeorge
 
+**[Paris](https://ello.co/elloparis)** 
+
 **[Pentax](https://ello.co/ellopentax)** · Lead: @annemio
 
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
+
+**[Photography (Black & White)](https://ello.co/black-and-white-photography)** · Lead: @pmlynch
 
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
 
