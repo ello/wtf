@@ -94,11 +94,9 @@ Have fun on Ello! :v:
 
 **[History](https://ello.co/oldendaze)** · Lead: @anthonystevens
 
-**[Horse Photography](https://ello.co/ellohorsephotography)** 
+**[Horses](https://ello.co/ellohorsephotography)** 
 
 **[Houston](https://ello.co/ellohouston)** · Lead: @rexrazo
-
-**[iPhoneography](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
 **[Kite Surfing](https://ello.co/kitesurfers)** · Lead: @oceanromeo
 
@@ -111,8 +109,6 @@ Have fun on Ello! :v:
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
 **[Minerals](https://ello.co/mineralcase)** · Lead: @sturmmadchen
-
-**[Mobile Photo](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
 
 **[Monochromatic](https://ello.co/monochromatica)** · Lead: @aelisei
 
@@ -136,9 +132,7 @@ Have fun on Ello! :v:
 
 **[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
 
-**[NHL](https://ello.co/nhlwraparound)** 
-
-**[Nikon](https://ello.co/ellonikon)** · Lead: @edbuzz
+**[NHL (Hockey)](https://ello.co/nhlwraparound)** 
 
 **[Outside](https://ello.co/ellooutside)** · Lead: @wasimofnazareth
 
@@ -151,6 +145,12 @@ Have fun on Ello! :v:
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
 **[Photography (Black & White)](https://ello.co/black-and-white-photography)** · Lead: @pmlynch
+
+**[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
+
+**[Photography (Mobile)](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
+
+**[Photography (Nikon)](https://ello.co/ellonikon)** · Lead: @edbuzz
 
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
 
@@ -182,7 +182,7 @@ Have fun on Ello! :v:
 
 **[Street Style](https://ello.co/ellostreetstyle)** · Lead: @makotoiwasa
 
-**[Surf Photography](https://ello.co/surfphotography)**  
+**[Surfing](https://ello.co/surfphotography)**  
 
 **[Tattoos](https://ello.co/ellotattoos)**
 
