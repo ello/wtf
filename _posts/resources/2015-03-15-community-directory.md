@@ -110,6 +110,8 @@ Have fun on Ello! :v:
 
 **[Minerals](https://ello.co/mineralcase)** · Lead: @sturmmadchen
 
+**[Minimal](https://ello.co/ellominimal)** · Lead: @k_ng_
+
 **[Monochromatic](https://ello.co/monochromatica)** · Lead: @aelisei
 
 **[Montreal](https://ello.co/ellomontreal)** · Lead: @julienlaplanche
@@ -152,6 +154,8 @@ Have fun on Ello! :v:
 
 **[Photography (Nikon)](https://ello.co/ellonikon)** · Lead: @edbuzz
 
+**[Photography (Undersaturated)](https://ello.co/undersaturated)** · Lead: @billbanning
+
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
 
 **[Postal History](https://ello.co/postalhistory)** · Lead: @edbuzz
@@ -188,7 +192,9 @@ Have fun on Ello! :v:
 
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
 
-**[Toronto](https://ello.co/ellotoronto)** 
+**[Timeless Motors](https://ello.co/timeless_motors)** 
+
+**[Toronto](https://ello.co/ellotoronto)** · Lead: @titaniummike
 
 **[Travel](https://ello.co/ellotravel)** · Lead: @andreameli
 
