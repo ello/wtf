@@ -142,8 +142,6 @@ Have fun on Ello! :v:
 
 **[Paris](https://ello.co/elloparis)** 
 
-**[Pentax](https://ello.co/ellopentax)** · Lead: @annemio
-
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
 **[Photography (Black & White)](https://ello.co/black-and-white-photography)** · Lead: @pmlynch
@@ -153,6 +151,8 @@ Have fun on Ello! :v:
 **[Photography (Mobile)](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
 
 **[Photography (Nikon)](https://ello.co/ellonikon)** · Lead: @edbuzz
+
+**[Photography (Pentax)](https://ello.co/ellopentax)** · Lead: @annemio
 
 **[Photography (Undersaturated)](https://ello.co/undersaturated)** · Lead: @billbanning
 
