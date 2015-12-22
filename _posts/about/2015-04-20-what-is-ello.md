@@ -7,29 +7,39 @@ categories: about
 position: 1
 ---
 
-_**Be inspired.**_
+_**What is Ello?**_
 
-Ello is a community of creators, thinkers, and dreamers sharing inspiration through images and stories.  
+Ello is a safe and positive community where people everywhere discover, connect, and share inspiration through imagery and text. On Ello you’ll see things you won’t anywhere else. 
 
-Ello is not about who you’re with or where you’re going. Ello feeds your imagination and reminds you to let yourself wander.  It’s a visually-driven network where you’ll find things you can’t find anywhere else.
+This is a place where creativity triumphs over conformity, and success is measured in ideas shared, not ads served. A place where inspiration is a tool for empowerment — not a place to deceive, coerce, or manipulate, but a place to connect, create, and celebrate life.
 
-Ad-free forever, your posts live in a safe and beautiful space that's easy to use, and with a host of features that amplify your creativity.
+**Explore and post differently.**
 
-**Explore and connect differently.**
+Ello’s mission is to transform the way creative people connect by fueling a worldwide movement based on beauty, positivity, and transparency. 
 
-Ello is a new space where you connect with new people and things beyond your current social circles. It’s a friendly community that welcomes everyone— from professional artists and creators to bloggers, curators, and everyday dreamers. If you live to be inspired or inspire others, Ello is for you.
+Feed your imagination through art, design, photography, GIFs, animation, video, storytelling — everything. Be inspired by artists, designers, DJ’s, adventurers, chefs, creative coders, futurists, cartoonists, writers, minimalists, car lovers, and mushroom hunters from around the world.
 
-**Post what you love.**
+**Ello will never sell ads.**
 
-Publish full-screen images, video, audio, GIFs, and long form writing in a simple and clean environment that brings out the best in creative work. Share what you care about most. Let inspiration be your guide. 
+Ello is an alternative to mainstream networks that manipulate what we see and try to control what we think. Networks that sell our data to the highest bidder violate our trust, and we feel unsafe to share the things we love.
 
-**Feel safe.**
+As a [Public Benefit Corporation](https://ello.co/wtf/about/pbc/), Ello has a legal mandate to never sell ads or personal data to third parties. All streams are chronological. There are no boosted posts, and no manipulative algorithms. 
 
-As a [Public Benefit Corporation](https://ello.co/wtf/about/pbc/), Ello has a legally binding commitment to [never sell ads and user data](https://ello.co/wtf/about/ello-tracking-and-your-data/). Control what you share and decide what you see. Posts are displayed in chronological order, with no manipulative algorithms influencing your stream. 
+Control what you see and share the things you love.
 
-**Join us.**
+Links:
 
-Experience a worldwide community of millions who respect creativity over corporate control, and connection over manipulation. Together we’ve built a home for those who believe that unbridled creativity moves the world forward. 
+[Ello Manifesto](https://ello.co/wtf/about/ello-manifesto/)
+[Ello Bill of Rights](https://ello.co/wtf/about/ello-bill-of-rights/)
+[Ello Founders](https://ello.co/wtf/about/who-created-ello/)
+[Ello PBC Charter](https://ello.co/wtf/about/pbc/)
+[Ello iOS App](https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fello%2fello)
+[Ello Communities](https://ello.co/wtf/resources/community-directory/)
+[@elloblog](https://ello.co/elloblog)
+[Best of @ello](https://ello.co/ello)
 
-[Get Started](https://ello.co/)
+
+More questions? Check out [Ello WTF](https://ello.co/wtf/).
+
+
 
