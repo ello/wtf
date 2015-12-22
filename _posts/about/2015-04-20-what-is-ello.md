@@ -15,7 +15,7 @@ This is a place where creativity triumphs over conformity, and success is measur
 
 Ello’s mission is to transform the way creative people connect by fueling a worldwide movement based on beauty, positivity, and transparency. 
 
-Feed your imagination through art, design, photography, GIFs, animation, video, storytelling — everything. Be inspired by artists, designers, DJ’s, adventurers, chefs, creative coders, futurists, cartoonists, writers, minimalists, car lovers, and mushroom hunters from around the world.
+Feed your imagination through art, design, photography, GIFs, animation, video, storytelling, and more. Be inspired by artists, designers, DJ’s, adventurers, chefs, creative coders, futurists, cartoonists, writers, minimalists, car lovers, and mushroom hunters from around the world.
 
 **Ello will never sell ads.**
 
