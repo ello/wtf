@@ -2,12 +2,10 @@
 layout: post
 title:  "What is Ello?"
 title_alternate:  "What is Ello?"
-date:   2015-11-01 8:43:18 MST
+date:   2015-12-22 8:43:18 MST
 categories: about
 position: 1
 ---
-
-**What is Ello?**
 
 Ello is a safe and positive community where people everywhere discover, connect, and share inspiration through imagery and text. On Ello you’ll see things you won’t anywhere else. 
 
