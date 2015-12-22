@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Who Created Ello?"
-date:   2014-07-03 10:43:18 MST
+title:  "Ello Founders"
+date:   2015-12-22 10:43:18 MST
 categories: about
 position: 3
 ---
