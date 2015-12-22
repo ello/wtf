@@ -30,13 +30,21 @@ Control what you see and share the things you love.
 Links:
 
 [Ello Manifesto](https://ello.co/wtf/about/ello-manifesto/)
+
 [Ello Bill of Rights](https://ello.co/wtf/about/ello-bill-of-rights/)
+
 [Ello Founders](https://ello.co/wtf/about/who-created-ello/)
+
 [Ello PBC Charter](https://ello.co/wtf/about/pbc/)
+
 [Ello iOS App](https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fello%2fello)
+
 [Ello Communities](https://ello.co/wtf/resources/community-directory/)
+
 [@elloblog](https://ello.co/elloblog)
+
 [Best of @ello](https://ello.co/ello)
+
 
 
 More questions? Check out [Ello WTF](https://ello.co/wtf/).
