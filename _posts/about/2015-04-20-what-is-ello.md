@@ -7,7 +7,7 @@ categories: about
 position: 1
 ---
 
-_**What is Ello?**_
+**What is Ello?**
 
 Ello is a safe and positive community where people everywhere discover, connect, and share inspiration through imagery and text. On Ello you’ll see things you won’t anywhere else. 
 
