@@ -7,7 +7,7 @@ categories: about
 position: 1
 ---
 
-Ello is a safe and positive community where people everywhere discover, connect, and share inspiration through imagery and text. On Ello you’ll see things you won’t anywhere else. 
+Ello is a safe and positive community where people everywhere discover, connect, and share inspiration through imagery and text. On Ello you’ll see things you can’t find anywhere else. 
 
 This is a place where creativity triumphs over conformity, and success is measured in ideas shared, not ads served. A place where inspiration is a tool for empowerment — not a place to deceive, coerce, or manipulate, but a place to connect, create, and celebrate life.
 
