@@ -25,9 +25,11 @@ Colin Gray, Senior iOS Engineer @colinta
 Justin Holmes, Junior Full Stack Engineer @holmezi
 Chelsea Kantola, Community Coordinator @chelsea
 Brittany LaValley, Assistant and General Manager @be13
+Alan Peabody, Engineering Consultant @alanpeabody
 Anna Quinlan, Community Manager @anna
 Pete Sheinbaum, Chief Operating Officer @sheinbaum
 Alexi Ueltzen, Community Evangelist @alexi
+Michael Westbom, Engineering Consultant @totallymike
 Amber Young, Community Coordinator @amber
 
 ## Dogs
