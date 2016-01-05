@@ -7,13 +7,13 @@ categories: about
 position: 1
 ---
 
-Ello is a safe and positive community where people everywhere discover, connect, and share inspiration through imagery and text. On Ello you’ll see things you can’t find anywhere else. 
+Ello is a safe and positive community where people everywhere discover, connect, and share inspiration through imagery and text. On Ello you’ll see things you can’t find anywhere else.
 
 This is a place where creativity triumphs over conformity, and success is measured in ideas shared, not ads served. A place where inspiration is a tool for empowerment — not a place to deceive, coerce, or manipulate, but a place to connect, create, and celebrate life.
 
 **Explore and post differently.**
 
-Ello’s mission is to transform the way creative people connect by fueling a worldwide movement based on beauty, positivity, and transparency. 
+Ello’s mission is to transform the way creative people connect by fueling a worldwide movement based on beauty, positivity, and transparency.
 
 Feed your imagination through art, design, photography, GIFs, animation, video, storytelling, and more. Be inspired by artists, designers, DJ’s, adventurers, chefs, creative coders, futurists, cartoonists, writers, minimalists, car lovers, and mushroom hunters from around the world.
 
@@ -21,7 +21,7 @@ Feed your imagination through art, design, photography, GIFs, animation, video, 
 
 Ello is an alternative to mainstream networks that manipulate what we see and try to control what we think. Networks that sell our data to the highest bidder violate our trust, and we feel unsafe to share the things we love.
 
-As a [Public Benefit Corporation](https://ello.co/wtf/about/pbc/), Ello has a legal mandate to never sell ads or personal data to third parties. All streams are chronological. There are no boosted posts, and no manipulative algorithms. 
+As a [Benefit Corporation](https://ello.co/wtf/about/pbc/), Ello has a legal mandate to never sell ads or personal data to third parties. All streams are chronological. There are no boosted posts, and no manipulative algorithms. 
 
 Control what you see and share the things you love.
 
@@ -46,6 +46,3 @@ Links:
 
 
 More questions? Check out [Ello WTF](https://ello.co/wtf/).
-
-
-
