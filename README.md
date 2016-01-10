@@ -3,7 +3,7 @@
 ## Content Workflow
 
 1. Edit the master branch in Github. Make sure no one else is editing so you don't collide.
-2. Commit changes, check CircleCI to see if changes pass.
+2. Commit changes, check CircleCI to see if changes pass. The site is linted through [html-proofer](https://github.com/gjtorikian/html-proofer) to check for build errors and broken links.
 3. See how changes look on the [staging server](http://ello-wtf-staging.herokuapp.com/wtf/).
 3. Deploy master branch on Heroku.
 
