@@ -18,6 +18,7 @@ begin
                         '#toggle_drawer',
                         /^\/wtf\/assets/,
                         /^\/wtf\/emoji/,
+                        /appstore.com/,
                       ],
                       typhoeus: {
                         followlocation: true
