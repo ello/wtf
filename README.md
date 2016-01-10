@@ -1,6 +1,44 @@
-# Ello WTF
+<img src="http://d324imu86q1bqn.cloudfront.net/uploads/user/avatar/641/large_Ello.1000x1000.png" width="200px" height="200px" />
 
-## Content Workflow
+# WTF — Static content for Ello
+WTF is a [Jekyll](https://jekyllrb.com/) app that builds static content to be served up at https://ello.co/wtf, including help, FAQs, and about pages. It is patterned on [Github's documentation workflow](https://github.com/blog/1939-how-github-uses-github-to-document-github).
+
+[![Circle CI](https://circleci.com/gh/ello/wtf.svg?style=svg)](https://circleci.com/gh/ello/wtf)
+
+[Images on Docker Hub](https://hub.docker.com/r/ello/wtf/)
+
+## Getting Started
+
+There are two options for running WTF for local development:
+
+## Making changes & previewing them locally with Docker
+
+This is an easier alternative to the Jekyll install option below.
+
+1. Download and install [Github for Mac](https://desktop.github.com/)
+2. Download and install the [Atom Editor](https://atom.io/)
+3. Download and install the [Docker Toolbox](https://www.docker.com/docker-toolbox)
+4. Create a [Docker Hub account](https://hub.docker.com/) and ping ops@ello.co to get added to the Ello account
+5. From Github for Mac, sign into your Github account. Click the `+` button in the upper left, switch to the `Clone` tab, and clone the `wtf` repository.
+6. Make changes to your local copy of WTF using Atom, then preview them in browser, restarting the container with Kitematic as needed. When you're done, commit your changes in Github for Mac and sync them to Github.
+
+## Installing & running Jekyll natively
+
+### Installing Jekyll:
+
+This [Jekyll](http://jekyllrb.com/) install relies on a few different gems (in addition to Jekyll), so be sure to run bundle install:
+
+* $ `bundle install`
+
+### Running Jekyll Locally:
+
+* $ `jekyll serve`
+* Point your browser at: [http://localhost:4000/wtf/](http://localhost:4000/wtf/) (the trailing slash is important)
+* Content/design changes should update locally as you make them
+
+
+
+## Content Workflow (for Ello staff)
 
 1. Edit the master branch in Github. Make sure no one else is editing so you don't collide.
 2. Commit changes, check CircleCI to see if changes pass.
@@ -18,7 +56,7 @@ Files must end in the `.md` extension and begin with a date (use the date the ar
 
 The words (and dashes) after the date make up the slug (end of the URL) for the post. For example, a filename of **2015-01-23-contact-us.md** will result in a slug of **contact-us**. If you place this post in _Help_, the full URL will be: **/wtf/help/contact-us**.
 
-### Post Meta Data:
+### Post Metadata:
 Each Markdown post file contains meta data at the top of the file. This helps Jekyll know where to place the article on the site and when to publish it.
 ```
 ---
@@ -56,7 +94,7 @@ Available categories (anything else will be ignored and not appear on the catego
 * `resources`
 
 ### Post Content:
-All content goes below the _Post Meta Data_ and is formatted with Markdown.
+All content goes below the _Post Metadata_ and is formatted with Markdown.
 
 [Markdown Docs](http://daringfireball.net/projects/markdown/syntax)
 
@@ -64,35 +102,13 @@ You do not need to repeat the title of your post — it will be automatically ad
 
 Lists (ordered, with numbers, or unordered, with bullet points) will be formatted. Code and blockquote formatting is also available.
 
-#### Emoji Support
+### Emoji
 
-Emoji Support is baked in, just like the main site. Use colons to wrap [the emoji you want](http://www.emoji-cheat-sheet.com) to use: `:bread:` or `:ello:` :bread: :+1:
+Emoji support is baked in, just like the main site. Use colons to wrap [the emoji you want](http://www.emoji-cheat-sheet.com) to use: `:bread:` or `:ello:` :bread: :+1:
 
+## License
+WTF is released under the [MIT License](blob/master/LICENSE)
 
-## Making changes & previewing them locally with Docker
+## Code of Conduct
+Ello was created by idealists who believe that the essential nature of all human beings is to be kind, considerate, helpful, intelligent, responsible, and respectful of others. To that end, we enforce [the Ello rules](https://ello.co/wtf/policies/rules/) within all of our open source projects. If you don’t follow the rules, you risk being ignored, banned, or reported for abuse.
 
-This is an easier alternative to the Jekyll install option below.
-
-1. Download and install [Github for Mac](https://desktop.github.com/)
-2. Download and install the [Atom Editor](https://atom.io/)
-3. Download and install the [Docker Toolbox](https://www.docker.com/docker-toolbox)
-4. Create a [Docker Hub account](https://hub.docker.com/) and ping ops@ello.co to get added to the Ello account
-5. From Github for Mac, sign into your Github account. Click the `+` button in the upper left, switch to the `Clone` tab, and clone the `ello-wtf` repository.
-6. Make changes to your local copy of WTF using Atom, then preview them
-   in browser, restarting the container with Kitematic as needed. When
-   you're done, commit your changes in Github for Mac and sync them to
-   Github 
-
-## Installing & Running Jekyll
-
-### Installing Jekyll:
-
-This [Jekyll](http://jekyllrb.com/) install relies on a few different gems (in addition to Jekyll), so be sure to run bundle install:
-
-* $ `bundle install`
-
-### Running Jekyll Locally:
-
-* $ `jekyll serve`
-* Point your browser at: [http://localhost:4000/wtf/](http://localhost:4000/wtf/) (the trailing slash is important)
-* Content/design changes should update locally as you make them
