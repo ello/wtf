@@ -4,8 +4,10 @@
 WTF is a [Jekyll](https://jekyllrb.com/) app that builds static content to be served up at https://ello.co/wtf, including help, FAQs, and about pages. It is patterned on [Github's documentation workflow](https://github.com/blog/1939-how-github-uses-github-to-document-github).
 
 [![Circle CI](https://circleci.com/gh/ello/wtf.svg?style=svg)](https://circleci.com/gh/ello/wtf)
-
-[Images on Docker Hub](https://hub.docker.com/r/ello/wtf/)
+[![Code Climate](https://codeclimate.com/github/ello/wtf/badges/gpa.svg)](https://codeclimate.com/github/ello/wtf)
+[![Hakiri](https://hakiri.io/github/ello/wtf/master.svg)](https://hakiri.io/github/ello/wtf)
+[![Dependency Status](https://gemnasium.com/ello/wtf.svg)](https://gemnasium.com/ello/wtf)
+[Docker Hub](https://hub.docker.com/r/ello/wtf/)
 
 ## Getting Started
 
