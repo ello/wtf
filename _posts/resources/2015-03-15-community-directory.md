@@ -108,6 +108,8 @@ Have fun on Ello! :v:
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
+**[Mediterranean](https://ello.co/mediterranean)** · Lead: @harrymct
+
 **[Minerals](https://ello.co/mineralcase)** · Lead: @sturmmadchen
 
 **[Minimal](https://ello.co/ellominimal)** · Lead: @k_ng_
@@ -195,6 +197,8 @@ Have fun on Ello! :v:
 **[Timeless Motors](https://ello.co/timeless_motors)** 
 
 **[Toronto](https://ello.co/ellotoronto)** · Lead: @titaniummike
+
+**[Toys](https://ello.co/ellotoys)** · Lead: @renspacemadness & @libedlulo
 
 **[Travel](https://ello.co/ellotravel)** · Lead: @andreameli
 
