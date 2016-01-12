@@ -192,6 +192,8 @@ Have fun on Ello! :v:
 
 **[Tattoos](https://ello.co/ellotattoos)**
 
+**[Tech](https://ello.co/ellotech)** · Lead: @alexrdu
+
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
 
 **[Timeless Motors](https://ello.co/timeless_motors)** 
