@@ -20,7 +20,7 @@ Jay Zeschin, Chief Architect @jayzes
 
 Ryan Boyajian, Lead Developer @666
 Casey Doran, Director of Product @dcdoran
-Sean Dougherty, Mobile Lead @sean
+Sean Dougherty, VP of Engineering @sean
 Colin Gray, Senior iOS Engineer @colinta
 Justin Holmes, Junior Full Stack Engineer @holmezi
 Chelsea Kantola, Community Coordinator @chelsea
