@@ -42,13 +42,9 @@ Have fun on Ello! :v:
 
 **[Cars](https://ello.co/ellocars)** · Lead: @omni-car
 
-**[Coffee](https://ello.co/ellocoffee)** · Lead: @scafa 
-
 **[Coffee Lovers](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
 
 **[Collaboration](https://ello.co/ellocollaboration)** · Lead: @domtru & @brianmichealjones
-
-**[Collage](https://ello.co/ellocollage)** · Leads: @rubenb & @maxomatic
 
 **[Cooking](https://ello.co/ellocooking)** · Lead: @floatingkitchen
 
@@ -186,13 +182,9 @@ Have fun on Ello! :v:
 
 **[Street Art](https://ello.co/ellostreet)** · Lead: @bbluesman
 
-**[Street Style](https://ello.co/ellostreetstyle)** · Lead: @makotoiwasa
-
 **[Surfing](https://ello.co/surfphotography)**  
 
 **[Tattoos](https://ello.co/ellotattoos)**
-
-**[Tech](https://ello.co/ellotech)** · Lead: @alexrdu
 
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
 
