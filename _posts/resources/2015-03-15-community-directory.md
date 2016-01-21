@@ -144,6 +144,8 @@ Have fun on Ello! :v:
 
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
+**[Photography (Amateur)](https://ello.co/amateur_photography)** · Lead: @bisje
+
 **[Photography (Black & White)](https://ello.co/black-and-white-photography)** · Lead: @pmlynch
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
