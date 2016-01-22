@@ -90,7 +90,7 @@ GEM
     minitest (5.8.3)
     multi_json (1.11.0)
     newrelic_rpm (3.14.1.311)
-    nokogiri (1.6.7.1)
+    nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
     parallel (1.6.1)
     parslet (1.5.0)
