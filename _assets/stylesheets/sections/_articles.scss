@@ -30,7 +30,7 @@ body {
 
     .content {
       padding-right: $gutter_px;
-      width: percentage((($largeColumn * 3) + ($smallColumn * 2) + $gutter) / $layoutWidth);
+      width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
       float: right;
 
       h1 {

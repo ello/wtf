@@ -3,10 +3,10 @@
 footer.bottom {
   position: absolute;
   bottom: 0;
-  padding-top: $smallColumn_px;
+  padding-top: $smallColumn_px * 4;
   padding-bottom: $smallColumn_px;
   width: 100%;
-  height: $smallColumn_px + $smallColumn_px + 90px; // part of the hack to push footer down
+  height: $smallColumn_px + $smallColumn_px + 200px; // part of the hack to push footer down
   max-width: $layoutWidth_px + $gutter_px;
   nav {
     width: 100%;

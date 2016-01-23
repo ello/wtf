@@ -40,12 +40,15 @@
         }
         p {
           margin: 0;
-          &.more {
-            a {
-              color: $grey3;
-              border-bottom: 1px solid;
-              &:hover {
-                color: $black;
+          span {
+            &.more {
+              padding-left: 3px;
+              a {
+                color: $grey3;
+                border-bottom: 1px solid;
+                &:hover {
+                  color: $black;
+                }
               }
             }
           }

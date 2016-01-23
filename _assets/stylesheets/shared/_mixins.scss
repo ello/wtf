@@ -1,8 +1,5 @@
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ mixins + defaults
 
-// cdn domain for loading type
-$cdnDomain: 'd2r3yqi5wwm1w7.cloudfront.net';
-
 // logo_icon_sprite.svg path
 // $sprite01:              asset-url('logo_icon_sprite.svg');
 // $sprite01_size:         450px 300px;
@@ -12,138 +9,18 @@ $sprite01height: 300px;
 
 // layout measurements
 $fullLayoutWidth:    1350;
-$layoutWidth:        1290;
+$layoutWidth:        1300;
 $gutter:             30;
-$largeColumn:        270;
-$smallColumn:        60;
+$largeColumn:        310;
+$smallColumn:        20;
 
 $fullLayoutWidth_px: 1350px;
-$layoutWidth_px:     1290px;
+$layoutWidth_px:     1300px;
 $gutter_px:          30px;
-$largeColumn_px:     270px;
-$smallColumn_px:     60px;
+$largeColumn_px:     310px;
+$smallColumn_px:     20px;
 
-// layout calculations
-@mixin width_by_full_layout($largeColumns, $smallColumns) {
-  width: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
-}
-@mixin margin_by_full_layout($largeColumns, $smallColumns) {
-  margin: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
-}
-@mixin margin_right_by_full_layout($largeColumns, $smallColumns) {
-  margin-right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
-}
-@mixin margin_left_by_full_layout($largeColumns, $smallColumns) {
-  margin-left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
-}
-@mixin padding_by_full_layout($largeColumns, $smallColumns) {
-  padding: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
-}
-@mixin padding_right_by_full_layout($largeColumns, $smallColumns) {
-  padding-right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
-}
-@mixin padding_left_by_full_layout($largeColumns, $smallColumns) {
-  padding-left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
-}
-@mixin right_by_full_layout($largeColumns, $smallColumns) {
-  right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
-}
-@mixin left_by_full_layout($largeColumns, $smallColumns) {
-  left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
-}
-@mixin top_by_full_layout($largeColumns, $smallColumns) {
-  top: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
-}
-@mixin bottom_by_full_layout($largeColumns, $smallColumns) {
-  bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $fullLayoutWidth);
-}
-
-@mixin width_by_layout($largeColumns, $smallColumns) {
-  width: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-@mixin margin_top_by_layout($largeColumns, $smallColumns) {
-  margin-top: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-@mixin margin_right_by_layout($largeColumns, $smallColumns) {
-  margin-right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-@mixin margin_left_by_layout($largeColumns, $smallColumns) {
-  margin-left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-@mixin margin_bottom_by_layout($largeColumns, $smallColumns) {
-  margin-bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-@mixin padding_by_layout($largeColumns, $smallColumns) {
-  padding: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-@mixin padding_right_by_layout($largeColumns, $smallColumns) {
-  padding-right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-@mixin padding_left_by_layout($largeColumns, $smallColumns) {
-  padding-left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-@mixin margin_bottom_by_layout($largeColumns, $smallColumns) {
-  margin-bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-@mixin top_by_layout($largeColumns, $smallColumns) {
-  top: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-@mixin right_by_layout($largeColumns, $smallColumns) {
-  right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-@mixin bottom_by_layout($largeColumns, $smallColumns) {
-  bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-@mixin left_by_layout($largeColumns, $smallColumns) {
-  left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / $layoutWidth);
-}
-
-@mixin width_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  width: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin height_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  height: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin margin_top_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  margin-top: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin margin_right_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  margin-right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin margin_bottom_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  margin-bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin margin_left_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  margin-left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin padding_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  padding: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin padding_top_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  padding-top: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin padding_right_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  padding-right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin padding_bottom_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  padding-bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin padding_left_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  padding-left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin top_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  top: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin right_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  right: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin bottom_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  bottom: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-@mixin left_by_divisor($largeColumns, $smallColumns, $largeColumnsDivisor, $smallColumnsDivisor) {
-  left: percentage((($largeColumn * $largeColumns) + ($smallColumn * $smallColumns)) / (($largeColumn * $largeColumnsDivisor) + ($smallColumn * $smallColumnsDivisor)));
-}
-
+// available shorteners
 @mixin truncate_text() {
   white-space: nowrap;
   overflow: hidden;
