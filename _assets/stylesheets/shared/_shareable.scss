@@ -1,0 +1,10 @@
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ shared widget + modal
+
+.shareable {
+  &.widget {
+    color: red;
+  }
+  &.modal {
+    color: magenta;
+  }
+}

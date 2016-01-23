@@ -19,6 +19,10 @@
       {% include footer.html %}
     </div>
 
+    {% if page.shareable %}
+      {% include share_modal.html %}
+    {% endif %}
+
     {% include bottom.html %}
   </body>
 </html>
