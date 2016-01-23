@@ -5,7 +5,7 @@ input[type="email"],
 input[type="password"],
 input[type="submit"],
 textarea {
-  font-size: 0.75rem;
+  font-size: 0.875rem;
   font-family: $groteskRegular;
   outline: none;
   @include border_radius(0);

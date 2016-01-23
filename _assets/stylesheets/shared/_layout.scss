@@ -81,7 +81,6 @@ svg {
     }
     a {
       color: $black;
-      text-decoration: underline;
     }
   }
   ul {
@@ -95,7 +94,6 @@ svg {
       a {
         display: block;
         color: $grey3;
-        text-decoration: underline;
 
         &:hover {
           color: $grey3;

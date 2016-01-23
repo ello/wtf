@@ -4,6 +4,11 @@ body {
   &.article {
     .category {
       // background-color: pink;
+      h2 {
+        a {
+          text-decoration: underline;
+        }
+      }
       ul {
         li {
           a {
@@ -15,6 +20,7 @@ body {
           &.current {
             a {
               color: $black;
+              text-decoration: underline;
             }
           }
         }

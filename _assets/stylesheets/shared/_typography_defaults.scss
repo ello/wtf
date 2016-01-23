@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $groteskRegular;
   font-style: normal;
   font-weight: 400;
-  font-size: 0.75rem;
+  font-size: 0.875rem;
 }
 
 p {
@@ -78,7 +78,7 @@ p {
   }
 }
 p, ol, ul, dl {
-  font-size: 0.75rem;
+  font-size: 0.875rem;
 }
 p:empty {
   display: none;
@@ -137,7 +137,7 @@ sub {
 code, pre, blockquote {
   font-family: inherit;
   background-color: #f1f1f1;
-  font-size: 0.75rem;
+  font-size: 0.875rem;
 }
 code, blockquote {
   display: inline-block;
