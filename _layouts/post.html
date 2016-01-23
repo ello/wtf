@@ -21,6 +21,10 @@ css_hook: article
 
   <article class="post_content">
     {{ content }}
+
+    {% if page.shareable %}
+      {% include share_widget.html %}
+    {% endif %}
   </article>
 </section>
 <hr class="article_end mobile_only" />
