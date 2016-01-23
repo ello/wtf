@@ -29,16 +29,13 @@ body {
 
       h1 {
         margin-bottom: 2.75rem;
-        font-family: $titleBold;
         font-size: $bigText;
         line-height: $bigTextLine;
-        font-weight: 700;
       }
 
       h2 {
         margin-top: 3.25rem;
         margin-bottom: 1.25rem;
-        font-family: $titleBold;
         font-size: 1.1rem;
         line-height: 1.35rem;
       }
@@ -142,7 +139,6 @@ body {
         h2 {
           margin-top: 1.75rem;
           margin-bottom: 1.5rem;
-          font-family: $titleBold;
           font-size: $bigText_m;
           line-height: $bigTextLine_m;
         }
@@ -162,7 +158,6 @@ body {
             margin: 0 0 20px -10px;
             padding: 0 10px 20px 10px;
             width: 100%;
-            font-family: $titleBold;
             font-size: $bigText_m;
             line-height: $bigTextLine_m;
             border-bottom: 1px solid $grey1;

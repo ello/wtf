@@ -1,36 +1,12 @@
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ typography defaults
 
 @font-face {
-  font-family: "AtlasTypewriterRegular";
+  font-family: "AtlasGroteskRegular";
   font-weight: 400;
   font-style: normal;
   font-stretch: normal;
-  src: url("//fonts.ello.co/AtlasTypewriter-Regular-Web.eot");
-  src: url("//fonts.ello.co/AtlasTypewriter-Regular-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasTypewriter-Regular-Web.woff") format("woff"), url("//fonts.ello.co/AtlasTypewriter-Regular-Web.ttf") format("truetype"), url("//fonts.ello.co/AtlasTypewriter-Regular-Web.svg#AtlasTypewriterRegular") format("svg");
-}
-@font-face {
-  font-family: "AtlasTypewriterRegularItalic";
-  font-weight: 400;
-  font-style: italic;
-  font-stretch: normal;
-  src: url("//fonts.ello.co/AtlasTypewriter-RegularItalic-Web.eot");
-  src: url("//fonts.ello.co/AtlasTypewriter-RegularItalic-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasTypewriter-RegularItalic-Web.woff") format("woff"), url("//fonts.ello.co/https://#{$cdnDomain}/fonts/AtlasTypewriter-RegularItalic.ttf") format("truetype"), url("//fonts.ello.co/AtlasTypewriter-RegularItalic-Web.svg#AtlasTypewriterRegularItalic") format("svg");
-}
-@font-face {
-  font-family: "AtlasTypewriterMedium";
-  font-weight: 500;
-  font-style: normal;
-  font-stretch: normal;
-  src: url("//fonts.ello.co/AtlasTypewriter-Medium-Web.eot");
-  src: url("//fonts.ello.co/AtlasTypewriter-Medium-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasTypewriter-Medium-Web.woff") format("woff"), url("//fonts.ello.co/AtlasTypewriter-Medium-Web.ttf") format("truetype"), url("//fonts.ello.co/AtlasTypewriter-Medium-Web.svg#AtlasTypewriterMedium") format("svg");
-}
-@font-face {
-  font-family: "AtlasTypewriterMediumItalic";
-  font-weight: 500;
-  font-style: italic;
-  font-stretch: normal;
-  src: url("//fonts.ello.co/AtlasTypewriter-MediumItalic-Web.eot");
-  src: url("//fonts.ello.co/AtlasTypewriter-MediumItalic-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasTypewriter-MediumItalic-Web.woff") format("woff"), url("//fonts.ello.co/AtlasTypewriter-MediumItalic-Web.ttf") format("truetype"), url("//fonts.ello.co/AtlasTypewriter-MediumItalic-Web.svg#AtlasTypewriterMediumItalic") format("svg");
+  src: url("//fonts.ello.co/AtlasGrotesk-Regular-Web.eot");
+  src: url("//fonts.ello.co/AtlasGrotesk-Regular-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasGrotesk-Regular-Web.woff") format("woff"), url("//fonts.ello.co/AtlasGrotesk-Regular-Web.ttf") format("truetype"), url("//fonts.ello.co/AtlasGrotesk-Regular-Web.svg#AtlasGroteskRegular") format("svg");
 }
 @font-face {
   font-family: "AtlasGroteskBold";
@@ -41,29 +17,20 @@
   src: url("//fonts.ello.co/AtlasGrotesk-Bold-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasGrotesk-Bold-Web.woff") format("woff"), url("//fonts.ello.co/AtlasGrotesk-Bold-Web.ttf") format("truetype"), url("//fonts.ello.co/AtlasGrotesk-Bold-Web.svg#AtlasGroteskBold") format("svg");
 }
 
-$bodyNormal:  "AtlasTypewriterRegular", "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;       // weight 400
-$bodyItalic:  "AtlasTypewriterRegularItalic", "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace; // weight 400
-$titleNormal: "AtlasTypewriterMedium", "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;        // weight 500
-$titleItalic: "AtlasTypewriterMediumItalic", "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;  // weight 500
-$titleBold:   "AtlasGroteskBold", "Helvetica Neue", "HelveticaNeue", "Helvetica", "Arial", sans-serif;                      // weight 700
-
+$groteskRegular: "AtlasGroteskRegular", "AtlasGrotesk-Regular", "Helvetica Neue", "HelveticaNeue", "Helvetica", sans-serif;     // weight 400
+$groteskBold:    "AtlasGroteskBold", "AtlasGrotesk-Bold", "Helvetica Neue", "HelveticaNeue", "Helvetica", "Arial", sans-serif;  // weight 700
 
 /* Typography Bible -------------------
 
-* Atlas Typewriter Regular (400)
-* Atlas Typewriter Regular Italic (400)
-* Atlas Typewriter Medium (500)
-* Atlas Typewriter Medium Italic (500)
+* Atlas Grotesk Regular (400)
 * Atlas Grotesk Bold (700)
 
-Atlas Typewriter Regular & Bold 12pt
-Atlas Grotesk Regular & Bold 24pt
-Atlas Grotesk Bold 18pt (sub-heading within posts)
+handle italics with font-style: italic
 
 ------------------- */
 
 html {
-  font: normal 400 100%/1.5 $bodyNormal;
+  font: normal 400 100%/1.5 $groteskRegular;
   @include text_size_adjust(1);
 }
 
@@ -95,9 +62,9 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $titleNormal;
+  font-family: $groteskRegular;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 0.75rem;
 }
 
@@ -134,21 +101,21 @@ nav ul, nav ol {
 }
 
 em, i {
-  font-family: $bodyItalic;
+  font-family: $groteskRegular;
   font-style: italic;
   font-weight: 400;
 }
 
 strong, b {
-  font-family: $titleNormal;
+  font-family: $groteskBold;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 strong em, em strong, b i, i b, b em, em b, strong i, i strong {
-  font-family: $titleItalic;
+  font-family: $groteskBold;
   font-style: italic;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 small {
@@ -190,7 +157,7 @@ pre code {
 blockquote {
   padding-top: 0;
   padding-bottom: 0;
-  font-family: $bodyItalic;
+  font-family: $groteskRegular;
   font-style: italic;
 }
 

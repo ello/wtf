@@ -6,7 +6,7 @@ input[type="password"],
 input[type="submit"],
 textarea {
   font-size: 0.75rem;
-  font-family: $bodyNormal;
+  font-family: $groteskRegular;
   outline: none;
   @include border_radius(0);
   -moz-appearance: none;

@@ -9,18 +9,14 @@
     section.results {
       h1, h2 {
         margin-bottom: 2.75rem;
-        font-family: $titleBold;
         font-size: $bigText;
         line-height: $bigTextLine;
-        font-weight: 700;
         color: $grey3;
 
         span {
           color: $black;
           em {
-            font-family: $titleBold;
             font-style: normal;
-            font-weight: 700;
           }
         }
       }
@@ -96,7 +92,7 @@
       header {
         h1 {
           margin-bottom: 1.5rem;
-          font-family: $bodyNormal;
+          font-family: $groteskRegular;
           font-weight: 400;
           font-size: 0.75rem;
           line-height: auto;
