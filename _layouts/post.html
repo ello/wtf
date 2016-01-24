@@ -21,6 +21,10 @@ css_hook: article
 
   <article class="post_content">
     {{ content }}
+
+    {% if page.ellobutton %}
+      {% include ello_button.html %}
+    {% endif %}
   </article>
 </section>
 <hr class="article_end mobile_only" />
