@@ -33,6 +33,10 @@
       @include vertical_align;
       background-color: $white;
 
+      @media only screen and (max-width : 767px) {
+        width: 276px;
+      }
+
       input[type=text] {
         padding: 0 $gutter_px 0 $gutter_px;
         margin-bottom: percentage(10/550);
@@ -44,6 +48,10 @@
         &:focus {
           background-color: $grey4;
         }
+
+        @media only screen and (max-width : 767px) {
+          margin-bottom: percentage(10/270);
+        }
       }
 
       nav {
@@ -54,6 +62,16 @@
           margin-right: percentage(10/550);
           width: percentage(60/550);
           float: left;
+
+          @media only screen and (max-width : 767px) {
+            margin-right: percentage(10/270);
+            margin-bottom: percentage(10/270);
+            width: percentage(60/270);
+
+            &:nth-child(4) {
+              margin-right: 0;
+            }
+          }
 
           &:last-child {
             margin-right: 0;
