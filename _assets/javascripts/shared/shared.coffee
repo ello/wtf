@@ -9,6 +9,7 @@ root.ElloWTFShared =
     ElloWTFShared.watchURLSearchTerms()
     ElloWTFShared.watchSearchToggle()
     ElloWTFShared.mobileDrawerCategoryWatch()
+    ElloWTFShared.watchShareable()
 
   checkMobile: ->
     if /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)
@@ -147,6 +148,15 @@ root.ElloWTFShared =
         return parameter_name[1]
       i++
     return
+
+  watchShareable: ->
+    $(document).on "click", ".shareable.widget a", (e) ->
+      e.preventDefault()
+      $('.shareable.modal').fadeIn(150)
+
+    $(document).on "click", ".shareable.modal", (e) ->
+      unless $(e.target).parents('.modal-content').length || $(e.target).hasClass('modal-content')
+        $('.shareable.modal').fadeOut(150)
 
 $(document).ready ->
   ElloWTFShared.init()
