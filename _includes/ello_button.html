@@ -1,1 +1,44 @@
-<p>I am Ello button.</p>
+<div id="ello_button">
+  
+  <div class="step one">
+    <h2>1. Enter your username</h2>
+    <p><input type="text" placeholder="Enter your username" /></p>  
+  </div>
+  
+  <div class="step two">
+    <h2>2. Pick your button</h2>
+    <div class="black">
+      <div class="button">
+        <span class="label">Black button</span>
+        <span class="button-holder">
+          <span class="icon">
+            {% include svg/ello_icon.svg %}
+          </span>
+        </span>
+      </div>
+      <div class="code">
+        <span class="label">Your code</span>
+        <textarea>
+          <iframe class="button" frameborder="0" border="0" scrolling="no" allowtransparency="true" height="40" width="40" src="https://button.ello.co/button.html?color=black&username=ello"></iframe>
+        </textarea>
+      </div>
+    </div>
+    <div class="white">
+      <div class="button">
+        <span class="label">White button</span>
+        <span class="button-holder">
+          <span class="icon">
+            {% include svg/ello_icon.svg %}
+          </span>
+        </span>
+      </div>
+      <div class="code">
+        <span class="label">Your code</span>
+        <textarea>
+          <iframe class="button" frameborder="0" border="0" scrolling="no" allowtransparency="true" height="40" width="40" src="https://button.ello.co/button.html?color=white&username=ello"></iframe>
+        </textarea>
+      </div>
+    </div>
+  </div>
+
+</div>
