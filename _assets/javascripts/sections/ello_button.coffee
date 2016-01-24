@@ -7,6 +7,7 @@ root.ElloWTFElloButton =
   watchUsernameInput: ->
     updateUsername = (username) ->
       $("#ello_button textarea").each ->
+        username = 'ello' if (username == undefined || username == '')
         $textarea = $(this)
         # grab the default script
         script = $textarea.data('original-code')
