@@ -62,9 +62,6 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $groteskRegular;
-  font-style: normal;
-  font-weight: 400;
   font-size: 0.875rem;
 }
 
@@ -101,9 +98,7 @@ nav ul, nav ol {
 }
 
 em, i {
-  font-family: $groteskRegular;
   font-style: italic;
-  font-weight: 400;
 }
 
 strong, b {
@@ -141,7 +136,7 @@ code, pre, blockquote {
 }
 code, blockquote {
   display: inline-block;
-  padding: 0.375rem 0.625rem;
+  padding: 0.3rem 0.625rem 0.175rem 0.625rem;
 }
 pre {
   margin: 0.9375rem 0;
@@ -157,7 +152,6 @@ pre code {
 blockquote {
   padding-top: 0;
   padding-bottom: 0;
-  font-family: $groteskRegular;
   font-style: italic;
 }
 
