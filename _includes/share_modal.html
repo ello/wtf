@@ -1,1 +1,31 @@
-<div class="shareable modal">I am share modal</div>
+<div class="shareable modal" style="display:none">
+  <div class="modal-content">
+    <input type="text" value="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" onFocus="this.select()" />
+    <nav class="clear">
+      <a href="mailto:?subject=Check%20out%20{% if page.title_alternate %}{{ page.title_alternate | url_encode }}{{ ' – ' | url_encode }}{{ page.categories | first | capitalize | url_encode }}{{ ' | ' | url_encode }}{% else if page.title %}{{ page.title | url_encode }}{{ ' – ' | url_encode }}{{ page.categories | first | capitalize | url_encode }}{{ ' | ' | url_encode }}{% endif %}{{ site.title | url_encode }}{{ ' | ' | url_encode }}{{ site.subtitle | url_encode }}&body={% if page.excerpt %}{{ page.title }}{{ ' – ' | url_encode }}{% if page.categories %}{{ page.categories | first | capitalize | url_encode }}{{ ' – ' | url_encode }}{% endif %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | url_encode }}{% else %}{{ site.meta_description | replace: '  ', ' ' | url_encode }}{% endif %}%0D%0A%0D%0A{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | url_encode }}" class="email" data-share-type="email">
+        {% include svg/shareable/share_box_email.svg %}
+      </a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | url_encode }}" class="facebook" data-share-type="facebook">
+        {% include svg/shareable/share_box_facebook.svg %}
+      </a>
+      <a href="https://twitter.com/intent/tweet?text=Check%20out%20{% if page.title_alternate %}{{ page.title_alternate | url_encode }}{{ ' – ' | url_encode }}{{ page.categories | first | capitalize | url_encode }}{{ ' | ' | url_encode }}{% else if page.title %}{{ page.title | url_encode }}{{ ' – ' | url_encode }}{{ page.categories | first | capitalize | url_encode }}{{ ' | ' | url_encode }}{% endif %}{{ site.title | url_encode }}{{ ' | ' | url_encode }}{{ site.subtitle | url_encode }}&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | url_encode }}&source={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | url_encode }}" class="twitter" data-share-type="twitter">
+        {% include svg/shareable/share_box_twitter.svg %}
+      </a>
+      <a href="http://pinterest.com/pin/create/button/?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | url_encode }}&description={% if page.title_alternate %}{{ page.title_alternate | url_encode }}{{ ' – ' | url_encode }}{{ page.categories | first | capitalize | url_encode }}{{ ' | ' | url_encode }}{% else if page.title %}{{ page.title | url_encode }}{{ ' – ' | url_encode }}{{ page.categories | first | capitalize | url_encode }}{{ ' | ' | url_encode }}{% endif %}{{ site.title | url_encode }}{{ ' | ' | url_encode }}{{ site.subtitle | url_encode }}&media=null" class="pinterest" data-share-type="pinterest">
+        {% include svg/shareable/share_box_pinterest.svg %}
+      </a>
+      <a href="https://plus.google.com/share?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | url_encode }}" class="google" data-share-type="google">
+        {% include svg/shareable/share_box_google.svg %}
+      </a>
+      <a href="http://www.tumblr.com/share/link?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | url_encode }}&name={% if page.title_alternate %}{{ page.title_alternate | url_encode }}{{ ' – ' | url_encode }}{{ page.categories | first | capitalize | url_encode }}{{ ' | ' | url_encode }}{% else if page.title %}{{ page.title | url_encode }}{{ ' – ' | url_encode }}{{ page.categories | first | capitalize | url_encode }}{{ ' | ' | url_encode }}{% endif %}{{ site.title | url_encode }}{{ ' | ' | url_encode }}{{ site.subtitle | url_encode }}" class="tumblr" data-share-type="tumblr">
+        {% include svg/shareable/share_box_tumblr.svg %}
+      </a>
+      <a href="http://reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | url_encode }}&title={% if page.title_alternate %}{{ page.title_alternate | url_encode }}{{ ' – ' | url_encode }}{{ page.categories | first | capitalize | url_encode }}{{ ' | ' | url_encode }}{% else if page.title %}{{ page.title | url_encode }}{{ ' – ' | url_encode }}{{ page.categories | first | capitalize | url_encode }}{{ ' | ' | url_encode }}{% endif %}{{ site.title | url_encode }}{{ ' | ' | url_encode }}{{ site.subtitle | url_encode }}" class="reddit" data-share-type="reddit">
+        {% include svg/shareable/share_box_reddit.svg %}
+      </a>
+      <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | url_encode }}&title={% if page.title_alternate %}{{ page.title_alternate | url_encode }}{{ ' – ' | url_encode }}{{ page.categories | first | capitalize | url_encode }}{{ ' | ' | url_encode }}{% else if page.title %}{{ page.title | url_encode }}{{ ' – ' | url_encode }}{{ page.categories | first | capitalize | url_encode }}{{ ' | ' | url_encode }}{% endif %}{{ site.title | url_encode }}{{ ' | ' | url_encode }}{{ site.subtitle | url_encode }}" class="linkedin" data-share-type="linkedin">
+        {% include svg/shareable/share_box_linkedin.svg %}
+      </a>
+    </nav>      
+  </div>
+</div>
