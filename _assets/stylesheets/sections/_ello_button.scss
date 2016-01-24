@@ -48,6 +48,12 @@
           width: 50%;
           float: left;
 
+          @media only screen and (max-width : 539px) {
+            width: 100%;
+            float: none;
+
+          }
+
           .label {
             display: block;
             margin-bottom: 0.25rem;
@@ -58,16 +64,26 @@
 
         .code {
           padding-left: ($gutter_px / 2);
+          @media only screen and (max-width : 539px) { 
+            padding-left: 0;
+            margin-top: 24px;
+          }
 
           textarea {
             margin-bottom: $smallColumn_px;
             width: 100%;
             height: 210px;
             font-family: "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;
+
+            @media only screen and (max-width : 539px) {
+              height: 140px;
+            }
           }
         }
         .button {
           padding-right: ($gutter_px / 2);
+          @media only screen and (max-width : 539px) { padding-right: 0; }
+
           .button-holder {
             display: block;
             width: 100%;
