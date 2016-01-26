@@ -200,6 +200,8 @@ Have fun on Ello! :v:
 
 **[Travel](https://ello.co/ellotravel)** · Lead: @andreameli
 
+**[Turkey](https://ello.co/elloturkiye)** · Lead: @mehmetumutmutlu
+
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
