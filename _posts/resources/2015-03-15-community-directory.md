@@ -44,7 +44,7 @@ Have fun on Ello! :v:
 
 **[Cars](https://ello.co/ellocars)** · Lead: @omni-car
 
-**[Coffee Lovers](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
+**[Coffee](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
 
 **[Collaboration](https://ello.co/ellocollaboration)** · Lead: @domtru & @brianmichealjones
 
