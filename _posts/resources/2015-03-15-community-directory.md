@@ -94,7 +94,7 @@ Have fun on Ello! :v:
 
 **[Houston](https://ello.co/ellohouston)** · Lead: @rexrazo
 
-**[Japan](https://ello.co/ellojapan)** 
+**[Japan](https://ello.co/ellojapan)** · Lead: 丹野 洋絵
 
 **[Kite Surfing](https://ello.co/kitesurfers)** · Lead: @oceanromeo
 
@@ -199,6 +199,8 @@ Have fun on Ello! :v:
 **[Toys](https://ello.co/ellotoys)** · Lead: @renspacemadness & @libedlulo
 
 **[Travel](https://ello.co/ellotravel)** · Lead: @andreameli
+
+**[Turkey](https://ello.co/elloturkiye)** · Lead: @mehmetumutmutlu
 
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
 
