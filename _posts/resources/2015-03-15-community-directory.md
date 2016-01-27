@@ -22,6 +22,8 @@ Have fun on Ello! :v:
 
 ## Community-curated:
 
+**[Aircrafts](https:/ello.co/saicollection)**
+
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
 **[Australia](https://ello.co/elloaustralia)** · Lead: @hughmcintyre
