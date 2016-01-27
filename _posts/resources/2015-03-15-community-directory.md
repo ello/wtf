@@ -204,6 +204,8 @@ Have fun on Ello! :v:
 
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
 
+**[UK Creatives](https://ello.co/uksub)** 
+
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
 **[Wine](https://ello.co/ellowine)** · Lead: @petramayer
