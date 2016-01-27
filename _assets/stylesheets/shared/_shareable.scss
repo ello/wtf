@@ -4,7 +4,7 @@
   &.widget {
     padding-top: 30px;
     a {
-      padding: 10px 25px 10px 25px;
+      padding: 12px 25px 10px 25px;
       color: $white;
       background-color: $grey3;
       @include transition_in_out(150ms);
