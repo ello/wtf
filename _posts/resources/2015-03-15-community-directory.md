@@ -204,7 +204,7 @@ Have fun on Ello! :v:
 
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
 
-**[UK Creatives](https://ello.co/uksub)** 
+**[UK Creatives](https://ello.co/uksub)** · Lead: @zincblack 
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
