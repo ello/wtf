@@ -78,6 +78,8 @@ Have fun on Ello! :v:
 
 **[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & @fashionsabi
 
+**[Gardening](https://ello.co/ellogardens)** · Lead: @ethanbodnar
+
 **[Geometry](https://ello.co/geometry)** · Lead: @aarton
 
 **[Gifs](https://ello.co/ellogifs)** · Lead: @amber
