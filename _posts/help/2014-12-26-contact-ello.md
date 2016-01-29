@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Contact Ello"
-date:   2015-06-11 14:10:18 MDT
+date:   2016-01-28 14:10:18 MDT
 categories: help
 position: 12
 ---
@@ -9,10 +9,10 @@ position: 12
 
 Ello is run by a small team of real people who are very busy building Ello, so we ask that you only contact us if you can’t find help elsewhere.
 
-**Abusive behavior reports:** [reportabuse@ello.co](mailto:reportabuse@ello.co)  
-**Bug reports:** [bugs@ello.co](mailto:bugs@ello.co)  
-**Feature suggestions:** [suggestions@ello.co](mailto:suggestions@ello.co)  
-**Jobs:** More info [here](/wtf/about/careers/).  
+**Bug reports:** [bugs@ello.co](mailto:bugs@ello.co)
+**Feature suggestions:** [suggestions@ello.co](mailto:suggestions@ello.co)
+**Jobs:** More info [here](/wtf/about/careers/).
+**Abusive behavior reports:** [reportabuse@ello.co](mailto:reportabuse@ello.co)
 **Everything else:** [hello@ello.co](mailto:hello@ello.co)  
 
 You can also mention <span>@</span>wtf directly on Ello.

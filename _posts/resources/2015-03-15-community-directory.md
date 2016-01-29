@@ -22,6 +22,8 @@ Have fun on Ello! :v:
 
 ## Community-curated:
 
+**[Aircraft](https://ello.co/elloaircraft)** 
+
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
 **[Australia](https://ello.co/elloaustralia)** · Lead: @hughmcintyre
@@ -42,7 +44,9 @@ Have fun on Ello! :v:
 
 **[Cars](https://ello.co/ellocars)** · Lead: @omni-car
 
-**[Coffee Lovers](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
+**[Cinematography](https://ello.co/ellocinematography)**
+
+**[Coffee](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
 
 **[Collaboration](https://ello.co/ellocollaboration)** · Lead: @domtru & @brianmichealjones
 
@@ -78,6 +82,8 @@ Have fun on Ello! :v:
 
 **[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & @fashionsabi
 
+**[Gardening](https://ello.co/ellogardens)** · Lead: @ethanbodnar
+
 **[Geometry](https://ello.co/geometry)** · Lead: @aarton
 
 **[Gifs](https://ello.co/ellogifs)** · Lead: @amber
@@ -89,6 +95,8 @@ Have fun on Ello! :v:
 **[Green](https://ello.co/ellogreen)** · Lead: @andrew--lf
 
 **[History](https://ello.co/oldendaze)** · Lead: @anthonystevens
+
+**[Home](https://ello.co/ellohome)** · Lead: 丹野 洋絵
 
 **[Horses](https://ello.co/ellohorsephotography)** 
 
@@ -203,6 +211,8 @@ Have fun on Ello! :v:
 **[Turkey](https://ello.co/elloturkiye)** · Lead: @mehmetumutmutlu
 
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
+
+**[UK Creatives](https://ello.co/uksub)** · Lead: @zincblack 
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 

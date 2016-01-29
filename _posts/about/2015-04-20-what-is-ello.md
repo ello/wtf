@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Ello?"
 title_alternate:  "What is Ello?"
-date:   2015-12-22 8:43:18 MST
+date:   2016-01-28 8:43:18 MST
 categories: about
 position: 1
 ---
@@ -21,11 +21,11 @@ Feed your imagination through art, design, photography, GIFs, animation, video, 
 
 Ello is an alternative to mainstream networks that manipulate what we see and try to control what we think. Networks that sell our data to the highest bidder violate our trust, and we feel unsafe to share the things we love.
 
-As a [Benefit Corporation](https://ello.co/wtf/about/pbc/), Ello has a legal mandate to never sell ads or personal data to third parties. All streams are chronological. There are no boosted posts, and no manipulative algorithms. 
+As a [Benefit Corporation](https://ello.co/wtf/about/pbc/), Ello has a legal mandate to never sell ads or personal data to third parties. All streams are chronological. There are no boosted posts, and no manipulative algorithms.
 
 Control what you see and share the things you love.
 
-Links:
+<br><br>
 
 [Ello Manifesto](https://ello.co/wtf/about/ello-manifesto/)
 

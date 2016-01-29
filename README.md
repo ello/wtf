@@ -70,6 +70,7 @@ categories: about
 position: 3
 excerpt: "I am an (optional) SEO-friendly excerpt. Filling me out will place me in the <meta> description and as the summary for the search results page. The length can be a few sentences, but don’t make it too long!"
 video: http://vimeo.com/30619461
+shareable: true
 ---
 ```
 
@@ -81,6 +82,7 @@ video: http://vimeo.com/30619461
 * `position:` This determines the position of the article in the category list. Lower numbers are at the top of the list. Other posts in the category are not auto-matically re-numbered, so if you want to place a new post at the top of the category, you will need to edit the `position` in the other posts as well.
 * `excerpt:` If filled out with a couple sentences, it will get used in the description `<meta>` tag for the page and also in the search results display. **(optional)**
 * `video:` Include a Vimeo or Youtube link to feature a video at the very top of the post page **(optional)**
+* `shareable:` Add a social network “Share” button to the bottom of the article **(optional)**
 
 **Other Notes:**
 * Posts with future dates are ignored and not published until their publish date is reached _(remember to set you time zone AND remember that times are in 24-hour format: i.e. 2pm is 14:00)_.

@@ -4,6 +4,7 @@ title:  "Ello Manifesto"
 date:   2014-07-03 01:23:45 EST
 categories: about
 position: 4
+shareable: true
 ---
 Your social network is owned by advertisers.
 
