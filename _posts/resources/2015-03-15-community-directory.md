@@ -22,6 +22,8 @@ Have fun on Ello! :v:
 
 ## Community-curated:
 
+**[Aircraft](https://ello.co/elloaircraft)** 
+
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
 **[Australia](https://ello.co/elloaustralia)** · Lead: @hughmcintyre
@@ -41,6 +43,8 @@ Have fun on Ello! :v:
 **[Bridges](https://ello.co/ellobridges)** · Lead: @anthonystevens
 
 **[Cars](https://ello.co/ellocars)** · Lead: @omni-car
+
+**[Cinematography](https://ello.co/ellocinematography)**
 
 **[Coffee](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
 
