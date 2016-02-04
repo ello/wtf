@@ -67,9 +67,26 @@ root.ElloWTFElloButton =
         # insert it into the textarea
         $textarea.val(scriptBuilt)
 
+    updateButtonIcon = (size) ->
+      size = 'medium' if (size == undefined || size == '')
+      switch size
+        when 'xsmall' then size = "18"
+        when 'small'  then size = "24"
+        when 'medium' then size = "40"
+        when 'large'  then size = "50"
+        when 'xlarge' then size = "70"
+        else null
+
+      # grabbing all of the ello icons
+      $elloIcons = $('span.button-holder').children().children()
+      # iterating through the icons and changing their width
+      for icon in $elloIcons
+        icon.style.width = size
+
     $(document).on "change", "input[type=radio]", ->
       size = $(this).val()
       updateIFrameDimensionsAndSize(size)
+      updateButtonIcon(size)
 
 $(document).ready ->
   if $("#ello_button").length
