@@ -34,6 +34,8 @@ Have fun on Ello! :v:
 
 **[Bikes](https://ello.co/bikelove)** · Lead: @kansascity
 
+**[Black Lives Matter](https://ello.co/blacklivesmatter)** · Lead: @myactivism
+
 **[Board Games](https://ello.co/elloboardgames)** · Lead: @jdarnold
 
 **[Books](https://ello.co/ellobooks)** · Lead: @vivlio
@@ -77,6 +79,8 @@ Have fun on Ello! :v:
 **[Film](https://ello.co/ellofilm)** · Lead: @diogovarelasilva
 
 **[Film Grain](https://ello.co/filmgrain)** · Lead: @perfilyev
+
+**[Film Making](https://ello.co/ellofilmmaking)**
 
 **[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
 
@@ -183,6 +187,8 @@ Have fun on Ello! :v:
 **[Self Portraiture](https://ello.co/elloselfportraiture)** 
 
 **[Sneakers](https://ello.co/ellosneakers)** · Lead: @captnblastoff
+
+**[Social Justice](https://ello.co/socialjusticecommunity)** · Lead: @myactivism
 
 **[Sound Design](https://ello.co/sounddesign)** · Lead: @le-siul
 
