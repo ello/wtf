@@ -7,6 +7,10 @@
     line-height: $bigTextLine;
   }
 
+  label {
+    padding: 15px;
+  }
+
   span,
   textarea,
   input[type=text] {

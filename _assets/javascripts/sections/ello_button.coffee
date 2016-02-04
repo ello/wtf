@@ -40,13 +40,11 @@ root.ElloWTFElloButton =
   watchSizeSelect: ->
     updateIFrameDimensionsAndSize = (size) ->
       $("#ello_button textarea").each ->
-        size = 'medium' if (size == undefined || size == '')
+        size = 'large' if (size == undefined || size == '')
         switch size
-          when 'xsmall' then dimension = "'18'"
-          when 'small'  then dimension = "'24'"
-          when 'medium' then dimension = "'40'"
-          when 'large'  then dimension = "'50'"
-          when 'xlarge' then dimension = "'70'"
+          when 'small'  then dimension = "'18'"
+          when 'medium' then dimension = "'24'"
+          when 'large'  then dimension = "'40'"
           else null
 
         $textarea    = $(this)
@@ -61,20 +59,18 @@ root.ElloWTFElloButton =
         # replace width with the new dimension
         scriptBuilt  = scriptBuilt.replace('width=', "width=#{dimension}")
         # remove the default size
-        scriptBuilt  = scriptBuilt.replace('medium', '')
+        scriptBuilt  = scriptBuilt.replace('large', '')
         # replace size with the new size
         scriptBuilt  = scriptBuilt.replace('size=', "size=#{size}")
         # insert it into the textarea
         $textarea.val(scriptBuilt)
 
     updateButtonIcon = (size) ->
-      size = 'medium' if (size == undefined || size == '')
+      size = 'large' if (size == undefined || size == '')
       switch size
-        when 'xsmall' then size = "18"
-        when 'small'  then size = "24"
-        when 'medium' then size = "40"
-        when 'large'  then size = "50"
-        when 'xlarge' then size = "70"
+        when 'small'  then size = "18"
+        when 'medium' then size = "24"
+        when 'large'  then size = "40"
         else null
 
       # grabbing all of the ello icons
