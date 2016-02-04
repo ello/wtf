@@ -38,18 +38,38 @@ root.ElloWTFElloButton =
         return false
 
   watchSizeSelect: ->
-    updateSize = (size) ->
+    updateIFrameDimensionsAndSize = (size) ->
       $("#ello_button textarea").each ->
         size = 'medium' if (size == undefined || size == '')
-        $textarea = $(this)
-        script = $textarea.data('original-code')
-        scriptParsed = script.split('size=')
-        scriptBuilt = "#{scriptParsed[0]}size=#{size}#{scriptParsed[1].replace('medium','')}"
+        switch size
+          when 'xsmall' then dimension = "'18'"
+          when 'small'  then dimension = "'24'"
+          when 'medium' then dimension = "'40'"
+          when 'large'  then dimension = "'50'"
+          when 'xlarge' then dimension = "'70'"
+          else null
+
+        $textarea    = $(this)
+        # grabbing the default width and height dimension
+        defaultDim   = /'40'/gi
+        # grab the default script
+        script       = $textarea.data('original-code')
+        # split at the height
+        scriptParsed = script.split('height=')
+        # insert the new dimension, and replace all default dimensions
+        scriptBuilt  = "#{scriptParsed[0]}height=#{dimension}#{scriptParsed[1].replace(defaultDim,'')}"
+        # replace width with the new dimension
+        scriptBuilt  = scriptBuilt.replace('width=', "width=#{dimension}")
+        # remove the default size
+        scriptBuilt  = scriptBuilt.replace('medium', '')
+        # replace size with the new size
+        scriptBuilt  = scriptBuilt.replace('size=', "size=#{size}")
+        # insert it into the textarea
         $textarea.val(scriptBuilt)
 
     $(document).on "change", "input[type=radio]", ->
       size = $(this).val()
-      updateSize(size)
+      updateIFrameDimensionsAndSize(size)
 
 $(document).ready ->
   if $("#ello_button").length
