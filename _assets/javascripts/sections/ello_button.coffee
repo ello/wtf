@@ -3,6 +3,7 @@ root.ElloWTFElloButton =
   init: () ->
     ElloWTFElloButton.watchUsernameInput()
     ElloWTFElloButton.watchCodeSelect()
+    ElloWTFElloButton.watchSizeSelect()
 
   watchUsernameInput: ->
     updateUsername = (username) ->
@@ -35,6 +36,20 @@ root.ElloWTFElloButton =
         # Prevent further mouseup intervention
         $(this).unbind("mouseup")
         return false
+
+  watchSizeSelect: ->
+    updateSize = (size) ->
+      $("#ello_button textarea").each ->
+        size = 'medium' if (size == undefined || size == '')
+        $textarea = $(this)
+        script = $textarea.data('original-code')
+        scriptParsed = script.split('size=')
+        scriptBuilt = "#{scriptParsed[0]}size=#{size}#{scriptParsed[1].replace('medium','')}"
+        $textarea.val(scriptBuilt)
+
+    $(document).on "change", "input[type=radio]", ->
+      size = $(this).val()
+      updateSize(size)
 
 $(document).ready ->
   if $("#ello_button").length
