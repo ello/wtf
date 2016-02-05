@@ -22,6 +22,9 @@ css_hook: article
   <article class="post_content">
     {{ content }}
 
+    {% if page.ellobutton %}
+      {% include ello_button.html %}
+    {% endif %}
     {% if page.shareable %}
       {% include share_widget.html %}
     {% endif %}

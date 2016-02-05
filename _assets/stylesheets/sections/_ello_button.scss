@@ -1,0 +1,144 @@
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ello button
+
+#ello_button {
+  h2 {
+    margin-bottom: $gutter_px;
+    font-size: $bigText;
+    line-height: $bigTextLine;
+  }
+
+  label {
+    padding: 15px;
+  }
+
+  span,
+  textarea,
+  input[type=text] {
+    font-size: 0.875rem;
+  }
+
+  input[type=text],
+  textarea {
+    padding: $smallColumn_px;
+    width: 100%;
+    border: 1px solid $grey3;
+  }
+
+  span {
+    &.label {
+      &.sub {
+        color: $grey3;
+      }
+    }
+  }
+
+  .step {
+    margin-bottom: $smallColumn_px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    &.two {
+      .option {
+        display: block;
+        margin-bottom: $gutter_px;
+        width: 100%;
+        clear: both;
+
+        .button,
+        .code {
+          display: block;
+          width: 50%;
+          float: left;
+
+          @media only screen and (max-width : 539px) {
+            width: 100%;
+            float: none;
+
+          }
+
+          .label {
+            display: block;
+            margin-bottom: 0.25rem;
+            width: 100%;
+            clear: both;
+          }
+        }
+
+        .code {
+          padding-left: ($gutter_px / 2);
+          @media only screen and (max-width : 539px) { 
+            padding-left: 0;
+            margin-top: 24px;
+          }
+
+          textarea {
+            margin-bottom: $smallColumn_px;
+            width: 100%;
+            height: 210px;
+            font-family: "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;
+
+            @media only screen and (max-width : 539px) {
+              height: 140px;
+            }
+          }
+        }
+        .button {
+          padding-right: ($gutter_px / 2);
+          @media only screen and (max-width : 539px) { padding-right: 0; }
+
+          .button-holder {
+            display: block;
+            width: 100%;
+            height: 280px;
+            background-color: $grey2;
+
+            span {
+              &.icon {
+                margin: 0 auto;
+                display: block;
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                overflow: hidden;
+                @include vertical_align; 
+                svg {
+                  path {
+                    &.svg__bg {
+                      fill: $black;
+                    }
+                    &.svg__fg {
+                      fill: $white;
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+        &.white {
+          .button {
+            .button-holder {
+              background-color: $black;
+              span {
+                &.icon {
+                  svg {
+                    path {
+                      &.svg__bg {
+                        fill: $white;
+                      }
+                      &.svg__fg {
+                        fill: $black;
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

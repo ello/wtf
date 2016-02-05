@@ -1,0 +1,53 @@
+<div id="ello_button">
+  
+  <div class="step one">
+    <h2>1. Enter your username</h2>
+    <p><input type="text" autofocus="true" placeholder="Enter your username" class="username" /></p>  
+  </div>
+  
+  <div class="step two">
+    <h2>2. Select your button size and color</h2>
+    <div>
+      <input type="radio" name="size" id="small" value="small"/>
+      <label for="small">18x18</label>
+
+      <input type="radio" name="size" id="medium" value="medium"/>
+      <label for="medium">24x24</label>
+
+      <input type="radio" name="size" id="large" value="large" checked="checked"/>
+      <label for="large">40x40</label>
+    </div>
+    <br>
+    <div class="option black clear">
+      <div class="button clear">
+        <span class="label">Black button</span>
+        <span class="button-holder">
+          <span class="icon">
+            {% include svg/ello_icon.svg %}
+          </span>
+        </span>
+      </div>
+      <div class="code clear">
+        <span class="label">Your code</span>
+        <textarea data-original-code="<iframe class='button' frameborder='0' border='0' scrolling='no' allowtransparency='true' height='40' width='40' src='https://button.ello.co/button?color=black&username=ello&size=large'></iframe>"><iframe class='button' frameborder='0' border='0' scrolling='no' allowtransparency='true' height='40' width='40' src='https://button.ello.co/button?color=black&username=ello&size=large'></iframe></textarea>
+        <span class="label sub">Paste this code into your page’s HTML, where you want the button to go.</span>
+      </div>
+    </div>
+    <div class="option white clear">
+      <div class="button clear">
+        <span class="label">White button</span>
+        <span class="button-holder">
+          <span class="icon">
+            {% include svg/ello_icon.svg %}
+          </span>
+        </span>
+      </div>
+      <div class="code clear">
+        <span class="label">Your code</span>
+        <textarea data-original-code="<iframe class='button' frameborder='0' border='0' scrolling='no' allowtransparency='true' height='40' width='40' src='https://button.ello.co/button?color=white&username=ello&size=large'></iframe>"><iframe class='button' frameborder='0' border='0' scrolling='no' allowtransparency='true' height='40' width='40' src='https://button.ello.co/button?color=white&username=ello&size=large'></iframe></textarea>
+        <span class="label sub">Paste this code into your page’s HTML, where you want the button to go.</span>
+      </div>
+    </div>
+  </div>
+
+</div>

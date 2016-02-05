@@ -3,7 +3,7 @@ layout: post
 title:  "Start a Community"
 date:   2015-08-26 01:23:45 MDT
 categories: resources
-position: 2
+position: 3
 ---
 
 **There are a lot of amazing new communities on Ello. Here’s a quick guide to help you create your own community, and some suggestions on how to gain new followers and make yours awesome!**

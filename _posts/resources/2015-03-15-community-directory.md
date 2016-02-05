@@ -3,7 +3,7 @@ layout: post
 title:  "Community Directory"
 date:   2016-01-31 01:23:45 MDT
 categories: resources
-position: 1
+position: 2
 ---
 
 <!--- DO NOT DELETE. App links lead here. --->
