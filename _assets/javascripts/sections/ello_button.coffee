@@ -73,16 +73,18 @@ root.ElloWTFElloButton =
     updateButtonIcon = (size) ->
       size = 'large' if (size == undefined || size == '')
       switch size
-        when 'small'  then size = "18"
-        when 'medium' then size = "24"
-        when 'large'  then size = "40"
+        when 'small'  then size = "18px"
+        when 'medium' then size = "24px"
+        when 'large'  then size = "40px"
         else null
 
       # grabbing all of the ello icons
       $elloIcons = $('span.button-holder').children().children()
       # iterating through the icons and changing their width
       for icon in $elloIcons
-        icon.style.width = size
+        icon.style.width                = size
+        icon.parentElement.style.width  = size
+        icon.parentElement.style.height = size
 
     $(document).on "change", "input[type=radio]", ->
       size     = $(this).val()
