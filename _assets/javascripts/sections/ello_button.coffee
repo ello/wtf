@@ -46,7 +46,6 @@ root.ElloWTFElloButton =
           when 'medium' then dimension = "'24'"
           when 'large'  then dimension = "'40'"
           else null
-
         $textarea    = $(this)
         # grabbing the default width and height dimension
         defaultDim   = /'40'/gi
@@ -62,6 +61,12 @@ root.ElloWTFElloButton =
         scriptBuilt  = scriptBuilt.replace('large', '')
         # replace size with the new size
         scriptBuilt  = scriptBuilt.replace('size=', "size=#{size}")
+        # grab the entered username
+        username = $('#ello_button input.username').val()
+        # reassign username if blank or undefined
+        if (username == undefined || username == '') then username = 'ello'
+        # replace username with the entered username
+        scriptBuilt = scriptBuilt.replace('username=ello', "username=#{username}")
         # insert it into the textarea
         $textarea.val(scriptBuilt)
 
@@ -80,7 +85,8 @@ root.ElloWTFElloButton =
         icon.style.width = size
 
     $(document).on "change", "input[type=radio]", ->
-      size = $(this).val()
+      size     = $(this).val()
+      username = $('#ello_button input.username').val()
       updateIFrameDimensionsAndSize(size)
       updateButtonIcon(size)
 
