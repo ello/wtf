@@ -99,13 +99,11 @@
                 margin: 0 auto;
                 display: block;
                 width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                overflow: hidden;
                 @include vertical_align; 
                 svg {
-                  
-                  
-                  width: 100%;
-                  @include border_radius(40px);
-
                   path {
                     &.svg__bg {
                       fill: $black;
