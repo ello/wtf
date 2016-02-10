@@ -8,4 +8,4 @@ shareable: true
 ellobutton: true
 ---
 
-Show some Ello love on your website. Just type in your username and use the code provided.
+Show some Ello love on your website. Just type in your username (don't include the @!) and use the code provided.
