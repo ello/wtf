@@ -116,6 +116,8 @@ Have fun on Ello! :v:
 
 **[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
 
+**[Manga](https://ello.co/manga)** 
+
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
 **[Mediterranean](https://ello.co/mediterranean)** · Lead: @harrymct
@@ -160,6 +162,8 @@ Have fun on Ello! :v:
 
 **[Photography (Black & White)](https://ello.co/black-and-white-photography)** · Lead: @pmlynch
 
+**[Photography (Cannon)](https://ello.co/ellocannon) 
+
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
 **[Photography (Mobile)](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
@@ -185,6 +189,8 @@ Have fun on Ello! :v:
 **[Science](https://ello.co/elloscience)** · Lead: @anna
 
 **[Self Portraiture](https://ello.co/elloselfportraiture)** 
+
+**[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax @maccymacx @misosoupland @jamessaretta
 
 **[Sneakers](https://ello.co/ellosneakers)** · Lead: @captnblastoff
 
