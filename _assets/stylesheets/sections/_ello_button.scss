@@ -9,6 +9,11 @@
     &.size-choice-label {
       margin-bottom: 1rem;
     }
+
+    @media only screen and (max-width : 539px) {
+      font-size: 1.1rem;
+      line-height: 1.35rem;
+    }
   }
 
   span,
@@ -28,6 +33,10 @@
   label {
     cursor: pointer;
     padding-right: 35px;
+
+    @media only screen and (max-width : 539px) {
+      padding-right: 25px;
+    }
   }
   input[type=radio] {
     display:none;
@@ -42,6 +51,12 @@
     border: 1px solid $grey3;
     @include border_radius(20px);
     background-color: $white;
+
+    @media only screen and (max-width : 539px) {
+      margin: -3px 6px 0 0;
+      width: 14px;
+      height: 14px;
+    }
   }
 
   input[type=radio]:checked + label span{
