@@ -116,7 +116,7 @@ Have fun on Ello! :v:
 
 **[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
 
-**[Manga](https://ello.co/manga)** 
+**[Manga](https://ello.co/manga)** · Lead: @allcomic_
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
