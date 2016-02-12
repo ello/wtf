@@ -20,12 +20,12 @@ root.ElloWTFElloButton =
         $textarea.val(scriptBuilt)
 
     $(document).on "keyup", "#ello_button input.username", ->
-      username = $(this).val()
+      username = $(this).val().replace(/^@/,'')
       updateUsername(username)
 
     # might be overkill, but just in case we miss an auto-population
     $(document).on "blur", "#ello_button input.username", ->
-      username = $(this).val()
+      username = $(this).val().replace(/^@/,'')
       updateUsername(username)
 
   watchCodeSelect: ->
