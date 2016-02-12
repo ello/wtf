@@ -5,10 +5,15 @@
     margin-bottom: $gutter_px;
     font-size: $bigText;
     line-height: $bigTextLine;
-  }
 
-  label {
-    padding: 15px;
+    &.size-choice-label {
+      margin-bottom: 1rem;
+    }
+
+    @media only screen and (max-width : 539px) {
+      font-size: 1.1rem;
+      line-height: 1.35rem;
+    }
   }
 
   span,
@@ -24,12 +29,51 @@
     border: 1px solid $grey3;
   }
 
+
+  label {
+    cursor: pointer;
+    padding-right: 35px;
+
+    @media only screen and (max-width : 539px) {
+      padding-right: 25px;
+    }
+  }
+  input[type=radio] {
+    display:none;
+  }
+  input[type=radio] + label span {
+    display:inline-block;
+    cursor: pointer;
+    margin: -3px 10px 0 0;
+    width: 20px;
+    height: 20px;
+    vertical-align:middle;
+    border: 1px solid $grey3;
+    @include border_radius(20px);
+    background-color: $white;
+
+    @media only screen and (max-width : 539px) {
+      margin: -3px 6px 0 0;
+      width: 14px;
+      height: 14px;
+    }
+  }
+
+  input[type=radio]:checked + label span{
+    border-color: $black;
+    background-color: $black
+  }
+
   span {
     &.label {
       &.sub {
         color: $grey3;
       }
     }
+  }
+
+  .size-choices {
+    padding-bottom: 20px;
   }
 
   .step {
