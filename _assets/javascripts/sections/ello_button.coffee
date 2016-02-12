@@ -14,6 +14,8 @@ root.ElloWTFElloButton =
         script = $textarea.data('original-code')
         # split it at the username call
         scriptParsed = script.split('username=')
+        # clean username of @
+        username = username.replace(/^@/,'')
         # insert the username / clean it of the default 'ello' username
         scriptBuilt = "#{scriptParsed[0]}username=#{username}#{scriptParsed[1].replace('ello','')}"
         # insert it into the textarea
