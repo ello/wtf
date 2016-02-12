@@ -3,7 +3,7 @@ layout: post
 title:  "Text Formatting"
 date:   2014-07-14 04:23:18 MDT
 categories: help
-position: 10
+position: 11
 ---
 In the Ello Omnibar, you have a great deal of control over how your text looks. You can **bold**, _italicize_, and <strike>strikethrough</strike> text. You can create lists, links and much more!
 
@@ -21,7 +21,7 @@ If you wish to format text in other ways, or want to enter formatting commands q
 
 For more advanced text editing, Ello uses Markdown, a series of formatting commands that you enter with your keyboard as you type. Ello Markdown is a fast, simple way to type special characters that tell Ello how to display your text.
 
-We chose to include Markdown as a way to format text in the Omnibar for its simplicity, flexibility, and ubiquity. Programmers have been using Markdown since the late 1980’s, but anyone can use it and it is very easy to learn. 
+We chose to include Markdown as a way to format text in the Omnibar for its simplicity, flexibility, and ubiquity. Programmers have been using Markdown since the late 1980’s, but anyone can use it and it is very easy to learn.
 
 Below is a guide to Ello Markdown.
 

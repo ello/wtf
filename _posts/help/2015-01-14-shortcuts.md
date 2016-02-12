@@ -3,7 +3,7 @@ layout: post
 title:  "Shortcuts"
 date:   2015-06-11 04:23:18 MDT
 categories: help
-position: 5
+position: 6
 ---
 
 `2` Focus Omnibar
