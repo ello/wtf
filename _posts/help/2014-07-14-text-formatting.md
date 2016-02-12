@@ -3,7 +3,7 @@ layout: post
 title:  "Text Formatting"
 date:   2014-07-14 04:23:18 MDT
 categories: help
-position: 11
+position: 10
 ---
 In the Ello Omnibar, you have a great deal of control over how your text looks. You can **bold**, _italicize_, and <strike>strikethrough</strike> text. You can create lists, links and much more!
 
