@@ -8,7 +8,7 @@ position: 2
 
 <!--- DO NOT DELETE. App links lead here. --->
 
-Many Ello community members have created communities as a way to share and discuss specific interests. 
+Many Ello community members have created communities as a way to share and discuss specific interests.
 
 You can join any community simply by following them as you would any other account.
 
@@ -16,13 +16,13 @@ Find other community members by searching through the “Followers” list. Comm
 
 Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new community.
 
-Have fun on Ello! :v:
+Have fun on Ello! :sparkles:
 
 ---
 
 ## Community-curated:
 
-**[Aircraft](https://ello.co/elloaircraft)** 
+**[Aircraft](https://ello.co/elloaircraft)**
 
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
@@ -102,7 +102,7 @@ Have fun on Ello! :v:
 
 **[Home](https://ello.co/ellohome)** · Lead: 丹野 洋絵
 
-**[Horses](https://ello.co/ellohorsephotography)** 
+**[Horses](https://ello.co/ellohorsephotography)**
 
 **[Houston](https://ello.co/ellohouston)** · Lead: @rexrazo
 
@@ -148,13 +148,13 @@ Have fun on Ello! :v:
 
 **[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
 
-**[NHL (Hockey)](https://ello.co/nhlwraparound)** 
+**[NHL (Hockey)](https://ello.co/nhlwraparound)**
 
 **[Outside](https://ello.co/ellooutside)** · Lead: @wasimofnazareth
 
 **[Painting](https://ello.co/ellopainting)** · Lead: @laurenmgeorge
 
-**[Paris](https://ello.co/elloparis)** 
+**[Paris](https://ello.co/elloparis)**
 
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
@@ -162,7 +162,7 @@ Have fun on Ello! :v:
 
 **[Photography (Black & White)](https://ello.co/black-and-white-photography)** · Lead: @pmlynch
 
-**[Photography (Cannon)](https://ello.co/ellocannon) 
+**[Photography (Cannon)](https://ello.co/ellocannon)
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
@@ -188,7 +188,7 @@ Have fun on Ello! :v:
 
 **[Science](https://ello.co/elloscience)** · Lead: @anna
 
-**[Self Portraiture](https://ello.co/elloselfportraiture)** 
+**[Self Portraiture](https://ello.co/elloselfportraiture)**
 
 **[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax @maccymacx @misosoupland @jamessaretta
 
@@ -198,7 +198,7 @@ Have fun on Ello! :v:
 
 **[Sound Design](https://ello.co/sounddesign)** · Lead: @le-siul
 
-**[Space](https://ello.co/ellospace)** 
+**[Space](https://ello.co/ellospace)**
 
 **[Sports](https://ello.co/ellosport)** · Lead: @jpurvisturton
 
@@ -212,7 +212,7 @@ Have fun on Ello! :v:
 
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
 
-**[Timeless Motors](https://ello.co/timeless_motors)** 
+**[Timeless Motors](https://ello.co/timeless_motors)**
 
 **[Toronto](https://ello.co/ellotoronto)** · Lead: @titaniummike
 
@@ -224,7 +224,7 @@ Have fun on Ello! :v:
 
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
 
-**[UK Creatives](https://ello.co/uksub)** · Lead: @zincblack 
+**[UK Creatives](https://ello.co/uksub)** · Lead: @zincblack
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
