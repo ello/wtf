@@ -22,6 +22,8 @@ Have fun on Ello! :sparkles:
 
 ## Community-curated:
 
+**[3D](https://ello.co/ello3d)** · Lead: @momosby
+
 **[Aircraft](https://ello.co/elloaircraft)**
 
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
@@ -148,7 +150,7 @@ Have fun on Ello! :sparkles:
 
 **[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
 
-**[NHL (Hockey)](https://ello.co/nhlwraparound)**
+**[NHL (Hockey)](https://ello.co/nhlwraparound)** · Lead: @THEmikebarber
 
 **[Outside](https://ello.co/ellooutside)** · Lead: @wasimofnazareth
 
@@ -162,7 +164,7 @@ Have fun on Ello! :sparkles:
 
 **[Photography (Black & White)](https://ello.co/black-and-white-photography)** · Lead: @pmlynch
 
-**[Photography (Cannon)](https://ello.co/ellocannon)
+**[Photography (Cannon)](https://ello.co/ellocannon)**
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
@@ -225,6 +227,8 @@ Have fun on Ello! :sparkles:
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
 
 **[UK Creatives](https://ello.co/uksub)** · Lead: @zincblack
+
+**[Weather](https://ello.co/elloweather)** · Lead: @kellydelay
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
