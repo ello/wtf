@@ -15,28 +15,27 @@ In addition to most of the things you can do on Ello on the web, Ello’s iOS Ap
 We’re still working on the App. Here’s a list of features that are built, and those that are coming soon!
 
 ## Coming Soon
-* Post and comment editing
-* Multi-Region posting
-* Reply all to comments
-* Animated loading indicators
+* Emoji autocompleter
 * Re-order content blocks within Omnibar
-* Text formatting
+* Animated loading indicators
 * Video embed creation (Youtube, Vimeo, DailyMotion)
 * Audio embed creation (Soundcloud, Mixcloud)
-* Emoji autocompleter
 * Improved error handling
-* Private accounts
 * Custom emoji index
 * Private messaging
 * Auto-push posts to other networks
 * Real time alerts
 * Private messaging
-* Private groups
 * View blocked/muted users in settings
 * Add content to reposts
 
 
 ## Built
+* Share a profile
+* Reply all to comments
+* Multi-Region posting
+* Text formatting
+* Post and comment editing
 * Notification center filtering
 * Content search integration
 * Landscape for videos and images
@@ -48,6 +47,7 @@ We’re still working on the App. Here’s a list of features that are built, an
 * People search & content discovery
 * Commenting
 * Repost w/ author attribution
+
 * Notification Center
 * Blocking & muting
 * Views per post
