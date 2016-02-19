@@ -14,7 +14,7 @@ We created this list of built and upcoming features so you can watch Ello roll o
 * Language support
 * Auto-push posts to other networks
 * Android mobile app
-* Private Messaging
+* Private messaging
 * Watch a post
 * Custom domains
 * Post formatting
@@ -33,7 +33,7 @@ We created this list of built and upcoming features so you can watch Ello roll o
 * Updated WTF Section
 * Hashtag integration
 * iOS mobile app
-* Love + Love bookmarking stream
+* Love & Love bookmarking stream
 * Mobile web refinements
 * Enhanced search & discovery
 * Rich (multimedia) commenting
