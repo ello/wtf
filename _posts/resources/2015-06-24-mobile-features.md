@@ -22,7 +22,6 @@ We’re still working on the App. Here’s a list of features that are built, an
 * Audio embed creation (Soundcloud, Mixcloud)
 * Improved error handling
 * Custom emoji index
-* Private messaging
 * Auto-push posts to other networks
 * Real time alerts
 * Private messaging
