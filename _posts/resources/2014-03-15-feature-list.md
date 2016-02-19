@@ -11,6 +11,7 @@ We created this list of built and upcoming features so you can watch Ello roll o
 
 ## Coming Soon
 
+* Speed and mobile improvements
 * Language support
 * Auto-push posts to other networks
 * Android mobile app
@@ -22,7 +23,6 @@ We created this list of built and upcoming features so you can watch Ello roll o
 ## Built
 
 * Backend: Improved stream loading
-* Speed and mobile improvements
 * Ello button
 * Logged out views
 * Trending & Recent
