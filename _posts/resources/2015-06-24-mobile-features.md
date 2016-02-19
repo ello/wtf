@@ -16,20 +16,19 @@ We’re still working on the App. Here’s a list of features that are built, an
 
 ## Coming Soon
 * Emoji autocompleter
-* Re-order content blocks within Omnibar
-* Animated loading indicators
+* Post multiple images at once
 * Video embed creation (Youtube, Vimeo, DailyMotion)
 * Audio embed creation (Soundcloud, Mixcloud)
-* Improved error handling
-* Custom emoji index
 * Auto-push posts to other networks
-* Real time alerts
+* Watch a post
 * Private messaging
-* View blocked/muted users in settings
-* Add content to reposts
-
+* Custom emoji index
 
 ## Built
+* Post previews in notifications
+* More reliable login
+* Trending & Recent
+* List/grid toggle
 * Share a profile
 * Reply all to comments
 * Multi-Region posting
