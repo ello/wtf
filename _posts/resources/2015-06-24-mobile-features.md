@@ -47,7 +47,6 @@ We’re still working on the App. Here’s a list of features that are built, an
 * People search & content discovery
 * Commenting
 * Repost w/ author attribution
-
 * Notification Center
 * Blocking & muting
 * Views per post
