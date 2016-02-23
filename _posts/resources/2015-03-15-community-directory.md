@@ -164,7 +164,7 @@ Have fun on Ello! :sparkles:
 
 **[Photography (Black & White)](https://ello.co/black-and-white-photography)** · Lead: @pmlynch
 
-**[Photography (Cannon)](https://ello.co/ellocannon)**
+**[Photography (Canon)](https://ello.co/ellocannon)**
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
