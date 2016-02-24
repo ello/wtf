@@ -100,6 +100,8 @@ Have fun on Ello! :sparkles:
 
 **[Green](https://ello.co/ellogreen)** · Lead: @andrew--lf
 
+**[Guilty Pleasures](https://ello.co/guilty-pleasure)**
+
 **[History](https://ello.co/oldendaze)** · Lead: @anthonystevens
 
 **[Home](https://ello.co/ellohome)** · Lead: 丹野 洋絵
