@@ -17,7 +17,7 @@ Ello is run by a small team of real people who are very busy building Ello, so w
 
 You can also mention <span>@</span>wtf directly on Ello.
 
-Follow us on [Twitter](https://twitter.com/elloworld), [Instagram](https://www.instagram.com/ello_inspiration/), [Pinterest](https://www.pinterest.com/ello_official/) & [Tumblr](http://elloofficial.tumblr.com/).
+Follow us on [Twitter](https://twitter.com/elloworld), [Instagram](https://www.instagram.com/ellosphere/), [Pinterest](https://www.pinterest.com/ellosphere/) & [Tumblr](http://ellosphere.tumblr.com/).
 
 ## How do I report abusive behavior?
 
