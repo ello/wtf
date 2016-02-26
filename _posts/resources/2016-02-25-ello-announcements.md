@@ -10,13 +10,13 @@ February 15, 2016
 [Ello announces the release of Infinite Ello](https://ello.co/elloblog/post/vzV3GwIcBSvmIlyKKbG-2Q)
 
 February 12, 2016
-[Ello speeds up & improves the iOS app](https://ello.co/ello/post/FWGbtfCBEvVGaq1FbrU3dQ) · [Details from Ello's devs](https://ello.co/cacheflowe/post/X-OmEUPPwCVtjzOjojHdrA)
+[Ello speeds up iOS & more](https://ello.co/ello/post/FWGbtfCBEvVGaq1FbrU3dQ) · [Details from Ello's devs](https://ello.co/cacheflowe/post/X-OmEUPPwCVtjzOjojHdrA)
 
 January 20, 2016
-[Ello announces apple watch wallpapers](https://ello.co/elloblog/post/gnLdUUHjK6VQhaGKPZpG9w)
+[Ello announces Apple Watch wallpapers](https://ello.co/elloblog/post/gnLdUUHjK6VQhaGKPZpG9w)
 
 January 10, 2016
-[Ello announces open source by default](https://ello.co/jayzes/post/tqLL-Z8U8GfbDySRk6wbKg)
+[Ello goes Open Source by Default](https://ello.co/jayzes/post/tqLL-Z8U8GfbDySRk6wbKg)
 
 January 1, 2016
 [Ello reflects on 2015 with "Revolutions 2016"](https://ello.co/budnitz/post/vpZztQRsg1ZH2-U2BuDUYg)
@@ -28,13 +28,13 @@ November 20, 2015
 [Ello introduces Trending and Recent](https://ello.co/elloblog/post/3QCX-udTieFLo61_p1KcLw)
 
 October 23, 2015
-[Ello updates iOS app with landscape support & more](https://ello.co/dcdoran/post/zhhPtieW_KaDMHhQufRskw)
+[Ello updates iOS with landscape support & more](https://ello.co/dcdoran/post/zhhPtieW_KaDMHhQufRskw)
 
 October 20, 2015
-[Ello announces UI updates](https://ello.co/dcdoran/post/-pRboJZTTQYoT1FvMK_7EQ)
+[Ello announces radical UI updates](https://ello.co/dcdoran/post/-pRboJZTTQYoT1FvMK_7EQ)
 
 Sept 15, 2015
-[Ello adds multi-image posting to iOS](https://ello.co/elloblog/post/rZWH5dWvye-XyWfluAyVUQ)
+[Ello adds Multi-image Posting to iOS](https://ello.co/elloblog/post/rZWH5dWvye-XyWfluAyVUQ)
 
 August 23, 2015
 [Ello is The Creators Network](https://ello.co/budnitz/post/iGohqvgmA0B_QW-hUnlZ3A)
@@ -43,43 +43,43 @@ August 13, 2015
 [Ello announces major updates to web & iOS](https://ello.co/dcdoran/post/2BrpI81pcH_BOpgWyoIW5w)
 
 July 17, 2015
-[Ello introduces hashtags](https://ello.co/budnitz/post/96LExXWIj00q6hht8yPTWA)
+[Ello introduces #hashtags](https://ello.co/budnitz/post/96LExXWIj00q6hht8yPTWA)
 
 July 21, 2015
-[Ello introduces real time notifications & more](https://ello.co/dcdoran/post/mAvdLOoQVmoYFOO-cbztIQ)
+[Ello releases real time notifications & more](https://ello.co/dcdoran/post/mAvdLOoQVmoYFOO-cbztIQ)
 
 June 15, 2015
-[Ello introduces feature to download your data](https://ello.co/dcdoran/post/4ErgpbHDriPoajk-wHbADw)
+[Ello introduces "Download Your Data"](https://ello.co/dcdoran/post/4ErgpbHDriPoajk-wHbADw)
 
 April 1, 2015
-[Ello introduces content search](https://ello.co/dcdoran/post/LuGIUIPZpMN2uYoarkYawA)
+[Ello introduces Search](https://ello.co/dcdoran/post/LuGIUIPZpMN2uYoarkYawA)
 
 February 10, 2015
-[Ello introduces reposting](https://ello.co/cacheflowe/post/_Bq1t3Px5vrdV1xuTJMU8g)
+[Ello introduces Reposting](https://ello.co/cacheflowe/post/_Bq1t3Px5vrdV1xuTJMU8g)
 
 February 3, 2015
-[Ello introduces media embeds & more](https://ello.co/cacheflowe/post/qA-w-TlxrqruKaIqxC2uiQ)
+[Ello introduces Media Embeds & more](https://ello.co/cacheflowe/post/qA-w-TlxrqruKaIqxC2uiQ)
 
 January 14, 2015
-[Ello introduces notification filtering](https://ello.co/cacheflowe/post/nspW5ppP2PEYRf0nLXP25Q)
+[Ello introduces Notifications Filtering](https://ello.co/cacheflowe/post/nspW5ppP2PEYRf0nLXP25Q)
 
 January 7, 2015
-[Ello optimizes database & more](https://ello.co/cacheflowe/post/dj79MQQtQmTzn_e8pR3TXg)
+[Ello announces data structure optimization & more](https://ello.co/cacheflowe/post/dj79MQQtQmTzn_e8pR3TXg)
 
 Decemeber 22, 2014
-[Ello introduces reply all function](https://ello.co/cacheflowe/post/ca0w3BLwlC3IkWBniTQC4Q)
+[Ello introduces Reply-all](https://ello.co/cacheflowe/post/ca0w3BLwlC3IkWBniTQC4Q)
 
 December 4, 2014
-[Ello introduces content flagging & more](https://ello.co/cacheflowe/post/y5W2Oo85VC_MqBKqIFx9LA)
+[Ello introduces Flagging & more](https://ello.co/cacheflowe/post/y5W2Oo85VC_MqBKqIFx9LA)
 
 November 20, 2014
-[Ello introduces emoji autocompleter & more](https://ello.co/cacheflowe/post/HJMCL-VwqQiD8-sv2rrg9A)
+[Ello introduces Emoji Autocompleter & more](https://ello.co/cacheflowe/post/HJMCL-VwqQiD8-sv2rrg9A)
 
 November 10, 2014
-[Ello introduces the notification center](https://ello.co/cacheflowe/post/GF5MiltnVLX1K3gcqD1vcw)
+[Ello introduces the Notifications Center](https://ello.co/cacheflowe/post/GF5MiltnVLX1K3gcqD1vcw)
 
 November 8, 2014
-[Ello introduces share button](https://ello.co/cacheflowe/post/UN7BvpAG2u--Au94MOfxOg)
+[Ello introduces Sharing](https://ello.co/cacheflowe/post/UN7BvpAG2u--Au94MOfxOg)
 
 November 1, 2014
 [Ello introduces NSFW flag](https://ello.co/budnitz/post/eO8xJ--IS_DfSRIUF63rPw)
@@ -88,7 +88,7 @@ October 20, 2014
 [Ello introduces Blocking & Muting](https://ello.co/cacheflowe/post/b_bZB9N8wjPu206-T7WUPg)
 
 October 1, 2014
-[Ello introduces invite codes](https://ello.co/cacheflowe/post/AWfA4AwaHV2WKmbK_WR4Pw)
+[Ello introduces Invitations](https://ello.co/cacheflowe/post/AWfA4AwaHV2WKmbK_WR4Pw)
 
 Sept 25, 2014
-[Ello introduces commenting function](https://ello.co/cacheflowe/post/f9IJdJ768rfnXx8Q0d4zTg)
+[Ello introduces Commenting](https://ello.co/cacheflowe/post/f9IJdJ768rfnXx8Q0d4zTg)
