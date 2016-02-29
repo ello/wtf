@@ -110,6 +110,8 @@ Have fun on Ello! :sparkles:
 
 **[Houston](https://ello.co/ellohouston)** · Lead: @rexrazo
 
+**[Illustration](https://ello.co/elloillustrations)** · Lead: @serena-d 
+
 **[Japan](https://ello.co/ellojapan)** · Lead: 丹野 洋絵
 
 **[Kite Surfing](https://ello.co/kitesurfers)** · Lead: @oceanromeo
