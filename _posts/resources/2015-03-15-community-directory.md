@@ -124,6 +124,8 @@ Have fun on Ello! :sparkles:
 
 **[Manga](https://ello.co/manga)** · Lead: @allcomic_
 
+**[Medical Cannabis](https://ello.co/ellomedicalcannabis)** · Lead: @arsenokoitai
+
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
 **[Mediterranean](https://ello.co/mediterranean)** · Lead: @harrymct
