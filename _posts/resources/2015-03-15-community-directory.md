@@ -198,7 +198,7 @@ Have fun on Ello! :sparkles:
 
 **[Science](https://ello.co/elloscience)** · Lead: @anna
 
-**[Self Portraiture](https://ello.co/selfportraiture)**
+**[Self Portraiture](https://ello.co/selfportraiture)** · Lead: @lotuscarroll
 
 **[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax @maccymacx @misosoupland @jamessaretta
 
