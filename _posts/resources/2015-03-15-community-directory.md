@@ -74,7 +74,7 @@ Have fun on Ello! :sparkles:
 
 **[Equestrian](https://ello.co/elloequestrian)** · Lead: @sophiesoloneventing
 
-**[Ethics](https://ello.co/elloethics)**
+**[Ethics](https://ello.co/elloethics)** · Lead: @vegabond
 
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
 
@@ -82,7 +82,7 @@ Have fun on Ello! :sparkles:
 
 **[Film Grain](https://ello.co/filmgrain)** · Lead: @perfilyev
 
-**[Film Making](https://ello.co/ellofilmmaking)**
+**[Film Making](https://ello.co/ellofilmmaking)** · Lead: @artifactfilmco
 
 **[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
 
@@ -102,7 +102,7 @@ Have fun on Ello! :sparkles:
 
 **[Green](https://ello.co/ellogreen)** · Lead: @andrew--lf
 
-**[Guilty Pleasures](https://ello.co/guilty-pleasure)**
+**[Guilty Pleasures](https://ello.co/guilty-pleasure)** · Lead: @FreyaMoonlight
 
 **[History](https://ello.co/oldendaze)** · Lead: @anthonystevens
 
@@ -172,7 +172,7 @@ Have fun on Ello! :sparkles:
 
 **[Photography (Black & White)](https://ello.co/black-and-white-photography)** · Lead: @pmlynch
 
-**[Photography (Canon)](https://ello.co/ellocannon)**
+**[Photography (Canon)](https://ello.co/ellocanon)**
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
@@ -198,7 +198,7 @@ Have fun on Ello! :sparkles:
 
 **[Science](https://ello.co/elloscience)** · Lead: @anna
 
-**[Self Portraiture](https://ello.co/elloselfportraiture)**
+**[Self Portraiture](https://ello.co/selfportraiture)**
 
 **[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax @maccymacx @misosoupland @jamessaretta
 
@@ -208,7 +208,7 @@ Have fun on Ello! :sparkles:
 
 **[Sound Design](https://ello.co/sounddesign)** · Lead: @le-siul
 
-**[Space](https://ello.co/ellospace)**
+**[Space](https://ello.co/ellospace)** · Lead: @kanemassey
 
 **[Sports](https://ello.co/ellosport)** · Lead: @jpurvisturton
 
@@ -216,13 +216,13 @@ Have fun on Ello! :sparkles:
 
 **[Street Art](https://ello.co/ellostreet)** · Lead: @bbluesman
 
-**[Surfing](https://ello.co/surfphotography)**  
+**[Surfing](https://ello.co/surfphotography)** · Lead: Mike Healey
 
 **[Tattoos](https://ello.co/ellotattoos)**
 
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
 
-**[Timeless Motors](https://ello.co/timeless_motors)**
+**[Timeless Motors](https://ello.co/timeless_motors)** · Lead: Simón Vigouroux
 
 **[Toronto](https://ello.co/ellotoronto)** · Lead: @titaniummike
 
