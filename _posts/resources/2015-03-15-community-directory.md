@@ -94,7 +94,7 @@ Have fun on Ello! :sparkles:
 
 **[Gifs](https://ello.co/ellogifs)** · Lead: @amber
 
-**[Gifs](http://ello.co/gifs)** · Lead: @ahsheegrek
+**[Gifs](http://ello.co/gifs)** · Lead: @cacheflowe
 
 **[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
 
