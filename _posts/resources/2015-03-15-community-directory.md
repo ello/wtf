@@ -94,6 +94,8 @@ Have fun on Ello! :sparkles:
 
 **[Gifs](https://ello.co/ellogifs)** · Lead: @amber
 
+**[Gifs](http://ello.co/gifs)** · Lead: @ahsheegrek
+
 **[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
 
 **[Graffiti (Mexican)](https://ello.co/mexicobeta)**
@@ -243,5 +245,7 @@ Have fun on Ello! :sparkles:
 **[Writing](https://ello.co/ellowrites)** · Lead: @kseniaanske
 
 **[Yoga](https://ello.co/elloyoga)** · Lead: @chelsea
+
+**[Yoga (Ashtanga)](https://ello.co/ashtangayoga)**
 
 **[Zen](https://ello.co/ellozen)** · Lead: @afurst
