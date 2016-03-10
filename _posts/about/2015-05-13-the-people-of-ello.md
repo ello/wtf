@@ -8,8 +8,8 @@ position: 13
 
 ## Founders
 
-Paul Budnitz, Chief Executive Officer @budnitz
-Todd Berger, Chief Product Officer @todd
+Todd Berger, Chief Executive Officer @todd
+Paul Budnitz, Board Member @budnitz
 Lucian Fohr, Chief Product Officer @lucian
 Justin Gitlin, Director at Mode Set @cacheflowe
 Matthew Kitt, Product Development Lead @mk
