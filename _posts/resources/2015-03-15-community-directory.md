@@ -40,13 +40,9 @@ Have fun on Ello! :sparkles:
 
 **[Board Games](https://ello.co/elloboardgames)** · Lead: @jdarnold
 
-**[Books](https://ello.co/ellobooks)** · Lead: @vivlio
-
 **[Brewing](https://ello.co/ellobrew)** · Lead: @katatonic
 
 **[Bridges](https://ello.co/ellobridges)** · Lead: @anthonystevens
-
-**[Cars](https://ello.co/ellocars)** · Lead: @omni-car
 
 **[Cinematography](https://ello.co/ellocinematography)**
 
@@ -54,13 +50,9 @@ Have fun on Ello! :sparkles:
 
 **[Collaboration](https://ello.co/ellocollaboration)** · Lead: @domtru & @brianmichealjones
 
-**[Cooking](https://ello.co/ellocooking)** · Lead: @floatingkitchen
-
 **[Comics](https://ello.co/comicbuzz)**
 
 **[Computer Games](https://ello.co/ellocomputergames)** · Lead: @jdarnold
-
-**[Dance](https://ello.co/ellodance)** · Lead: @patriciaallison
 
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
 
@@ -77,8 +69,6 @@ Have fun on Ello! :sparkles:
 **[Ethics](https://ello.co/elloethics)** · Lead: @vegabond
 
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
-
-**[Film](https://ello.co/ellofilm)** · Lead: @diogovarelasilva
 
 **[Film Grain](https://ello.co/filmgrain)** · Lead: @perfilyev
 
@@ -108,10 +98,6 @@ Have fun on Ello! :sparkles:
 
 **[Home](https://ello.co/ellohome)** · Lead: 丹野 洋絵
 
-**[Horses](https://ello.co/ellohorsephotography)**
-
-**[Houston](https://ello.co/ellohouston)** · Lead: @rexrazo
-
 **[Illustration](https://ello.co/elloillustrations)** · Lead: @serena-d 
 
 **[Japan](https://ello.co/ellojapan)** · Lead: 丹野 洋絵
@@ -130,8 +116,6 @@ Have fun on Ello! :sparkles:
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
-**[Mediterranean](https://ello.co/mediterranean)** · Lead: @harrymct
-
 **[Minerals](https://ello.co/mineralcase)** · Lead: @sturmmadchen
 
 **[Minimal](https://ello.co/ellominimal)** · Lead: @k_ng_
@@ -149,8 +133,6 @@ Have fun on Ello! :sparkles:
 **[Music (General)](https://ello.co/ellomusic)** · Lead: @adachic
 
 **[Music (Ambient)](https://ello.co/elloambient)** · Lead: @johnkochnorthrup
-
-**[Music (Electronic)](https://ello.co/elloelectronic)** · Lead: @larsbamble
 
 **[Music (Hip Hop)](https://ello.co/ellohiphop)** · Lead: @ricojames
 
@@ -176,6 +158,8 @@ Have fun on Ello! :sparkles:
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
+**[Photography (Leica)](https:/ello.co/ello_leica_sl)** 
+
 **[Photography (Mobile)](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
 
 **[Photography (Nikon)](https://ello.co/ellonikon)** · Lead: @edbuzz
@@ -185,8 +169,6 @@ Have fun on Ello! :sparkles:
 **[Photography (Undersaturated)](https://ello.co/undersaturated)** · Lead: @billbanning
 
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
-
-**[Postal History](https://ello.co/postalhistory)** · Lead: @edbuzz
 
 **[Privacy](https://ello.co/elloprivacy)** · Lead: @mrbinsk
 
