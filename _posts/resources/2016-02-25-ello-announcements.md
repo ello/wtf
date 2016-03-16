@@ -6,6 +6,18 @@ categories: resources
 position: 4
 ---
 
+March 14, 2016
+[Ello announces new Ello x Threadless shirt by @mydeadpony.](https://ello.co/lucian/post/uq3YwiE0tWXdwFzsTXoHtg)
+
+March 11, 2016
+[Ello announces the start of Android development.](https://ello.co/lucian/post/l6SA64W28le1i4j37l7CYg)
+
+March 11, 2016
+[Ello announces IFTTT channel in development.](https://ello.co/lucian/post/W0yaLHNzh3609A9G92sW4g)
+
+March 10, 2016
+[Ello announces iOS 1.7, including multiple photo uploads & more.](https://ello.co/dcdoran/post/i1w8ypvxQt_OJhH87urEjw)
+
 February 15, 2016
 [Ello announces the release of Infinite Ello](https://ello.co/elloblog/post/vzV3GwIcBSvmIlyKKbG-2Q)
 
