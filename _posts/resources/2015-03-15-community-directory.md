@@ -48,7 +48,7 @@ Have fun on Ello! :sparkles:
 
 **[Coffee](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
 
-**[Collaboration](https://ello.co/ellocollaboration)** · Lead: @domtru & brianmichealjones
+**[Collaboration](https://ello.co/ellocollaboration)** · Lead: @domtru & @brianmichaeljones
 
 **[Comics](https://ello.co/comicbuzz)**
 
