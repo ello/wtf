@@ -48,7 +48,7 @@ Have fun on Ello! :sparkles:
 
 **[Coffee](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
 
-**[Collaboration](https://ello.co/ellocollaboration)** · Lead: @domtru & @brianmichealjones
+**[Collaboration](https://ello.co/ellocollaboration)** · Lead: @domtru & brianmichealjones
 
 **[Comics](https://ello.co/comicbuzz)**
 
@@ -76,7 +76,7 @@ Have fun on Ello! :sparkles:
 
 **[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
 
-**[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & @fashionsabi
+**[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & fashionsabi
 
 **[Gardening](https://ello.co/ellogardens)** · Lead: @ethanbodnar
 
@@ -90,7 +90,7 @@ Have fun on Ello! :sparkles:
 
 **[Graffiti (Mexican)](https://ello.co/mexicobeta)**
 
-**[Green](https://ello.co/ellogreen)** · Lead: @andrew--lf
+**[Green](https://ello.co/ellogreen)** · Lead: andrew--lf
 
 **[Guilty Pleasures](https://ello.co/guilty-pleasure)** · Lead: @FreyaMoonlight
 
@@ -102,7 +102,7 @@ Have fun on Ello! :sparkles:
 
 **[Japan](https://ello.co/ellojapan)** · Lead: 丹野 洋絵
 
-**[Kite Surfing](https://ello.co/ellokitesurfers)** · Lead: @oceanromeo
+**[Kite Surfing](https://ello.co/kitesurfers)** · Lead: @oceanromeo
 
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
@@ -111,8 +111,6 @@ Have fun on Ello! :sparkles:
 **[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
 
 **[Manga](https://ello.co/manga)** · Lead: @allcomic_
-
-**[Medical Cannabis](https://ello.co/ellomedicalcannabis)** · Lead: @arsenokoitai
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
@@ -125,8 +123,6 @@ Have fun on Ello! :sparkles:
 **[Montreal](https://ello.co/ellomontreal)** · Lead: @julienlaplanche
 
 **[Motorcycles](https://ello.co/ellomotorcycles)** · Lead: @joycomplex
-
-**[Movies](https://ello.co/ellomovies)** · Lead: @fulltilt
 
 **[Murals](https://ello.co/ellomural)** · Lead: @inkmonstr
 
@@ -158,7 +154,7 @@ Have fun on Ello! :sparkles:
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
-**[Photography (Leica)](https:/ello.co/ello_leica_sl)** 
+**[Photography (Leica)](https://ello.co/ello_leica_sl)** 
 
 **[Photography (Mobile)](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
 
@@ -182,7 +178,7 @@ Have fun on Ello! :sparkles:
 
 **[Self Portraiture](https://ello.co/selfportraiture)** · Lead: @lotuscarroll
 
-**[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax @maccymacx @misosoupland @jamessaretta
+**[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax @maccymacx misosoupland @jamessaretta
 
 **[Sneakers](https://ello.co/ellosneakers)** · Lead: @captnblastoff
 
@@ -222,7 +218,7 @@ Have fun on Ello! :sparkles:
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
-**[Wine](https://ello.co/ellowine)** · Lead: @petramayer
+**[Wine](https://ello.co/ellowine)** · Lead: petramayer
 
 **[Writing](https://ello.co/ellowrites)** · Lead: @kseniaanske
 
