@@ -102,7 +102,7 @@ Have fun on Ello! :sparkles:
 
 **[Japan](https://ello.co/ellojapan)** · Lead: 丹野 洋絵
 
-**[Kite Surfing](https://ello.co/kitesurfers)** · Lead: @oceanromeo
+**[Kite Surfing](https://ello.co/ellokitesurfers)** · Lead: @oceanromeo
 
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
