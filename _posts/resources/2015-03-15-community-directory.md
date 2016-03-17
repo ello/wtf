@@ -76,7 +76,7 @@ Have fun on Ello! :sparkles:
 
 **[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
 
-**[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & fashionsabi
+**[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & <a href="https://ello.co/fashionsabi" rel="nofollow" data-proofer-ignore>@fashionsabi</a>
 
 **[Gardening](https://ello.co/ellogardens)** · Lead: @ethanbodnar
 
@@ -90,7 +90,7 @@ Have fun on Ello! :sparkles:
 
 **[Graffiti (Mexican)](https://ello.co/mexicobeta)**
 
-**[Green](https://ello.co/ellogreen)** · Lead: andrew--lf
+**[Green](https://ello.co/ellogreen)** · Lead: <a href="https://ello.co/andrew--lf" rel="nofollow" data-proofer-ignore>@andrew--lf</a>
 
 **[Guilty Pleasures](https://ello.co/guilty-pleasure)** · Lead: @FreyaMoonlight
 
@@ -178,7 +178,7 @@ Have fun on Ello! :sparkles:
 
 **[Self Portraiture](https://ello.co/selfportraiture)** · Lead: @lotuscarroll
 
-**[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax @maccymacx misosoupland @jamessaretta
+**[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax @maccymacx <a href="https://ello.co/misosoupland" rel="nofollow" data-proofer-ignore>misosoupland</a> @jamessaretta
 
 **[Sneakers](https://ello.co/ellosneakers)** · Lead: @captnblastoff
 
@@ -218,7 +218,7 @@ Have fun on Ello! :sparkles:
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
-**[Wine](https://ello.co/ellowine)** · Lead: petramayer
+**[Wine](https://ello.co/ellowine)** · Lead: <a href="https://ello.co/petramayer" rel="nofollow" data-proofer-ignore>@petramayer</a>
 
 **[Writing](https://ello.co/ellowrites)** · Lead: @kseniaanske
 
