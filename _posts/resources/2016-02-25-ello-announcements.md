@@ -6,6 +6,9 @@ categories: resources
 position: 4
 ---
 
+March 17, 2016
+[Ello founder @lucian announces updated product roadmap](https://ello.co/lucian/post/Sk0lfjztw77ZALxpYcgLzQ)
+
 March 14, 2016
 [Ello announces new Ello x Threadless shirt by @mydeadpony](https://ello.co/lucian/post/uq3YwiE0tWXdwFzsTXoHtg)
 
