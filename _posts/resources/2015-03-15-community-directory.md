@@ -168,6 +168,8 @@ Have fun on Ello! :sparkles:
 
 **[Privacy](https://ello.co/elloprivacy)** · Lead: @mrbinsk
 
+**[Quilting](https://ello.co/elloquilt)** · Lead: @saraokern
+
 **[Quotes](https://ello.co/quotes)** · Lead: @mattlaff
 
 **[Railways](https://ello.co/ellorailways)** · Lead: @edbuzz
