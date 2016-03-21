@@ -224,6 +224,8 @@ Have fun on Ello! :sparkles:
 
 **[Writing](https://ello.co/ellowrites)** · Lead: @kseniaanske
 
+**[Yarn](https://ello.co/elloyarn)** · Lead: @reunionyarn
+
 **[Yoga](https://ello.co/elloyoga)** · Lead: @chelsea
 
 **[Yoga (Ashtanga)](https://ello.co/ashtangayoga)**
