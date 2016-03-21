@@ -154,8 +154,6 @@ Have fun on Ello! :sparkles:
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
-**[Photography (Leica)](https://ello.co/ello_leica_sl)** 
-
 **[Photography (Mobile)](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
 
 **[Photography (Nikon)](https://ello.co/ellonikon)** · Lead: @edbuzz
