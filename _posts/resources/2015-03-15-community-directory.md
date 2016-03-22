@@ -60,6 +60,8 @@ Have fun on Ello! :sparkles:
 
 **[DIY](https://ello.co/ellodiy)** · Lead: @alexi
 
+**[Doll Makers](https://ello.co/ellodollmakers)** · Lead: @libertylavenderdolls
+
 **[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
 
 **[Engineering](https://ello.co/elloengineering)** · Lead: @justjose
@@ -69,6 +71,8 @@ Have fun on Ello! :sparkles:
 **[Ethics](https://ello.co/elloethics)** · Lead: @vegabond
 
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
+
+**[Fiber Arts](https://ello.co/ellofiberarts)** · Lead: @wrenhouseyarns
 
 **[Film Grain](https://ello.co/filmgrain)** · Lead: @perfilyev
 
@@ -103,6 +107,8 @@ Have fun on Ello! :sparkles:
 **[Japan](https://ello.co/ellojapan)** · Lead: 丹野 洋絵
 
 **[Kite Surfing](https://ello.co/ellokitesurfers)** · Lead: @oceanromeo
+
+**[Knitting](https://ello.co/elloknitting)** · Leads: @nobleknits & @eweeweyarns 
 
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
@@ -170,13 +176,15 @@ Have fun on Ello! :sparkles:
 
 **[Quotes](https://ello.co/quotes)** · Lead: @mattlaff
 
-**[Railways](https://ello.co/ellorailways)** · Lead: @edbuzz
+**[Railways](https://ello.co/ellorailways)** · Lead: @kohoso
 
 **[Roller Coasters](https://ello.co/ellocoaster)** · Lead: @mooses
 
 **[Science](https://ello.co/elloscience)** · Lead: @anna
 
 **[Self Portraiture](https://ello.co/selfportraiture)** · Lead: @lotuscarroll
+
+**[Sewing](https://ello.co/ellosew)** · Lead: @needle_ink_and_thread
 
 **[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax @maccymacx <a href="https://ello.co/misosoupland" rel="nofollow" data-proofer-ignore>misosoupland</a> @jamessaretta
 
