@@ -222,8 +222,6 @@ Have fun on Ello! :sparkles:
 
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
 
-**[UK Creatives](https://ello.co/uksub)** · Lead: @zincblack
-
 **[Weather](https://ello.co/elloweather)** · Lead: @kellydelay
 
 **[Weaving](https://ello.co/elloweaving)** · Lead: @aniagrzeszek
