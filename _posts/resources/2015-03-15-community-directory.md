@@ -188,6 +188,8 @@ Have fun on Ello! :sparkles:
 
 **[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax @maccymacx <a href="https://ello.co/misosoupland" rel="nofollow" data-proofer-ignore>misosoupland</a> @jamessaretta
 
+**[Smoothies](https://ello.co/smoothielove)** 
+
 **[Sneakers](https://ello.co/ellosneakers)** · Lead: @captnblastoff
 
 **[Social Justice](https://ello.co/socialjusticecommunity)** · Lead: @myactivism
@@ -223,6 +225,8 @@ Have fun on Ello! :sparkles:
 **[UK Creatives](https://ello.co/uksub)** · Lead: @zincblack
 
 **[Weather](https://ello.co/elloweather)** · Lead: @kellydelay
+
+**[Weaving](https://ello.co/elloweaving)** · Lead: @aniagrzeszek
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
