@@ -54,6 +54,10 @@ Have fun on Ello! :sparkles:
 
 **[Computer Games](https://ello.co/ellocomputergames)** · Lead: @jdarnold
 
+**[Crochet](https://ello.co/ellocrochet)**
+
+**[Crystals](https://ello.co/ellocrystals)** · Lead: @jmckeehen and @amarisland
+
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
 
 **[Dice and Paper](https://ello.co/ello_dice_and_paper)** · Lead: @fuckyouthatsmyname
@@ -150,6 +154,8 @@ Have fun on Ello! :sparkles:
 
 **[Paris](https://ello.co/elloparis)**
 
+**[Patterns](https://ello.co/ellopatterns)** · Lead: @pupapop
+
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
 **[Photography (Amateur)](https://ello.co/amateur_photography)** · Lead: @bisje
@@ -167,6 +173,8 @@ Have fun on Ello! :sparkles:
 **[Photography (Pentax)](https://ello.co/ellopentax)** · Lead: @annemio
 
 **[Photography (Undersaturated)](https://ello.co/undersaturated)** · Lead: @billbanning
+
+**[Pixel Art](https://ello.co/ellopixelart)** · Lead: @thelowestdefinition
 
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
 
