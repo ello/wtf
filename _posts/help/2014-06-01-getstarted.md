@@ -3,7 +3,7 @@ layout: post
 title:  "Get Started"
 date:   2015-10-18 01:23:45 MDT
 categories: help
-position: 1
+position: 2
 ---
 
 ## What’s the Omnibar?
