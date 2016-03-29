@@ -122,7 +122,7 @@ Have fun on Ello! :sparkles:
 
 **[Latino](https://ello.co/ellolatino)** · Lead: @wgmeets
 
-**[Leather](https://ello.co/elloleather)** · Lead: @peartreeleather  
+**[Leather](https://ello.co/elloleather)** 
 
 **[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
 
@@ -227,8 +227,6 @@ Have fun on Ello! :sparkles:
 **[Tattoos](https://ello.co/ellotattoos)**
 
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
-
-**[Textures](https://ello.co/ellotextures)** · Lead: @casualtexture
 
 **[Timeless Motors](https://ello.co/timeless_motors)** · Lead: Simón Vigouroux
 
