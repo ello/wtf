@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Community Directory"
-date:   2016-03-6 01:23:45 MDT
+date:   2016-03-20 01:23:45 MDT
 categories: resources
 position: 2
 ---
@@ -23,6 +23,8 @@ Have fun on Ello! :sparkles:
 ## Community-curated:
 
 **[3D](https://ello.co/ello3d)** · Lead: @momosby
+
+**[Adventure](https://ello.co/elloadventure)** · Lead: @stephfigpope
 
 **[Aircraft](https://ello.co/elloaircraft)**
 
@@ -98,6 +100,8 @@ Have fun on Ello! :sparkles:
 
 **[Graffiti (Mexican)](https://ello.co/mexicobeta)**
 
+**[Graphic Design](https://ello.co/graphicdesign)** · Lead: @benderski
+
 **[Green](https://ello.co/ellogreen)** · Lead: <a href="https://ello.co/andrew--lf" rel="nofollow" data-proofer-ignore>@andrew--lf</a>
 
 **[Guilty Pleasures](https://ello.co/guilty-pleasure)** · Lead: @FreyaMoonlight
@@ -117,6 +121,8 @@ Have fun on Ello! :sparkles:
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
 **[Latino](https://ello.co/ellolatino)** · Lead: @wgmeets
+
+**[Leather](https://ello.co/elloleather)** · Lead: @peartreeleather  
 
 **[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
 
@@ -143,6 +149,8 @@ Have fun on Ello! :sparkles:
 **[Music (Hip Hop)](https://ello.co/ellohiphop)** · Lead: @ricojames
 
 **[Music (Jazz)](https://ello.co/ellojazz)** · Lead: @pete_gitlin
+
+**[Music (Makers)](https://ello.co/ellomusicmakers)**
 
 **[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
 
@@ -214,9 +222,13 @@ Have fun on Ello! :sparkles:
 
 **[Surfing](https://ello.co/surfphotography)** · Lead: Mike Healey
 
+**[Taiwan](https://ello.co/ellotaiwan)**
+
 **[Tattoos](https://ello.co/ellotattoos)**
 
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
+
+**[Textures](https://ello.co/ellotextures)** · Lead: @casualtexture
 
 **[Timeless Motors](https://ello.co/timeless_motors)** · Lead: Simón Vigouroux
 
