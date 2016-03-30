@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Start a Community"
-date:   2015-08-26 01:23:45 MDT
+date:   2016-03-26 01:23:45 MDT
 categories: resources
 position: 3
 ---
@@ -28,13 +28,13 @@ Over months of watching communities grow, we’ve learned some practices that ca
 
 ## What’s an “Ello Featured Community”?
 
-**Exceptional communities that build a substantial following may be asked to become an “Ello Featured Community”. Think “Employee of the Month,” but for communities!**
+**Exceptional communities that build a substantial following may be asked to become an “Ello Featured Community”.**
 
 Ello Featured Communities can show up on the Ello homepage, may be recommended when people create new accounts, or listed in the Ello Community Directory.
 
 Communities that are featured usually:
 
-* Have at least 150 followers
+* Have at least 50 followers
 * Have at least 15 high-quality posts
 * Use large, high-resolution photos
 * Format text for visual appeal
