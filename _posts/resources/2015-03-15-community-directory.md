@@ -72,6 +72,8 @@ Have fun on Ello! :sparkles:
 
 **[Engineering](https://ello.co/elloengineering)** · Lead: @justjose
 
+**[Entrepreneur](https://ello.co/elloentreprenuer)** · Lead: @rumbleandco
+
 **[Equestrian](https://ello.co/elloequestrian)** · Lead: @sophiesoloneventing
 
 **[Ethics](https://ello.co/elloethics)** · Lead: @vegabond
@@ -227,6 +229,8 @@ Have fun on Ello! :sparkles:
 **[Tattoos](https://ello.co/ellotattoos)**
 
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
+
+**[Textures](https://ello.co/ellotextures)**
 
 **[Timeless Motors](https://ello.co/timeless_motors)** · Lead: Simón Vigouroux
 
