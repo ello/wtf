@@ -108,7 +108,7 @@ Have fun on Ello! :sparkles:
 
 **[Guilty Pleasures](https://ello.co/guilty-pleasure)** · Lead: @FreyaMoonlight
 
-**[Hair](https://ello.co/ellohairs)** · Lead: @nats
+**[Hair](https://ello.co/ellohairs)** 
 
 **[History](https://ello.co/oldendaze)** · Lead: @anthonystevens
 
@@ -158,7 +158,7 @@ Have fun on Ello! :sparkles:
 
 **[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
 
-**[NHL (Hockey)](https://ello.co/nhlwraparound)** · Lead: @THEmikebarber
+**[NHL (Hockey)](https://ello.co/nhlwraparound)** 
 
 **[Outside](https://ello.co/ellooutside)** · Lead: @wasimofnazareth
 
