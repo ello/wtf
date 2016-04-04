@@ -108,6 +108,8 @@ Have fun on Ello! :sparkles:
 
 **[Guilty Pleasures](https://ello.co/guilty-pleasure)** · Lead: @FreyaMoonlight
 
+**[Hair](https://ello.co/ellohairs)** · Lead: @nats
+
 **[History](https://ello.co/oldendaze)** · Lead: @anthonystevens
 
 **[Home](https://ello.co/ellohome)** · Lead: 丹野 洋絵
@@ -164,6 +166,8 @@ Have fun on Ello! :sparkles:
 
 **[Paris](https://ello.co/elloparis)**
 
+**[Party Ideas](https://ello.co/partyideas)**
+
 **[Patterns](https://ello.co/ellopatterns)** · Lead: @pupapop
 
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
@@ -212,6 +216,8 @@ Have fun on Ello! :sparkles:
 
 **[Social Justice](https://ello.co/socialjusticecommunity)** · Lead: @myactivism
 
+**[Sock Knitters](https://ello.co/sockknitter)**
+
 **[Sound Design](https://ello.co/sounddesign)** · Lead: @le-siul
 
 **[Space](https://ello.co/ellospace)** · Lead: @kanemassey
@@ -224,7 +230,7 @@ Have fun on Ello! :sparkles:
 
 **[Surfing](https://ello.co/surfphotography)** · Lead: Mike Healey
 
-**[Taiwan](https://ello.co/ellotaiwan)**
+**[Taiwan](https://ello.co/ellotaiwan)** · Lead: @wanghour
 
 **[Tattoos](https://ello.co/ellotattoos)**
 
