@@ -15,9 +15,15 @@ Ello is run by a small team of real people who are very busy building Ello, so w
 **Abusive behavior reports:** [reportabuse@ello.co](mailto:reportabuse@ello.co)
 **Everything else:** [hello@ello.co](mailto:hello@ello.co)  
 
-You can also mention <span>@</span>wtf directly on Ello.
+You can also mention <span>@</span>wtf directly on Ello if you need to reach us.
 
-Follow us on [Twitter](https://twitter.com/elloworld), [Instagram](https://www.instagram.com/ellosphere/), [Pinterest](https://www.pinterest.com/ellosphere/) & [Tumblr](http://ellosphere.tumblr.com/).
+Follow us on:
+* [Twitter](https://twitter.com/elloworld)
+* [Instagram](https://www.instagram.com/ellosphere/)
+* [Pinterest](https://www.pinterest.com/ellosphere/)
+* [Tumblr](http://ellosphere.tumblr.com/)
+* [Facebook](https://www.facebook.com/ellopbc)
+* [Google +](https://plus.google.com/u/1/b/108873324537875489413/108873324537875489413)
 
 ## How do I report abusive behavior?
 
