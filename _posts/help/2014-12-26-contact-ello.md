@@ -23,6 +23,7 @@ Follow us on:
 * [Pinterest](https://www.pinterest.com/ellosphere/)
 * [Facebook](https://www.facebook.com/ellopbc)
 * [Google +](https://plus.google.com/u/1/b/108873324537875489413/108873324537875489413)
+* [Tumblr](http://ellosphere.tumblr.com/)
 
 ## How do I report abusive behavior?
 
