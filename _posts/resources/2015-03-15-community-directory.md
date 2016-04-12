@@ -88,6 +88,8 @@ Have fun on Ello! :sparkles:
 
 **[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
 
+**[Food Photography](https://ello.co/ellofoodphotography)**
+
 **[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & <a href="https://ello.co/fashionsabi" rel="nofollow" data-proofer-ignore>@fashionsabi</a>
 
 **[Gardening](https://ello.co/ellogardens)** · Lead: @ethanbodnar
@@ -166,7 +168,7 @@ Have fun on Ello! :sparkles:
 
 **[Paris](https://ello.co/elloparis)**
 
-**[Party Ideas](https://ello.co/partyideas)**
+**[Party Ideas](https://ello.co/partyideas)** · Lead: @fiestafacil
 
 **[Patterns](https://ello.co/ellopatterns)** · Lead: @pupapop
 
@@ -207,6 +209,8 @@ Have fun on Ello! :sparkles:
 **[Self Portraiture](https://ello.co/selfportraiture)** · Lead: @lotuscarroll
 
 **[Sewing](https://ello.co/ellosew)** · Lead: @needle_ink_and_thread
+
+**[Ships](https://ello.co/elloships)** · Lead: @mattgharvey
 
 **[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax @maccymacx <a href="https://ello.co/misosoupland" rel="nofollow" data-proofer-ignore>misosoupland</a> @jamessaretta
 
