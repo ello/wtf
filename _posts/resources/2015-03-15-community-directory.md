@@ -112,6 +112,8 @@ Have fun on Ello! :sparkles:
 
 **[Hair](https://ello.co/ellohairs)** 
 
+**[Handmade Dolls](https://ello.co/ellohandmadedolls)**
+
 **[History](https://ello.co/oldendaze)** · Lead: @anthonystevens
 
 **[Home](https://ello.co/ellohome)** · Lead: 丹野 洋絵
