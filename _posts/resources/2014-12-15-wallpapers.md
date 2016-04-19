@@ -8,7 +8,7 @@ position: 7
 
 ## For Desktop & Apple Watch
 
-{% image Ello.Apple.Watch.Face.800.jpg %}
+{% image ello.apple.watch.face.800.jpg %}
 
 ## Wallpapers:
 
