@@ -1,10 +1,33 @@
 ---
 layout: post
 title:  "Ello Announcements"
-date:   2016-02-25 01:23:45 MDT
+date:   2016-04-18 01:23:45 MDT
 categories: resources
 position: 4
 ---
+April 15, 2016
+[Ello adds IFTTT how-to video and guide](https://ello.co/dcdoran/post/knrjeno4qeisr8rlw3nbhq)
+
+April 13, 2016
+[Ello founder @lucian announces that the Ello IFTTT channel is live](https://ello.co/lucian/post/dst7majcwi2goiluzm8mcg)
+
+April 7, 2016
+[Ello founder @lucian announces testing of the new Ello beta Android app](https://ello.co/lucian/post/mc6smiqw4sxfqurtgd8l7q)
+
+April 6, 2016
+[Ello announces updates to post search and meta tags](https://ello.co/dcdoran/post/fczedfszrybofwtdbwx2dg)
+
+March 31, 2016
+[Ello founder @lucian announces testing of the new Ello WebApp](https://ello.co/lucian/post/g-nolbyla-5mcvvunqlhuq)
+
+March 25, 2016
+[Ello announces some API updates](https://ello.co/dcdoran/post/cbwm3evfc4kbezcb-hlwaw)
+
+March 24, 2016
+[Ello founder @lucian announces update on WebApp and IFTTT testing](https://ello.co/lucian/post/or42ouiblji95rbkz6a94a)
+
+March 23, 2016
+[Ello announces update on open source efforts](https://ello.co/jayzes/post/mozrsgmco-9qyvw4zl74ca)
 
 March 17, 2016
 [Ello founder @lucian announces updated product roadmap](https://ello.co/lucian/post/Sk0lfjztw77ZALxpYcgLzQ)
