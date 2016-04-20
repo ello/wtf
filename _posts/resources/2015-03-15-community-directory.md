@@ -200,6 +200,8 @@ Have fun on Ello! :sparkles:
 
 **[Privacy](https://ello.co/elloprivacy)** · Lead: @mrbinsk
 
+**[Product Design](https://ello.co/ello_design)**
+
 **[Quilting](https://ello.co/elloquilt)** · Lead: @saraokern
 
 **[Quotes](https://ello.co/quotes)** · Lead: @mattlaff
@@ -253,6 +255,8 @@ Have fun on Ello! :sparkles:
 **[Toys](https://ello.co/ellotoys)** · Lead: @renspacemadness & @libedlulo
 
 **[Travel](https://ello.co/ellotravel)** · Lead: @andreameli
+
+**[Trixel](https://ello.co/trixel_io)**
 
 **[Turkey](https://ello.co/elloturkiye)** · Lead: @mehmetumutmutlu
 
