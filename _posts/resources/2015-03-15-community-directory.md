@@ -56,6 +56,8 @@ Have fun on Ello! :sparkles:
 
 **[Computer Games](https://ello.co/ellocomputergames)** · Lead: @jdarnold
 
+**[Cooking](https://ello.co/ellocooking)** · Lead: @fernando_
+
 **[Crochet](https://ello.co/ellocrochet)**
 
 **[Crystals](https://ello.co/ellocrystals)** · Lead: @jmckeehen and @amarisland
