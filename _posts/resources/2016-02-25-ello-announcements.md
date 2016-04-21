@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Ello Announcements"
-date:   2016-04-18 01:23:45 MDT
+date:   2016-04-20 01:23:45 MDT
 categories: resources
 position: 4
 ---
+April 21, 2016
+[Ello rolls out WebApp to experimental users](https://ello.co/lucian/post/xaymcelfxvx5albdq_odkg)
+
 April 15, 2016
 [Ello adds IFTTT how-to video and guide](https://ello.co/dcdoran/post/knrjeno4qeisr8rlw3nbhq)
 
