@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Ello Announcements"
-date:   2016-04-20 01:23:45 MDT
+date:   2016-04-26 01:23:45 MDT
 categories: resources
 position: 4
 ---
+April 27, 2016
+[WebApp is live!](https://ello.co/lucian/post/f-hnjn0vpifcmfee1krpia)
+
 April 21, 2016
 [Ello rolls out WebApp to experimental users](https://ello.co/lucian/post/xaymcelfxvx5albdq_odkg)
 
