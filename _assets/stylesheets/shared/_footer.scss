@@ -46,6 +46,17 @@ footer.bottom {
             font-family: $groteskRegular;
             font-weight: 400;
           }
+          span {
+            &.icon {
+              padding-top: 0rem;
+              margin-right: 16px;
+              svg {
+                width: 16px;
+                height: 16px;
+              }
+            }
+          }
+          // social icons
           &.ello {
             padding-bottom: 0.05rem;
             span {
@@ -90,6 +101,46 @@ footer.bottom {
               }
             }
           }
+          &.tumblr,
+          &.instagram,
+          &.pinterest,
+          &.facebook,
+          &.gplus {
+            padding-bottom: 0.25rem;
+            span {
+              &.icon {
+                padding-top: 0rem;
+                margin-right: 15px;
+                svg {
+                  width: 18px;
+                  height: 16px;
+
+                  path {
+                    @include transition_fill(150ms);
+                    fill: $grey3;
+                  }
+                }
+              }
+            }
+          }
+          &.gplus {
+            span {
+              &.icon {
+                margin-right: 10px;
+                svg {
+                  width: 22px;
+                  height: 16px;
+
+                  path,
+                  polygon {
+                    @include transition_fill(150ms);
+                    fill: $grey3;
+                  }
+                }
+              }
+            }
+          }
+          // other icons
           &.threadless {
             padding-bottom: 0.25rem;
             span {
@@ -160,7 +211,8 @@ footer.bottom {
                 svg {
                   path,
                   rect,
-                  ellipse {
+                  ellipse,
+                  polygon {
                     fill: $black;
                     &.stroke {
                       fill: none;
@@ -200,7 +252,7 @@ footer.bottom {
   footer.bottom {
     padding-top: 10px;
     padding-bottom: 0;
-    height: ($smallColumn_px * 2.5) + 15px; // part of the hack to push footer down
+    height: ($smallColumn_px * 2.5) + 105px; // part of the hack to push footer down
     max-width: 100%;
     nav {
       width: 100%;
@@ -213,6 +265,71 @@ footer.bottom {
         }
         li {
           margin-bottom: 0.25rem;
+        }
+
+        &.social {
+          position: absolute;
+          bottom: -26px;
+          width: 100%;
+
+          li {
+            margin: 0;
+            padding: 0;
+            width: 20px;
+            float: left;
+
+            &:last-child {
+              margin-right: 0;
+            }
+            span {
+              &.label {
+                display: none;
+              }
+              &.icon {
+                margin: 0;
+                padding: 0;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@media only screen and (min-width : 414px) and (max-width : 719px) {
+  footer.bottom {
+    nav {
+      ul {
+        &.social {
+          li {
+            margin-right: 10.65%;
+          }
+        }
+      }
+    }
+  }
+}
+@media only screen and (min-width : 375px) and (max-width : 413px) {
+  footer.bottom {
+    nav {
+      ul {
+        &.social {
+          li {
+            margin-right: 10%;
+          }
+        }
+      }
+    }
+  }
+}
+@media only screen and (min-width : 1px) and (max-width : 374px) {
+  footer.bottom {
+    nav {
+      ul {
+        &.social {
+          li {
+            margin-right: 8.75%;
+          }
         }
       }
     }
