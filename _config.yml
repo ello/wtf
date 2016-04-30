@@ -27,11 +27,11 @@ segment_write_key: abcdef # overridden by the SEGMENT_WRITE_KEY environment vari
 # social media
 ello_username: ello
 twitter_username: elloworld
-tumblr_username: ello-co
-instagram_username: elloworld
-pinterest_username: 
-facebook_username: ourello
-gplus_url: https://plus.google.com/communities/109230941761559314153
+tumblr_username: ellosphere
+instagram_username: ellosphere
+pinterest_username: ellosphere
+facebook_username: ellopbc
+gplus_url: https://plus.google.com/u/0/108873324537875489413
 # other footer links
 community_directory_link: "/wtf/resources/community-directory/"
 ios_app_store_link: "http://appstore.com/ello/ello"
