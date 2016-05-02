@@ -130,6 +130,8 @@ Have fun on Ello! :sparkles:
 
 **[Knitting](https://ello.co/elloknitting)** · Leads: @nobleknits & @eweeweyarns 
 
+**[Landscape](https://ello.co/ellolandscape)** · Lead: @andrew_marr
+
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
 **[Latino](https://ello.co/ellolatino)** · Lead: @wgmeets
