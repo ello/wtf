@@ -112,6 +112,8 @@ Have fun on Ello! :sparkles:
 
 **[Guilty Pleasures](https://ello.co/guilty-pleasure)** · Lead: @FreyaMoonlight
 
+**[Haiku](https://ello.co/ellohaiku)** · Lead: @kashyapi
+
 **[Hair](https://ello.co/ellohairs)** 
 
 **[Handmade Dolls](https://ello.co/ellohandmadedolls)**
@@ -137,6 +139,8 @@ Have fun on Ello! :sparkles:
 **[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
 
 **[Manga](https://ello.co/manga)** · Lead: @allcomic_
+
+**[Medical Cannabis](https://ello.co/ellomedicalcannabis) · Lead: @arsenokoitai
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
@@ -165,6 +169,8 @@ Have fun on Ello! :sparkles:
 **[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
 
 **[NHL (Hockey)](https://ello.co/nhlwraparound)** 
+
+**[NYC](https://ello.co/ellonyc)**
 
 **[Outside](https://ello.co/ellooutside)** · Lead: @wasimofnazareth
 
@@ -261,6 +267,8 @@ Have fun on Ello! :sparkles:
 **[Turkey](https://ello.co/elloturkiye)** · Lead: @mehmetumutmutlu
 
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
+
+**[Vintage](https://ello.co/ellovintage)** · Lead: @mark1
 
 **[Weather](https://ello.co/elloweather)** · Lead: @kellydelay
 
