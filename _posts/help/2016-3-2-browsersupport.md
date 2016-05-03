@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Browser & Device Support"
+title:  "Browser Support"
 date:   2016-5-2 01:23:45 MDT
 categories: help
 position: 15
