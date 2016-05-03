@@ -33,7 +33,7 @@
       {% endif %}
     </ul>
 
-    <ul>
+    <ul class="social">
       {% if site.ello_username %}
         <li>
           <a href="{{ site.webapp_url }}/{{ site.ello_username }}" class="social ello clear">
@@ -48,9 +48,59 @@
         <li>
           <a href="https://twitter.com/{{ site.twitter_username }}" class="social twitter" target="_blank">
             <span class="icon">
-              {% include svg/twitter_icon.svg %}
+              {% include svg/social/twitter_icon.svg %}
             </span>
             <span class="label">Follow us on Twitter</span>
+          </a>
+        </li>
+      {% endif %}
+      {% if site.tumblr_username %}
+        <li>
+          <a href="https://{{ site.tumblr_username }}.tumblr.com" class="social tumblr" target="_blank">
+            <span class="icon">
+              {% include svg/social/tumblr_icon.svg %}
+            </span>
+            <span class="label">Follow us on Tumblr</span>
+          </a>
+        </li>
+      {% endif %}
+      {% if site.instagram_username %}
+        <li>
+          <a href="https://instagram.com/{{ site.instagram_username }}" class="social instagram" target="_blank">
+            <span class="icon">
+              {% include svg/social/instagram_icon.svg %}
+            </span>
+            <span class="label">Follow us on Instagram</span>
+          </a>
+        </li>
+      {% endif %}
+      {% if site.pinterest_username %}
+        <li>
+          <a href="https://pinterest.com/{{ site.pinterest_username }}" class="social pinterest" target="_blank">
+            <span class="icon">
+              {% include svg/social/pinterest_icon.svg %}
+            </span>
+            <span class="label">Follow us on Pinterest</span>
+          </a>
+        </li>
+      {% endif %}
+      {% if site.facebook_username %}
+        <li>
+          <a href="https://facebook.com/{{ site.facebook_username }}" class="social facebook" target="_blank">
+            <span class="icon">
+              {% include svg/social/facebook_icon.svg %}
+            </span>
+            <span class="label">Follow us on Facebook</span>
+          </a>
+        </li>
+      {% endif %}
+      {% if site.gplus_url %}
+        <li>
+          <a href="{{ site.gplus_url }}" class="social gplus" target="_blank">
+            <span class="icon">
+              {% include svg/social/gplus_icon.svg %}
+            </span>
+            <span class="label">Follow us on Google+</span>
           </a>
         </li>
       {% endif %}
