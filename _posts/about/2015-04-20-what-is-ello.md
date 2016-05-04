@@ -7,23 +7,20 @@ categories: about
 position: 1
 ---
 
-Ello is a safe and positive community where people everywhere discover, connect, and share inspiration through imagery and text. On Ello you’ll see things you can’t find anywhere else.
 
-This is a place where creativity triumphs over conformity, and success is measured in ideas shared, not ads served. A place where inspiration is a tool for empowerment — not a place to deceive, coerce, or manipulate, but a place to connect, create, and celebrate life.
+##Ello is the Creators Network
+Ello is designed by creators, for creators. We are a robust and growing community of artists, designers, illustrators, photographers, architects, GIF makers - creators. We understand that our process, practice, values and passions can move the world forward in a better direction.
 
-**Explore and post differently.**
+##You are the producer - Not the product.
+Unlike the status quo advertising platforms that masquerade as social networks, Ello is not in business to harvest as much of your personal data and sell you as many ads as possible. 
 
-Ello’s mission is to transform the way creative people connect by fueling a worldwide movement based on beauty, positivity, and transparency.
+As a [Public Benefit Corporation](https://ello.co/wtf/about/pbc/), Ello has a legal mandate to never sell ads or personal data to third parties. All streams are chronological. There are no boosted posts, and no manipulative algorithms.
 
-Feed your imagination through art, design, photography, GIFs, animation, video, storytelling, and more. Be inspired by artists, designers, DJ’s, adventurers, chefs, creative coders, futurists, cartoonists, writers, minimalists, car lovers, and mushroom hunters from around the world.
+We believe your content and following are yours. We won’t throttle your stream or nickel and dime you to reach your following.
 
-**Ello will never sell ads.**
+##Supporting creators since 2014
+Welcome to the future and realize the promise of the Internet! Ello is building a sustainable business model that focuses first on how we support the creators, amplify their work and put money in their pockets. Our revenue opportunities will be revenue opportunities for the creators fueling the Ello community.
 
-Ello is an alternative to mainstream networks that manipulate what we see and try to control what we think. Networks that sell our data to the highest bidder violate our trust, and we feel unsafe to share the things we love.
-
-As a [Benefit Corporation](https://ello.co/wtf/about/pbc/), Ello has a legal mandate to never sell ads or personal data to third parties. All streams are chronological. There are no boosted posts, and no manipulative algorithms.
-
-Control what you see and share the things you love.
 
 <br><br>
 
@@ -42,7 +39,6 @@ Control what you see and share the things you love.
 [@elloblog](https://ello.co/elloblog)
 
 [Best of @ello](https://ello.co/ello)
-
 
 
 More questions? Check out [Ello WTF](https://ello.co/wtf/).
