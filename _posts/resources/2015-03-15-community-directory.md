@@ -266,8 +266,6 @@ Have fun on Ello! :sparkles:
 
 **[Trixel](https://ello.co/trixel_io)**
 
-**[Turkey](https://ello.co/elloturkiye)** · Lead: @mehmetumutmutlu
-
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
 
 **[Vintage](https://ello.co/ellovintage)** · Lead: @mark1
