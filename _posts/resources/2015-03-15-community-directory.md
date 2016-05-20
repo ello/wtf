@@ -170,6 +170,8 @@ Have fun on Ello! :sparkles:
 
 **[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
 
+**[New Zealand](https://ello.co/ellonz)**
+
 **[NHL (Hockey)](https://ello.co/nhlwraparound)** 
 
 **[NYC](https://ello.co/ellonyc)**
@@ -203,6 +205,8 @@ Have fun on Ello! :sparkles:
 **[Photography (Undersaturated)](https://ello.co/undersaturated)** · Lead: @billbanning
 
 **[Pixel Art](https://ello.co/ellopixelart)** · Lead: @thelowestdefinition
+
+**[Poems](https://ello.co/apoem_4u)** 
 
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
 
