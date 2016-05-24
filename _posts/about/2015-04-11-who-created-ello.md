@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ello Founders"
-date:   2015-12-22 10:43:18 MST
+date:   2016-05-23 10:43:18 MST
 categories: about
 position: 3
 ---
