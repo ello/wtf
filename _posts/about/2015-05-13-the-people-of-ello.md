@@ -6,30 +6,25 @@ categories: about
 position: 13
 ---
 
-## Founders
+## Ello Team
 
-Todd Berger, Chief Executive Officer @todd
-Paul Budnitz, Board Member @budnitz
-Lucian Fohr, Chief Product Officer @lucian
-Justin Gitlin, Director at Mode Set @cacheflowe
-Matthew Kitt, Product Development Lead @mk
-Gabe Varela, Director at Mode Set @gv
-Jay Zeschin, Chief Architect @jayzes
-
-## Staff
-
+Todd Berger, Co-founder & Chief Executive Officer @todd
 Ryan Boyajian, Lead Developer @666
 Casey Doran, Director of Product @dcdoran
-Sean Dougherty, VP of Engineering @sean
+Sean Dougherty, Mobile Lead @sean
+Lucian Fohr, Co-founder & Chief Product Officer @lucian
+Mark Gelband, Chief Marketing Officer @markgelband
 Colin Gray, Senior iOS Engineer @colinta
 Justin Holmes, Junior Full Stack Engineer @holmezi
-Chelsea Kantola, Community Coordinator @chelsea
-Brittany LaValley, Assistant and General Manager @be13
+Chelsea Kantola, Community Manager @chelsea
+Matthew Kitt, Co-founder & Product Development Lead Lead @mk
+Ken Lee, Office Manager 
 Alan Peabody, Engineering Consultant @alanpeabody
-Pete Sheinbaum, Chief Operating Officer @sheinbaum
-Alexi Ueltzen, Community Evangelist @alexi
+Pete Sheinbaum, Chief Financial Officer @sheinbaum
+Alexi Ueltzen, Social Media Manager @alexi
 Michael Westbom, Engineering Consultant @totallymike
-Amber Young, Community Coordinator @amber
+Amber Young, Community Manager @amber
+Jay Zeschin, Co-founder & Chief Technology Officer @jayzes
 
 ## Dogs
 
