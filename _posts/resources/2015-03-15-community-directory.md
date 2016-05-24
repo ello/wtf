@@ -136,13 +136,15 @@ Have fun on Ello! :sparkles:
 
 **[Latino](https://ello.co/ellolatino)** · Lead: @wgmeets
 
+**[Law](https://ello.co/ellolaw)**
+
 **[Leather](https://ello.co/elloleather)** 
 
 **[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
 
 **[Manga](https://ello.co/manga)** · Lead: @allcomic_
 
-**[Medical Cannabis](https://ello.co/ellomedicalcannabis) · Lead: @arsenokoitai
+**[Medical Cannabis](https://ello.co/ellomedicalcannabis)** · Lead: @arsenokoitai
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
