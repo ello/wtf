@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The People of Ello"
-date:   2015-08-18 10:23:45 MDT
+date:   2016-05-23 10:23:45 MDT
 categories: about
 position: 13
 ---
@@ -17,7 +17,7 @@ Mark Gelband, Chief Marketing Officer @markgelband
 Colin Gray, Senior iOS Engineer @colinta
 Justin Holmes, Junior Full Stack Engineer @holmezi
 Chelsea Kantola, Community Manager @chelsea
-Matthew Kitt, Co-founder & Product Development Lead Lead @mk
+Matthew Kitt, Co-founder & Product Development Lead @mk
 Ken Lee, Office Manager 
 Alan Peabody, Engineering Consultant @alanpeabody
 Pete Sheinbaum, Chief Financial Officer @sheinbaum
