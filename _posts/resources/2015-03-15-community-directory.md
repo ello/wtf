@@ -46,6 +46,8 @@ Have fun on Ello! :sparkles:
 
 **[Bridges](https://ello.co/ellobridges)** · Lead: @anthonystevens
 
+**[Campers](https://ello.co/ellocampers)** · Lead: @fedoracat
+
 **[Cinematography](https://ello.co/ellocinematography)**
 
 **[Coffee](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
@@ -176,6 +178,8 @@ Have fun on Ello! :sparkles:
 
 **[NHL (Hockey)](https://ello.co/nhlwraparound)** 
 
+**[Nurses](https://ello.co/ellonurses)** 
+
 **[NYC](https://ello.co/ellonyc)**
 
 **[Outside](https://ello.co/ellooutside)** · Lead: @wasimofnazareth
@@ -254,7 +258,11 @@ Have fun on Ello! :sparkles:
 
 **[Surfing](https://ello.co/surfphotography)** · Lead: Mike Healey
 
+**[Tainan](https://ello.co/ellotainan)** · Lead:@kyoipuchi
+
 **[Taiwan](https://ello.co/ellotaiwan)** · Lead: @wanghour
+
+**[Tapes and Vinyl](https://ello.co/ellotapesandvinyl)** · Lead: @chuckpee
 
 **[Tattoos](https://ello.co/ellotattoos)**
 
