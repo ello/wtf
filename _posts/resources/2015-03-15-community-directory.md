@@ -48,6 +48,8 @@ Have fun on Ello! :sparkles:
 
 **[Campers](https://ello.co/ellocampers)** · Lead: @fedoracat
 
+**[Canada](https://ello.co/ohcanada)** · Lead: @justinomagalona 
+
 **[Cinematography](https://ello.co/ellocinematography)**
 
 **[Coffee](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
