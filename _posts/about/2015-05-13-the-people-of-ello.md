@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The People of Ello"
-date:   2016-05-23 10:23:45 MDT
+date:   2016-05-27 10:23:45 MDT
 categories: about
 position: 13
 ---
@@ -25,9 +25,3 @@ Alexi Ueltzen, Social Media Manager @alexi
 Michael Westbom, Engineering Consultant @totallymike
 Amber Young, Community Manager @amber
 Jay Zeschin, Co-founder & Chief Technology Officer @jayzes
-
-## Dogs
-
-Potus [@awww_potus](https://ello.co/awww_potus)
-Mr. Peanut @mrpeanut
-Mochi @mochi
