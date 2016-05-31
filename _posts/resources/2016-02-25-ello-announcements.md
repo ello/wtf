@@ -5,6 +5,9 @@ date:   2016-04-26 01:23:45 MDT
 categories: resources
 position: 4
 ---
+May 31, 2016
+[Closed Android Beta testing is now available](https://ello.co/lucian/post/hstoxfx2ehpv9mp_sxqmtw)
+
 April 27, 2016
 [WebApp is live!](https://ello.co/lucian/post/f-hnjn0vpifcmfee1krpia)
 
