@@ -30,7 +30,7 @@ Have fun on Ello! :sparkles:
 
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
-**[Australia](https://ello.co/elloaustralia)** · Lead: @hughmcintyre
+**[Australia](https://ello.co/elloaustralia)** · Lead: @garylight
 
 **[Art](https://ello.co/elloart)** · Lead: @carlosbob
 
