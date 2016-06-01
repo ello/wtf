@@ -8,6 +8,9 @@ position: 4
 May 31, 2016
 [Closed Android Beta testing now available](https://ello.co/lucian/post/hstoxfx2ehpv9mp_sxqmtw)
 
+May 19, 2016
+[Newly designed email notifications](https://ello.co/lucian/post/rawcjskl0rugcz9gksltxa)
+
 April 27, 2016
 [WebApp is live!](https://ello.co/lucian/post/f-hnjn0vpifcmfee1krpia)
 
