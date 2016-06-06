@@ -26,6 +26,8 @@ Have fun on Ello! :sparkles:
 
 **[Adventure](https://ello.co/elloadventure)** · Lead: @stephfigpope
 
+**[Aerial](https://ello.co/elloaerial)** · Lead: @christianmcld
+
 **[Aircraft](https://ello.co/elloaircraft)**
 
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
