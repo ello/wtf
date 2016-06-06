@@ -280,8 +280,6 @@ Have fun on Ello! :sparkles:
 
 **[Textures](https://ello.co/ellotextures)**
 
-**[Timeless Motors](https://ello.co/timeless_motors)** · Lead: Simón Vigouroux
-
 **[Toronto](https://ello.co/ellotoronto)** · Lead: @titaniummike
 
 **[Toys](https://ello.co/ellotoys)** · Lead: @renspacemadness & @libedlulo
