@@ -27,15 +27,15 @@ Below is a guide to Ello Markdown.
 
 ## Making text Bold and Italic
 
-Surround the text you want to format using asterix (*) symbols.
+Surround the text you want to format using asterisk (*) symbols.
 
-To create italics, use a single asterix on either side of a block of text, like this:
+To create italics, use a single asterisk on either side of a block of text, like this:
 
 `*This text will be italic*`
 
 *This text will be italic.*
 
-Surrounding text by two asterix makes text bold:
+Surrounding text by two asterisks makes text bold:
 
 `**This text will be bold**`
 
@@ -57,7 +57,7 @@ Put a double ~ symbol on either side of the text you want to strikethrough. For 
 
 ## Bulleted Lists
 
-Make a bulleted list by preceding list items with a single asterix (*). Note that you need a space between the asterix and the text.
+Make a bulleted list by preceding list items with a single asterisk (*). Note that you need a space between the asterisk and the text.
 
 * Clean Shaven
 * Bearded
