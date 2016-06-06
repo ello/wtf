@@ -88,9 +88,11 @@ Have fun on Ello! :sparkles:
 
 **[Fiber Arts](https://ello.co/ellofiberarts)** · Lead: @wrenhouseyarns
 
-**[Film Grain](https://ello.co/filmgrain)** · Lead: @perfilyev
+**[Film (Experimental)](https://ello.co/experimental_film)**
 
-**[Film Making](https://ello.co/ellofilmmaking)** · Lead: @artifactfilmco
+**[Film (Grain)](https://ello.co/filmgrain)** · Lead: @perfilyev
+
+**[Film (Making)](https://ello.co/ellofilmmaking)** · Lead: @artifactfilmco
 
 **[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
 
@@ -193,6 +195,8 @@ Have fun on Ello! :sparkles:
 **[Party Ideas](https://ello.co/partyideas)** · Lead: @fiestafacil
 
 **[Patterns](https://ello.co/ellopatterns)** · Lead: @pupapop
+
+**[Permaculture](https://ello.co/permaculture)**
 
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
