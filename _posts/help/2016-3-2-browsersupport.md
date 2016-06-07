@@ -3,7 +3,7 @@ layout: post
 title:  "Browsers & Devices"
 date:   2016-5-2 01:23:45 MDT
 categories: help
-position: 15
+position: 3
 ---
 
 Ello exists at the nexus of art, design and technology. We are dedicated to deploying leading edge technology and supporting our creative community. Our small team works hard to ensure that you can access your Ello account using a wide range of devices and operating systems.
