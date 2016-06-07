@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The People of Ello"
-date:   2016-05-27 10:23:45 MDT
+date:   2016-06-6 10:23:45 MDT
 categories: about
 position: 13
 ---
