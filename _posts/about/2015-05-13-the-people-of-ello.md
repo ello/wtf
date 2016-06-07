@@ -21,6 +21,7 @@ Matthew Kitt, Co-founder & Product Development Lead @mk
 Ken Lee, Office Manager 
 Alan Peabody, Engineering Consultant @alanpeabody
 Pete Sheinbaum, Chief Financial Officer @sheinbaum
+Mayah Taylor, Social Media/Community Intern @mayah
 Alexi Ueltzen, Social Media Manager @alexi
 Michael Westbom, Engineering Consultant @totallymike
 Amber Young, Community Manager @amber
