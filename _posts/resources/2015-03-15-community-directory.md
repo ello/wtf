@@ -40,6 +40,8 @@ Have fun on Ello! :sparkles:
 
 **[Bikes](https://ello.co/bikelove)** · Lead: @kansascity
 
+**[Bike Type](https://ello.co/biketype)** · Lead: @jonashoffmann 
+
 **[Black Lives Matter](https://ello.co/blacklivesmatter)** · Lead: @myactivism
 
 **[Board Games](https://ello.co/elloboardgames)** · Lead: @jdarnold
@@ -87,6 +89,8 @@ Have fun on Ello! :sparkles:
 **[Ethics](https://ello.co/elloethics)** · Lead: @vegabond
 
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
+
+**[Fashion Photography](https://ello.co/ellofashionphotography)**
 
 **[Fiber Arts](https://ello.co/ellofiberarts)** · Lead: @wrenhouseyarns
 
@@ -238,7 +242,9 @@ Have fun on Ello! :sparkles:
 
 **[Roller Coasters](https://ello.co/ellocoaster)** · Lead: @mooses
 
-**[Science](https://ello.co/elloscience)** · Lead: @anna
+**[Science](https://ello.co/elloscience)** · Lead: @holmezi 
+
+**[Scotland](https://ello.co/elloscotland)** · Lead: @alexlamond
 
 **[Self Portraiture](https://ello.co/selfportraiture)** · Lead: @lotuscarroll
 
