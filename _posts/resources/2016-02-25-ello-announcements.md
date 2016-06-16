@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Ello Announcements"
-date:   2016-05-30 01:23:45 MDT
+date:   2016-06-15 01:23:45 MDT
 categories: resources
 position: 4
 ---
+June 16, 2016
+[Android app progress update](https://ello.co/lucian/post/gv3t6ufjrbjxsamj9cezzg)
+
 May 31, 2016
 [Closed Android Beta testing now available](https://ello.co/lucian/post/hstoxfx2ehpv9mp_sxqmtw)
 
