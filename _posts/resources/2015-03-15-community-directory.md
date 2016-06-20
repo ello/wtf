@@ -66,6 +66,8 @@ Have fun on Ello! :sparkles:
 
 **[Cooking](https://ello.co/ellocooking)** · Lead: @fernando_
 
+**[Creative](https://ello.co/ellocreative)**
+
 **[Crochet](https://ello.co/ellocrochet)**
 
 **[Crystals](https://ello.co/ellocrystals)** · Lead: @jmckeehen and @amarisland
@@ -113,6 +115,8 @@ Have fun on Ello! :sparkles:
 **[Gifs](https://ello.co/ellogifs)** · Lead: @amber
 
 **[Gifs](http://ello.co/gifs)** · Lead: @cacheflowe
+
+**[Glitch Art](https://ello.co/elloglitchart)** · Lead: @iamtiel
 
 **[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
 
@@ -211,6 +215,8 @@ Have fun on Ello! :sparkles:
 **[Photography (Black & White)](https://ello.co/black-and-white-photography)** · Lead: @pmlynch
 
 **[Photography (Canon)](https://ello.co/ellocanon)**
+
+**[Photography (Fujifilm)](https://ello.co/ellofujifilm)** · Lead: @thelightandlens
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
