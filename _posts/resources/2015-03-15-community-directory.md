@@ -134,6 +134,8 @@ Have fun on Ello! :sparkles:
 
 **[Handmade Dolls](https://ello.co/ellohandmadedolls)**
 
+**[Hipster](https://ello.co/ellohipster)**
+
 **[History](https://ello.co/oldendaze)** · Lead: @anthonystevens
 
 **[Home](https://ello.co/ellohome)** · Lead: 丹野 洋絵
