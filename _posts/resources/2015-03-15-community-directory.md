@@ -156,7 +156,11 @@ Have fun on Ello! :sparkles:
 
 **[Law](https://ello.co/ellolaw)**
 
+**[Law Students](https://ello.co/lawpith)**
+
 **[Leather](https://ello.co/elloleather)** 
+
+**[Limited Edition Art](https://ello.co/artle)** · Lead: @PMLynch
 
 **[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
 
@@ -187,6 +191,8 @@ Have fun on Ello! :sparkles:
 **[Music (Jazz)](https://ello.co/ellojazz)** · Lead: @pete_gitlin
 
 **[Music (Makers)](https://ello.co/ellomusicmakers)**
+
+**[Nature Photography](https://ello.co/nature_photography)**
 
 **[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
 
@@ -293,6 +299,8 @@ Have fun on Ello! :sparkles:
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
 
 **[Textures](https://ello.co/ellotextures)**
+
+**[Tokyo](https://ello.co/ello_tokyo)**
 
 **[Toronto](https://ello.co/ellotoronto)** · Lead: @titaniummike
 
