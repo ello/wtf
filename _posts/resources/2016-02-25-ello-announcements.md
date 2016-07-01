@@ -5,11 +5,14 @@ date:   2016-06-15 01:23:45 MDT
 categories: resources
 position: 4
 ---
+July 1, 2016
+[Android beta app release!](https://ello.co/lucian/post/2zibhb54rm0eruhorkqefg)
+
 June 16, 2016
-[Android app progress update](https://ello.co/lucian/post/gv3t6ufjrbjxsamj9cezzg)
+[Android beta app progress update](https://ello.co/lucian/post/gv3t6ufjrbjxsamj9cezzg)
 
 May 31, 2016
-[Closed Android Beta testing now available](https://ello.co/lucian/post/hstoxfx2ehpv9mp_sxqmtw)
+[Closed Android beta testing now available](https://ello.co/lucian/post/hstoxfx2ehpv9mp_sxqmtw)
 
 May 19, 2016
 [Newly designed email notifications](https://ello.co/lucian/post/rawcjskl0rugcz9gksltxa)
