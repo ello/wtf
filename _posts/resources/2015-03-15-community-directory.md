@@ -192,7 +192,7 @@ Have fun on Ello! :sparkles:
 
 **[Music (Makers)](https://ello.co/ellomusicmakers)**
 
-**[Nature Photography](https://ello.co/nature_photography)** · Lead: rafikphoto
+**[Nature Photography](https://ello.co/nature_photography)** · Lead: @rafikphoto
 
 **[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
 
