@@ -5,8 +5,11 @@ date:   2016-06-15 01:23:45 MDT
 categories: resources
 position: 4
 ---
+July 7, 2016
+[Ello beta Android app is now available to the public!](https://ello.co/lucian/post/wucpudolfsnjzst0sdyvbq)
+
 July 1, 2016
-[Android beta app release!](https://ello.co/lucian/post/2zibhb54rm0eruhorkqefg)
+[Android beta app release](https://ello.co/lucian/post/2zibhb54rm0eruhorkqefg)
 
 June 16, 2016
 [Android beta app progress update](https://ello.co/lucian/post/gv3t6ufjrbjxsamj9cezzg)
