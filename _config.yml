@@ -35,6 +35,7 @@ gplus_url: https://plus.google.com/u/0/108873324537875489413
 # other footer links
 community_directory_link: "/wtf/resources/community-directory/"
 ios_app_store_link: "http://appstore.com/ello/ello"
+android_app_store_link: "https://play.google.com/store/apps/details?id=co.ello.ElloApp"
 threadless_store_link: "http://ello.threadless.com/"
 
 footer_links: # Ello links should ommit the 'http://ello.co' and start with a slash (i.e. http://ello.co/wtf/resources/community-directory/ --> /wtf/resources/community-directory/)

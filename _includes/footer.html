@@ -21,6 +21,17 @@
           </a>
         </li>
       {% endif %}
+            {% endif %}
+      {% if site.android_app_store_link %}
+        <li>
+          <a href="{{ site.android_app_store_link }}" class="social ios_app" target="_blank">
+            <span class="icon">
+              {% include svg/ios_app_icon.svg %}
+            </span>
+            <span class="label">Get the Android App</span>
+          </a>
+        </li>
+      {% endif %}
       {% if site.threadless_store_link %}
         <li>
           <a href="{{ site.threadless_store_link }}" class="social threadless" target="_blank">
