@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FeaturedUsers"
+title:  "Featured Members & Categories"
 date:   2016-07-6 04:23:18 MDT
 categories: help
 position: 12
