@@ -90,7 +90,11 @@ Have fun on Ello! :sparkles:
 
 **[Ethics](https://ello.co/elloethics)** · Lead: @vegabond
 
+**[Fantasy Art](https://ello.co/ellofantasyartandphotography)** 
+
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
+
+**[Fashion Illustration](https://ello.co/ellofashionillustration)** 
 
 **[Fashion Photography](https://ello.co/ellofashionphotography)**
 
@@ -105,6 +109,8 @@ Have fun on Ello! :sparkles:
 **[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
 
 **[Food Photography](https://ello.co/ellofoodphotography)**
+
+**[Foraging](https://ello.co/elloforaging)** 
 
 **[Future](https://ello.co/ellofuture)** · Lead: @lydiacaldana & <a href="https://ello.co/fashionsabi" rel="nofollow" data-proofer-ignore>@fashionsabi</a>
 
@@ -311,6 +317,8 @@ Have fun on Ello! :sparkles:
 **[Trixel](https://ello.co/trixel_io)**
 
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
+
+**[VFX](https://ello.co/ellovfx)** · Lead: @williamvfx
 
 **[Vintage](https://ello.co/ellovintage)** · Lead: @mark1
 
