@@ -5,6 +5,9 @@ date:   2016-06-15 01:23:45 MDT
 categories: resources
 position: 4
 ---
+July 8, 2016
+[New discovery experience on Ello](https://ello.co/lucian/post/d4cvje3u33dxbiudd3ja3g) 
+
 July 7, 2016
 [Ello beta Android app is now available to the public!](https://ello.co/lucian/post/wucpudolfsnjzst0sdyvbq)
 
