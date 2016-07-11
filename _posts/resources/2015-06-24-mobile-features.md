@@ -3,7 +3,7 @@ layout: post
 title: "Ello Mobile Apps"
 date: 2016-07-6 01:23:45 MDT
 categories: resources
-position: 6
+position: 1
 ---
 
 Download the Ello [iOS app.](https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fello%2fello)    
