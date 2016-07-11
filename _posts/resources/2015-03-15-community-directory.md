@@ -42,8 +42,6 @@ Have fun on Ello! :sparkles:
 
 **[Bike Type](https://ello.co/biketype)** · Lead: @jonashoffmann 
 
-**[Black Lives Matter](https://ello.co/blacklivesmatter)** · Lead: @myactivism
-
 **[Board Games](https://ello.co/elloboardgames)** · Lead: @jdarnold
 
 **[Brewing](https://ello.co/ellobrew)** · Lead: @katatonic
@@ -68,8 +66,6 @@ Have fun on Ello! :sparkles:
 
 **[Creative](https://ello.co/ellocreative)**
 
-**[Crochet](https://ello.co/ellocrochet)**
-
 **[Crystals](https://ello.co/ellocrystals)** · Lead: @jmckeehen and @amarisland
 
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
@@ -83,8 +79,6 @@ Have fun on Ello! :sparkles:
 **[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
 
 **[Engineering](https://ello.co/elloengineering)** · Lead: @justjose
-
-**[Entrepreneur](https://ello.co/elloentreprenuer)** · Lead: @rumbleandco
 
 **[Equestrian](https://ello.co/elloequestrian)** · Lead: @sophiesoloneventing
 
@@ -205,8 +199,6 @@ Have fun on Ello! :sparkles:
 **[New Zealand](https://ello.co/ellonz)**
 
 **[NHL (Hockey)](https://ello.co/nhlwraparound)** 
-
-**[Nurses](https://ello.co/ellonurses)** 
 
 **[NYC](https://ello.co/ellonyc)**
 
