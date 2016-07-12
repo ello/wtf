@@ -194,7 +194,7 @@ Have fun on Ello! :sparkles:
 
 **[Nature Photography](https://ello.co/nature_photography)** · Lead: @rafikphoto
 
-**[New Ello Users](https://ello.co/ellonew)** · Lead: @amber
+**[New Ello Users](https://ello.co/ellonew)** · Lead: @chelsea
 
 **[New Zealand](https://ello.co/ellonz)**
 
