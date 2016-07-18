@@ -15,16 +15,16 @@ July 8, 2016
 [New Discover experience on Ello](https://ello.co/lucian/post/d4cvje3u33dxbiudd3ja3g) 
 
 July 7, 2016
-[Ello beta Android app is now available to the public!](https://ello.co/lucian/post/wucpudolfsnjzst0sdyvbq)
+[Ello beta Android app now available to the public!](https://ello.co/lucian/post/wucpudolfsnjzst0sdyvbq)
 
 July 1, 2016
-[Android beta app release](https://ello.co/lucian/post/2zibhb54rm0eruhorkqefg)
+[Ello beta Android app release](https://ello.co/lucian/post/2zibhb54rm0eruhorkqefg)
 
 June 16, 2016
-[Android beta app progress update](https://ello.co/lucian/post/gv3t6ufjrbjxsamj9cezzg)
+[Ello beta Android app progress update](https://ello.co/lucian/post/gv3t6ufjrbjxsamj9cezzg)
 
 May 31, 2016
-[Closed Android beta testing now available](https://ello.co/lucian/post/hstoxfx2ehpv9mp_sxqmtw)
+[Closed Ello beta Android app testing now available](https://ello.co/lucian/post/hstoxfx2ehpv9mp_sxqmtw)
 
 May 19, 2016
 [Newly designed email notifications](https://ello.co/lucian/post/rawcjskl0rugcz9gksltxa)
