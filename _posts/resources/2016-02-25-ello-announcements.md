@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ello Announcements"
-date:   2016-07-11 01:23:45 MDT
+date:   2016-07-17 01:23:45 MDT
 categories: resources
 position: 4
 ---
