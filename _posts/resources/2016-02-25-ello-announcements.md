@@ -5,6 +5,9 @@ date:   2016-07-11 01:23:45 MDT
 categories: resources
 position: 4
 ---
+July 18, 2016
+[Interviews added to Discover](https://ello.co/lucian/post/x0mwjhe_rhhm7bi0op8yhw)
+
 July 12, 2016
 [Communities added to Discover](https://ello.co/lucian/post/p5t5s1_ungufbrc2ejuplq)
 
