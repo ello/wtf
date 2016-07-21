@@ -232,8 +232,6 @@ Have fun on Ello! :sparkles:
 
 **[Photography (Pentax)](https://ello.co/ellopentax)** · Lead: @annemio
 
-**[Photography (Sony)](https://ello.co/ellosony)** · Lead: @phoetrygirl 
-
 **[Photography (Undersaturated)](https://ello.co/undersaturated)** · Lead: @billbanning
 
 **[Pixel Art](https://ello.co/ellopixelart)** · Lead: @thelowestdefinition
