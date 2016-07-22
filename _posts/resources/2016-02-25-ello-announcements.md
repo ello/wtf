@@ -15,7 +15,7 @@ July 18, 2016
 [Interviews added to Categories](https://ello.co/lucian/post/x0mwjhe_rhhm7bi0op8yhw)
 
 July 12, 2016
-[Communities added to Discover](https://ello.co/lucian/post/p5t5s1_ungufbrc2ejuplq)
+[Communities added to Categories](https://ello.co/lucian/post/p5t5s1_ungufbrc2ejuplq)
 
 July 8, 2016
 [New Discover experience on Ello](https://ello.co/lucian/post/d4cvje3u33dxbiudd3ja3g) 
