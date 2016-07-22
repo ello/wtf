@@ -5,7 +5,7 @@ date:   2016-07-17 01:23:45 MDT
 categories: resources
 position: 4
 ---
-JUly 22, 2016
+July 22, 2016
 [Ello iOS app version 1.9.1 release](https://ello.co/lucian/post/pfflgaryuspzlvzbfrbpvw)
 
 July 18, 2016
