@@ -6,10 +6,13 @@ categories: resources
 position: 4
 ---
 July 22, 2016
+[Collage added to Categories](https://ello.co/lucian/post/53jjclczoqaxw8ou1otfqw)
+
+July 22, 2016
 [Ello iOS app version 1.9.1 release](https://ello.co/lucian/post/pfflgaryuspzlvzbfrbpvw)
 
 July 18, 2016
-[Interviews added to Discover](https://ello.co/lucian/post/x0mwjhe_rhhm7bi0op8yhw)
+[Interviews added to Categories](https://ello.co/lucian/post/x0mwjhe_rhhm7bi0op8yhw)
 
 July 12, 2016
 [Communities added to Discover](https://ello.co/lucian/post/p5t5s1_ungufbrc2ejuplq)
