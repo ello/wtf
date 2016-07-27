@@ -13,3 +13,6 @@ We strive to support both the latest and most recent releases of the major brows
 
 * iOS versions we support:
 Our iOS app is supported on devices running iOS 8+.
+
+* Android versions we support:
+Our Android app is supported on most devices running Android 4.4 and above.
