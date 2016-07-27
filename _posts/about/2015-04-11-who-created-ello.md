@@ -13,12 +13,16 @@ Practice principled graphic design. They believe intention and foresight will sh
 
 @bergerfohr @todd @lucian
 
+
+
 {% image wtf.modeset.gif %}
 ## Mode Set
 
 A collective of creative technologists who focus on quality and efficiency. They engineer great software.
 
 @gv @mk @jayzes @cacheflowe
+
+
 
 {% image wtf.budnitz.gif %}
 ## Paul Budnitz
