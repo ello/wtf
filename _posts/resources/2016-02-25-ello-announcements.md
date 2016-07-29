@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Ello Announcements"
-date:   2016-07-17 01:23:45 MDT
+date:   2016-07-28 01:23:45 MDT
 categories: resources
 position: 4
 ---
+July 29, 2016
+[Ello Buy Button is live!](https://ello.co/lucian/post/jikkdyzs8xktosrfyrf0zw)
+
 July 22, 2016
 [Collage added to Categories](https://ello.co/lucian/post/53jjclczoqaxw8ou1otfqw)
 
