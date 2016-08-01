@@ -36,6 +36,8 @@ Have fun on Ello! :sparkles:
 
 **[Art](https://ello.co/elloart)** · Lead: @carlosbob
 
+**[Art (App Created)](https://ello.co/elloafter)** · Lead: @cgwarex
+
 **[Backcountry](https://ello.co/ellobackcountry)** · Lead: @dutchess70
 
 **[Bikes](https://ello.co/bikelove)** · Lead: @kansascity
@@ -225,6 +227,8 @@ Have fun on Ello! :sparkles:
 **[Photography (Fujifilm)](https://ello.co/ellofujifilm)** · Lead: @thelightandlens
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
+
+**[Photography (Macro Color)](https://ello.co/macrocolour) 
 
 **[Photography (Mobile)](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
 
