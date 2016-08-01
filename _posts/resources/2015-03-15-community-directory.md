@@ -228,7 +228,7 @@ Have fun on Ello! :sparkles:
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
-**[Photography (Macro Color)](https://ello.co/macrocolour) 
+**[Photography (Macro Color)](https://ello.co/macrocolour)**  
 
 **[Photography (Mobile)](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
 
