@@ -5,8 +5,11 @@ date:   2016-07-28 01:23:45 MDT
 categories: resources
 position: 4
 ---
+August 2, 2016
+[Ello Buy Button is live!](https://ello.co/lucian/post/x7w-h1ynhs_owszd_fq4yg)
+
 July 29, 2016
-[Ello Buy Button is live!](https://ello.co/lucian/post/jikkdyzs8xktosrfyrf0zw)
+[Ello Buy Button update](https://ello.co/lucian/post/jikkdyzs8xktosrfyrf0zw)
 
 July 22, 2016
 [Collage added to Categories](https://ello.co/lucian/post/53jjclczoqaxw8ou1otfqw)
