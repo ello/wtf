@@ -3,7 +3,7 @@ layout: post
 title:  "Ello Buy Button"
 date:   2016-08-7 04:23:18 MDT
 categories: help
-position: 13
+position: 3
 ---
 
 Sell your work on Ello using the Ello Buy Button. Here’s how it works*:
