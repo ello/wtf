@@ -6,8 +6,6 @@ categories: help
 position: 13
 ---
 
-## Ello Buy Button
-
 Sell your work on Ello using the Ello Buy Button. Here’s how it works*:
 
 * Upload an image of your product
