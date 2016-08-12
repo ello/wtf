@@ -6,14 +6,12 @@ categories: help
 position: 3
 ---
 
-Sell your work on Ello using the Ello Buy Button. Here’s how it works*:
+Sell your work on Ello using the Ello Buy Button. Here’s how it works:
 
 * Upload an image of your product
 * Click the $ icon
 * Add a link to the product listing in your store 
 * Publish
-
-*Creating and editing posts with buy buttons is currently available via Web and Android only - coming soon to iOS.
 
 It’s that easy. Anyone browsing Ello will know that when they see the green $ icon, something awesome is for sale. All it takes is a click on the icon, and they’ll be taken to the product listing on the seller’s site.
 
