@@ -264,7 +264,7 @@ Have fun on Ello! :sparkles:
 
 **[Ships](https://ello.co/elloships)** · Lead: @mattgharvey
 
-**[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax & @maccymacx <a href="https://ello.co/misosoupland" rel="nofollow" data-proofer-ignore>misosoupland</a> & @jamessaretta
+**[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax & @maccymacx & @jamessaretta
 
 **[Smoothies](https://ello.co/smoothielove)** 
 
