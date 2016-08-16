@@ -140,7 +140,7 @@ Have fun on Ello! :sparkles:
 
 **[Home](https://ello.co/ellohome)** · Lead: 丹野 洋絵
 
-**[Illustration](https://ello.co/elloillustrations)** · Lead: @serena-d 
+**[Illustration](https://ello.co/elloillustrations)** · Leads: @serena-d & @ariarosso
 
 **[Japan](https://ello.co/ellojapan)** · Lead: 丹野 洋絵
 
