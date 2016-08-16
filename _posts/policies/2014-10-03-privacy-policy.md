@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ello Privacy Policy"
-date:   2015-05-01 01:23:45 MDT
+date:   2016-08-15 01:23:45 MDT
 categories: policies
 position: 3
 ---
@@ -65,7 +65,7 @@ There are many other third party services and web sites that may place cookies i
 
 ## Choices
 
-In the “Settings” section of your Ello account, you can make choices about how your data is used and shared. We are frequently adding new features and controls, so visit it often and configure your account to fit your personal preferences regarding privacy, data collection, and data sharing.
+In the “Settings” section of your Ello account, you can make choices about how your content and data is used and shared. We are frequently adding new features and controls, so visit it often and configure your account to fit your personal preferences regarding privacy, data collection, and content and data sharing.
 
 ## Data Storage and Deletion of Accounts and Data
 
@@ -83,7 +83,7 @@ The Site is intended for the general public, but are not meant for children unde
 
 ## A Note to Users Outside of the United States
 
-You acknowledge and agree that Ello’s servers and operations are in the United States. As a result, regardless of where you live, your Content is transferred to and stored in the United States, and you hereby consent to the transfer, processing, and storage of your Content in the United States.
+You acknowledge and agree that Ello’s servers and operations are in the United States. As a result, regardless of where you live, your content is transferred to and stored in the United States, and you hereby consent to the transfer, processing, and storage of your content in the United States.
 
 ## Changes to the Ello Privacy Policy
 
@@ -93,7 +93,7 @@ You can also always find the most current version of this policy on our web site
 
 ## Contact Information
 
-We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at [legal@ello.co](mailto:legal@ello.co) or contact us at the following address: Ello PBC, 688 Pine Street, Suite 2A, Burlington, VT 05401 or phone number: (802)557-0997.
+We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at [legal@ello.co](mailto:legal@ello.co) or contact us at the following address: Ello PBC, 1610 Little Raven Street, Suite #135, Denver, CO 80202 or phone number: (720)507-3556.
 
 **Link to Archived Versions**  
 You can find archived versions of our [Privacy Policy](https://github.com/ello/wtf) on GitHub.
