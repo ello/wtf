@@ -36,8 +36,6 @@ Have fun on Ello! :sparkles:
 
 **[Art](https://ello.co/elloart)** · Lead: @carlosbob
 
-**[Art (App Created)](https://ello.co/elloafter)** · Lead: @cgwarex
-
 **[Backcountry](https://ello.co/ellobackcountry)** · Lead: @dutchess70
 
 **[Bikes](https://ello.co/bikelove)** · Lead: @kansascity
