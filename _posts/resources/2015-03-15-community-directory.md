@@ -66,7 +66,7 @@ Have fun on Ello! :sparkles:
 
 **[Creative](https://ello.co/ellocreative)**
 
-**[Crystals](https://ello.co/ellocrystals)** · Lead: @jmckeehen and @amarisland
+**[Crystals](https://ello.co/ellocrystals)** · Lead: @jmckeehen & @amarisland
 
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
 
@@ -264,7 +264,7 @@ Have fun on Ello! :sparkles:
 
 **[Ships](https://ello.co/elloships)** · Lead: @mattgharvey
 
-**[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax @maccymacx <a href="https://ello.co/misosoupland" rel="nofollow" data-proofer-ignore>misosoupland</a> @jamessaretta
+**[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax & @maccymacx <a href="https://ello.co/misosoupland" rel="nofollow" data-proofer-ignore>misosoupland</a> & @jamessaretta
 
 **[Smoothies](https://ello.co/smoothielove)** 
 
