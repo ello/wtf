@@ -24,7 +24,7 @@ Over months of watching communities grow, we’ve learned some practices that ca
 
 * **Format your posts.** You can use bold, italics, and hyperlinks in your text. Keep longer text blocks short and readable by breaking them up with regular line breaks.
 
-* **Most of all, have fun!**
+* **Most of all, have fun!** *(and if you decide you'd no longer like to lead your community, please let us know by emailing hello@ello.co)*
 
 ## What’s an “Ello Featured Community”?
 
@@ -42,6 +42,6 @@ Communities that are featured usually:
 * Have a clear, explanatory bio
 * Post regularly but not excessively
 
-If you’d like your community to be considered as an Ello Featured Community, please e-mail the Ello Community Support Team at hello@ello.co, and we’ll get back to you.
+If you’d like your community to be considered as an Ello Featured Community, please e-mail the Ello Community Support Team at hello@ello.co, and we’ll get back to you. 
 
 Have fun building communities on Ello!
