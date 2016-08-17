@@ -5,6 +5,12 @@ date:   2016-07-28 01:23:45 MDT
 categories: resources
 position: 4
 ---
+August 17, 2016
+[Digital Art added to Categories](https://ello.co/lucian/post/pjvceob6kauvjchmxzie5g)
+
+August 12, 2016
+[Ello Hire Me Button is live!](https://ello.co/lucian/post/-kc0f4c-9v3neqknawht2g)
+
 August 2, 2016
 [Ello Buy Button is live!](https://ello.co/lucian/post/x7w-h1ynhs_owszd_fq4yg)
 
