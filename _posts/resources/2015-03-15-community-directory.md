@@ -154,6 +154,8 @@ Have fun on Ello! :sparkles:
 
 **[Latino](https://ello.co/ellolatino)** · Lead: @wgmeets
 
+**[Latin Talent](https://ello.co/ellolatintalent)** · Lead: @papaissue
+
 **[Law](https://ello.co/ellolaw)**
 
 **[Law Students](https://ello.co/lawpith)**
