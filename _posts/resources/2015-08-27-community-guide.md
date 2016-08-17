@@ -24,15 +24,15 @@ Over months of watching communities grow, we’ve learned some practices that ca
 
 * **Format your posts.** You can use bold, italics, and hyperlinks in your text. Keep longer text blocks short and readable by breaking them up with regular line breaks.
 
-* **Most of all, have fun!** *(and if you decide you'd no longer like to lead your community, please let us know by emailing hello@ello.co)*
+* **Most of all, have fun!**
 
 ## What’s an “Ello Featured Community”?
 
-**Exceptional communities that build a substantial following may be asked to become an “Ello Featured Community”.**
+**Exceptional communities that build a substantial following may become an “Ello Featured Community”.**
 
-Ello Featured Communities can show up on the Ello homepage, may be recommended when people create new accounts, added to the Community Directory, or listed in the "Communities" Category. 
+Ello Featured Communities may show up on the Ello homepage, be recommended when people create new accounts, added to the Community Directory, or listed in the "Communities" Category. 
 
-Communities that are featured usually:
+These communities usually:
 
 * Have at least 50 followers
 * Have at least 15 high-quality posts
@@ -42,6 +42,4 @@ Communities that are featured usually:
 * Have a clear, explanatory bio
 * Post regularly but not excessively
 
-If you’d like your community to be considered as an Ello Featured Community, please e-mail the Ello Community Support Team at hello@ello.co, and we’ll get back to you. 
-
-Have fun building communities on Ello!
+If you’d like your community to be considered as an Ello Featured Community, please e-mail the Ello Community Support Team at hello@ello.co, and we’ll get back to you. *(Also, if you decide you no longer have time to lead your community, please let us know.)*
