@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The People of Ello"
-date:   2016-06-6 10:23:45 MDT
+date:   2016-08-8 10:23:45 MDT
 categories: about
 position: 13
 ---
@@ -19,10 +19,8 @@ Justin Holmes, Junior Full Stack Engineer @holmezi
 Chelsea Kantola, Community Manager @chelsea
 Matthew Kitt, Co-founder & Product Development Lead @mk
 Ken Lee, Office Manager 
-Alan Peabody, Engineering Consultant @alanpeabody
 Pete Sheinbaum, Chief Financial Officer @sheinbaum
 Mayah Taylor, Social Media/Community Intern @mayah
 Alexi Ueltzen, Social Media Manager @alexi
-Michael Westbom, Engineering Consultant @totallymike
 Amber Young, Community Manager @amber
 Jay Zeschin, Co-founder & Chief Technology Officer @jayzes
