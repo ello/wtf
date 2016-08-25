@@ -30,6 +30,8 @@ Have fun on Ello! :sparkles:
 
 **[Aircraft](https://ello.co/elloaircraft)**
 
+**[Androids](https://ello.co/elloandroid)** 
+
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
 **[Australia](https://ello.co/elloaustralia)** · Lead: @garylight
@@ -171,6 +173,8 @@ Have fun on Ello! :sparkles:
 **[Medical Cannabis](https://ello.co/ellomedicalcannabis)** · Lead: @arsenokoitai
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
+
+**[Microsoft](https://ello.co/ellomicrosoft)** 
 
 **[Minerals](https://ello.co/mineralcase)** · Lead: @sturmmadchen
 
