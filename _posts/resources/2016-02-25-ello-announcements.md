@@ -5,6 +5,9 @@ date:   2016-07-28 01:23:45 MDT
 categories: resources
 position: 4
 ---
+August 25, 2016
+[Arkitip x Ello community winners](https://ello.co/lucian/post/pkqj9qkmlrnrewji_zrzdq)
+
 August 17, 2016
 [Digital Art added to Categories](https://ello.co/lucian/post/pjvceob6kauvjchmxzie5g)
 
