@@ -34,6 +34,8 @@ Have fun on Ello! :sparkles:
 
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
 
+**[Architectural Heritage](elloarchitecturalheritage)** · Lead: @memorie_urbana
+
 **[Australia](https://ello.co/elloaustralia)** · Lead: @garylight
 
 **[Art](https://ello.co/elloart)** · Lead: @carlosbob
