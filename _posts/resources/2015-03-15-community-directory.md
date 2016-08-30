@@ -116,7 +116,7 @@ Have fun on Ello! :sparkles:
 
 **[Geometry](https://ello.co/geometry)** · Lead: @aarton
 
-**[Gifs](https://ello.co/ellogifs)** · Lead: @amber
+**[Gifs](https://ello.co/ellogifs)** · Lead: @manzello
 
 **[Gifs](http://ello.co/gifs)** · Lead: @cacheflowe
 
