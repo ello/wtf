@@ -240,8 +240,6 @@ Have fun on Ello! :sparkles:
 
 **[Photography (Nikon)](https://ello.co/ellonikon)** · Lead: @edbuzz
 
-**[Photography (Pentax)](https://ello.co/ellopentax)** · Lead: @annemio
-
 **[Photography (Undersaturated)](https://ello.co/undersaturated)** · Lead: @billbanning
 
 **[Pixel Art](https://ello.co/ellopixelart)** · Lead: @thelowestdefinition
