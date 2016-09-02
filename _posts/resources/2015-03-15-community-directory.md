@@ -46,6 +46,8 @@ Have fun on Ello! :sparkles:
 
 **[Board Games](https://ello.co/elloboardgames)** · Lead: @jdarnold
 
+**[Boho](https://ello.co/elloboho)** 
+
 **[Brewing](https://ello.co/ellobrew)** · Lead: @katatonic
 
 **[Bridges](https://ello.co/ellobridges)** · Lead: @anthonystevens
