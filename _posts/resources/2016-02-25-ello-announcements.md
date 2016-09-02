@@ -5,6 +5,9 @@ date:   2016-07-28 01:23:45 MDT
 categories: resources
 position: 4
 ---
+September 1, 2016
+[Textile added to Categories](https://ello.co/lucian/post/07ycij3aq5v-3zqvzaqi3w)
+
 August 25, 2016
 [Arkitip x Ello community winners](https://ello.co/lucian/post/pkqj9qkmlrnrewji_zrzdq)
 
