@@ -236,6 +236,8 @@ Have fun on Ello! :sparkles:
 
 **[Ships](https://ello.co/elloships)** · Lead: @mattgharvey
 
+**[Sicut Esse](https://ello.co/sicutesse)** 
+
 **[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax & @maccymacx & @jamessaretta
 
 **[Sneakers](https://ello.co/ellosneakers)** · Lead: @captnblastoff
