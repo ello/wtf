@@ -110,7 +110,7 @@ These terms shall be governed by the laws of the state of Vermont without giving
 **Copyright & Trademark Information**  
 Copyright © 2015, Ello, PBC, All rights reserved. All trademarks, logos and service marks (“Marks”) displayed on the site and Service are our property or the property of other third parties. You are not permitted to use these Marks.
 
-These Terms are an agreement between you and Ello, PBC, 688 Pine Street 2A, Burlington, VT 05401 U.S.A., [info@ello.co](mailto:info@ello.co)
+These Terms are an agreement between you and Ello, PBC, 1100 Spruce St., Ste. #104, Boulder, CO 80302 U.S.A., [info@ello.co](mailto:info@ello.co)
 
 Effective: April 1, 2015
 
