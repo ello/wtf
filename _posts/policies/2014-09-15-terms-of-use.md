@@ -87,7 +87,7 @@ Ello complies with the Digital Millennium Copyright Act (“DMCA”). We will te
 
 If you see your Content on Ello being used without your permission, you can contact Ello’s Designated Agent for receipt of infringement notices here:
 
-Ello PBC, 688 Pine Street, Suite 2A, Burlington, VT 05401, by calling 802.557.0571 or by emailing [legal@ello.co](mailto:legal@ello.co).
+Ello, PBC, 1100 Spruce St., Ste. #104, Boulder, CO 80302 U.S.A., by calling 802.557.0571 or by emailing [legal@ello.co](mailto:legal@ello.co).
 
 Your notice must comply with the DMCA. For your request to be valid under the DMCA, you must provide the following information in writing: (a) An electronic or physical signature of a person authorized to act on behalf of the copyright owner; (b) Identification of the copyrighted work that you claim has been infringed; (c) Identification of the material that is claimed to be infringing and where it is located on the Service; (d) Information reasonably sufficient to permit Company to contact you, such as your address, telephone number, and, e-mail address; (e) A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and (f) A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
 
