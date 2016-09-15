@@ -5,6 +5,9 @@ date:   2016-07-28 01:23:45 MDT
 categories: resources
 position: 4
 ---
+September 15, 2016
+[Cycling added to Categories, new wall art, and NYC event](https://ello.co/lucian/post/woispiyg2bfu6v3ks_edog)
+
 September 1, 2016
 [Textile added to Categories](https://ello.co/lucian/post/07ycij3aq5v-3zqvzaqi3w)
 
