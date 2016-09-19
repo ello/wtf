@@ -218,7 +218,7 @@ Have fun on Ello! :sparkles:
 
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
 
-**[Portrait](@elloportrait)** 
+**[Portrait](https://ello.co/elloportrait)** 
 
 **[Privacy](https://ello.co/elloprivacy)** · Lead: @mrbinsk
 
