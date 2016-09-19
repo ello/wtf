@@ -56,6 +56,8 @@ Have fun on Ello! :sparkles:
 
 **[Canada](https://ello.co/ohcanada)** · Lead: @justinomagalona 
 
+**[Cannabis](https://ello.co/ellocannabis)** · Lead: @arsenokoitai
+
 **[Cinematography](https://ello.co/ellocinematography)**
 
 **[Coffee](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
@@ -156,8 +158,6 @@ Have fun on Ello! :sparkles:
 
 **[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
 
-**[Medical Cannabis](https://ello.co/ellomedicalcannabis)** · Lead: @arsenokoitai
-
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
 
 **[Microsoft](https://ello.co/ellomicrosoft)** 
@@ -217,6 +217,8 @@ Have fun on Ello! :sparkles:
 **[Poems](https://ello.co/apoem_4u)** 
 
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
+
+**[Portrait](@elloportrait)** 
 
 **[Privacy](https://ello.co/elloprivacy)** · Lead: @mrbinsk
 
