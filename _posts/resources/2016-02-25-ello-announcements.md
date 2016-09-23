@@ -5,6 +5,9 @@ date:   2016-07-28 01:23:45 MDT
 categories: resources
 position: 4
 ---
+September 23,, 2016
+[Watch a post is live!](https://ello.co/dcdoran/post/yushlwl2-xqiux9aij3uhq)
+
 September 15, 2016
 [Cycling added to Categories, new wall art, and NYC event](https://ello.co/lucian/post/woispiyg2bfu6v3ks_edog)
 
