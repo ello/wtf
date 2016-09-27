@@ -6,7 +6,7 @@ categories: resources
 position: 4
 ---
 September 27, 2016
-[New profile design, Collaborate Button, and Watch a Post!](https://ello.co/lucian/post/-cxwdxs2-wsmc2nrhil8ja)
+[New profile design, Collaborate Button, and Watch a Post](https://ello.co/lucian/post/-cxwdxs2-wsmc2nrhil8ja)
 
 September 15, 2016
 [Cycling added to Categories, new wall art, and NYC event](https://ello.co/lucian/post/woispiyg2bfu6v3ks_edog)
