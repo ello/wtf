@@ -68,6 +68,8 @@ Have fun on Ello! :sparkles:
 
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
 
+**[Developers](https://ello.co/developerpanda)**
+
 **[Dice and Paper](https://ello.co/ello_dice_and_paper)** · Lead: @fuckyouthatsmyname
 
 **[DIY](https://ello.co/ellodiy)** · Lead: @alexi
