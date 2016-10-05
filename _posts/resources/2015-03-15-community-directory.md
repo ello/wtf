@@ -86,6 +86,8 @@ Have fun on Ello! :sparkles:
 
 **[Fashion Photography](https://ello.co/ellofashionphotography)**
 
+**[Feelings & Thoughts](https://ello.co/lifenwordz)**
+
 **[Film (Experimental)](https://ello.co/experimental_film)**
 
 **[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
