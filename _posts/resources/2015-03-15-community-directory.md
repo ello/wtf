@@ -240,6 +240,8 @@ Have fun on Ello! :sparkles:
 
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
 
+**[Unique Goods](https://ello.co/ohgoodgoods_mag)** 
+
 **[VFX](https://ello.co/ellovfx)** · Lead: @williamvfx
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
