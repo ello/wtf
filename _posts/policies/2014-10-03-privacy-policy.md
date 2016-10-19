@@ -1,35 +1,35 @@
 ---
 layout: post
 title:  "Ello Privacy Policy"
-date:   2016-08-15 01:23:45 MDT
+date:   2016-10-18 01:23:45 MDT
 categories: policies
 position: 3
 ---
 ## Your Privacy is Important
 
-Ello, PBC, (“Ello”) takes data privacy seriously As a network that does not serve advertisements and that does not sell information about its users or use of the Site (defined below) to third parties, Ello has also taken unique steps that help you control how much information about you is shared when you use the Site.
+Ello PBC, (“Ello”) takes data privacy seriously As a network that does not serve advertisements and that does not sell information about its users or use of the Site (defined below) to third parties, Ello has also taken unique steps that help you control how much information about you is shared when you use the Site.
 
-Please read this document in its entirety and take it seriously. It explains Ello’s privacy practices, and what information we collect when you use our web site located at www.ello.co and related mobile apps (collectively, the “Site”); and also how you can opt-out of sharing some of this information.
+Please read this document in its entirety and take it seriously. It explains Ello's privacy practices, and what information we collect when you use our web site located at www.ello.co and related mobile apps (collectively, the “Site”); and also how you can opt-out of sharing some of this information.
 
 ## Information Ello Collects
 
-When you visit The Site, we may collect and store general, non-identifiable information about what pages you access, your general geographic location (e.g., a city, but not a street address), the device you are using, an anonymized version of your IP address, and the address of web sites that refer you to the Site. We also store your email address and UserID that you choose when you register for an account.
+When you visit The Site, we may collect and store general, non-identifiable information about what pages you access, your general geographic location (e.g., a city, but not a street address), the device you are using, an anonymized version of your IP address, and the address of web sites that refer you to the Site. We also store your email address and UserID that you choose when you register for an account.  
 
-We may use this information to protect Ello and its users from spam, viruses, identity theft, illegal or harmful activities, as well as to understand how people use the Site, which features work and which don’t, and to help us develop and improve the Site’s features and services. For example, if we create a feature that everybody is using, we want to know about that, so we collect data about how much different features are used. Additionally, if we have a lot of visitors from The Netherlands (which we do) then we might translate our Help section into Dutch (which we are considering, except none of us speak Dutch). We may create anonymous records by excluding personally identifiable information (such as your name) from records.
+We may use this information to protect Ello and its users from spam, viruses, identity theft, illegal or harmful activities, as well as to understand how people use the Site, which features work and which don't, and to help us develop and improve the Site's features and services. For example, if we create a feature that everybody is using, we want to know about that, so we collect data about how much different features are used. Additionally, if we have a lot of visitors from The Netherlands (which we do) then we might translate our Help section into Dutch (which we are considering, except none of us speak Dutch). We may create anonymous records by excluding personally identifiable information (such as your name) from records.
 
-We also collect any information you provide us if you choose to contact us directly or post on our web site or on your page, including any personally identifiable information. We use this information for the purpose you provided it – for instance, to provide support or answer questions – and to provide you the Site.
+We also collect any information you provide us if you choose to contact us directly or post on our web site or on your page, including any personally identifiable information.  We use this information for the purpose you provided it – for instance, to provide support or answer questions – and to provide you the Site.
 
-Ello uses an anonymized version of Google Analytics and Segment to gather and aggregate general information about user behavior. Google/Segment may use this information for the purpose of evaluating your use of the site, compiling reports on site activity for us and providing other services relating to site activity and internet usage. Google/Segment may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google/Segment’s behalf. To the best of our knowledge, the information gathered by Google/Segment on Ello’s behalf is collected in such a way that neither Ello, nor Google/Segment, can easily trace saved information back to any individual user.
+Ello uses an anonymized version of Google Analytics to gather and aggregate general information about user behavior. Google may use this information for the purpose of evaluating your use of the site, compiling reports on site activity for us and providing other services relating to site activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. To the best of our knowledge, the information gathered by Google on Ello’s behalf is collected in such a way that neither Ello, nor Google, can easily trace saved information back to any individual user. 
 
-Ello is unique in that we offer our users the option to opt-out of Google Analytics and Segment on the user settings page. We also respect “Do Not Track” browser settings. On your Ello settings page, you can choose to turn Google Analytics and Segment off completely when you visit the Site. If you choose either of these options, we make best efforts not to send any data about your user behavior, anonymized or otherwise, to Google/Segment or any other third party service provider. Please be aware that there may be other services that you are using and that are not controlled by Ello (including Google, Google Chrome Web Browser, Android Operating System, and YouTube) that may continue to send information to Google when you use the Site, even if you have asked us not to send information through our services.
+Ello is unique in that we offer our users the option to opt-out of Google Analytics on the user settings page. We also respect “Do Not Track” browser settings. On your Ello settings page, you can choose to turn Google Analytics off completely when you visit the Site. If you choose either of these options, we make best efforts not to send any data about your user behavior, anonymized or otherwise, to Google or any other third party service provider. Please be aware that there may be other services that you are using and that are not controlled by Ello (including Google, Google Chrome Web Browser, Android Operating System, and YouTube) that may continue to send information to Google when you use the Site, even if you have asked us not to send information through our services. 
 
-If you want to invite a friend to the Site, you will need to provide us their email address.
+If you want to invite a friend to the Site, you will need to provide us their email address.  
 
 ## Email Communications
 
 From time to time we may email you information about Ello that we think is necessary and important. By opening or maintaining an account with Ello, you agree to receive administrative emails as part of your basic service. You can always opt-out of non-administrative emails.
 
-If anyone ever contacts you and asks for your Ello password, they are probably trying to scam you. Ello will never do this. Please don’t give your Ello password to anyone, and let us know about it so we can hunt them down and execute suitable punishment.
+If anyone ever contacts you and asks for your Ello password, they are probably trying to scam you. Ello will never do this. Please don't give your Ello password to anyone, and let us know about it so we can hunt them down and execute suitable punishment.
 
 ## Information Sharing
 
@@ -39,7 +39,8 @@ We may share your information, including personal information, with third partie
 
 Ello does not have any affiliated companies right now. But if we do in the future, we may share information with them, too.
 
-We will do our best to resist baseless legal requests to access information. However, we may disclose your information or content to satisfy a law, regulation, legal process, governmental request, or governmental order. Ello’s policy is to give you, advance notice if we are going to release your information unless by law we are prohibited from or advised against doing so. If we think that by disclosing your information we may prevent serious harm to Ello, its users, you, or anyone else for that matter, we may do so without notifying you. Finally, we may disclose your information if we believe it is necessary to detect, prevent, or otherwise address safety, fraud, or security concerns related to Ello.
+We will do our best to resist baseless legal requests to access information. However, we may disclose your information or content to satisfy a law, regulation, legal process, governmental request, or governmental order. Ello's policy is to give you, advance notice if we are going to release your information unless by law we are prohibited from or advised against doing so. If we think that by disclosing your information we may prevent serious harm to Ello, its users, you, or anyone else for that matter, we may do so without notifying you. Finally, if may disclose your information if we believe it is necessary to detect, prevent, or otherwise address safety, fraud, or security concerns related to Ello.
+
 
 ## Ello is a Public Network
 
@@ -65,11 +66,11 @@ There are many other third party services and web sites that may place cookies i
 
 ## Choices
 
-In the “Settings” section of your Ello account, you can make choices about how your content and data is used and shared. We are frequently adding new features and controls, so visit it often and configure your account to fit your personal preferences regarding privacy, data collection, and content and data sharing.
+In the “Settings” section of your Ello account, you can make choices about how your content and data is used and shared.  We are frequently adding new features and controls, so visit it often and configure your account to fit your personal preferences regarding privacy, data collection, and content and data sharing.
 
 ## Data Storage and Deletion of Accounts and Data
 
-We are committed to protecting the security of your information. We use a variety of industry-standard security technologies and procedures designed to help protect your information from unauthorized access, use, or disclosure. Despite these measures, you should know that we cannot fully eliminate security risks associated with information and mistakes may happen.
+We are committed to protecting the security of your information.  We use a variety of industry-standard security technologies and procedures designed to help protect your information from unauthorized access, use, or disclosure.  Despite these measures, you should know that we cannot fully eliminate security risks associated with information and mistakes may happen.
 
 You can access or change your personal profile and contact information or delete your account through your Ello personal settings page.
 
@@ -79,21 +80,18 @@ Ello stores its data on servers run by third parties. We or a third party we wor
 
 ## Children Under 13
 
-The Site is intended for the general public, but are not meant for children under 13. We don’t knowingly collect personal information from children under 13. Please contact us if you become aware that a child under the age of 13 is using the Site, or has posted personal information about themselves on the Site, and we will work to remove both the information and the child’s Ello account.
+The Site is intended for the general public, but is not meant for children under 13. We don’t knowingly collect personal information from children under 13. Please contact us if you become aware that a child under the age of 13 is using the Site, or has posted personal information about themselves on the Site, and we will work to remove both the information and the child’s Ello account.
 
 ## A Note to Users Outside of the United States
 
-You acknowledge and agree that Ello’s servers and operations are in the United States. As a result, regardless of where you live, your content is transferred to and stored in the United States, and you hereby consent to the transfer, processing, and storage of your content in the United States.
+You acknowledge and agree that Ello’s servers and operations are in the United States.  As a result, regardless of where you live, your content is transferred to and stored in the United States, and you hereby consent to the transfer, processing, and storage of your content in the United States. 
 
 ## Changes to the Ello Privacy Policy
 
-Ello may update this policy from time to time. We will let you know if we make significant changes by sending a notice to the email address connected with your Ello account, or by placing a notice in a prominent place on our web site. If we make a significant change, the notice we provide will indicate when the change will be effective. If you do not agree with the upcoming change, please delete your account. If you continue to use the Site after the stated effective date, you will be deemed to have accepted the change.
+Ello may update this policy from time to time. We will let you know if we make significant changes by sending a notice to the email address connected with your Ello account, or by placing a notice in a prominent place on our web site.  If we make a significant change, the notice we provide will indicate when the change will be effective. If you do not agree with the upcoming change, please delete your account. If you continue to use the Site after the stated effective date, you will be deemed to have accepted the change.
 
-You can also always find the most current version of this policy on our web site, as well as older versions.
+You can also always find the most current version of this policy on our web site, as well as older versions
 
 ## Contact Information
 
-We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at [legal@ello.co](mailto:legal@ello.co) or contact us at the following address: Ello PBC, 1610 Little Raven Street, Suite #135, Denver, CO 80202 or phone number: (720)507-3556.
-
-**Link to Archived Versions**  
-You can find archived versions of our [Privacy Policy](https://github.com/ello/wtf) on GitHub.
+We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at [legal@ello.co](mailto:legal@ello.co) or contact us at the following address: Ello, PBC, 1100 Spruce St., Ste. #104, Boulder, CO 80302 or phone number: (720)507-3556.
