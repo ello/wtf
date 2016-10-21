@@ -5,6 +5,9 @@ date:   2016-07-28 01:23:45 MDT
 categories: resources
 position: 4
 ---
+October 21, 2016
+[Profile updates and Hi-Fructose contest](https://ello.co/lucian/post/iajaakkdeb8yvnyp7prwng)
+
 September 27, 2016
 [New profile design, Collaborate Button, and Watch a Post](https://ello.co/lucian/post/-cxwdxs2-wsmc2nrhil8ja)
 
