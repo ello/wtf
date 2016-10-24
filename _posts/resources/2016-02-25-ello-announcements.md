@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ello Announcements"
-date:   2016-07-28 01:23:45 MDT
+title:  "Product Updates"
+date:   2016-10-23 01:23:45 MDT
 categories: resources
 position: 4
 ---
