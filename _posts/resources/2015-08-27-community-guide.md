@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Start & Maintain an Ello Community"
-date:   2016-08-16 01:23:45 MDT
+title:  "Start a Community"
+date:   2016-10-23 01:23:45 MDT
 categories: resources
 position: 3
 ---
