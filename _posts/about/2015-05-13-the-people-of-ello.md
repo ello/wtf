@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The People of Ello"
+title:  "People at Ello"
 date:   2016-08-8 10:23:45 MDT
 categories: about
 position: 13
