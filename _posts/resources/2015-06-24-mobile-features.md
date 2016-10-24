@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ello Mobile Apps"
-date: 2016-07-6 01:23:45 MDT
+title: "Mobile Apps"
+date: 2016-10-23 01:23:45 MDT
 categories: resources
 position: 1
 ---
