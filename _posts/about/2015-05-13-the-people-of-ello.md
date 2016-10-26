@@ -15,10 +15,9 @@ Sean Dougherty, Mobile Lead @sean
 Lucian Fohr, Co-founder & Chief Product Officer @lucian
 Mark Gelband, Chief Marketing Officer @markgelband
 Colin Gray, Senior iOS Engineer @colinta
-Justin Holmes, Junior Full Stack Engineer @holmezi
+Justin Holmes, Full Stack Engineer @holmezi
 Chelsea Kantola, Community Manager @chelsea
 Matthew Kitt, Co-founder & Product Development Lead @mk
-Ken Lee, Office Manager 
 Pete Sheinbaum, Chief Financial Officer @sheinbaum
 Mayah Taylor, Social Media/Community Intern @mayah
 Alexi Ueltzen, Social Media Manager @alexi
