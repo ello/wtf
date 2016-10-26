@@ -3,7 +3,7 @@ layout: post
 title:  "Ello Founders"
 date:   2016-05-23 10:43:18 MST
 categories: about
-position: 3
+position: 13
 ---
 ## Berger & Föhr
 {% image wtf.lucian.todd.gif %}
