@@ -3,7 +3,7 @@ layout: post
 title:  "Ello Team"
 date:   2016-08-8 10:23:45 MDT
 categories: about
-position: 13
+position: 3
 ---
 
 **Todd Berger**, Co-founder & Chief Executive Officer @todd
