@@ -5,6 +5,9 @@ date:   2016-10-23 01:23:45 MDT
 categories: resources
 position: 4
 ---
+October 28, 2016
+[Modernism is Crap Category, General Assembly x Ello talk](https://ello.co/lucian/post/cd5jbyesrikkdcoxn-v-8g)
+
 October 21, 2016
 [Profile updates and Hi-Fructose contest](https://ello.co/lucian/post/iajaakkdeb8yvnyp7prwng)
 
