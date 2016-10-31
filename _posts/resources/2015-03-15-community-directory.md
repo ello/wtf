@@ -8,17 +8,19 @@ position: 2
 
 <!--- DO NOT DELETE. App links lead here. --->
 
-Many Ello community members have created communities as a way to share and discuss specific interests.
+Many Ello members have created communities as a way to share and discuss specific interests.
 
 You can join any community simply by following them as you would any other account.
 
-Find other community members by searching through the “Followers” list. Comment on ongoing conversations, or request that a post be reposted by @mentioning the community anywhere on Ello, including your own posts.
+Communities can also be found in the Community Category, [here](https://ello.co/discover/communities).
 
-Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new community.
+Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new community, and scroll to the bottom of this page for more information. 
 
 ---
 
-## Community-curated:
+## Community List:
+
+**[3D](https://ello.co/ello3d)** · Lead: @momosby
 
 **[Adventure](https://ello.co/elloadventure)** · Lead: @stephfigpope
 
@@ -250,7 +252,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Zen](https://ello.co/ellozen)** · Lead: @afurst
 
-**As you can see, there are a lot of awesome communities on Ello. Here’s a quick guide to help you create and maintain your own community!**
+## Here’s a quick guide to help you create and maintain your own community!
 
 Community accounts are just like any other Ello account. To create one of your own, simply log out from your personal account, make a new account from the Ello home page using an appropriate name for your community, and begin posting! Please note that you will have to use a different email address for each account. 
 
