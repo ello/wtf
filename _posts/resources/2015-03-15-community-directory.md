@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Community Directory & Guide"
+title:  "Communities"
 date:   2016-03-20 01:23:45 MDT
 categories: resources
 position: 2
