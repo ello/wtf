@@ -9,7 +9,7 @@ position: 13
 
 Ello is run by a small team of real people who are very busy building Ello, so we ask that you only contact us if you can’t find help elsewhere.
 
-**Bug reports:** Email: bugs@ello.co
+**Bug reports:** Email: bugs@ello.co (please note that you can visit status.ello.co to check the status of any current bugs)
 **Feature suggestions:** Email: suggestions@ello.co
 **Jobs:** More info [here](/wtf/about/careers/).
 **Abusive behavior reports:** Email: reportabuse@ello.co
