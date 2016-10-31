@@ -3,7 +3,7 @@ layout: post
 title:  "Start a Community"
 date:   2016-10-23 01:23:45 MDT
 categories: resources
-position: 3
+position: 8
 ---
 
 **There are a lot of awesome communities on Ello. Here’s a quick guide to help you create and maintain your own community!**
