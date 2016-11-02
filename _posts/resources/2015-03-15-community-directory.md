@@ -88,8 +88,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Fashion Photography](https://ello.co/ellofashionphotography)**
 
-**[Feelings & Thoughts](https://ello.co/lifenwordz)**
-
 **[Film (Experimental)](https://ello.co/experimental_film)**
 
 **[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
