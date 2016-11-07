@@ -5,11 +5,14 @@ date:   2016-10-23 01:23:45 MDT
 categories: resources
 position: 4
 ---
+November 4, 2016
+[iOS 1.1.7, Featured Badges](https://ello.co/lucian/post/wun29p9lzwrtew5y1ck57q)
+
 October 28, 2016
 [Modernism is Crap Category, General Assembly x Ello talk](https://ello.co/lucian/post/cd5jbyesrikkdcoxn-v-8g)
 
 October 21, 2016
-[Profile updates and Hi-Fructose contest](https://ello.co/lucian/post/iajaakkdeb8yvnyp7prwng)
+[Profile updates, Hi-Fructose contest](https://ello.co/lucian/post/iajaakkdeb8yvnyp7prwng)
 
 September 27, 2016
 [New profile design, Collaborate Button, and Watch a Post](https://ello.co/lucian/post/-cxwdxs2-wsmc2nrhil8ja)
