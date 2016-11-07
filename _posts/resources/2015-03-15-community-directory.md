@@ -222,6 +222,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Tattoos](https://ello.co/ellotattoos)**
 
+**[Tennis](https://ello.co/tennisblog)** · Lead: @paulaewa
+
 **[Textiles](https://ello.co/ellotextiles)** · Lead: @whitefeatherhunter
 
 **[Textures](https://ello.co/ellotextures)**
