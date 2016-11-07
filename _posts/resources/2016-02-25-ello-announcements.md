@@ -6,7 +6,7 @@ categories: resources
 position: 4
 ---
 November 4, 2016
-[iOS 1.1.7, Featured Badges](https://ello.co/lucian/post/wun29p9lzwrtew5y1ck57q)
+[iOS 1.17, Featured Badges](https://ello.co/lucian/post/wun29p9lzwrtew5y1ck57q)
 
 October 28, 2016
 [Modernism is Crap Category, General Assembly x Ello talk](https://ello.co/lucian/post/cd5jbyesrikkdcoxn-v-8g)
