@@ -86,7 +86,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
 
-**[Fashion Photography](https://ello.co/ellofashionphotography)**
+**[Fashion Photography](https://ello.co/fashionphotography)**
 
 **[Film (Experimental)](https://ello.co/experimental_film)**
 
