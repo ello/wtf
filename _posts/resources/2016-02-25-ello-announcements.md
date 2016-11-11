@@ -5,6 +5,9 @@ date:   2016-10-23 01:23:45 MDT
 categories: resources
 position: 4
 ---
+November 11, 2016
+[Location feature, Not For Print contest](https://ello.co/lucian/post/t5-tceykuzwlvsn1dw6feq)
+
 November 4, 2016
 [iOS 1.17, Featured Badges](https://ello.co/lucian/post/wun29p9lzwrtew5y1ck57q)
 
