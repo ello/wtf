@@ -154,7 +154,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Music (Jazz)](https://ello.co/ellojazz)** · Lead: @pete_gitlin
 
-**[Nature Photography](https://ello.co/nature_photography)** · Lead: @rafikphoto
+**[Nature Photography](https://ello.co/nature_photography)** 
 
 **[New Ello Users](https://ello.co/ellonew)** · Lead: @chelsea
 
