@@ -16,6 +16,7 @@ position: 3
 **Justin Holmes**, Full Stack Engineer @holmezi
 **Chelsea Kantola**, Community Manager @chelsea
 **Matthew Kitt**, Co-founder & Product Development Lead @mk
+**Alan Peabody**, Backend Lead @alanpeabody
 **Pete Sheinbaum**, Chief Financial Officer @sheinbaum
 **Mayah Taylor**, Social Media/Community Intern @mayah
 **Alexi Ueltzen**, Social Media Manager @alexi
