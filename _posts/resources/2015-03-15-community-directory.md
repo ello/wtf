@@ -130,7 +130,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
 
-**[Latin Talent](https://ello.co/ellolatintalent)** · Lead: @papaissue
+**[Latin Talent](https://ello.co/ellolatintalent)**
 
 **[Law Students](https://ello.co/lawpith)**
 
