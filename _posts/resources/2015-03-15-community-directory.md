@@ -78,6 +78,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
 
+**[Earth](https://ello.co/travelwithme)** 
+
 **[Equestrian](https://ello.co/elloequestrian)** · Lead: @sophiesoloneventing
 
 **[Ethics](https://ello.co/elloethics)** · Lead: @vegabond
