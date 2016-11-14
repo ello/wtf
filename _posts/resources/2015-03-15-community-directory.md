@@ -232,7 +232,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Tokyo](https://ello.co/ello_tokyo)**
 
-**[Toronto](https://ello.co/ellotoronto)** · Lead: @titaniummike
+**[Toronto](https://ello.co/ellotoronto)** 
 
 **[Toys](https://ello.co/ellotoys)** · Lead: @renspacemadness & @libedlulo
 
