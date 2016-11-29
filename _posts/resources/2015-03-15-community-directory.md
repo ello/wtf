@@ -122,6 +122,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Illustration](https://ello.co/elloillustrations)** · Leads: @serena-d & @ariarosso
 
+**[Inspiration](https://ello.co/dailyinspiration)** 
+
 **[Japan](https://ello.co/ellojapan)** · Lead: 丹野 洋絵
 
 **[Kite Surfing](https://ello.co/ellokitesurfers)** · Lead: @oceanromeo
