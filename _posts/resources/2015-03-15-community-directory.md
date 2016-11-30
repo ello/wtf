@@ -234,7 +234,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Tokyo](https://ello.co/ello_tokyo)**
 
-**[Toronto](https://ello.co/ellotoronto)** 
+**[Toronto](https://ello.co/ellotoronto)** · Lead: @badcamera
 
 **[Toys](https://ello.co/ellotoys)** · Lead: @renspacemadness & @libedlulo
 
