@@ -78,6 +78,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[DIY](https://ello.co/ellodiy)** · Lead: @alexi
 
+**[Doodles](https://ello.co/doodlehouse)** 
+
 **[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
 
 **[Earth](https://ello.co/travelwithme)** 
