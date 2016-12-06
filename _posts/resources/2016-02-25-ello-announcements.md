@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Product Updates"
-date:   2016-10-23 01:23:45 MDT
+date:   2016-12-05 01:23:45 MDT
 categories: resources
 position: 4
 ---
+December 6, 2016
+[Ello iOS app version 1.18 release](https://ello.co/lucian/post/2zgipaktvfdndvcah7nzbq)
+
 November 11, 2016
 [Location feature, Not For Print contest](https://ello.co/lucian/post/t5-tceykuzwlvsn1dw6feq)
 
