@@ -88,6 +88,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Ethics](https://ello.co/elloethics)** · Lead: @vegabond
 
+**[Events](https://ello.co/ello-events)** · Lead: @souldancer
+
 **[Fantasy Art](https://ello.co/ellofantasyartandphotography)** 
 
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
