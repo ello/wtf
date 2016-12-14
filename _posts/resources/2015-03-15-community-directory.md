@@ -62,6 +62,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Computer Games](https://ello.co/ellocomputergames)** · Lead: @jdarnold
 
+**[Crafting](https://ello.co/ellocrafting)** 
+
 **[Creative](https://ello.co/ellocreative)**
 
 **[Crystals](https://ello.co/ellocrystals)** · Lead: @jmckeehen & @amarisland
