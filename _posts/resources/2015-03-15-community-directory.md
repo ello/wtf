@@ -200,6 +200,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Privacy](https://ello.co/elloprivacy)** · Lead: @mrbinsk
 
+**[Puns](https://ello.co/ellopundemonium)** 
+
 **[Quilting](https://ello.co/elloquilt)** · Lead: @saraokern
 
 **[Quotes](https://ello.co/quotes)** · Lead: @mattlaff
