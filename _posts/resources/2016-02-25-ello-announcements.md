@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Product Updates"
-date:   2016-12-05 01:23:45 MDT
+date:   2016-12-14 01:23:45 MDT
 categories: resources
 position: 4
 ---
+December 15, 2016
+[Not For Print on sale now!](https://ello.co/lucian/post/9upmkwzyks8xkbcmtizroq)
+
 December 6, 2016
 [Ello iOS app version 1.18 release](https://ello.co/lucian/post/2zgipaktvfdndvcah7nzbq)
 
