@@ -8,6 +8,7 @@ position: 3
 
 **Todd Berger**, Co-founder & Chief Executive Officer @todd
 **Ryan Boyajian**, Lead Developer @666
+**James Cavalier**, Sales Director
 **Casey Doran**, Director of Product @dcdoran
 **Sean Dougherty**, Mobile Lead @sean
 **Lucian Fohr**, Co-founder & Chief Product Officer @lucian
@@ -18,7 +19,7 @@ position: 3
 **Matthew Kitt**, Co-founder & Product Development Lead @mk
 **Alan Peabody**, Backend Lead @alanpeabody
 **Pete Sheinbaum**, Chief Financial Officer @sheinbaum
-**Mayah Taylor**, Social Media/Community Intern @mayah
+**Mayah Taylor**, Community Specialist @mayah
 **Alexi Ueltzen**, Social Media Manager @alexi
 **Amber Young**, Community Manager @amber
 **Jay Zeschin**, Co-founder & Chief Technology Officer @jayzes
