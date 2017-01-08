@@ -8,7 +8,7 @@ position: 3
 
 **Todd Berger**, Co-founder & Chief Executive Officer @todd
 **Ryan Boyajian**, Lead Developer @666
-**James Cavalier**, Sales Director
+**James Cavalier**, Sales Director @jbcavalier
 **Casey Doran**, Director of Product @dcdoran
 **Sean Dougherty**, Mobile Lead @sean
 **Lucian Fohr**, Co-founder & Chief Product Officer @lucian
