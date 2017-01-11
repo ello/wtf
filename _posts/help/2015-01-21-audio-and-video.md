@@ -44,7 +44,6 @@ Paste a link to the sound or video file that you want to add to your post direct
 
 <div class="embetter" data-codepen-id="cacheflowe/pen/domZpQ"><a href="http://codepen.io/cacheflowe/pen/domZpQ" target="_blank"><img src="http://codepen.io/cacheflowe/pen/domZpQ/image/large.png" alt="Codepen"></a></div>
 
-<br>
 You can move the file up and down within your post using the arrow in the upper right-hand corner to position it where you want it.
 
 ## Why does the original url remain once the sound or video preview appears?
