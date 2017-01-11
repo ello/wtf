@@ -18,12 +18,12 @@ Ello is run by a small team of real people who are very busy building Ello, so w
 You can also mention <span>@</span>wtf directly on Ello if you need to reach us.
 
 Follow us on:
-* [Twitter](https://twitter.com/elloworld)
-* [Instagram](https://www.instagram.com/ellosphere/)
-* [Pinterest](https://www.pinterest.com/ellosphere/)
-* [Facebook](https://www.facebook.com/ellopbc)
+* [Twitter](https://twitter.com/ellohype)
+* [Instagram](https://www.instagram.com/ellohype/)
+* [Pinterest](https://www.pinterest.com/ellohype/)
+* [Facebook](https://www.facebook.com/ellohype/)
 * [Google +](https://plus.google.com/u/1/b/108873324537875489413/108873324537875489413)
-* [Tumblr](http://ellosphere.tumblr.com/)
+* [Tumblr](http://ellohype.tumblr.com/)
 
 ## How do I report abusive behavior?
 
