@@ -26,11 +26,11 @@ segment_write_key: abcdef # overridden by the SEGMENT_WRITE_KEY environment vari
 ## Footer settings + links
 # social media
 ello_username: ello
-twitter_username: elloworld
-tumblr_username: ellosphere
-instagram_username: ellosphere
-pinterest_username: ellosphere
-facebook_username: ellopbc
+twitter_username: ellohype
+tumblr_username: ellohype
+instagram_username: ellohype
+pinterest_username: ellohype
+facebook_username: ellohype
 gplus_url: https://plus.google.com/u/0/108873324537875489413
 # other footer links
 community_directory_link: "/wtf/resources/community-directory/"
