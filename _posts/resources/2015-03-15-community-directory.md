@@ -98,7 +98,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Fashion Photography](https://ello.co/fashionphotography)**
 
-**[Film (Experimental)](https://ello.co/experimental_film)**
+**[Film (Experimental)](https://ello.co/experimental_film_art)**
 
 **[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
 
