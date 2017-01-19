@@ -52,7 +52,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Canada](https://ello.co/ohcanada)** · Lead: @justinomagalona 
 
-**[Cannabis](https://ello.co/ellocannabis)** · Lead: @arsenokoitai
+**[Cannabis](https://ello.co/ellocannabis)** · Lead: @quechuapi
 
 **[Cinematography](https://ello.co/ellocinematography)**
 
