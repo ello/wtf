@@ -158,6 +158,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Motorcycles](https://ello.co/ellomotorcycles)** · Lead: @joycomplex
 
+**[Music (Ambient)](https://ello.co/elloambient)** · Lead: @johnkochnorthrup
+
 **[Music (General)](https://ello.co/ellomusic)** · Lead: @adachic
 
 **[Music (Hip Hop)](https://ello.co/ellohiphop)** · Lead: @ricojames
