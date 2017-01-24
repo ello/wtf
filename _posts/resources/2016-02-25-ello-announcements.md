@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Product Updates"
-date:   2017-1-3 01:23:45 MDT
+date:   2017-1-23 01:23:45 MDT
 categories: resources
 position: 4
 ---
+January 24, 2017
+[Cannabis added to Categories, @ellohype Snapchat](https://ello.co/lucian/post/nnjf9ajx-kdt-dxol7k71g)
+
 January 4, 2017
 [2016 Recap](https://ello.co/lucian/post/3nmm9z0h_ps99slc0fr6cg)
 
