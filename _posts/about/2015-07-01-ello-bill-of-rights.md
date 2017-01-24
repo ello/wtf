@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ello Bill of Rights"
-date: 2015-08-07 01:00:00 MDT
+date: 2017-01-23 01:00:00 MDT
 categories: about
 position: 5
 ---
