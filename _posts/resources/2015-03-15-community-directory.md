@@ -22,15 +22,11 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[3D](https://ello.co/ello3d)** · Lead: @momosby
 
-**[Adventure](https://ello.co/elloadventure)** · Lead: @stephfigpope
-
 **[Aircraft](https://ello.co/elloaircraft)**
 
 **[Androids](https://ello.co/elloandroid)** 
 
 **[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
-
-**[Architectural Heritage](https://ello.co/elloarchitecturalheritage)** · Lead: @memorie_urbana
 
 **[Australia](https://ello.co/elloaustralia)** · Lead: @garylight
 
@@ -40,17 +36,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Bikes](https://ello.co/bikelove)** · Lead: @kansascity
 
-**[Bike Type](https://ello.co/biketype)** · Lead: @jonashoffmann 
-
-**[Boho](https://ello.co/elloboho)** 
-
-**[Brewing](https://ello.co/ellobrew)** · Lead: @katatonic
-
 **[Bridges](https://ello.co/ellobridges)** · Lead: @anthonystevens
-
-**[Campers](https://ello.co/ellocampers)** · Lead: @fedoracat
-
-**[Canada](https://ello.co/ohcanada)** · Lead: @justinomagalona 
 
 **[Cannabis](https://ello.co/ellocannabis)** · Lead: @quechuapi
 
@@ -60,21 +46,13 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Comics](https://ello.co/comicbuzz)**
 
-**[Computer Games](https://ello.co/ellocomputergames)** · Lead: @jdarnold
-
 **[Crafting](https://ello.co/ellocrafting)** 
-
-**[Creative](https://ello.co/ellocreative)**
-
-**[Crystals](https://ello.co/ellocrystals)** · Lead: @jmckeehen & @amarisland
 
 **[Dallas](https://ello.co/dallasnews)** 
 
 **[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
 
 **[Design (Unique Collections)](https://ello.co/p-e-a-c)**
-
-**[Developers](https://ello.co/developerpanda)**
 
 **[Dice and Paper](https://ello.co/ello_dice_and_paper)** · Lead: @fuckyouthatsmyname
 
@@ -88,11 +66,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Equestrian](https://ello.co/elloequestrian)** · Lead: @sophiesoloneventing
 
-**[Ethics](https://ello.co/elloethics)** · Lead: @vegabond
-
 **[Events](https://ello.co/ello-events)** · Lead: @souldancer
-
-**[Fantasy Art](https://ello.co/ellofantasyartandphotography)** 
 
 **[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
 
@@ -124,13 +98,9 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Guilty Pleasures](https://ello.co/guilty-pleasure)** · Lead: @FreyaMoonlight
 
-**[Hipster](https://ello.co/ellohipster)**
-
 **[History](https://ello.co/oldendaze)** · Lead: @anthonystevens
 
 **[Home](https://ello.co/ellohome)** · Lead: 丹野 洋絵
-
-**[Illustration](https://ello.co/elloillustrations)** · Leads: @serena-d & @ariarosso
 
 **[Inspiration](https://ello.co/dailyinspiration)** 
 
@@ -144,8 +114,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Latin Talent](https://ello.co/ellolatintalent)**
 
-**[Law Students](https://ello.co/lawpith)**
-
 **[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
 
 **[Meditation](https://ello.co/meditation)** · Lead: @meditation
@@ -157,8 +125,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 **[Minimal](https://ello.co/ellominimal)** · Lead: @k_ng_
 
 **[Monochromatic](https://ello.co/monochromatica)** · Lead: @aelisei
-
-**[Motorcycles](https://ello.co/ellomotorcycles)** · Lead: @joycomplex
 
 **[Music (Ambient)](https://ello.co/elloambient)** · Lead: @johnkochnorthrup
 
@@ -180,8 +146,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Patterns](https://ello.co/ellopatterns)** · Lead: @pupapop
 
-**[Permaculture](https://ello.co/permaculture)**
-
 **[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
 
 **[Photography (Amateur)](https://ello.co/amateur_photography)** · Lead: @bisje
@@ -190,31 +154,21 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
-**[Photography (Mobile)](https://ello.co/ellomobilephoto)** · Lead: @mikefl99
-
 **[Photography (Nikon)](https://ello.co/ellonikon)** · Lead: @edbuzz
-
-**[Pixel Art](https://ello.co/ellopixelart)** · Lead: @thelowestdefinition
 
 **[Poems](https://ello.co/apoem_4u)** 
 
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
 
-**[Portrait](https://ello.co/elloportrait)** 
-
 **[Privacy](https://ello.co/elloprivacy)** · Lead: @mrbinsk
 
 **[Puns](https://ello.co/ellopundemonium)** 
-
-**[Quilting](https://ello.co/elloquilt)** · Lead: @saraokern
 
 **[Quotes](https://ello.co/quotes)** · Lead: @mattlaff
 
 **[Railways](https://ello.co/ellorailways)** · Lead: @kohoso
 
 **[Rants](https://ello.co/rants)** 
-
-**[Science](https://ello.co/elloscience)** · Lead: @holmezi 
 
 **[Security](https://ello.co/ellosecurity)** · Lead: @mrbinsk
 
@@ -224,21 +178,9 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Sicut Esse](https://ello.co/sicutesse)** 
 
-**[Sketchnote](https://ello.co/ellosketchnote)** · Leads: @xlontrax & @maccymacx & @jamessaretta
-
-**[Sneakers](https://ello.co/ellosneakers)** · Lead: @captnblastoff
-
 **[Sound Design](https://ello.co/sounddesign)** · Lead: @le-siul
 
-**[Space](https://ello.co/ellospace)** · Lead: @kanemassey
-
 **[Sports](https://ello.co/ellosport)** · Lead: @jpurvisturton
-
-**[Stickers](https://ello.co/ellostickers)** · Lead: @fylling
-
-**[Street Art](https://ello.co/ellostreet)** · Lead: @bbluesman
-
-**[Surfing](https://ello.co/surfphotography)** · Lead: Mike Healey
 
 **[Tapes and Vinyl](https://ello.co/ellotapesandvinyl)** · Lead: @chuckpee
 
@@ -263,8 +205,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 **[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
 
 **[Unique Goods](https://ello.co/ohgoodgoods_mag)** 
-
-**[VFX](https://ello.co/ellovfx)** · Lead: @williamvfx
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
