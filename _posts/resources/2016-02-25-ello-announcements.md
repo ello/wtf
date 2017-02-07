@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Product Updates"
-date:   2017-1-23 01:23:45 MDT
+date:   2017-2-6 01:23:45 MDT
 categories: resources
 position: 4
 ---
+Febuary 7, 2017
+[Black Art Matters & The Trotteur Categories added, NFP shipped](https://ello.co/lucian/post/sxkwnoz64awjicapidw8pa)
+
 January 31, 2017
 [Arkitip, Hi-Fructose, SPOON, NFP](https://ello.co/lucian/post/snyt80t00ioy0_tiskx0hq)
 
