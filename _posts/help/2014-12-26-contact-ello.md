@@ -15,7 +15,7 @@ Ello is run by a small team of real people who are very busy building Ello, so w
 **Abusive behavior reports:** Email: reportabuse@ello.co
 **Everything else:** Email: hello@ello.co
 
-You can also mention <span>@</span>wtf directly on Ello if you need to reach us.
+You can also mention @ello directly on Ello if you need to reach us.
 
 Follow us on:
 * [Twitter](https://twitter.com/ellohype)
