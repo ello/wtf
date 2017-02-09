@@ -170,6 +170,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Rants](https://ello.co/rants)** 
 
+**[Resistance](https://ello.co/elloresist)** · Lead: @snippe 
+
 **[Security](https://ello.co/ellosecurity)** · Lead: @mrbinsk
 
 **[Self Portraiture](https://ello.co/selfportraiture)** · Lead: @lotuscarroll
