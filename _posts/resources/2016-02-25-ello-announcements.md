@@ -5,7 +5,10 @@ date:   2017-2-6 01:23:45 MDT
 categories: resources
 position: 4
 ---
-Febuary 7, 2017
+February 21, 2017
+[New emojis, NFP Issue 02, product performance](https://ello.co/lucian/post/ry8kwzj3ql2s6q8rdlp6vq)
+
+February 7, 2017
 [Black Art Matters & The Trotteur Categories added, NFP shipped](https://ello.co/lucian/post/sxkwnoz64awjicapidw8pa)
 
 January 31, 2017
@@ -15,7 +18,7 @@ January 24, 2017
 [Cannabis added to Categories, @ellohype Snapchat](https://ello.co/lucian/post/nnjf9ajx-kdt-dxol7k71g)
 
 January 4, 2017
-[2016 Recap](https://ello.co/lucian/post/3nmm9z0h_ps99slc0fr6cg)
+[2016 recap](https://ello.co/lucian/post/3nmm9z0h_ps99slc0fr6cg)
 
 December 15, 2016
 [Not For Print on sale now!](https://ello.co/lucian/post/9upmkwzyks8xkbcmtizroq)
@@ -36,10 +39,10 @@ October 21, 2016
 [Profile updates, Hi-Fructose contest](https://ello.co/lucian/post/iajaakkdeb8yvnyp7prwng)
 
 September 27, 2016
-[New profile design, Collaborate Button, and Watch a Post](https://ello.co/lucian/post/-cxwdxs2-wsmc2nrhil8ja)
+[New profile design, Collaborate Button, Watch a Post](https://ello.co/lucian/post/-cxwdxs2-wsmc2nrhil8ja)
 
 September 15, 2016
-[Cycling added to Categories, new wall art, and NYC event](https://ello.co/lucian/post/woispiyg2bfu6v3ks_edog)
+[Cycling added to Categories, new wall art, NYC event](https://ello.co/lucian/post/woispiyg2bfu6v3ks_edog)
 
 September 1, 2016
 [Textile added to Categories](https://ello.co/lucian/post/07ycij3aq5v-3zqvzaqi3w)
