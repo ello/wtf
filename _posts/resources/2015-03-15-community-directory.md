@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Communities"
-date:   2016-03-20 01:23:45 MDT
+date:   2016-03-26 01:23:45 MDT
 categories: resources
 position: 2
 ---
@@ -210,7 +210,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
-**[Writing](https://ello.co/ellowrites)** · Lead: @kseniaanske
+**[Writing](https://ello.co/ellowrites)** · Lead: @tvansantana
 
 **[Yoga](https://ello.co/elloyoga)** · Lead: @chelsea
 
