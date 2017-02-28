@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Product Updates"
-date:   2017-2-20 01:23:45 MDT
+date:   2017-2-27 01:23:45 MDT
 categories: resources
 position: 4
 ---
+February 28, 2017
+[Following & Starred merger](https://ello.co/lucian/post/bpbt_olabdcbhnsprp0bzg)
+
 February 21, 2017
 [New emojis, NFP Issue 02, product performance](https://ello.co/lucian/post/ry8kwzj3ql2s6q8rdlp6vq)
 
