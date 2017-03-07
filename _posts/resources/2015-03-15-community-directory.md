@@ -150,6 +150,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Photography (Amateur)](https://ello.co/amateur_photography)** · Lead: @bisje
 
+**[Photography (Black & White)](https://ello.co/black-and-white-photography)** . Lead: @monique2211
+
 **[Photography (Fujifilm)](https://ello.co/ellofujifilm)** · Lead: @thelightandlens
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
