@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Product Updates"
-date:   2017-2-27 01:23:45 MDT
+date:   2017-3-13 01:23:45 MDT
 categories: resources
 position: 4
 ---
+March 14, 2017
+[Related posts & GIF optimization](https://ello.co/lucian/post/20ur3-cn3axjzijdamr5sg)
+
 February 28, 2017
 [Following & Starred merger](https://ello.co/lucian/post/bpbt_olabdcbhnsprp0bzg)
 
