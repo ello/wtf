@@ -21,5 +21,5 @@ position: 3
 **Pete Sheinbaum**, Chief Financial Officer @sheinbaum
 **Mayah Taylor**, Community Specialist @mayah
 **Alexi Ueltzen**, Social Media Manager @alexi
-**Amber Young**, Community Manager @amber
+**Amber Young**, Lead Curator @amber
 **Jay Zeschin**, Co-founder & Chief Technology Officer @jayzes
