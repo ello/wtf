@@ -142,6 +142,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[New Zealand](https://ello.co/ellonz)**
 
+**[NSFW](https://ello.co/hotsexywomen)** · Lead: @tittiesrus
+
 **[Outside](https://ello.co/ellooutside)** · Lead: @wasimofnazareth
 
 **[Patterns](https://ello.co/ellopatterns)** · Lead: @pupapop
