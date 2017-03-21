@@ -164,6 +164,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
 
+**[Poetry (Micro)](https://ello.co/micro_poetics)** · Lead: @lbrannon
+
 **[Privacy](https://ello.co/elloprivacy)** · Lead: @mrbinsk
 
 **[Puns](https://ello.co/ellopundemonium)** 
