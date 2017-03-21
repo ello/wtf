@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Product Updates"
-date:   2017-3-13 01:23:45 MDT
+date:   2017-3-20 01:23:45 MDT
 categories: resources
 position: 4
 ---
+March 21, 2017
+[Total post views, Trending update, NFP Issue 02](https://ello.co/lucian/post/ezcsltzacz5l-3wkypedxq)
+
 March 14, 2017
 [Related posts & GIF optimization](https://ello.co/lucian/post/20ur3-cn3axjzijdamr5sg)
 
