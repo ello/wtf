@@ -36,7 +36,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Bridges](https://ello.co/ellobridges)** · Lead: @anthonystevens
 
-**[Cannabis](https://ello.co/ellocannabis)** · Lead: @quechuapi
+**[Cannabis](https://ello.co/ellocannabis)** 
 
 **[Coffee](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
 
@@ -48,7 +48,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Design (Unique Collections)](https://ello.co/p-e-a-c)**
 
-**[Dice and Paper](https://ello.co/ello_dice_and_paper)** · Lead: @fuckyouthatsmyname
+**[Dice and Paper](https://ello.co/ello_dice_and_paper)** 
 
 **[DIY](https://ello.co/ellodiy)** · Lead: @alexi
 
@@ -136,11 +136,9 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
 
-**[Poems](https://ello.co/apoem_4u)** 
-
 **[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
 
-**[Poetry (Micro)](https://ello.co/micro_poetics)** · Lead: @lbrannon
+**[Poetry (Micro)](https://ello.co/micro_poetics)** 
 
 **[Privacy](https://ello.co/elloprivacy)** · Lead: @mrbinsk
 
@@ -150,7 +148,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Railways](https://ello.co/ellorailways)** · Lead: @kohoso
 
-**[Resistance](https://ello.co/elloresist)** · Lead: @snippe 
+**[Resistance](https://ello.co/elloresist)** 
 
 **[Security](https://ello.co/ellosecurity)** · Lead: @mrbinsk
 
@@ -159,8 +157,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 **[Ships](https://ello.co/elloships)** · Lead: @mattgharvey
 
 **[Sicut Esse](https://ello.co/sicutesse)** 
-
-**[Sound Design](https://ello.co/sounddesign)** · Lead: @le-siul
 
 **[Sports](https://ello.co/ellosport)** · Lead: @jpurvisturton
 
