@@ -222,9 +222,11 @@ These communities usually:
 * Format text for visual appeal
 * Post inspiring and relevant topics
 * Have a clear, explanatory bio
-* Post regularly but not excessively *
+* Are public accounts \*
+* Post regularly but not excessively \*\*
 
 If you’d like your community to be considered as an Ello Featured Community, please e-mail the Ello Community Support Team at hello@ello.co, and we’ll get back to you. 
 
-\* *(If you decide you no longer have time to lead your community, please let us know. If a community is inactive for more than 2 months, it will no longer be featured.)*
+\* *(If your community account is set to private, it will not show up in the Community Directory. If your personal account is set to private, it will not show up as the lead next to your community.)*
+\*\* *(If you decide you no longer have time to lead your community, please let us know. If a community is inactive for more than 2 months, it will no longer be featured.)*
 
