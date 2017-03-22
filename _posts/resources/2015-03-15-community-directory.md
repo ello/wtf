@@ -260,5 +260,5 @@ These communities usually:
 
 If you’d like your community to be considered as an Ello Featured Community, please e-mail the Ello Community Support Team at hello@ello.co, and we’ll get back to you. 
 
-* *(If you decide you no longer have time to lead your community, please let us know. If a community is inactive for more than 2 months, it will no longer be featured.)*
+\* *(If you decide you no longer have time to lead your community, please let us know. If a community is inactive for more than 2 months, it will no longer be featured.)*
 
