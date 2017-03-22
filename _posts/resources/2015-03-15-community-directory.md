@@ -84,7 +84,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Graphic Design](https://ello.co/graphicdesign)** · Lead: @benderski
 
-**[Green](https://ello.co/ellogreen)** · Lead: <a href="https://ello.co/andrew--lf" rel="nofollow" data-proofer-ignore>@andrew--lf</a>
+**[Green](https://ello.co/ellogreen)** 
 
 **[History](https://ello.co/oldendaze)** · Lead: @anthonystevens
 
@@ -182,7 +182,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
 
-**[Writing](https://ello.co/ellowrites)** · Lead: @tvansantana
+**[Writing](https://ello.co/ellowrites)** 
 
 **[Yoga](https://ello.co/elloyoga)** · Lead: @chelsea
 
