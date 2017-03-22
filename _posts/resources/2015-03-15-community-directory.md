@@ -78,7 +78,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Gifs](http://ello.co/gifs)** · Lead: @cacheflowe
 
-**[Glitch Art](https://ello.co/elloglitchart)** · Lead: @iamtiel
+**[Glitch Art](https://ello.co/elloglitchart)** · Lead: @philipptemmel
 
 **[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
 
