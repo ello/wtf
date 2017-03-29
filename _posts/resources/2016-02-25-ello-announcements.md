@@ -5,6 +5,9 @@ date:   2017-3-20 01:23:45 MDT
 categories: resources
 position: 4
 ---
+March 29, 2017
+[NFP Issue 02, Giveaways Category added, Rare Tempo update](https://ello.co/lucian/post/3eekwvwz3unu8xfgyoihba)
+
 March 21, 2017
 [Total post views, Trending update, NFP Issue 02](https://ello.co/lucian/post/ezcsltzacz5l-3wkypedxq)
 
