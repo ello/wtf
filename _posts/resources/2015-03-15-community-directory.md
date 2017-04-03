@@ -38,7 +38,7 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Bridges](https://ello.co/ellobridges)** · Lead: @anthonystevens
 
-**[Cannabis](https://ello.co/ellocannabis)** 
+**[Cannabis](https://ello.co/ellocannabis)** · Lead: @quechuapi 
 
 **[Coffee](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
 
