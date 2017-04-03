@@ -32,6 +32,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Backcountry](https://ello.co/ellobackcountry)** · Lead: @dutchess70
 
+**[Beer](https://ello.co/ellobrew)** · Leads: @audiophile, @lbrannon, & @thaumaturge
+
 **[Bikes](https://ello.co/bikelove)** · Lead: @kansascity
 
 **[Bridges](https://ello.co/ellobridges)** · Lead: @anthonystevens
@@ -57,6 +59,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 **[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
 
 **[Earth](https://ello.co/travelwithme)** 
+
+**[Entertainment](https://ello.co/entertainment)** 
 
 **[Equestrian](https://ello.co/elloequestrian)** · Lead: @sophiesoloneventing
 
