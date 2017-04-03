@@ -148,8 +148,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Railways](https://ello.co/ellorailways)** · Lead: @kohoso
 
-**[Resistance](https://ello.co/elloresist)** 
-
 **[Security](https://ello.co/ellosecurity)** · Lead: @mrbinsk
 
 **[Self Portraiture](https://ello.co/selfportraiture)** · Lead: @lotuscarroll
