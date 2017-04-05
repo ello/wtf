@@ -6,7 +6,7 @@ categories: resources
 position: 4
 ---
 April 5, 2017
-[Editorialization, NFP 02, @jamesjean giveaway](https://ello.co/lucian/post/-hsqawyczzvysry_nli3za_)
+[Editorialization, NFP 02, @jamesjean giveaway](https://ello.co/lucian/post/-hsqawyczzvysry_nli3za)
 
 March 29, 2017
 [NFP 02, Giveaways Category added, Rare Tempo update](https://ello.co/lucian/post/3eekwvwz3unu8xfgyoihba)
