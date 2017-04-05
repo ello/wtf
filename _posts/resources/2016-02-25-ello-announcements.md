@@ -5,11 +5,14 @@ date:   2017-3-20 01:23:45 MDT
 categories: resources
 position: 4
 ---
+April 5, 2017
+[Editorialization, NFP 02, @jamesjean giveaway](https://ello.co/lucian/post/-hsqawyczzvysry_nli3za_)
+
 March 29, 2017
-[NFP Issue 02, Giveaways Category added, Rare Tempo update](https://ello.co/lucian/post/3eekwvwz3unu8xfgyoihba)
+[NFP 02, Giveaways Category added, Rare Tempo update](https://ello.co/lucian/post/3eekwvwz3unu8xfgyoihba)
 
 March 21, 2017
-[Total post views, Trending update, NFP Issue 02](https://ello.co/lucian/post/ezcsltzacz5l-3wkypedxq)
+[Total post views, Trending update, NFP 02](https://ello.co/lucian/post/ezcsltzacz5l-3wkypedxq)
 
 March 14, 2017
 [Related posts & GIF optimization](https://ello.co/lucian/post/20ur3-cn3axjzijdamr5sg)
@@ -18,7 +21,7 @@ February 28, 2017
 [Following & Starred merger](https://ello.co/lucian/post/bpbt_olabdcbhnsprp0bzg)
 
 February 21, 2017
-[New emojis, NFP Issue 02, product performance](https://ello.co/lucian/post/ry8kwzj3ql2s6q8rdlp6vq)
+[New emojis, NFP 02, product performance](https://ello.co/lucian/post/ry8kwzj3ql2s6q8rdlp6vq)
 
 February 7, 2017
 [Black Art Matters & The Trotteur Categories added, NFP shipped](https://ello.co/lucian/post/sxkwnoz64awjicapidw8pa)
@@ -33,13 +36,13 @@ January 4, 2017
 [2016 recap](https://ello.co/lucian/post/3nmm9z0h_ps99slc0fr6cg)
 
 December 15, 2016
-[Not For Print on sale now!](https://ello.co/lucian/post/9upmkwzyks8xkbcmtizroq)
+[NFP on sale now!](https://ello.co/lucian/post/9upmkwzyks8xkbcmtizroq)
 
 December 6, 2016
 [Ello iOS app version 1.18 release](https://ello.co/lucian/post/2zgipaktvfdndvcah7nzbq)
 
 November 11, 2016
-[Location feature, Not For Print contest](https://ello.co/lucian/post/t5-tceykuzwlvsn1dw6feq)
+[Location feature, NFP contest](https://ello.co/lucian/post/t5-tceykuzwlvsn1dw6feq)
 
 November 4, 2016
 [iOS 1.17, Featured Badges](https://ello.co/lucian/post/wun29p9lzwrtew5y1ck57q)
