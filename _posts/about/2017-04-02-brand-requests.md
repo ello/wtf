@@ -15,4 +15,4 @@ We align with values-driven brands, publications and influencers to create meani
 Ello is offering many different sponsorship & partnership solutions to help brands, and agencies
 engage our amazing creative community.
 
-If you are a brand and/or agency, and would like to talk with the Ello sales team, please email sales@ello.co. 
+If you are a brand and/or agency, and would like to talk with the Ello sales team, please fill out [this form](https://docs.google.com/a/ello.co/forms/d/e/1FAIpQLSf-ZUyWKCWdDkmBVBJQDpiDW7zm0P3SICNLu2HSEOOLUvHC9Q/viewform) to contact sales, or email sales@ello.co. 
