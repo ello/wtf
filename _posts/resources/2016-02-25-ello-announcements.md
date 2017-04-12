@@ -5,6 +5,9 @@ date:   2017-3-20 01:23:45 MDT
 categories: resources
 position: 4
 ---
+April 12. 2017
+[MediaLive x Ello GIF Exhibition, Minimalism Category added](https://ello.co/lucian/post/vugokljah-gvsdmj24mpwg)
+
 April 5, 2017
 [Editorialization, NFP 02, @jamesjean giveaway](https://ello.co/lucian/post/-hsqawyczzvysry_nli3za)
 
