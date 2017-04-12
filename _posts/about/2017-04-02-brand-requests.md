@@ -8,11 +8,10 @@ position: 12
 
 ## Sponsorship & Partnership Opportunities
 
-Ello is The Creator's Network. A networked marketplace and publishing platform made expressly for creators by creators. We build products that empower creators to share & sell their work, grow their audience and increase their visibility while providing unique creative opportunities including getting hired, collaborating and participating in contests and giveaways. 
+Ello is The Creators Network. A networked marketplace and publishing platform made expressly for creators by creators. We build products that empower creators to share & sell their work, increase their visibility and grow their influence while providing unique opportunities for creators to get hired, collaborate and partake in contests and giveaways. 
 
-We align with values-driven brands, publications and influencers to create meaningful creative community experiences that put creators first.
+We align with values-driven brands, agencies and publications to create meaningful community experiences that put creators first.
 
-Ello is offering many different sponsorship & partnership solutions to help brands, and agencies
-engage our amazing creative community.
+Ello offers a variety of sponsorship & partnership solutions to help brands, agencies and publications support and engage our talented and influential creative community.
 
-If you are a brand and/or agency, and would like to talk with the Ello sales team, please fill out [this form](https://docs.google.com/a/ello.co/forms/d/e/1FAIpQLSf-ZUyWKCWdDkmBVBJQDpiDW7zm0P3SICNLu2HSEOOLUvHC9Q/viewform) to contact sales, or email sales@ello.co. 
+If you are a brand, agency or publication and you are interested in engaging the Ello community, please please fill out [this form](https://docs.google.com/a/ello.co/forms/d/e/1FAIpQLSf-ZUyWKCWdDkmBVBJQDpiDW7zm0P3SICNLu2HSEOOLUvHC9Q/viewform) or email sales@ello.co. 
