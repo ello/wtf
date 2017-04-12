@@ -3,7 +3,7 @@ layout: post
 title:  "Ello & Your Data"
 date:   2015-08-10 01:23:45
 categories: about
-position: 9
+position: 7
 ---
 Ello is a [Benefit Corporation](/wtf/about/pbc/), with a legal obligation to never display paid third party advertising, sell user data to a third party, or sell our company to anyone that would ever do any of those things.
 
