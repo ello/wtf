@@ -20,177 +20,177 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 ## Community List:
 
-**[3D](https://ello.co/ello3d)** · Lead: @momosby
+**[3D](https://ello.co/ello3d)** 
 
 **[Aircraft](https://ello.co/elloaircraft)**
 
 **[Androids](https://ello.co/elloandroid)** 
 
-**[Architecture](https://ello.co/elloarchitecture)** · Lead: @rachelmauricio
+**[Architecture](https://ello.co/elloarchitecture)** 
 
-**[Art](https://ello.co/elloart)** · Lead: @carlosbob
+**[Art](https://ello.co/elloart)** 
 
-**[Backcountry](https://ello.co/ellobackcountry)** · Lead: @dutchess70
+**[Backcountry](https://ello.co/ellobackcountry)** 
 
-**[Beer](https://ello.co/ellobrew)** · Leads: @audiophile, @lbrannon, & @thaumaturge
+**[Beer](https://ello.co/ellobrew)**
 
-**[Bikes](https://ello.co/bikelove)** · Lead: @kansascity
+**[Bikes](https://ello.co/bikelove)**
 
-**[Bridges](https://ello.co/ellobridges)** · Lead: @anthonystevens
+**[Bridges](https://ello.co/ellobridges)** 
 
-**[Cannabis](https://ello.co/ellocannabis)** · Lead: @quechuapi 
+**[Cannabis](https://ello.co/ellocannabis)** 
 
-**[Coffee](https://ello.co/ellocoffeelovers)** · Lead: @anferneeck
+**[Coffee](https://ello.co/ellocoffeelovers)** 
 
 **[Comics](https://ello.co/comicbuzz)**
 
 **[Dallas](https://ello.co/dallasnews)** 
 
-**[Design](https://ello.co/ellodesign)** · Lead: @cgwarex
+**[Design](https://ello.co/ellodesign)** 
 
 **[Design (Unique Collections)](https://ello.co/p-e-a-c)**
 
 **[Dice and Paper](https://ello.co/ello_dice_and_paper)** 
 
-**[DIY](https://ello.co/ellodiy)** · Lead: @alexi
+**[DIY](https://ello.co/ellodiy)** 
 
 **[Doodles](https://ello.co/doodlehouse)** 
 
-**[Drag](https://ello.co/ellodrag)** · Lead: @sisterindica
+**[Drag](https://ello.co/ellodrag)** 
 
 **[Earth](https://ello.co/travelwithme)** 
 
 **[Entertainment](https://ello.co/entertainment)** 
 
-**[Equestrian](https://ello.co/elloequestrian)** · Lead: @sophiesoloneventing
+**[Equestrian](https://ello.co/elloequestrian)** 
 
-**[Events](https://ello.co/ello-events)** · Lead: @souldancer
+**[Events](https://ello.co/ello-events)** 
 
-**[Fashion](https://ello.co/ellofashion)** · Lead: @pjsmith
+**[Fashion](https://ello.co/ellofashion)** 
 
 **[Fashion Photography](https://ello.co/fashionphotography)**
 
 **[Film](https://ello.co/filmfreaks)** 
 
-**[Finance](https://ello.co/ellofinance)** · Lead: @aarons_house
+**[Finance](https://ello.co/ellofinance)** 
 
 **[Food Photography](https://ello.co/ellofoodphotography)**
 
-**[Geometry](https://ello.co/geometry)** · Lead: @aarton
+**[Geometry](https://ello.co/geometry)**
 
-**[Gifs](https://ello.co/ellogifs)** · Lead: @manzello
+**[Gifs](https://ello.co/ellogifs)**
 
-**[Gifs](http://ello.co/gifs)** · Lead: @cacheflowe
+**[Gifs](http://ello.co/gifs)**
 
-**[Glitch Art](https://ello.co/elloglitchart)** · Lead: @philipptemmel
+**[Glitch Art](https://ello.co/elloglitchart)** 
 
-**[Graffiti](https://ello.co/ellograffiti)** · Lead: @fylling
+**[Graffiti](https://ello.co/ellograffiti)** 
 
-**[Graphic Design](https://ello.co/graphicdesign)** · Lead: @benderski
+**[Graphic Design](https://ello.co/graphicdesign)** 
 
 **[Green](https://ello.co/ellogreen)** 
 
-**[History](https://ello.co/oldendaze)** · Lead: @anthonystevens
+**[History](https://ello.co/oldendaze)** 
 
 **[Inspiration](https://ello.co/dailyinspiration)**
 
-**[Kite Surfing](https://ello.co/ellokitesurfers)** · Lead: @oceanromeo
+**[Kite Surfing](https://ello.co/ellokitesurfers)** 
 
-**[Landscape](https://ello.co/ellolandscape)** · Lead: @andrew_marr
+**[Landscape](https://ello.co/ellolandscape)** 
 
-**[Languages](https://ello.co/ellolanguages)** · Lead: @keiser9000
+**[Languages](https://ello.co/ellolanguages)** 
 
-**[Makers](https://ello.co/ellomakers)** · Lead: @iamthelab
+**[Makers](https://ello.co/ellomakers)**
 
-**[Meditation](https://ello.co/meditation)** · Lead: @meditation
+**[Meditation](https://ello.co/meditation)** 
 
 **[Microsoft](https://ello.co/ellomicrosoft)** 
 
-**[Minimal](https://ello.co/ellominimal)** · Lead: @k_ng_
+**[Minimal](https://ello.co/ellominimal)** 
 
-**[Monochromatic](https://ello.co/monochromatica)** · Lead: @aelisei
+**[Monochromatic](https://ello.co/monochromatica)** 
 
-**[Music (Ambient)](https://ello.co/elloambient)** · Lead: @johnkochnorthrup
+**[Music (Ambient)](https://ello.co/elloambient)** 
 
-**[Music (General)](https://ello.co/ellomusic)** · Lead: @adachic
+**[Music (General)](https://ello.co/ellomusic)** 
 
-**[Music (Hip Hop)](https://ello.co/ellohiphop)** · Lead: @ricojames
+**[Music (Hip Hop)](https://ello.co/ellohiphop)** 
 
-**[Music (Jazz)](https://ello.co/ellojazz)** · Lead: @pete_gitlin
+**[Music (Jazz)](https://ello.co/ellojazz)** 
 
 **[Nature Photography](https://ello.co/nature_photography)** 
 
-**[New Ello Users](https://ello.co/ellonew)** · Lead: @chelsea
+**[New Ello Users](https://ello.co/ellonew)**
 
-**[News](https://ello.co/ellonews)** · Lead: @dallasnews
+**[News](https://ello.co/ellonews)** 
 
-**[NSFW](https://ello.co/hotsexywomen)** · Lead: @tittiesrus
+**[NSFW](https://ello.co/hotsexywomen)** 
 
-**[Outside](https://ello.co/ellooutside)** · Lead: @wasimofnazareth
+**[Outside](https://ello.co/ellooutside)** 
 
-**[Patterns](https://ello.co/ellopatterns)** · Lead: @pupapop
+**[Patterns](https://ello.co/ellopatterns)** 
 
-**[Photography](https://ello.co/ellophotography)** · Lead: @juangonzalez
+**[Photography](https://ello.co/ellophotography)** 
 
-**[Photography (Amateur)](https://ello.co/amateur_photography)** · Lead: @bisje
+**[Photography (Amateur)](https://ello.co/amateur_photography)** 
 
-**[Photography (Black & White)](https://ello.co/black-and-white-photography)** . Lead: @monique2211
+**[Photography (Black & White)](https://ello.co/black-and-white-photography)** 
 
-**[Photography (Fujifilm)](https://ello.co/ellofujifilm)** · Lead: @thelightandlens
+**[Photography (Fujifilm)](https://ello.co/ellofujifilm)** 
 
-**[Photography (iPhone)](https://ello.co/elloiphoneography)** · Lead: @kanemassey
+**[Photography (iPhone)](https://ello.co/elloiphoneography)** 
 
-**[Poetry](https://ello.co/ellopoetry)** · Lead: @hdpoetryandmusic
+**[Poetry](https://ello.co/ellopoetry)** 
 
 **[Poetry (Micro)](https://ello.co/micro_poetics)** 
 
-**[Privacy](https://ello.co/elloprivacy)** · Lead: @mrbinsk
+**[Privacy](https://ello.co/elloprivacy)**
 
 **[Puns](https://ello.co/ellopundemonium)** 
 
-**[Quotes](https://ello.co/quotes)** · Lead: @mattlaff
+**[Quotes](https://ello.co/quotes)** 
 
-**[Railways](https://ello.co/ellorailways)** · Lead: @kohoso
+**[Railways](https://ello.co/ellorailways)** 
 
-**[Security](https://ello.co/ellosecurity)** · Lead: @mrbinsk
+**[Security](https://ello.co/ellosecurity)** 
 
-**[Self Portraiture](https://ello.co/selfportraiture)** · Lead: @lotuscarroll
+**[Self Portraiture](https://ello.co/selfportraiture)** 
 
-**[Ships](https://ello.co/elloships)** · Lead: @mattgharvey
+**[Ships](https://ello.co/elloships)** 
 
 **[Sicut Esse](https://ello.co/sicutesse)** 
 
-**[Sports](https://ello.co/ellosport)** · Lead: @jpurvisturton
+**[Sports](https://ello.co/ellosport)** 
 
-**[Tapes and Vinyl](https://ello.co/ellotapesandvinyl)** · Lead: @chuckpee
+**[Tapes and Vinyl](https://ello.co/ellotapesandvinyl)** 
 
 **[Tattoos](https://ello.co/ellotattoos)**
 
-**[Tennis](https://ello.co/tennisblog)** · Lead: @paulaewa
+**[Tennis](https://ello.co/tennisblog)** 
 
 **[Textures](https://ello.co/ellotextures)**
 
 **[Tokyo](https://ello.co/ello_tokyo)**
 
-**[Toronto](https://ello.co/ellotoronto)** · Lead: @badcamera
+**[Toronto](https://ello.co/ellotoronto)** 
 
-**[Toys](https://ello.co/ellotoys)** · Lead: @renspacemadness & @libedlulo
+**[Toys](https://ello.co/ellotoys)** 
 
-**[Travel](https://ello.co/ellotravel)** · Lead: @andreameli
+**[Travel](https://ello.co/ellotravel)** 
 
 **[Turkey](https://ello.co/elloturkiye)** 
 
-**[Typography](https://ello.co/ellotypography)** · Lead: @csilverman
+**[Typography](https://ello.co/ellotypography)** 
 
 **[Unique Goods](https://ello.co/ohgoodgoods_mag)** 
 
-**[Web Design](https://ello.co/ellowebdesign)** · Lead: @gcervello
+**[Web Design](https://ello.co/ellowebdesign)** 
 
 **[Writing](https://ello.co/ellowrites)** 
 
-**[Yoga](https://ello.co/elloyoga)** · Lead: @chelsea
+**[Yoga](https://ello.co/elloyoga)** 
 
-**[Zen](https://ello.co/ellozen)** · Lead: @afurst
+**[Zen](https://ello.co/ellozen)** 
 
 ## Here’s a quick guide to help you create and maintain your own community!
 
@@ -226,11 +226,9 @@ These communities usually:
 * Format text for visual appeal
 * Post inspiring and relevant topics
 * Have a clear, explanatory bio
-* Are public accounts \*
-* Post regularly but not excessively \*\*
+* Post regularly but not excessively \*
 
 If you’d like your community to be considered as an Ello Featured Community, please e-mail the Ello Community Support Team at hello@ello.co, and we’ll get back to you. 
 
-\* *(If your community account is set to private, it will not show up in the Community Directory. If your personal account is set to private, it will not show up as the lead next to your community.)*
-\*\* *(If you decide you no longer have time to lead your community, please let us know. If a community is inactive for more than 2 months, it will no longer be featured.)*
+\* *(If you decide you no longer have time to lead your community, please let us know. If a community is inactive for more than 2 months, it will no longer be featured.)*
 
