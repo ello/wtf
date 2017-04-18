@@ -5,8 +5,11 @@ date:   2017-3-20 01:23:45 MDT
 categories: resources
 position: 4
 ---
+April 18, 2017
+[NFP 02 deadline, MediaLive, performance updates, bug fixes](https://ello.co/lucian/post/esrxucre7onthz6jdkue1g)
+
 April 12. 2017
-[MediaLive x Ello GIF Exhibition, Minimalism Category added](https://ello.co/lucian/post/vugokljah-gvsdmj24mpwg)
+[MediaLive x Ello International GIF Exhibition, Minimalism Category added](https://ello.co/lucian/post/vugokljah-gvsdmj24mpwg)
 
 April 5, 2017
 [Editorialization, NFP 02, @jamesjean giveaway](https://ello.co/lucian/post/-hsqawyczzvysry_nli3za)
