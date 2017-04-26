@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brand"
+title: "Brands"
 date: 2017-04-02 01:00:00 MDT
 categories: about
 position: 10
