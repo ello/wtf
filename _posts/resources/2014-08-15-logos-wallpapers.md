@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ello Logos & Wallpapers"
-date:   2016-01-28 01:23:45 MDT
+title:  "Logos & Wallpapers"
+date:   2017-04-25 01:23:45 MDT
 categories: resources
 position: 3
 ---
