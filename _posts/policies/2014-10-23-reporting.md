@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Blocking & Reporting"
-date:   2015-08-10 01:23:18 MDT
+title:  "Reporting"
+date:   2017-4-25 01:23:18 MDT
 categories: policies
 position: 5
 ---
@@ -15,7 +15,7 @@ If you notice abusive behavior or someone breaking the rules, please report it i
 
 You can also use this email address to send feedback on our current blocking, muting, and flagging tools. We want your thoughts on how to keep Ello safe.
 
-Please note that this email box is strictly for abuse-related matters, and we will not respond to other requests sent here. If you are looking for help or wish to contact us for other reasons, please visit our [contact page](/wtf/help/contact-ello/) for instructions on how to do so.
+Please note that this email box is strictly for abuse-related matters, and we will not respond to other requests sent here. If you are looking for help or wish to contact us for other reasons, please visit our [contact page](/wtf/help/contact/) for instructions on how to do so.
 
 ## How can I BLOCK, MUTE, or FLAG someone who is annoying me?
 
