@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ello Manifesto"
+title:  "Manifesto"
 date:   2014-07-03 01:23:45 EST
 categories: about
 position: 4
