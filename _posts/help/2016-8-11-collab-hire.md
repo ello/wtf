@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Collab & Hire Me Button"
+title:  "Collab & Hire"
 date:   2016-10-24 04:23:18 MDT
 categories: help
 position: 4
