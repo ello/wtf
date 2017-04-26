@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Curated Categories"
+title:  "Categories"
 date:   2016-07-6 04:23:18 MDT
 categories: help
 position: 5
