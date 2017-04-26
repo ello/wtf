@@ -5,6 +5,9 @@ date:   2017-3-20 01:23:45 MDT
 categories: resources
 position: 4
 ---
+April 26, 2017
+[Second Rare Tempo art exhibition, update on Editorial Homepage, Ello Android app](https://ello.co/lucian/post/aveblbywx7fxqnr9vxpuxg)
+
 April 18, 2017
 [NFP 02 deadline, MediaLive, performance updates, bug fixes](https://ello.co/lucian/post/esrxucre7onthz6jdkue1g)
 
