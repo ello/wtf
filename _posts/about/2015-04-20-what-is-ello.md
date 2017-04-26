@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "What is Ello?"
-title_alternate:  "What is Ello?"
+title:  "Ello"
+title_alternate:  "Ello"
 date:   2016-06-6 8:43:18 MST
 categories: about
 position: 1
