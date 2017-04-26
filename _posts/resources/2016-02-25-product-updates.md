@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Product Updates"
-date:   2017-3-20 01:23:45 MDT
+date:   2017-4-25 01:23:45 MDT
 categories: resources
 position: 4
 ---
