@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Text & Emojis"
-date:   2015-04-02 01:23:45 MDT
+date:   2017-04-25 01:23:45 MDT
 categories: resources
 position: 5
 ---
