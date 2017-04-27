@@ -6,16 +6,16 @@ namespace :assets do
 end
 
 begin
-  require 'html/proofer'
+  require 'html-proofer'
   task :test => 'assets:precompile' do
-    HTML::Proofer.new('./_site',
+    HTMLProofer.check_directory('./_site',
                       verbose: true,
+                      assume_extension: true,
                       parallel: { in_processes: 3 },
                       # Can eventually move to url_swap when https://github.com/gjtorikian/html-proofer/issues/219 is merged
-                      href_swap:  { /^\/wtf/ => '' },
+                      url_swap:  { /^\/wtf/ => '' },
                       url_ignore:  [
                         'post_url',
-                        '#toggle_drawer',
                         /^\/wtf\/assets/,
                         /^\/wtf\/emoji/,
                         /appstore.com/,

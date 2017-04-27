@@ -33,21 +33,21 @@ pinterest_username: ellohype
 facebook_username: ellohype
 gplus_url: https://plus.google.com/u/0/108873324537875489413
 # other footer links
-community_directory_link: "/wtf/resources/community-directory/"
-ios_app_store_link: "/wtf/resources/mobile-features/"
+community_directory_link: "/wtf/resources/communities/"
+ios_app_store_link: "/wtf/resources/apps/"
 threadless_store_link: "http://ello.threadless.com/"
 
-footer_links: # Ello links should ommit the 'http://ello.co' and start with a slash (i.e. http://ello.co/wtf/resources/community-directory/ --> /wtf/resources/community-directory/)
+footer_links: # Ello links should omit the 'http://ello.co' and start with a slash (i.e. http://ello.co/wtf/resources/communities/ --> /wtf/resources/communities/)
 - text: Ello Manifesto
-  url: /wtf/about/ello-manifesto/
+  url: /wtf/about/manifesto/
 - text: Contact Ello
-  url: /wtf/help/contact-ello/
+  url: /wtf/help/contact/
 - text: Terms of Use
-  url: /wtf/policies/terms-of-use/
+  url: /wtf/policies/terms/
 - text: Privacy Policy
-  url: /wtf/policies/privacy-policy/
+  url: /wtf/policies/privacy/
 login_path: /enter
-join_path: /beta-public-profiles
+join_path: /
 
 ## Time Zone and future publishing
 timezone: Mountain Time
