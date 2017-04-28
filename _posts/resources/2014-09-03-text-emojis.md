@@ -4,6 +4,10 @@ title:  "Text & Emojis"
 date:   2017-04-25 01:23:45 MDT
 categories: resources
 position: 5
+redirect_from:
+  - /resources/emojis/
+  - /post/using-ello-markdown-to-format-text
+  - /post/emojis
 ---
 
 In the Ello Omnibar, you have a great deal of control over how your text looks. You can **bold**, _italicize_, and <strike>strikethrough</strike> text. You can create lists, links and much more!

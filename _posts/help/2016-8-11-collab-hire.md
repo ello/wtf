@@ -4,8 +4,10 @@ title:  "Collab & Hire"
 date:   2016-10-24 04:23:18 MDT
 categories: help
 position: 4
+redirect_from:
+  - /help/collab-hire/
 ---
-{% image hireme.gif %}
+{% image hireme.gif alt="Collaborate or get hired on Ello" %}
 
 The Hire Me Button tells potential clients you’re available for work and gives them an easy way to contact you privately. The Collaborate Button enables fellow creators that want to collaborate to email you.
 

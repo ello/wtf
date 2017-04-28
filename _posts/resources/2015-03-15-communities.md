@@ -4,6 +4,9 @@ title:  "Communities"
 date:   2016-03-26 01:23:45 MDT
 categories: resources
 position: 2
+redirect_from:
+  - /resources/community-directory/
+  - /post/communitydirectory
 ---
 
 <!--- DO NOT DELETE. App links lead here. --->

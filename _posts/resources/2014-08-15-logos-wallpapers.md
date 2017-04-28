@@ -4,6 +4,12 @@ title:  "Logos & Wallpapers"
 date:   2017-04-25 01:23:45 MDT
 categories: resources
 position: 3
+redirect_from:
+  - /resources/logos/
+  - /post/ello-logo
+  - /post/wallpapers
+  - /post/ellobread
+  - /post/ellosmiley
 ---
 Here are some Ello logos that you can use on your web site to help get the word out about Ello. You can also make your own Ello Button [here](https://ello.co/wtf/resources/ello-button/).
 
@@ -23,27 +29,26 @@ Download the package [here](/wtf/downloads/ello.logos.package.zip). You can also
 
 <br><br><br>
 
-{% image logo1.jpg %}
-{% image logo2.jpg %}
-{% image logo3.jpg %}
-{% image logo4.jpg %}
-{% image logo5.jpg %}
+{% image logo1.jpg alt="Ello Logo #1" %}
+{% image logo2.jpg alt="Ello Logo #2" %}
+{% image logo3.jpg alt="Ello Logo #3" %}
+{% image logo4.jpg alt="Ello Logo #4" %}
+{% image logo5.jpg alt="Ello Logo #5" %}
 
 The special Ello Pride logo.
 
-{% image pridelogo1.gif %}
-{% image pridelogo2.gif %}
-{% image pridelogo3.gif %}
-{% image pridelogo4.gif %}
-{% image pridelogo5.gif %}
+{% image pridelogo1.gif alt="Ello Pride Logo #1" %}
+{% image pridelogo2.gif alt="Ello Pride Logo #2" %}
+{% image pridelogo3.gif alt="Ello Pride Logo #3" %}
+{% image pridelogo4.gif alt="Ello Pride Logo #4" %}
+{% image pridelogo5.gif alt="Ello Pride Logo #5" %}
 
-## For Desktop & Apple Watch
 
-{% image ello.apple.watch.face.800.jpg %}
+{% image ello.apple.watch.face.800.jpg alt="Ello Logo Apple Watch Face" %}
 
-## Wallpapers:
+## Wallpapers for Desktop & Apple Watch
 
-{% image greg-foley-wallpaper.jpg %}
+{% image greg-foley-wallpaper.jpg alt="Ello Wallpaper - Color Preference 79 by @gregfoley" %}
 
 Color Preference 79 by @gregfoley
 
@@ -54,7 +59,7 @@ Color Preference 79 by @gregfoley
 [Get the shirt](http://ello.threadless.com/#/product/gregfoley/mens)
 
 
-{% image praystation-wallpaper.jpg %}
+{% image praystation-wallpaper.jpg alt="Ello Wallpaper - XXX by @praystation" %}
 
 XXX by @praystation
 
@@ -65,7 +70,7 @@ XXX by @praystation
 [Get the shirt](http://ello.threadless.com/#/product/praystation/mens)
 
 
-{% image celeste-wallpaper.jpg %}
+{% image celeste-wallpaper.jpg alt="Ello Wallpaper - Breakfast 79 by @celeste" %}
 
 Breakfast 79 by @celeste
 
@@ -76,7 +81,7 @@ Breakfast 79 by @celeste
 [Get the shirt](http://ello.threadless.com/#/product/celeste/womens)
 
 
-{% image pillars-of-creation-wallpaper.jpg %}
+{% image pillars-of-creation-wallpaper.jpg alt="Ello Wallpaper - Pillars of Creation" %}
 
 [Pillars of Creation](http://www.spacetelescope.org/news/heic1501/)
 
@@ -84,7 +89,7 @@ Breakfast 79 by @celeste
 [iPhone](http://wallpapers.ello.co/nasa2/Ello.NASA.Wallpaper_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/nasa2/Ello.NASA.Wallpaper_iPhone%205.jpg) / [iPhone 6](http://wallpapers.ello.co/nasa2/Ello.NASA.Wallpaper_iPhone%206.jpg) / [iPhone 6\+](http://wallpapers.ello.co/nasa2/Ello.NASA.Wallpaper_iPhone%206plus.jpg) / [iPad](http://wallpapers.ello.co/nasa2/Ello.NASA.Wallpaper_iPad.jpg)
 
 
-{% image pillars-of-creation-2-wallpaper.jpg %}
+{% image pillars-of-creation-2-wallpaper.jpg alt="Ello Wallpaper - Pillars of Creation #2" %}
 
 [Pillars of Creation (Infrared)](http://www.spacetelescope.org/news/heic1501/)
 
@@ -92,7 +97,7 @@ Breakfast 79 by @celeste
 [iPhone](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_iPhone%205.jpg) / [iPhone 6](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_iPhone%206.jpg) / [iPhone 6\+](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_iPhone%206plus.jpg) / [iPad](http://wallpapers.ello.co/nasa/Ello.NASA.Wallpaper_iPad.jpg)
 
 
-{% image upso-wallpaper.jpg %}
+{% image upso-wallpaper.jpg alt="Ello Wallpaper - Have Fun by @upso" %}
 
 Have Fun by @upso
 
@@ -103,7 +108,7 @@ Have Fun by @upso
 [Get the shirt](http://ello.threadless.com/#/product/upso/mens)
 
 
-{% image bread-wallpaper.jpg %}
+{% image bread-wallpaper.jpg alt="Ello Wallpaper - Bread" %}
 
 [1280x800](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_3840x2400.jpg)  
 [iPhone](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone%205.jpg) / [iPhone 6](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone%206.jpg) / [iPhone 6\+](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPhone%206plus.jpg) / [iPad](http://wallpapers.ello.co/threadless/bread/Ello.Wallpaper.Bread_iPad.jpg)
@@ -111,7 +116,7 @@ Have Fun by @upso
 [Get the shirt](http://ello.threadless.com/#/product/bread/mens)
 
 
-{% image color-cave-wallpaper.jpg %}
+{% image color-cave-wallpaper.jpg alt="Ello Wallpaper - Color Cave by @nopattern" %}
 
 Color Cave by @nopattern
 
@@ -122,7 +127,7 @@ Color Cave by @nopattern
 [Get the shirt](http://ello.threadless.com/#/product/nopattern/mens)
 
 
-{% image white-wallpaper.jpg %}
+{% image white-wallpaper.jpg alt="Ello Wallpaper - White" %}
 
 [1280x800](http://wallpapers.ello.co/white/Ello.Wallpaper-White_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/white/Ello.Wallpaper-White_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/white/Ello.Wallpaper-White_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/white/Ello.Wallpaper-White_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/white/Ello.Wallpaper-White_2560x1440.jpg) / [3840x2400](http://wallpapers.ello.co/white/Ello.Wallpaper-White_3840x2400.jpg)  
 [iPhone](http://wallpapers.ello.co/white/Ello.Wallpaper-White_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/white/Ello.Wallpaper-White_iPhone%205.jpg) / [iPhone 6](http://wallpapers.ello.co/white/Ello.Wallpaper-White_iPhone%206.jpg) / [iPhone 6\+](http://wallpapers.ello.co/white/Ello.Wallpaper-White_iPhone%206plus.jpg) / [iPad](http://wallpapers.ello.co/white/Ello.Wallpaper-White_iPad.jpg)
@@ -130,14 +135,14 @@ Color Cave by @nopattern
 [Get the shirt](http://ello.threadless.com/#/product/white/mens)
 
 
-{% image grey-wallpaper.jpg %}
+{% image grey-wallpaper.jpg alt="Ello Wallpaper - Grey" %}
 
 [Apple Watch](http://wallpapers.ello.co/white/Ello.Apple.Watch.Face_White.png) / [1280x800](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_2560x1440.jpg)
 
 [3840x2400](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_3840x2400.jpg) / [iPhone](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_iPhone.jpg) / [iPhone 5](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_iPhone%205.jpg) / [iPhone 6](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_iPhone%206.jpg) / [iPhone 6\+](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_iPhone%206plus.jpg) / [iPad](http://wallpapers.ello.co/grey/Ello.Wallpaper-Grey_iPad.jpg)
 
 
-{% image black-wallpaper.jpg %}
+{% image black-wallpaper.jpg alt="Ello Wallpaper - Black" %}
 
 [Apple Watch](http://wallpapers.ello.co/black/Ello.Apple.Watch.Face_Black.png) / [1280x800](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_1280x800.jpg) / [1440x900](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_1440x900.jpg) / [1680x1050](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_1680x1050.jpg) / [1920x1200](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_1920x1200.jpg) / [2560x1440](http://wallpapers.ello.co/black/Ello.Wallpaper-Black_2560x1440.jpg)
 
