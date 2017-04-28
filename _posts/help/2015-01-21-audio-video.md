@@ -4,6 +4,9 @@ title:  "Audio & Video"
 date:   2015-06-11 04:23:18 MDT
 categories: help
 position: 9
+redirect_from:
+  - /help/audio-and-video/
+  - /post/audio-and-video
 ---
 ## What audio and video services does Ello support?
 

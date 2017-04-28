@@ -70,6 +70,7 @@ gems:
   - jemoji
   - jekyll-html-pipeline
   - jekyll-assets
+  - jekyll-redirect-from
 
 ## markdown flavor
 markdown: HTMLPipeline

@@ -71,6 +71,8 @@ GEM
       html-pipeline (~> 1.0)
       jekyll (>= 2.0)
     jekyll-paginate (1.1.0)
+    jekyll-redirect-from (0.11.0)
+      jekyll (>= 2.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-watch (1.3.0)
@@ -144,6 +146,7 @@ DEPENDENCIES
   jekyll
   jekyll-assets
   jekyll-html-pipeline
+  jekyll-redirect-from
   jemoji
   newrelic_rpm
   puma

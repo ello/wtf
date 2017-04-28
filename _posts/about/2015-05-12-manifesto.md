@@ -5,6 +5,8 @@ date:   2014-07-03 01:23:45 EST
 categories: about
 position: 4
 shareable: true
+redirect_from:
+  - /post/manifesto
 ---
 Your social network is owned by advertisers.
 

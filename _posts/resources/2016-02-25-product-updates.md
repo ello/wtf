@@ -4,6 +4,9 @@ title:  "Product Updates"
 date:   2017-4-25 01:23:45 MDT
 categories: resources
 position: 4
+redirect_from:
+  - /resources/ello-announcements/
+  - /post/featurelist
 ---
 April 26, 2017
 [Second Rare Tempo art exhibition, update on Editorial Homepage, Ello Android app](https://ello.co/lucian/post/aveblbywx7fxqnr9vxpuxg)

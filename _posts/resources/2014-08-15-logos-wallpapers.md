@@ -4,6 +4,12 @@ title:  "Logos & Wallpapers"
 date:   2017-04-25 01:23:45 MDT
 categories: resources
 position: 3
+redirect_from:
+  - /resources/logos/
+  - /post/ello-logo
+  - /post/wallpapers
+  - /post/ellobread
+  - /post/ellosmiley
 ---
 Here are some Ello logos that you can use on your web site to help get the word out about Ello. You can also make your own Ello Button [here](https://ello.co/wtf/resources/ello-button/).
 
