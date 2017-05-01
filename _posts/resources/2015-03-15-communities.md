@@ -23,8 +23,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 ## Community List:
 
-**[3D](https://ello.co/ello3d)** 
-
 **[Aircraft](https://ello.co/elloaircraft)**
 
 **[Androids](https://ello.co/elloandroid)** 
@@ -73,8 +71,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Fashion Photography](https://ello.co/fashionphotography)**
 
-**[Film](https://ello.co/filmfreaks)** 
-
 **[Finance](https://ello.co/ellofinance)** 
 
 **[Food Photography](https://ello.co/ellofoodphotography)**
@@ -87,8 +83,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Glitch Art](https://ello.co/elloglitchart)** 
 
-**[Graffiti](https://ello.co/ellograffiti)** 
-
 **[Graphic Design](https://ello.co/graphicdesign)** 
 
 **[Green](https://ello.co/ellogreen)** 
@@ -96,8 +90,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 **[History](https://ello.co/oldendaze)** 
 
 **[Inspiration](https://ello.co/dailyinspiration)**
-
-**[Kite Surfing](https://ello.co/ellokitesurfers)** 
 
 **[Landscape](https://ello.co/ellolandscape)** 
 
@@ -157,8 +149,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Security](https://ello.co/ellosecurity)** 
 
-**[Self Portraiture](https://ello.co/selfportraiture)** 
-
 **[Ships](https://ello.co/elloships)** 
 
 **[Sicut Esse](https://ello.co/sicutesse)** 
@@ -184,8 +174,6 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 **[Turkey](https://ello.co/elloturkiye)** 
 
 **[Typography](https://ello.co/ellotypography)** 
-
-**[Unique Goods](https://ello.co/ohgoodgoods_mag)** 
 
 **[Web Design](https://ello.co/ellowebdesign)** 
 
