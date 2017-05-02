@@ -5,7 +5,7 @@ date:   2016-10-24 04:23:18 MDT
 categories: help
 position: 4
 redirect_from:
-  - /help/collab-hire/
+  - /help/hire-me/
 ---
 {% image hireme.gif alt="Collaborate or get hired on Ello" %}
 
