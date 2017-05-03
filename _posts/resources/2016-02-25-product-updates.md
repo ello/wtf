@@ -8,6 +8,9 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+May 3, 2017
+[Android Beta, Badges, Search Improvements](https://ello.co/lucian/post/gmjzuxleyatkxorudsbeug)
+
 April 26, 2017
 [Second Rare Tempo art exhibition, update on Editorial Homepage, Ello Android app](https://ello.co/lucian/post/aveblbywx7fxqnr9vxpuxg)
 
