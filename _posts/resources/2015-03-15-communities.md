@@ -23,6 +23,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 ## Community List:
 
+**[Abstract](https://ello.co/elloabstract)**
+
 **[Aircraft](https://ello.co/elloaircraft)**
 
 **[Androids](https://ello.co/elloandroid)** 
