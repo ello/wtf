@@ -1,13 +1,16 @@
 ---
 layout: post
 title:  "Product Updates"
-date:   2017-4-25 01:23:45 MDT
+date:   2017-5-09 01:23:45 MDT
 categories: resources
 position: 4
 redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+May 10, 2017
+[Nabaroo acquisition, NFP 02 pre-sale, Rare Tempo & International GIF selections](https://ello.co/lucian/post/vukfrtmb1wt49omuni9uag)
+
 May 3, 2017
 [Android Beta, Badges, Search Improvements](https://ello.co/lucian/post/gmjzuxleyatkxorudsbeug)
 
