@@ -47,6 +47,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Comics](https://ello.co/comicbuzz)**
 
+**[Crystals](https://ello.co/ellocrystals)**
+
 **[Dallas](https://ello.co/dallasnews)** 
 
 **[Design](https://ello.co/ellodesign)** 
