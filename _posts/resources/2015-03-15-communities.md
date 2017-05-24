@@ -151,6 +151,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Railways](https://ello.co/ellorailways)** 
 
+**[Rocks](https://ello.co/ellorockhounds)**
+
 **[Security](https://ello.co/ellosecurity)** 
 
 **[Ships](https://ello.co/elloships)** 
