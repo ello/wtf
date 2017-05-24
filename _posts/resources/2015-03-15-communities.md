@@ -95,6 +95,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Inspiration](https://ello.co/dailyinspiration)**
 
+**[Jewels](https://ello.co/ellojewels)** 
+
 **[Landscape](https://ello.co/ellolandscape)** 
 
 **[Languages](https://ello.co/ellolanguages)** 
