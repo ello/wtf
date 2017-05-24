@@ -41,6 +41,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Bridges](https://ello.co/ellobridges)** 
 
+**[Cabochons](https://ello.co/cabochons)**
+
 **[Cannabis](https://ello.co/ellocannabis)** 
 
 **[Coffee](https://ello.co/ellocoffeelovers)** 
