@@ -8,6 +8,9 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+May 24, 2017
+[Field Mag, Relish update, weekly giveaways](https://ello.co/lucian/post/hoskawztwn1lzgxvueezog)
+
 May 17, 2017
 [Artist Invites, Relish Vol 1, Hidden Faces & Somber Nudity](https://ello.co/lucian/post/f7mlqlak_mqft4xjop7ymw)
 
