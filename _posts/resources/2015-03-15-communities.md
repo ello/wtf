@@ -67,6 +67,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Earth](https://ello.co/travelwithme)** 
 
+**[Electroforming](https://ello.co/elloelectroforming)**
+
 **[Entertainment](https://ello.co/entertainment)** 
 
 **[Equestrian](https://ello.co/elloequestrian)** 
