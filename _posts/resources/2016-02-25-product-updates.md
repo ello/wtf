@@ -1,13 +1,16 @@
 ---
 layout: post
 title:  "Product Updates"
-date:   2017-5-16 01:23:45 MDT
+date:   2017-5-31 01:23:45 MDT
 categories: resources
 position: 4
 redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+June 1, 2017
+[Editorial homepage, #PHOTOGRAPHY Magazine, last call for RELISH submissions](https://ello.co/lucian/post/wbrnn6aslldczlxrdsg2yq)
+
 May 24, 2017
 [Field Mag, Relish update, weekly giveaways](https://ello.co/lucian/post/hoskawztwn1lzgxvueezog)
 
