@@ -175,6 +175,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Textures](https://ello.co/ellotextures)**
 
+**[Thrift](https://ello.co/ellothrift)**
+
 **[Tokyo](https://ello.co/ello_tokyo)**
 
 **[Toronto](https://ello.co/ellotoronto)** 
