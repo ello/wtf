@@ -8,6 +8,9 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+June 21, 2017
+[Updated Search & Editorial Homepage, Following, Trending, Giveaways](https://ello.co/lucian/post/zmqzduueab92huiszeua1a)
+
 June 7, 2017
 [Digital Decade, Trending, Discover & Following Streams](https://ello.co/lucian/post/6yrrkpb8gcgxjtgrl3jsiw)
 
