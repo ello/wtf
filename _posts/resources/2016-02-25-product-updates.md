@@ -8,6 +8,9 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+June 7, 2017
+[Digital Decade, Trending, Discover & Following Streams](https://ello.co/lucian/post/6yrrkpb8gcgxjtgrl3jsiw)
+
 June 1, 2017
 [Editorial homepage, #PHOTOGRAPHY Magazine, last call for RELISH submissions](https://ello.co/lucian/post/wbrnn6aslldczlxrdsg2yq)
 
