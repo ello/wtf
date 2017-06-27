@@ -95,6 +95,8 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Green](https://ello.co/ellogreen)** 
 
+**[Handmade](https://ello.co/handmadeconnect)**
+
 **[History](https://ello.co/oldendaze)** 
 
 **[Inspiration](https://ello.co/dailyinspiration)**
