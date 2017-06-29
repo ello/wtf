@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "Ello"
-title_alternate:  "Ello"
+title:  "Artist Invites"
+title_alternate:  "Artist Invites"
 date:   2017-06-29 8:43:18 MST
 categories: about
-position: 1
-redirect_from:
-  - /about/what-is-ello/
-  - /post/about-ello
+position: 8
 ---
 
 
