@@ -3,7 +3,7 @@ layout: post
 title:  "Not for Print"
 date:   2017-05-16 01:23:45 MDT
 categories: about
-position: 10
+position: 8
 redirect_from:
   
 ---
