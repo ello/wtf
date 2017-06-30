@@ -105,7 +105,9 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 **[Landscape](https://ello.co/ellolandscape)** 
 
-**[Languages](https://ello.co/ellolanguages)** 
+**[Languages](https://ello.co/ellolanguages)**
+
+**[Latin Talent](https://ello.co/ellolatintalent)**
 
 **[Makers](https://ello.co/ellomakers)**
 
