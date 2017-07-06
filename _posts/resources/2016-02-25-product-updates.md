@@ -8,6 +8,9 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+July 5, 2017
+[Editorial RSS Feed, Guest Editor Artist Invite, Selected RELISH Artists, Giveaways](https://ello.co/lucian/post/ulrkdiusjqpjvculbly_ug)
+
 June 21, 2017
 [Updated Search & Editorial Homepage, Following, Trending, Giveaways](https://ello.co/lucian/post/zmqzduueab92huiszeua1a)
 
