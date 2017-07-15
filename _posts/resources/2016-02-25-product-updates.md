@@ -8,6 +8,9 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+July 12, 2017
+[iOS Editorials, Guest Editor, Digital Decade, Giveaways](https://ello.co/lucian/post/7vxixk22yaw7aivmzlbwyg)
+
 July 5, 2017
 [Editorial RSS Feed, Guest Editor Artist Invite, Selected RELISH Artists, Giveaways](https://ello.co/lucian/post/ulrkdiusjqpjvculbly_ug)
 
