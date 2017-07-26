@@ -8,6 +8,9 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+July 18, 2017
+[Fresh Artist Invites, Interviews, Not For Print](https://ello.co/lucian/post/e-j8p2qufwoih1a4oehvgg)
+
 July 12, 2017
 [iOS Editorials, Guest Editor, Digital Decade, Giveaways](https://ello.co/lucian/post/7vxixk22yaw7aivmzlbwyg)
 
