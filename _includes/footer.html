@@ -105,20 +105,5 @@
         </li>
       {% endif %}
     </ul>
-
-    {% assign footer_columns = "column-1|column-2" | split: "|" %}
-    {% assign links_total = site.footer_links | size %}
-    {% for column in footer_columns %}
-      {% capture local_path %}{{ site.baseurl }}{{ page.url }}{% endcapture %}
-      {% assign index = forloop.index | minus: 1 %}
-      {% assign index_link_1 = index | times: 2 %}
-      {% assign index_link_2 = index | times: 2 | plus: 1 %}
-      {% assign link_1 = site.footer_links[index_link_1] %}
-      {% assign link_2 = site.footer_links[index_link_2] %}
-      <ul>
-        <li{% if local_path == link_1.url %} class="current"{% endif %}><a href="{{ link_1.url }}"{% if link_1.url contains 'http' %} target="_blank"{% endif %}>{{ link_1.text }}</a></li>
-        <li{% if local_path == link_2.url %} class="current"{% endif %}><a href="{{ link_2.url }}"{% if link_2.url contains 'http' %} target="_blank"{% endif %}>{{ link_2.text }}</a></li>
-      </ul>
-    {% endfor %}
   </nav>
 </footer>

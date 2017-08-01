@@ -37,15 +37,6 @@ community_directory_link: "/wtf/resources/communities/"
 ios_app_store_link: "/wtf/resources/apps/"
 threadless_store_link: "http://ello.threadless.com/"
 
-footer_links: # Ello links should omit the 'http://ello.co' and start with a slash (i.e. http://ello.co/wtf/resources/communities/ --> /wtf/resources/communities/)
-- text: Ello Manifesto
-  url: /wtf/about/manifesto/
-- text: Contact Ello
-  url: /wtf/help/contact/
-- text: Terms of Use
-  url: /wtf/policies/terms/
-- text: Privacy Policy
-  url: /wtf/policies/privacy/
 login_path: /enter
 join_path: /
 
