@@ -4,9 +4,9 @@ footer.bottom {
   position: absolute;
   bottom: 0;
   padding-top: $smallColumn_px * 4;
-  padding-bottom: $smallColumn_px;
+  padding-bottom: $smallColumn_px * 3.8;
   width: 100%;
-  height: $smallColumn_px + $smallColumn_px + 200px; // part of the hack to push footer down
+  height: $smallColumn_px + ($smallColumn_px * 3.8) + 200px; // part of the hack to push footer down
   max-width: $layoutWidth_px + $gutter_px;
   nav {
     width: 100%;
@@ -23,17 +23,17 @@ footer.bottom {
 
       li {
         display: block;        
-        margin-bottom: 1rem;
-        width: 100%;
-        max-width: $largeColumn_px;
+        margin-bottom: 0.4rem;
+        float: left;
+        clear: left;
         a {
           display: block;
           // background-color: rgba(pink,0.5);
           padding: 0.25rem 0 0.25rem 0;
-          color: $grey3;
+          color: $black;
 
           &:hover {
-            color: $black;
+            color: $grey3;
           }
 
           strong {
@@ -53,6 +53,8 @@ footer.bottom {
           margin: 0;
           padding: 0;
           width: auto;
+          float: none;
+          clear: none;
           a {
             display: block;
             padding: 0;
