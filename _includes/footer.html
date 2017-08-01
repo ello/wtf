@@ -1,36 +1,6 @@
 <footer class="bottom clear">
   <nav class="clear">
     <ul>
-      {% if site.community_directory_link %}
-        <li>
-          <a href="{{ site.community_directory_link }}" class="social community_directory clear">
-            <span class="icon">
-              {% include svg/community_directory_icon.svg %}
-            </span>
-            <span class="label">Community Directory</span>
-          </a>
-        </li>
-      {% endif %}
-      {% if site.ios_app_store_link %}
-        <li>
-          <a href="{{ site.ios_app_store_link }}" class="social ios_app" target="_blank">
-            <span class="icon">
-              {% include svg/ios_app_icon.svg %}
-            </span>
-            <span class="label">Ello Mobile Apps</span>
-          </a>
-        </li>
-      {% endif %}
-      {% if site.threadless_store_link %}
-        <li>
-          <a href="{{ site.threadless_store_link }}" class="social threadless" target="_blank">
-            <span class="icon">
-              {% include svg/threadless_icon.svg %}
-            </span>
-            <span class="label"><strong>Ello x </strong>Threadless Store</span>
-          </a>
-        </li>
-      {% endif %}
     </ul>
 
     <ul class="social">
@@ -91,16 +61,6 @@
               {% include svg/social/facebook_icon.svg %}
             </span>
             <span class="label">Follow us on Facebook</span>
-          </a>
-        </li>
-      {% endif %}
-      {% if site.gplus_url %}
-        <li>
-          <a href="{{ site.gplus_url }}" class="social gplus" target="_blank">
-            <span class="icon">
-              {% include svg/social/gplus_icon.svg %}
-            </span>
-            <span class="label">Follow us on Google+</span>
           </a>
         </li>
       {% endif %}
