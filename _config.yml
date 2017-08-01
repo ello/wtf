@@ -37,9 +37,6 @@ community_directory_link: "/wtf/resources/communities/"
 ios_app_store_link: "/wtf/resources/apps/"
 threadless_store_link: "http://ello.threadless.com/"
 
-login_path: /enter
-join_path: /
-
 ## Time Zone and future publishing
 timezone: Mountain Time
 future: false # false: only post future-dated articles once we've reached the proper time
