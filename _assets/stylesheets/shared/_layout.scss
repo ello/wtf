@@ -10,7 +10,6 @@ html {
 }
 
 body {
-  padding: $gutter_px 0 0 $gutter_px;
   height:100%; // hack for pushing footer to bottom
   background-color: $white;
 }
@@ -47,12 +46,32 @@ svg {
 #main_content,
 #search_content {
   position: relative;
+  padding-left: $gutter_px;
   // padding-bottom: 2.5rem;
   padding-bottom: $smallColumn_px + $smallColumn_px + 15px + 200px + 30px; // part of the hack to push footer down
   width: 100%;
   min-height: 100%; // hack for pushing footer to bottom
   max-width: $layoutWidth_px;
   // background-color: yellow;
+}
+
+.page-header {
+  position: relative;
+  padding-bottom: 34%;
+  margin-bottom: 70px;
+  width: 100%;
+  background-color: pink;
+
+  .constraint {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+    h1 {
+      @include center-align;
+      text-align: center;
+    }
+  }
 }
 
 .category {

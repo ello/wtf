@@ -58,6 +58,15 @@ $smallColumn_px:     20px;
   transform: translateY(-$amount);
 }
 
+@mixin center-align {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateY(-50%) translateX(-50%);
+  -ms-transform: translateY(-50%) translateX(-50%);
+  transform: translateY(-50%) translateX(-50%);
+}
+
 @mixin translate_x_y($xAmount,$yAmount) {
   -webkit-transform: translateX(-$xAmount) translateY(-$yAmount);
   -ms-transform: translateX(-$xAmount) translateY(-$yAmount);
@@ -250,6 +259,12 @@ $smallColumn_px:     20px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+@mixin content-box {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
 }
 
 @mixin text_size_adjust($percentage) {
