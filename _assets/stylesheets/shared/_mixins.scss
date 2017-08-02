@@ -30,7 +30,7 @@ $smallColumn_px:     20px;
 }
 
 @mixin centered_bg_image() {
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }

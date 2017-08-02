@@ -60,12 +60,14 @@ svg {
   padding-bottom: 34%;
   margin-bottom: 70px;
   width: 100%;
-  background-color: pink;
+  background-color: $grey2;
+  @include centered_bg_image;
 
   .constraint {
     position: absolute;
     width: 100%;
     height: 100%;
+    background-color: rgba($black,0.5);
 
     h1 {
       @include center-align;

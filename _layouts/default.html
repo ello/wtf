@@ -12,11 +12,9 @@
         {% include search_content.html %}
       </div>
 
-      <header class="page-header">
-        <div class="constraint">
-          <h1>I am page header</h1>
-        </div>
-      </header>
+      {% capture page_header_text %}The Creators Network{% endcapture %}
+      {% capture page_header_image %}{% asset_path 'page-headers/header_creators-network.png' %}{% endcapture %}
+      {% include page_header.html %}
 
       <div id="main_content" class="clear">
 
