@@ -16,16 +16,26 @@
   src: url("//fonts.ello.co/AtlasGrotesk-Bold-Web.eot");
   src: url("//fonts.ello.co/AtlasGrotesk-Bold-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasGrotesk-Bold-Web.woff") format("woff"), url("//fonts.ello.co/AtlasGrotesk-Bold-Web.ttf") format("truetype"), url("//fonts.ello.co/AtlasGrotesk-Bold-Web.svg#AtlasGroteskBold") format("svg");
 }
+@font-face {
+  font-family: "AtlasGroteskBlack";
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  src: url("//fonts.ello.co/AtlasGrotesk-Black-Web.eot");
+  src: url("//fonts.ello.co/AtlasGrotesk-Black-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasGrotesk-Black-Web.woff") format("woff"), url("//fonts.ello.co/AtlasGrotesk-Black-Web.ttf") format("truetype"), url("//fonts.ello.co/AtlasGrotesk-Black-Web.svg#AtlasGroteskBlack") format("svg");
+}
 
-$groteskRegular: "AtlasGroteskRegular", "AtlasGrotesk-Regular", "Helvetica Neue", "HelveticaNeue", "Helvetica", sans-serif;     // weight 400
-$groteskBold:    "AtlasGroteskBold", "AtlasGrotesk-Bold", "Helvetica Neue", "HelveticaNeue", "Helvetica", "Arial", sans-serif;  // weight 700
+$groteskRegular: "AtlasGroteskRegular", "AtlasGrotesk-Regular", "Helvetica Neue", "HelveticaNeue", "Helvetica", sans-serif;      // weight 400
+$groteskBold:    "AtlasGroteskBold", "AtlasGrotesk-Bold", "Helvetica Neue", "HelveticaNeue", "Helvetica", "Arial", sans-serif;   // weight 700
+$groteskBlack:   "AtlasGroteskBlack", "AtlasGrotesk-Black", "Helvetica Neue", "HelveticaNeue", "Helvetica", "Arial", sans-serif; // weight 900
 
 /* Typography Bible -------------------
 
 * Atlas Grotesk Regular (400)
 * Atlas Grotesk Bold (700)
+* Atlas Grotesk Black (900)
 
-handle italics with font-style: italic
+handle italics with font-style: italic (no italics available for Black)
 
 ------------------- */
 
@@ -163,7 +173,7 @@ blockquote {
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ site-wide defaults
 
-$bigText: 1.5rem;
-$bigTextLine: 2.25rem;
-$bigText_m: 1.1rem;
-$bigTextLine_m: 1.35rem;
+$bigText: 9rem;
+$bigTextLine: 12rem;
+$bigText_m: 7.5rem;
+$bigTextLine_m: 10rem;

@@ -70,6 +70,10 @@ svg {
     background-color: rgba($black,0.5);
 
     h1 {
+      font-family: $groteskBlack;
+      font-size: $bigText;
+      line-height: $bigText;
+      color: $white;
       @include center-align;
       text-align: center;
     }
