@@ -25,12 +25,10 @@ body {
                 height: 6pt;
                 background-color: $black;
                 transition: width .2s cubic-bezier(.23,1,.32,1), background-color .2s ease;
-                // text-decoration: none;
               }
               &:hover:after {
                 width: 0;
                 transition: width .2s cubic-bezier(.23,1,.32,1), background-color .2s ease;
-                // text-decoration: none;
               }
             }
           }
