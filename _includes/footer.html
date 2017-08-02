@@ -1,27 +1,6 @@
 <footer class="bottom clear">
   <nav class="clear">
-    <ul>
-      {% assign sorted_categories = site.categories | sort %}
-      {% for category in sorted_categories %}
-        {% assign current_category = category | first %}
-        {% assign sorted_posts     = site.categories[current_category] | sort: 'position' %}
-        {% assign first_post       = sorted_posts.first %}
-
-        {% unless current_category == "policies" %}
-          <li><a href="{{ site.baseurl }}{{ first_post.url }}">{{ category | first | capitalize }}</a></li>
-        {% endunless %}
-      {% endfor %}
-
-      {% for category in sorted_categories %}
-        {% assign current_category = category | first %}
-        {% assign sorted_posts     = site.categories[current_category] | sort: 'position' %}
-        {% assign first_post       = sorted_posts.first %}
-
-        {% if current_category == "policies" %}
-          <li><a href="{{ site.baseurl }}{{ first_post.url }}">{{ category | first | capitalize }}</a></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
+    {% include category_list.html %}
 
     <ul class="social">
       {% if site.ello_username %}
