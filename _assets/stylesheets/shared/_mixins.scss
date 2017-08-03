@@ -8,17 +8,17 @@ $sprite01width: 400px;
 $sprite01height: 300px;
 
 // layout measurements
-$fullLayoutWidth:    1350;
-$layoutWidth:        1300;
-$gutter:             30;
-$largeColumn:        310;
-$smallColumn:        20;
+$fullLayoutWidth:    1440;
+$layoutWidth:        1360;
+$gutter:             40;
+$largeColumn:        194;
+$smallColumn:        40;
 
-$fullLayoutWidth_px: 1350px;
-$layoutWidth_px:     1300px;
-$gutter_px:          30px;
-$largeColumn_px:     310px;
-$smallColumn_px:     20px;
+$fullLayoutWidth_px: 1440px;
+$layoutWidth_px:     1360px;
+$gutter_px:          40px;
+$largeColumn_px:     194px;
+$smallColumn_px:     40px;
 
 // available shorteners
 @mixin truncate_text() {
