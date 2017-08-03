@@ -80,6 +80,7 @@ assets: # https://github.com/jekyll-assets/jekyll-assets
 exclude:
   - README.md
   - REVISION
+  - LICENSE
   - Procfile
   - Rakefile
   - Capfile
@@ -90,3 +91,5 @@ exclude:
   - lib
   - config
   - stopwords.txt
+  - Dockerfile
+  - docker-compose.yml
