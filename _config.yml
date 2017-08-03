@@ -47,13 +47,15 @@ url: "https://ello.co" # the base hostname & protocol for your site
 webapp_url: "https://ello.co"
 permalink: /:categories/:title/ # construct our URLs (this is misleading because it's not based on title, but filename - see README)
 
-## emoji support - https://github.com/jekyll/jemoji
-# we don't put the emoji image files in the asset pipeline because what's the point?
-gems:
-  - jemoji
+## gems
+plugins:
+  - jemoji ## emoji support - https://github.com/jekyll/jemoji
   - jekyll-html-pipeline
   - jekyll-assets
   - jekyll-redirect-from
+
+## non-gem ruby plugins
+plugins_dir: _plugins
 
 ## markdown flavor
 markdown: HTMLPipeline
@@ -88,5 +90,3 @@ exclude:
   - lib
   - config
   - stopwords.txt
-
-plugins_dir: _plugins
