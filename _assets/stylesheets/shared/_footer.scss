@@ -6,6 +6,7 @@ footer.bottom {
   padding: ($smallColumn_px * 8) $gutter_px ($smallColumn_px * 3.8) $gutter_px;
   width: 100%;
   height: ($smallColumn_px * 4) + ($smallColumn_px * 3.8) + 200px; // part of the hack to push footer down
+  z-index: 0;
 
   nav {
     width: 100%;

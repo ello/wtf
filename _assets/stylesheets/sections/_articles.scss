@@ -3,39 +3,6 @@
 body {
   &.article {
     .content {
-      padding-right: $gutter_px;
-      width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
-      float: right;
-
-      h1 {
-        margin-bottom: 2rem;
-        font-size: $bigText;
-        line-height: $bigTextLine;
-      }
-
-      h2 {
-        margin-top: 3.25rem;
-        margin-bottom: 1.25rem;
-        font-size: 1.1rem;
-        line-height: 1.35rem;
-      }
-
-      header {
-        width: 100%;
-        max-width: $largeColumn_px * 2 + $smallColumn_px;
-        p {
-          margin: 0;
-          margin-top: 0.75rem;
-          color: $grey3;
-          text-align: right;
-          float: right;
-
-          &.timestamp {
-            padding-left: 10px;
-          }
-        }
-      }
-
       aside {
         &#video_embed {
           margin-bottom: 2rem;
@@ -44,15 +11,29 @@ body {
       }
 
       article {
-        width: 100%;
-        max-width: $largeColumn_px * 2 + $smallColumn_px;
+        width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
+        max-width: (($largeColumn_px * 3) + ($smallColumn_px * 2));
         word-wrap: break-word;
 
-        h1 {
-          margin-top: 3.25rem;
+        @include standard-copy-formatting;
+
+        img {
+          width: percentage(((($largeColumn * 4) + ($smallColumn * 3))) / (($largeColumn * 3) + ($smallColumn * 2)));
+          max-width: (($largeColumn_px * 4) + ($smallColumn_px * 3));
         }
 
-        @include standard-copy-formatting;
+        footer {
+          p {
+            color: $grey3;
+
+            a {
+              color: $grey3;
+              &:hover {
+                color: $black;
+              }
+            }
+          }
+        }
       }
     }
   }
