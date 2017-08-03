@@ -4,12 +4,14 @@ title:  "Communities"
 date:   2016-03-26 01:23:45 MDT
 categories: resources
 position: 2
+header_image: header_post-default.png
+# place header images in: _assets/images/page-headers/posts
 redirect_from:
   - /resources/community-directory/
   - /post/communitydirectory
 ---
 
-<!--- DO NOT DELETE. App links lead here. --->
+<!-- DO NOT DELETE. App links lead here. -->
 
 Many Ello members have created communities as a way to share and discuss specific interests.
 

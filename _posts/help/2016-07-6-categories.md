@@ -4,6 +4,8 @@ title:  "Categories"
 date:   2016-07-6 04:23:18 MDT
 categories: help
 position: 5
+header_image: header_post-default.png
+# place header images in: _assets/images/page-headers/posts
 redirect_from:
   - /help/featured-users/
 ---

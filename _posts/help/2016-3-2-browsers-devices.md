@@ -4,6 +4,8 @@ title:  "Browsers & Devices"
 date:   2016-5-2 01:23:45 MDT
 categories: help
 position: 10
+header_image: header_post-default.png
+# place header images in: _assets/images/page-headers/posts
 redirect_from:
   - /help/browser-support/
 ---

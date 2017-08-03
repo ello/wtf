@@ -4,6 +4,8 @@ title:  "Logos & Wallpapers"
 date:   2017-04-25 01:23:45 MDT
 categories: resources
 position: 3
+header_image: header_post-default.png
+# place header images in: _assets/images/page-headers/posts
 redirect_from:
   - /resources/logos/
   - /post/ello-logo

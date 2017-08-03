@@ -1,6 +1,3 @@
----
-css_hook: article
----
 <!DOCTYPE html>
 <html lang='en'>
 
@@ -15,10 +12,7 @@ css_hook: article
         {% include search_content.html %}
       </div>
 
-      {% comment %}
-      {% assign page_header_image_path = page.category | handleize | prepend: 'page-headers/categories/header_category-' | append: '.png' %}
-      {% endcomment %}
-      {% assign page_header_image_path = 'page-headers/posts/header_post.png' %}
+      {% assign page_header_image_path = page.header_image | prepend: 'page-headers/posts/' %}
       {% capture page_header_text %}{{ page.title }}{% endcapture %}
       {% capture page_header_image %}{% asset_path '{{ page_header_image_path }}' %}{% endcapture %}
       {% include page_header.html %}

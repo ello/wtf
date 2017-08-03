@@ -2,13 +2,8 @@
 {% assign sorted_posts     = site.categories[current_category] | sort: 'position' %}
 {% assign first_post       = sorted_posts.first %}
 
-<section class="category main clear">
-  <h2>
-    <a href="{{ site.baseurl }}{{ first_post.url }}">{{ category | first | capitalize }}</a>
-  </h2>
-  <ul class="clear">
-    {% for post in sorted_posts %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</section>
+<ul class="clear">
+  {% for post in sorted_posts %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>

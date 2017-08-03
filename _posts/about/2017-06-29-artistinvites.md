@@ -5,6 +5,8 @@ title_alternate:  "Artist Invites"
 date:   2017-07-02 11:50:00 MST
 categories: about
 position: 3
+header_image: header_post-default.png
+# place header images in: _assets/images/page-headers/posts
 ---
 
 

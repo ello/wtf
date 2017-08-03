@@ -4,6 +4,8 @@ title:  "Text & Emojis"
 date:   2017-04-25 01:23:45 MDT
 categories: resources
 position: 5
+header_image: header_post-default.png
+# place header images in: _assets/images/page-headers/posts
 redirect_from:
   - /resources/emojis/
   - /post/using-ello-markdown-to-format-text

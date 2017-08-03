@@ -4,6 +4,8 @@ title:  "Audio & Video"
 date:   2015-06-11 04:23:18 MDT
 categories: help
 position: 9
+header_image: header_post-default.png
+# place header images in: _assets/images/page-headers/posts
 redirect_from:
   - /help/audio-and-video/
   - /post/audio-and-video

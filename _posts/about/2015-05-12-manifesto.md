@@ -5,6 +5,8 @@ date:   2014-07-03 01:23:45 EST
 categories: about
 position: 5
 shareable: true
+header_image: header_post-default.png
+# place header images in: _assets/images/page-headers/posts
 redirect_from:
   - /post/manifesto
 ---

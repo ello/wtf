@@ -173,24 +173,19 @@ h1, h2, h3, h4, h5, h6 {
   @include type-medium;
 }
 
-p {
+p, ol, ul, dl {
   margin: 1.75rem 0;
-
+  @include type-medium;
   a {
     &:active {
       color: $grey3;
     }
   }
 }
-p, ol, ul, dl {
-  @include type-medium;
-}
 p:empty {
   display: none;
 }
-ol, ul, dl, dd {
-  margin: 0;
-}
+
 ol, ul {
   padding: 0;
 }

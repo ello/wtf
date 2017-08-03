@@ -1,12 +1,9 @@
----
-css_hook: category
----
 <!DOCTYPE html>
 <html lang='en'>
 
   {% include head.html %}
 
-  <body{% if page.css_hook %} class="{{ page.css_hook }}"{% endif %} data-site-title="{{ site.title }} | {{ site.subtitle }}">
+  <body class="category{% if page.css_hook %} {{ page.css_hook }}{% endif %}" data-site-title="{{ site.title }} | {{ site.subtitle }}">
 
     <div id="content_container">
       {% include header.html %}
@@ -15,7 +12,7 @@ css_hook: category
         {% include search_content.html %}
       </div>
 
-      {% assign page_header_image_path = page.category | handleize | prepend: 'page-headers/categories/header_category-' | append: '.png' %}
+      {% assign page_header_image_path = page.header_image | prepend: 'page-headers/categories/' %}
       {% capture page_header_text %}{{ page.title }}{% endcapture %}
       {% capture page_header_image %}{% asset_path '{{ page_header_image_path }}' %}{% endcapture %}
       {% include page_header.html %}

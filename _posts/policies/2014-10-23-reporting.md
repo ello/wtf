@@ -3,10 +3,12 @@ layout: post
 title:  "Reporting"
 date:   2017-4-25 01:23:18 MDT
 categories: policies
+position: 5
+header_image: header_post-default.png
+# place header images in: _assets/images/page-headers/posts
 redirect_from:
   - /policies/blocking/
   - /post/blockingandreporting
-position: 5
 ---
 Ello has a zero-tolerance policy for abusive behavior.
 
