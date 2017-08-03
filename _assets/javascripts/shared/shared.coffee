@@ -8,7 +8,6 @@ root.ElloWTFShared =
     ElloWTFShared.watchSearchHeader()
     ElloWTFShared.watchURLSearchTerms()
     ElloWTFShared.watchSearchToggle()
-    ElloWTFShared.mobileDrawerCategoryWatch()
     ElloWTFShared.watchShareable()
 
   checkMobile: ->
@@ -75,7 +74,6 @@ root.ElloWTFShared =
         ElloWTFSearch.invokeSearch()
         return false
 
-
     $search_box.on "focusin", ->
       $(".search_holder").addClass("active")
     $search_box.on "focusout", ->
@@ -124,19 +122,6 @@ root.ElloWTFShared =
     else if $(window).width() > 719 && $search_form.hasClass('expanded')
       # $search_form.removeClass("expanded") # might now need this anymore
       $search_form.find('span.form').removeAttr('style') # reset it in case previously fired
-
-  mobileDrawerCategoryWatch: ->
-    $(".category.main h2").click (e) ->
-      if $(window).width() < 720
-        e.preventDefault()
-
-      $category = $(this).parents(".category")
-      if $category.hasClass("expanded")
-        $category.removeClass("expanded")
-      else
-        $(".category.main").each ->
-          $(this).removeClass("expanded")
-        $(this).parents(".category").toggleClass("expanded")
 
   getURLParameter: (parameter) ->
     page_url = window.location.search.substring(1)
