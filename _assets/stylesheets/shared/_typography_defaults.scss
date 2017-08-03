@@ -39,9 +39,65 @@ handle italics with font-style: italic (no italics available for Black)
 
 ------------------- */
 
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ site-wide defaults
+
+@mixin type-small($line: true) {
+  font-size: 0.875rem;
+  @if $line {
+    line-height: 1.35rem;
+  } @else {
+    line-height: 0.875rem;
+  }
+
+  @media only screen and (max-width : 640px) {
+    font-size: 0.875rem;
+    @if $line {
+      line-height: 1.35rem;
+    } @else {
+      line-height: 0.875rem;
+    }
+  }
+}
+
+@mixin type-medium($line: true) {
+  font-size: 1.45rem;
+  @if $line {
+    line-height: 1.925rem;
+  } @else {
+    line-height: 1.45rem;
+  }
+
+  @media only screen and (max-width : 640px) {
+    font-size: 1.45rem;
+    @if $line {
+      line-height: 1.925rem;
+    } @else {
+      line-height: 1.45rem;
+    }
+  }
+}
+
+@mixin type-big($line: true) {
+  font-size: 9rem;
+  @if $line {
+    line-height: 11rem;
+  } @else {
+    line-height: 9rem;
+  }
+
+  @media only screen and (max-width : 640px) {
+    font-size: 9rem;
+    @if $line {
+      line-height: 11rem;
+    } @else {
+      line-height: 9rem;
+    }
+  }
+}
+
 @mixin standard-copy-formatting {
   a {          
-    border-bottom: 1px solid;
+    border-bottom: 1.5pt solid;
 
     &:hover {
       color: $grey3;
@@ -55,6 +111,11 @@ handle italics with font-style: italic (no italics available for Black)
       height: 1.2rem;
       vertical-align: middle;
     }
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $groteskBold;
+    font-weight: 700;
   }
 
   ul {
@@ -109,11 +170,11 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 0.875rem;
+  @include type-medium;
 }
 
 p {
-  margin: 0.9375rem 0;
+  margin: 1.75rem 0;
 
   a {
     &:active {
@@ -122,7 +183,7 @@ p {
   }
 }
 p, ol, ul, dl {
-  font-size: 0.875rem;
+  @include type-medium;
 }
 p:empty {
   display: none;
@@ -179,7 +240,7 @@ sub {
 code, pre, blockquote {
   font-family: inherit;
   background-color: #f1f1f1;
-  font-size: 0.875rem;
+  @include type-medium;
 }
 code, blockquote {
   display: inline-block;
@@ -208,9 +269,3 @@ blockquote {
   overflow: hidden;
 }
 
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ site-wide defaults
-
-$bigText: 9rem;
-$bigTextLine: 11rem;
-$bigText_m: 7.5rem;
-$bigTextLine_m: 10rem;

@@ -9,8 +9,7 @@
     section.results {
       h1, h2 {
         margin-bottom: 2.75rem;
-        font-size: $bigText;
-        line-height: $bigTextLine;
+        @include type-big;
         color: $grey3;
 
         span {
@@ -84,8 +83,7 @@
       section.results {
         h1, h2 {
           // margin-bottom: 2.75rem;
-          font-size: $bigText_m;
-          line-height: $bigTextLine_m;
+          @include type-big;
         }
 
         h2 {
@@ -97,8 +95,7 @@
           margin-bottom: 1.5rem;
           font-family: $groteskRegular;
           font-weight: 400;
-          font-size: 0.875rem;
-          line-height: auto;
+          @include type-medium;
         }
       }
       section {

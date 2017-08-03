@@ -7,6 +7,12 @@ body {
         width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
         @include standard-copy-formatting;
         float: left;
+
+        p {
+          &:first-child {
+            margin-top: 0;
+          }
+        }
       }
       nav {
         width: percentage((($largeColumn * 2) + ($smallColumn * 1)) / $layoutWidth);
@@ -16,8 +22,11 @@ body {
           font-family: $groteskBlack;
           font-weight: 900;
 
-          a {
-            text-decoration: underline;
+          li {
+            margin-bottom: 1.925rem;
+            a {
+              text-decoration: underline;
+            }
           }
         }
       }

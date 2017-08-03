@@ -3,8 +3,7 @@
 #ello_button {
   h2 {
     margin-bottom: $gutter_px;
-    font-size: $bigText;
-    line-height: $bigTextLine;
+    @include type-big;
 
     &.size-choice-label {
       margin-bottom: 1rem;
@@ -19,7 +18,7 @@
   span,
   textarea,
   input[type=text] {
-    font-size: 0.875rem;
+    @include type-medium;
   }
 
   input[type=text],

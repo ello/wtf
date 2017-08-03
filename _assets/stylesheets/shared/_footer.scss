@@ -3,17 +3,16 @@
 footer.bottom {
   position: absolute;
   bottom: 0;
-  padding: ($smallColumn_px * 8) $gutter_px ($smallColumn_px * 3.8) $gutter_px;
+  padding: ($smallColumn_px * 6) $gutter_px ($smallColumn_px * 3.8) $gutter_px;
   width: 100%;
-  height: ($smallColumn_px * 4) + ($smallColumn_px * 3.8) + 200px; // part of the hack to push footer down
-  z-index: 0;
-
+  height: ($smallColumn_px * 2) + ($smallColumn_px * 3.8) + 200px; // part of the hack to push footer down
   nav {
     width: 100%;
     ul {
       display: block;
       padding-right: $smallColumn_px;
       width: percentage((($largeColumn * 2) + $smallColumn) / $layoutWidth);
+      @include type-small;
       float: left;
 
       li {

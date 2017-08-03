@@ -53,7 +53,6 @@ svg {
   min-height: 100%; // hack for pushing footer to bottom
   max-width: $layoutWidth_px;
   // background-color: yellow;
-  z-index: 1;
 }
 
 .page-header {
@@ -72,8 +71,7 @@ svg {
 
     h1 {
       font-family: $groteskBlack;
-      font-size: $bigText;
-      line-height: $bigText;
+      @include type-big(false);
       color: $white;
       @include center-align;
       text-align: center;

@@ -49,15 +49,13 @@ body {
 
         h1 {
           margin-bottom: 1.5rem;
-          font-size: $bigText_m;
-          line-height: $bigTextLine_m;
+          @include type-big;
         }
 
         h2 {
           margin-top: 1.75rem;
           margin-bottom: 1.5rem;
-          font-size: $bigText_m;
-          line-height: $bigTextLine_m;
+          @include type-big;
         }
 
         header {
@@ -75,8 +73,7 @@ body {
             margin: 0 0 20px -10px;
             padding: 0 10px 20px 10px;
             width: 100%;
-            font-size: $bigText_m;
-            line-height: $bigTextLine_m;
+            @include type-big;
             border-bottom: 1px solid $grey1;
             -webkit-box-sizing: content-box;
             -moz-box-sizing: content-box;
