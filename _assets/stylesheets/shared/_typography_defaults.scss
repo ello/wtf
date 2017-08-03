@@ -39,6 +39,43 @@ handle italics with font-style: italic (no italics available for Black)
 
 ------------------- */
 
+@mixin standard-copy-formatting {
+  a {          
+    border-bottom: 1px solid;
+
+    &:hover {
+      color: $grey3;
+    }
+  }
+
+  img {
+    max-width: 100%;
+
+    &.emoji {
+      height: 1.2rem;
+      vertical-align: middle;
+    }
+  }
+
+  ul {
+    list-style-type: disc;
+  }
+  ol {
+    list-style-type: decimal;
+  }
+
+  p {
+    code {
+      margin: -0.3rem 0;
+    }
+    @media only screen and (min-width : 1px) and (max-width : 719px) {
+      &:last-child {
+        margin-bottom: 5px;
+      }
+    }
+  }
+}
+
 html {
   font: normal 400 100%/1.5 $groteskRegular;
   @include text_size_adjust(1);

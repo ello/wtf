@@ -1,0 +1,11 @@
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ categories
+
+body {
+  &.category {
+    #main_content {
+      article {
+        @include standard-copy-formatting;
+      }
+    }
+  }
+}

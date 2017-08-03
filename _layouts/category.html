@@ -21,7 +21,13 @@ css_hook: category
       {% include page_header.html %}
 
       <div id="main_content" class="clear">
-        {{ content }}
+        <article>
+          {{ content }}
+        </article>
+
+        <nav class="posts-list">
+          {% include category_posts.html %}
+        </nav>
       </div>
 
       {% include footer.html %}

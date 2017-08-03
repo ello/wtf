@@ -23,7 +23,6 @@ css_hook: article
       {% capture page_header_image %}{% asset_path '{{ page_header_image_path }}' %}{% endcapture %}
       {% include page_header.html %}
 
-
       <div id="main_content" class="clear">
         
         <section class="content">
@@ -54,20 +53,6 @@ css_hook: article
             {% endif %}
           </article>
         </section>
-        <hr class="article_end mobile_only" />
-
-        <aside class="category list">
-          {% assign current_category = page.categories | first %}
-          {% assign current_post     = page.id %}
-          {% assign sorted_posts     = site.categories[current_category] | sort: 'position' %}
-          {% assign first_post       = sorted_posts.first %}
-          <h2><a href="{{ site.baseurl }}{{ first_post.url }}">{{ page.categories | first | capitalize }}</a></h2>
-          <ul>
-            {% for post in sorted_posts %}
-              <li{% if post.id == current_post %} class="current"{% endif %}><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </aside>
 
       </div>
 

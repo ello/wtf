@@ -2,32 +2,6 @@
 
 body {
   &.article {
-    .category {
-      // background-color: pink;
-      h2 {
-        a {
-          text-decoration: underline;
-        }
-      }
-      ul {
-        li {
-          a {
-            color: $grey3;
-            &:hover {
-              color: $black;
-            }
-          }
-          &.current {
-            a {
-              color: $black;
-              text-decoration: underline;
-            }
-          }
-        }
-      }
-      
-    }
-
     .content {
       padding-right: $gutter_px;
       width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
@@ -78,35 +52,7 @@ body {
           margin-top: 3.25rem;
         }
 
-        a {          
-          border-bottom: 1px solid;
-
-          &:hover {
-            color: $grey3;
-          }
-        }
-
-        img {
-          max-width: 100%;
-
-          &.emoji {
-            height: 1.2rem;
-            vertical-align: middle;
-          }
-        }
-
-        ul {
-          list-style-type: disc;
-        }
-        ol {
-          list-style-type: decimal;
-        }
-
-        p {
-          code {
-            margin: -0.3rem 0;
-          }
-        }
+        @include standard-copy-formatting;
       }
     }
   }
@@ -116,20 +62,6 @@ body {
 
   body {
     &.article {
-      .category.list {
-        padding-top: 15px;
-        width: 100%;
-        float: none;
-
-        h2 {
-          display: none;
-        }
-
-        ul {
-          margin-top: 0;
-        }
-      }
-
       .content {
         padding-right: 0;
         width: 100%;
@@ -189,12 +121,6 @@ body {
 
         article {
           max-width: 100%;
-
-          p {
-            &:last-child {
-              margin-bottom: 5px;
-            }
-          }
         }
       }
       hr {
