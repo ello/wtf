@@ -49,7 +49,6 @@ permalink: /:categories/:title/ # construct our URLs (this is misleading because
 
 ## gems
 plugins:
-  - jemoji ## emoji support - https://github.com/jekyll/jemoji
   - jekyll-html-pipeline
   - jekyll-assets
   - jekyll-redirect-from

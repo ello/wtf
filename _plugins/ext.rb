@@ -28,11 +28,3 @@ module StripStopWords
 end
 
 Liquid::Template.register_filter(StripStopWords)
-
-## custom emoji
-require 'jemoji'
-module Emoji
-  emoji = Emoji.create('ello') do |char|
-    char.add_tag 'ello'
-  end
-end

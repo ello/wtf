@@ -68,10 +68,6 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
-    jemoji (0.5.0)
-      gemoji (~> 2.0)
-      html-pipeline (~> 1.9)
-      jekyll (>= 2.0)
     json (2.1.0)
     kramdown (1.14.0)
     liquid (4.0.0)
@@ -126,7 +122,6 @@ DEPENDENCIES
   jekyll-coffeescript
   jekyll-html-pipeline
   jekyll-redirect-from
-  jemoji
   newrelic_rpm
   puma
   rack
