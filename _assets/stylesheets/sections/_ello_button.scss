@@ -3,7 +3,9 @@
 #ello_button {
   h2 {
     margin-bottom: $gutter_px;
-    @include type-big;
+    @include type-medium;
+    font-family: $groteskBlack;
+    font-weight: 900;
 
     &.size-choice-label {
       margin-bottom: 1rem;
@@ -15,7 +17,6 @@
     }
   }
 
-  span,
   textarea,
   input[type=text] {
     @include type-medium;
@@ -23,7 +24,7 @@
 
   input[type=text],
   textarea {
-    padding: $smallColumn_px;
+    padding: $smallColumn_px / 2;
     width: 100%;
     border: 1px solid $grey3;
   }
@@ -65,6 +66,7 @@
 
   span {
     &.label {
+      @include type-small;
       &.sub {
         color: $grey3;
       }
@@ -76,7 +78,7 @@
   }
 
   .step {
-    margin-bottom: $smallColumn_px;
+    margin-bottom: $smallColumn_px / 2;
 
     &:last-child {
       margin-bottom: 0;
@@ -117,10 +119,11 @@
           }
 
           textarea {
-            margin-bottom: $smallColumn_px;
+            margin-bottom: $smallColumn_px / 2;
             width: 100%;
             height: 210px;
             font-family: "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;
+            @include type-small;
 
             @media only screen and (max-width : 539px) {
               height: 140px;
