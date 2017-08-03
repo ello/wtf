@@ -4,7 +4,22 @@ body {
   &.category {
     #main_content {
       article {
+        width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
         @include standard-copy-formatting;
+        float: left;
+      }
+      nav {
+        width: percentage((($largeColumn * 2) + ($smallColumn * 1)) / $layoutWidth);
+        float: right;
+
+        ul {
+          font-family: $groteskBlack;
+          font-weight: 900;
+
+          a {
+            text-decoration: underline;
+          }
+        }
       }
     }
   }
