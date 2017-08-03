@@ -25,181 +25,94 @@ Email [hello@ello.co](mailto:hello@ello.co) if you’d like to start a new commu
 
 ## Community List:
 
-**[Abstract](https://ello.co/elloabstract)**
-
-**[Aircraft](https://ello.co/elloaircraft)**
-
-**[Androids](https://ello.co/elloandroid)** 
-
-**[Architecture](https://ello.co/elloarchitecture)** 
-
-**[Art](https://ello.co/elloart)** 
-
-**[Backcountry](https://ello.co/ellobackcountry)** 
-
-**[Beer](https://ello.co/ellobrew)**
-
-**[Bikes](https://ello.co/bikelove)**
-
-**[Bridges](https://ello.co/ellobridges)** 
-
-**[Cabochons](https://ello.co/cabochons)**
-
-**[Cannabis](https://ello.co/ellocannabis)** 
-
-**[Coffee](https://ello.co/ellocoffeelovers)** 
-
-**[Comics](https://ello.co/comicbuzz)**
-
-**[Crystals](https://ello.co/ellocrystals)**
-
-**[Dallas](https://ello.co/dallasnews)** 
-
-**[Design](https://ello.co/ellodesign)** 
-
-**[Design (Unique Collections)](https://ello.co/p-e-a-c)**
-
-**[Dice and Paper](https://ello.co/ello_dice_and_paper)** 
-
-**[DIY](https://ello.co/ellodiy)** 
-
-**[Doodles](https://ello.co/doodlehouse)** 
-
-**[Drag](https://ello.co/ellodrag)** 
-
-**[Earth](https://ello.co/travelwithme)** 
-
-**[Electroforming](https://ello.co/elloelectroforming)**
-
-**[Entertainment](https://ello.co/entertainment)** 
-
-**[Equestrian](https://ello.co/elloequestrian)** 
-
-**[Events](https://ello.co/ello-events)** 
-
-**[Fashion](https://ello.co/ellofashion)** 
-
-**[Fashion Photography](https://ello.co/fashionphotography)**
-
-**[Finance](https://ello.co/ellofinance)** 
-
-**[Food Photography](https://ello.co/ellofoodphotography)**
-
-**[Geometry](https://ello.co/geometry)**
-
-**[Gifs](https://ello.co/ellogifs)**
-
-**[Gifs](http://ello.co/gifs)**
-
-**[Glitch Art](https://ello.co/elloglitchart)** 
-
-**[Graphic Design](https://ello.co/graphicdesign)** 
-
-**[Green](https://ello.co/ellogreen)** 
-
-**[Handmade](https://ello.co/handmadeconnect)**
-
-**[History](https://ello.co/oldendaze)** 
-
-**[Inspiration](https://ello.co/dailyinspiration)**
-
-**[Jewels](https://ello.co/ellojewels)** 
-
-**[Landscape](https://ello.co/ellolandscape)** 
-
-**[Languages](https://ello.co/ellolanguages)**
-
-**[Latin Talent](https://ello.co/ellolatintalent)**
-
-**[Makers](https://ello.co/ellomakers)**
-
-**[Meditation](https://ello.co/meditation)** 
-
-**[Microsoft](https://ello.co/ellomicrosoft)** 
-
-**[Minimal](https://ello.co/ellominimal)** 
-
-**[Monochromatic](https://ello.co/monochromatica)** 
-
-**[Music (Ambient)](https://ello.co/elloambient)** 
-
-**[Music (General)](https://ello.co/ellomusic)** 
-
-**[Music (Hip Hop)](https://ello.co/ellohiphop)** 
-
-**[Music (Jazz)](https://ello.co/ellojazz)** 
-
-**[New Ello Users](https://ello.co/ellonew)**
-
-**[News](https://ello.co/ellonews)** 
-
-**[NSFW](https://ello.co/hotsexywomen)** 
-
-**[Outside](https://ello.co/ellooutside)** 
-
-**[Patterns](https://ello.co/ellopatterns)** 
-
-**[Photography](https://ello.co/ellophotography)** 
-
-**[Photography (Amateur)](https://ello.co/amateur_photography)** 
-
-**[Photography (Black & White)](https://ello.co/black-and-white-photography)** 
-
-**[Photography (Fujifilm)](https://ello.co/ellofujifilm)** 
-
-**[Photography (iPhone)](https://ello.co/elloiphoneography)** 
-
-**[Poetry](https://ello.co/ellopoetry)** 
-
-**[Poetry (Micro)](https://ello.co/micro_poetics)** 
-
-**[Privacy](https://ello.co/elloprivacy)**
-
-**[Puns](https://ello.co/ellopundemonium)** 
-
-**[Quotes](https://ello.co/quotes)** 
-
-**[Railways](https://ello.co/ellorailways)** 
-
-**[Rocks](https://ello.co/ellorockhounds)**
-
-**[Security](https://ello.co/ellosecurity)** 
-
-**[Ships](https://ello.co/elloships)** 
-
-**[Sicut Esse](https://ello.co/sicutesse)** 
-
-**[Sports](https://ello.co/ellosport)** 
-
-**[Tapes and Vinyl](https://ello.co/ellotapesandvinyl)** 
-
-**[Tattoos](https://ello.co/ellotattoos)**
-
-**[Tennis](https://ello.co/tennisblog)** 
-
-**[Textures](https://ello.co/ellotextures)**
-
-**[Thrift](https://ello.co/ellothrift)**
-
-**[Tokyo](https://ello.co/ello_tokyo)**
-
-**[Toronto](https://ello.co/ellotoronto)** 
-
-**[Toys](https://ello.co/ellotoys)** 
-
-**[Travel](https://ello.co/ellotravel)** 
-
-**[Turkey](https://ello.co/elloturkiye)** 
-
-**[Typography](https://ello.co/ellotypography)** 
-
-**[Web Design](https://ello.co/ellowebdesign)** 
-
-**[Writing](https://ello.co/ellowrites)** 
-
-**[Yoga](https://ello.co/elloyoga)** 
-
-**[Zen](https://ello.co/ellozen)** 
+- **[Abstract](https://ello.co/elloabstract)**
+- **[Aircraft](https://ello.co/elloaircraft)**
+- **[Androids](https://ello.co/elloandroid)** 
+- **[Architecture](https://ello.co/elloarchitecture)** 
+- **[Art](https://ello.co/elloart)** 
+- **[Backcountry](https://ello.co/ellobackcountry)** 
+- **[Beer](https://ello.co/ellobrew)**
+- **[Bikes](https://ello.co/bikelove)**
+- **[Bridges](https://ello.co/ellobridges)** 
+- **[Cabochons](https://ello.co/cabochons)**
+- **[Cannabis](https://ello.co/ellocannabis)** 
+- **[Coffee](https://ello.co/ellocoffeelovers)** 
+- **[Comics](https://ello.co/comicbuzz)**
+- **[Crystals](https://ello.co/ellocrystals)**
+- **[Dallas](https://ello.co/dallasnews)** 
+- **[Design](https://ello.co/ellodesign)** 
+- **[Design (Unique Collections)](https://ello.co/p-e-a-c)**
+- **[Dice and Paper](https://ello.co/ello_dice_and_paper)** 
+- **[DIY](https://ello.co/ellodiy)** 
+- **[Doodles](https://ello.co/doodlehouse)** 
+- **[Drag](https://ello.co/ellodrag)** 
+- **[Earth](https://ello.co/travelwithme)** 
+- **[Electroforming](https://ello.co/elloelectroforming)**
+- **[Entertainment](https://ello.co/entertainment)** 
+- **[Equestrian](https://ello.co/elloequestrian)** 
+- **[Events](https://ello.co/ello-events)** 
+- **[Fashion](https://ello.co/ellofashion)** 
+- **[Fashion Photography](https://ello.co/fashionphotography)**
+- **[Finance](https://ello.co/ellofinance)** 
+- **[Food Photography](https://ello.co/ellofoodphotography)**
+- **[Geometry](https://ello.co/geometry)**
+- **[Gifs](https://ello.co/ellogifs)**
+- **[Gifs](http://ello.co/gifs)**
+- **[Glitch Art](https://ello.co/elloglitchart)** 
+- **[Graphic Design](https://ello.co/graphicdesign)** 
+- **[Green](https://ello.co/ellogreen)** 
+- **[Handmade](https://ello.co/handmadeconnect)**
+- **[History](https://ello.co/oldendaze)** 
+- **[Inspiration](https://ello.co/dailyinspiration)**
+- **[Jewels](https://ello.co/ellojewels)** 
+- **[Landscape](https://ello.co/ellolandscape)** 
+- **[Languages](https://ello.co/ellolanguages)**
+- **[Latin Talent](https://ello.co/ellolatintalent)**
+- **[Makers](https://ello.co/ellomakers)**
+- **[Meditation](https://ello.co/meditation)** 
+- **[Microsoft](https://ello.co/ellomicrosoft)** 
+- **[Minimal](https://ello.co/ellominimal)** 
+- **[Monochromatic](https://ello.co/monochromatica)** 
+- **[Music (Ambient)](https://ello.co/elloambient)** 
+- **[Music (General)](https://ello.co/ellomusic)** 
+- **[Music (Hip Hop)](https://ello.co/ellohiphop)** 
+- **[Music (Jazz)](https://ello.co/ellojazz)** 
+- **[New Ello Users](https://ello.co/ellonew)**
+- **[News](https://ello.co/ellonews)** 
+- **[NSFW](https://ello.co/hotsexywomen)** 
+- **[Outside](https://ello.co/ellooutside)** 
+- **[Patterns](https://ello.co/ellopatterns)** 
+- **[Photography](https://ello.co/ellophotography)** 
+- **[Photography (Amateur)](https://ello.co/amateur_photography)** 
+- **[Photography (Black & White)](https://ello.co/black-and-white-photography)** 
+- **[Photography (Fujifilm)](https://ello.co/ellofujifilm)** 
+- **[Photography (iPhone)](https://ello.co/elloiphoneography)** 
+- **[Poetry](https://ello.co/ellopoetry)** 
+- **[Poetry (Micro)](https://ello.co/micro_poetics)** 
+- **[Privacy](https://ello.co/elloprivacy)**
+- **[Puns](https://ello.co/ellopundemonium)** 
+- **[Quotes](https://ello.co/quotes)** 
+- **[Railways](https://ello.co/ellorailways)** 
+- **[Rocks](https://ello.co/ellorockhounds)**
+- **[Security](https://ello.co/ellosecurity)** 
+- **[Ships](https://ello.co/elloships)** 
+- **[Sicut Esse](https://ello.co/sicutesse)** 
+- **[Sports](https://ello.co/ellosport)** 
+- **[Tapes and Vinyl](https://ello.co/ellotapesandvinyl)** 
+- **[Tattoos](https://ello.co/ellotattoos)**
+- **[Tennis](https://ello.co/tennisblog)** 
+- **[Textures](https://ello.co/ellotextures)**
+- **[Thrift](https://ello.co/ellothrift)**
+- **[Tokyo](https://ello.co/ello_tokyo)**
+- **[Toronto](https://ello.co/ellotoronto)** 
+- **[Toys](https://ello.co/ellotoys)** 
+- **[Travel](https://ello.co/ellotravel)** 
+- **[Turkey](https://ello.co/elloturkiye)** 
+- **[Typography](https://ello.co/ellotypography)** 
+- **[Web Design](https://ello.co/ellowebdesign)** 
+- **[Writing](https://ello.co/ellowrites)** 
+- **[Yoga](https://ello.co/elloyoga)** 
+- **[Zen](https://ello.co/ellozen)** 
 
 ## Here’s a quick guide to help you create and maintain your own community!
 
