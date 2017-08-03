@@ -18,8 +18,7 @@ body {
         @include standard-copy-formatting;
 
         img {
-          width: percentage(((($largeColumn * 4) + ($smallColumn * 3))) / (($largeColumn * 3) + ($smallColumn * 2)));
-          max-width: (($largeColumn_px * 4) + ($smallColumn_px * 3));
+          max-width: percentage(((($largeColumn * 4) + ($smallColumn * 3))) / (($largeColumn * 3) + ($smallColumn * 2)))
         }
 
         footer {
