@@ -13,16 +13,22 @@ header.top {
   position: fixed;
   top: 0;
   left: 0;
-  padding: ($gutter_px * 0.5);
-  height: $gutter_px * 2.5;
   width: 100%;
   // background-color: yellow;
   background-color: $white;
   z-index: 50;
 
-  @media only screen and (max-width : 920px) {
-    padding: 48px 14px 18px 14px;
-    height: $gutter_px * 2.5 + (48px / 2);
+  .header-content {
+    position: relative;
+    margin: 0 auto;
+    padding: ($gutter_px * 0.5);
+    height: $gutter_px * 2.5;
+    max-width: $fullLayoutWidth_px;
+
+    @media only screen and (max-width : 920px) {
+      padding: 48px 14px 18px 14px;
+      height: $gutter_px * 2.5 + (48px / 2);
+    }
   }
 
   .site-name {

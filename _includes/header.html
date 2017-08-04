@@ -1,35 +1,36 @@
 <header class="top clear">
-  <section class="site-name">
-    <h1>
-      <a href="{{ site.baseurl }}/">
-        <span class="icon">
-          {% include svg/ello_logotype.svg %}
-        </span>
-        <span class="label">{{ site.title }}</span>
-      </a>
-    </h1>
-    <h2><a href="{{ site.baseurl }}/">WTF</a></h2>
-  </section>
+  <div class="header-content">
+    <section class="site-name">
+      <h1>
+        <a href="{{ site.baseurl }}/">
+          <span class="icon">
+            {% include svg/ello_logotype.svg %}
+          </span>
+          <span class="label">{{ site.title }}</span>
+        </a>
+      </h1>
+      <h2><a href="{{ site.baseurl }}/">WTF</a></h2>
+    </section>
 
-  <section class="search-holder clear">
-    <span class="trigger">
-      <a class="search clear" href="/wtf/search">
-        <span class="icon">
-          {% include svg/mag_icon.svg %}
-        </span>
-        <span class="label">Search</span>
-      </a>
-    </span>
-    <span class="form inactive">
-      {% include search_form.html %}
-      <span class="clear-search">
-        {% include svg/clear_icon.svg %}
+    <section class="search-holder clear">
+      <span class="trigger">
+        <a class="search clear" href="/wtf/search">
+          <span class="icon">
+            {% include svg/mag_icon.svg %}
+          </span>
+          <span class="label">Search</span>
+        </a>
       </span>
-    </span>
-  </section>
+      <span class="form inactive">
+        {% include search_form.html %}
+        <span class="clear-search">
+          {% include svg/clear_icon.svg %}
+        </span>
+      </span>
+    </section>
 
-  <nav>
-    <p class="back-to-ello"><a href="/">Back to Ello</a></p>
-  </nav>
-
+    <nav>
+      <p class="back-to-ello"><a href="/">Back to Ello</a></p>
+    </nav>    
+  </div>
 </header>
