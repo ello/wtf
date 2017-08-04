@@ -36,7 +36,6 @@ root.ElloWTFShared =
     ElloWTFShared.setOrientation()
 
     ## orientation change (resize) functions here
-    ElloWTFShared.resizeSearchBox()
 
   masterResizeListener: ->
     if $('html.mobile, html.tablet').length > 0
@@ -46,7 +45,6 @@ root.ElloWTFShared =
       $(window).smartresize ->
         # console.log 'resize!'
         ## orientation resize functions here
-        ElloWTFShared.resizeSearchBox()
 
   watchSearchHeader: ->
     $search_form = $(".search-holder .form")
@@ -102,26 +100,7 @@ root.ElloWTFShared =
 
       $search_form = $(".search-holder")
       $search_box = $search_form.find("input")
-      if $search_form.hasClass("expanded")
-        $search_form.removeClass("expanded")
-        $("header.top").removeClass("search_open")
-      else
-        $search_form.addClass("expanded")
-        $("header.top").addClass("search_open")
-        ElloWTFShared.resizeSearchBox()
-        $search_box.focus()
-
-  resizeSearchBox: ->
-    $search_form = $(".search-holder")
-    if $(window).width() < 1150 && $(window).width() > 719 && $search_form.hasClass('expanded')
-      $search_form.find('span.form').removeAttr('style') # reset it in case previously fired
-
-      left = $search_form.next().offset().left
-      width = ($(window).width() - left - 30)
-      $search_form.find('span.form').css('left',left).width(width)
-    else if $(window).width() > 719 && $search_form.hasClass('expanded')
-      # $search_form.removeClass("expanded") # might now need this anymore
-      $search_form.find('span.form').removeAttr('style') # reset it in case previously fired
+      $search_box.focus()
 
   getURLParameter: (parameter) ->
     page_url = window.location.search.substring(1)
