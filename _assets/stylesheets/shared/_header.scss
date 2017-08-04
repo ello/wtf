@@ -4,7 +4,7 @@
 body {
   padding-top: ($gutter_px * 0.5) + ($gutter_px * 2);
 
-  @media only screen and (min-width : 1px) and (max-width : 920px) {
+  @media only screen and (max-width : 920px) {
     padding-top: ($gutter_px * 0.5) + ($gutter_px * 2) + (48px / 2);
   }
 }
@@ -20,7 +20,7 @@ header.top {
   background-color: $white;
   z-index: 50;
 
-  @media only screen and (min-width : 1px) and (max-width : 920px) {
+  @media only screen and (max-width : 920px) {
     padding: 48px 14px 18px 14px;
     height: $gutter_px * 2.5 + (48px / 2);
   }
@@ -30,7 +30,7 @@ header.top {
     top: $gutter_px;
     left: $gutter_px;
 
-    @media only screen and (min-width : 1px) and (max-width : 920px) {
+    @media only screen and (max-width : 920px) {
       top: 14px;
       left: 14px;
     }
@@ -63,6 +63,11 @@ header.top {
       font-weight: 900;
       color: $grey3;
       float: left;
+
+      @media only screen and (max-width : 768px) {
+        font-size: 1.45rem;
+        line-height: 1.45rem;
+      }
     }
   }
 
@@ -71,7 +76,7 @@ header.top {
     margin: 0 auto;
     width: 60%;
 
-    @media only screen and (min-width : 1px) and (max-width : 920px) {
+    @media only screen and (max-width : 920px) {
       width: 100%;
     }
 
@@ -88,7 +93,7 @@ header.top {
           width: 46px;
           @include vertical_align;
 
-          @media only screen and (min-width : 1px) and (max-width : 420px) {
+          @media only screen and (max-width : 420px) {
             padding-left: 11px;
             width: 36px;
           }
@@ -140,7 +145,7 @@ header.top {
           background-color: $grey1;
           z-index: 4;
 
-          @media only screen and (min-width : 1px) and (max-width : 420px) {
+          @media only screen and (max-width : 420px) {
             padding-left: $gutter_px;
             font-size: 1.45rem;
             line-height: 1.45rem;
@@ -161,7 +166,7 @@ header.top {
             z-index: 5;
             overflow: hidden;
 
-            @media only screen and (min-width : 1px) and (max-width : 420px) {
+            @media only screen and (max-width : 420px) {
               right: $gutter_px / 2.5;
             }
 
@@ -199,7 +204,7 @@ header.top {
     top: 0;
     height: 100%;
 
-    @media only screen and (min-width : 1px) and (max-width : 920px) {
+    @media only screen and (max-width : 920px) {
       right: 14px;
       height: 52px;
     }

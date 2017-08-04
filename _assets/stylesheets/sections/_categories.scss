@@ -29,6 +29,10 @@ body {
 
           li {
             margin-bottom: 1.925rem;
+
+            @media only screen and (max-width : 768px) {
+              margin-bottom: 1.55rem;
+            }
             a {
               text-decoration: underline;
               &:hover {

@@ -84,6 +84,14 @@
       margin-bottom: 0;
     }
 
+    &.one {
+      h2 {
+        margin-bottom: 20px;
+      }
+      p {
+        margin-top: 0;
+      }
+    }
     &.two {
       .option {
         display: block;

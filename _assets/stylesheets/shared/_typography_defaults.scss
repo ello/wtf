@@ -48,15 +48,6 @@ handle italics with font-style: italic (no italics available for Black)
   } @else {
     line-height: 0.875rem;
   }
-
-  @media only screen and (max-width : 640px) {
-    font-size: 0.875rem;
-    @if $line {
-      line-height: 1.35rem;
-    } @else {
-      line-height: 0.875rem;
-    }
-  }
 }
 
 @mixin type-medium($line: true) {
@@ -67,12 +58,12 @@ handle italics with font-style: italic (no italics available for Black)
     line-height: 1.45rem;
   }
 
-  @media only screen and (max-width : 640px) {
-    font-size: 1.45rem;
+  @media only screen and (max-width : 768px) {
+    font-size: 1.15rem;
     @if $line {
-      line-height: 1.925rem;
+      line-height: 1.55rem;
     } @else {
-      line-height: 1.45rem;
+      line-height: 1.15rem;
     }
   }
 }
@@ -136,11 +127,6 @@ handle italics with font-style: italic (no italics available for Black)
   p {
     code {
       margin: -0.3rem 0;
-    }
-    @media only screen and (min-width : 1px) and (max-width : 719px) {
-      &:last-child {
-        margin-bottom: 5px;
-      }
     }
   }
 }
