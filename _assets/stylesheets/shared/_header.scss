@@ -113,13 +113,47 @@ header.top {
           font-weight: 900;
           color: $black;
           @include border-radius(5pt);
-          background-color: $grey2;
+          background-color: $grey1;
           z-index: 4;
         }
         @include placeholder-color($grey3);
-      }
-      &.clear-search {
-        display: none;
+
+        span {
+          &.clear-search {
+            position: absolute;
+            display: block;
+            margin: 0;
+            padding: 2px;
+            top: 0;
+            right: $gutter_px / 2;
+            width: 18px;
+            height: 100%;
+            z-index: 5;
+            overflow: hidden;
+            svg {
+              display: block;
+              width: 14px;
+              height: 14px;
+              @include vertical_align;
+              title {
+                display: none;
+              }
+              polygon {
+                fill: $grey3;
+              }
+            }
+            &:hover {
+              cursor: pointer;
+            }
+          }
+        }
+        &.inactive {
+          span {
+            &.clear-search {
+              display: none;
+            }
+          }
+        }
       }
     }
   }
