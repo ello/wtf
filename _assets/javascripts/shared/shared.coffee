@@ -55,11 +55,12 @@ root.ElloWTFShared =
       search_term = $search_box.val()
       if search_term != ""
         $search_form.removeClass("inactive")
-        if search_term.length > 2
+        if search_term.length > 1
           ElloWTFSearch.searchIndex(search_term)
           $("#search_content h1 .search_term em").text("#{search_term}")
           $("#search_content h1.main").show()
           $("#search_content h1.alt").hide()
+          ElloWTFSearch.updateSearchUrl(search_term)
       else
         $search_form.addClass("inactive")
         ElloWTFSearch.clearResults()
