@@ -14,6 +14,12 @@ footer.bottom {
     height: auto;
   }
 
+  .footer-content {
+    position: relative;
+    margin: 0 auto;
+    max-width: $fullLayoutWidth_px;
+  }
+
   nav {
     width: 100%;
     ul {
