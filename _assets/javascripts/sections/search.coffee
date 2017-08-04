@@ -75,6 +75,7 @@ root.ElloWTFSearch =
     search_term = $(".search-holder .form input").val()
 
     $('#main_content').hide()
+    $('.page-header').hide()
     $('#search_content').show()
 
     # console.log window.location
