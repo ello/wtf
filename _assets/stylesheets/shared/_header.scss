@@ -2,14 +2,14 @@
 
 // set the body margin/padding here since it's based off the header-height
 body {
-  padding-top: 116px; // 80px header + 40px margin to content
+  padding-top: ($gutter_px * 0.5) + ($gutter_px * 2);
 }
 
 header.top {
   position: fixed;
   top: 0;
   left: 0;
-  padding: $gutter_px * 0.5;
+  padding: ($gutter_px * 0.5);
   height: $gutter_px * 2.5;
   width: 100%;
   // background-color: yellow;
@@ -106,7 +106,7 @@ header.top {
         input[type=text] {
           position: relative;
           display: block;
-          padding: 20px $gutter_px 20px ($gutter_px * 1.5);
+          padding: 19px $gutter_px 18px ($gutter_px * 1.5);
           width: 100%;
           @include type-medium(false);
           font-family: $groteskBlack;
