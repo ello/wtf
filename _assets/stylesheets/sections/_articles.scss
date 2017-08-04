@@ -14,11 +14,18 @@ body {
         width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
         max-width: (($largeColumn_px * 3) + ($smallColumn_px * 2));
         word-wrap: break-word;
-
         @include standard-copy-formatting;
 
+        @media only screen and (max-width : 1024px) {
+          width: percentage((($largeColumn * 4) + ($smallColumn * 3)) / $layoutWidth);
+        }
+
         img {
-          max-width: percentage(((($largeColumn * 4) + ($smallColumn * 3))) / (($largeColumn * 3) + ($smallColumn * 2)))
+          max-width: percentage(((($largeColumn * 4) + ($smallColumn * 3))) / (($largeColumn * 3) + ($smallColumn * 2)));
+
+          @media only screen and (max-width : 1024px) {
+            max-width: percentage(((($largeColumn * 5) + ($smallColumn * 5))) / (($largeColumn * 4) + ($smallColumn * 3)));
+          }
         }
 
         footer {

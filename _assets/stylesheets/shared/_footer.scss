@@ -10,6 +10,7 @@ footer.bottom {
     width: 100%;
     ul {
       display: block;
+      margin: 0;
       padding-right: $smallColumn_px;
       width: percentage((($largeColumn * 2) + $smallColumn) / $layoutWidth);
       @include type-small;

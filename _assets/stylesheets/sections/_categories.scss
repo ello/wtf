@@ -8,6 +8,10 @@ body {
         @include standard-copy-formatting;
         float: left;
 
+        @media only screen and (max-width : 1024px) {
+          width: percentage((($largeColumn * 3.5) + ($smallColumn * 3)) / $layoutWidth);
+        }
+
         p {
           &:first-child {
             margin-top: 0;
@@ -19,6 +23,7 @@ body {
         float: right;
 
         ul {
+          margin-top: 0;
           font-family: $groteskBlack;
           font-weight: 900;
 
