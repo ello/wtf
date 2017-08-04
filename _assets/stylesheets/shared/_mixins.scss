@@ -234,6 +234,11 @@ $smallColumn_px:     40px;
   transition: fill $speed ease-in-out;
 }
 
+@mixin placeholder-color($color) {
+  ::-webkit-input-placeholder  { color: $color; }
+  input:-moz-placeholder { color: $color; }
+}
+
 
 @mixin opacity($percentage) {
   opacity: ($percentage / 100);

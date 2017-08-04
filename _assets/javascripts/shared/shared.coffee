@@ -79,7 +79,7 @@ root.ElloWTFShared =
     $search_box.on "focusout", ->
       $(".search-holder").removeClass("active")
 
-    $search_form.find(".clear_search").click (e) ->
+    $search_form.find(".clear-search").click (e) ->
       e.preventDefault()
       $search_box.val("")
       $search_form.addClass("inactive")

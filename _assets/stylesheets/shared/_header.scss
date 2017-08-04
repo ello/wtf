@@ -53,7 +53,75 @@ header.top {
   }
 
   .search-holder {
-    display: none;
+    position: relative;
+    margin: 0 auto;
+    width: 60%;
+    span {
+      display: block;
+      &.trigger {
+        position: absolute;
+        z-index: 6;
+        height: 100%;
+        overflow: hidden;
+        a {
+          display: block;
+          padding: 0 0 0 20px;
+          width: 76px;
+          @include vertical_align;
+
+          span {
+            &.icon {
+              padding: 2px 3px 2px 3px;
+              margin: 0;
+              width: 20px;
+              height: 100%;
+              svg {
+                display: block;
+                width: 16px;
+                height: 16px;
+                path {
+                  @include transition_fill(150ms);
+                  fill: $grey3;
+                }
+              }
+            }
+            &.label {
+              display: none;
+            }
+          }
+          &:hover {
+            span {
+              &.icon {
+                svg {
+                  path {
+                    fill: $black;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      &.form {
+        input[type=text] {
+          position: relative;
+          display: block;
+          padding: 20px $gutter_px 20px ($gutter_px * 1.5);
+          width: 100%;
+          @include type-medium(false);
+          font-family: $groteskBlack;
+          font-weight: 900;
+          color: $black;
+          @include border-radius(5pt);
+          background-color: $grey2;
+          z-index: 4;
+        }
+        @include placeholder-color($grey3);
+      }
+      &.clear-search {
+        display: none;
+      }
+    }
   }
 
   nav {
