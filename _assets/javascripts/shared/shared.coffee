@@ -49,7 +49,7 @@ root.ElloWTFShared =
         ElloWTFShared.resizeSearchBox()
 
   watchSearchHeader: ->
-    $search_form = $(".search_holder .form")
+    $search_form = $(".search-holder .form")
     $search_box = $search_form.find("input")
 
     $search_box.keyup $.debounce(( (e) ->
@@ -75,9 +75,9 @@ root.ElloWTFShared =
         return false
 
     $search_box.on "focusin", ->
-      $(".search_holder").addClass("active")
+      $(".search-holder").addClass("active")
     $search_box.on "focusout", ->
-      $(".search_holder").removeClass("active")
+      $(".search-holder").removeClass("active")
 
     $search_form.find(".clear_search").click (e) ->
       e.preventDefault()
@@ -90,17 +90,17 @@ root.ElloWTFShared =
     search_term = ElloWTFShared.getURLParameter("for")
     unless typeof search_term == "undefined" || search_term == ""
       decoded_search_term = decodeURIComponent(search_term).replace(/\+/g , " ")
-      $(".search_holder .form input").val("#{decoded_search_term}")
-      $(".search_holder .form").removeClass("inactive")
-      $(".search_holder").addClass("expanded")
+      $(".search-holder .form input").val("#{decoded_search_term}")
+      $(".search-holder .form").removeClass("inactive")
+      $(".search-holder").addClass("expanded")
       $("header.top").addClass("search_open")
       $("#search_content h1 .search_term em").text("#{decoded_search_term}")
 
   watchSearchToggle: ->
-    $(".search_holder .trigger .search").click (e) ->
+    $(".search-holder .trigger .search").click (e) ->
       e.preventDefault()
 
-      $search_form = $(".search_holder")
+      $search_form = $(".search-holder")
       $search_box = $search_form.find("input")
       if $search_form.hasClass("expanded")
         $search_form.removeClass("expanded")
@@ -112,7 +112,7 @@ root.ElloWTFShared =
         $search_box.focus()
 
   resizeSearchBox: ->
-    $search_form = $(".search_holder")
+    $search_form = $(".search-holder")
     if $(window).width() < 1150 && $(window).width() > 719 && $search_form.hasClass('expanded')
       $search_form.find('span.form').removeAttr('style') # reset it in case previously fired
 

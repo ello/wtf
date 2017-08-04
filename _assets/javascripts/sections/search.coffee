@@ -28,7 +28,7 @@ root.ElloWTFSearch =
       return
 
     # make first query once index is created
-    search_term = $(".search_holder .form input").val()
+    search_term = $(".search-holder .form input").val()
     ElloWTFSearch.searchIndex(search_term)
 
   searchIndex: (search_term) ->
@@ -72,7 +72,7 @@ root.ElloWTFSearch =
     $("#search_content h1.alt").show()
   
   invokeSearch: ->
-    search_term = $(".search_holder .form input").val()
+    search_term = $(".search-holder .form input").val()
 
     $('#main_content').hide()
     $('#search_content').show()
