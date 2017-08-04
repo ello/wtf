@@ -26,6 +26,9 @@ body {
             margin-bottom: 1.925rem;
             a {
               text-decoration: underline;
+              &:hover {
+                color: $grey3;
+              }
             }
           }
         }
