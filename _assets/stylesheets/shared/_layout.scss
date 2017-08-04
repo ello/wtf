@@ -52,6 +52,12 @@ svg {
   min-height: 100%; // hack for pushing footer to bottom
   max-width: $layoutWidth_px;
   // background-color: yellow;
+
+  @media only screen and (max-width : 640px) {
+    padding-bottom: $smallColumn_px + ($smallColumn_px * 5) + 15px + 30px; // part of the hack to push footer down
+    padding-left: 3.5%;
+    padding-right: 3.5%;
+  }
 }
 
 .page-header {
@@ -61,6 +67,11 @@ svg {
   width: 100%;
   background-color: $grey2;
   @include centered_bg_image;
+
+  @media only screen and (max-width : 640px) {
+    margin-bottom: 40px;
+    padding-bottom: percentage(200/320);
+  }
 
   .constraint {
     position: absolute;
@@ -76,18 +87,13 @@ svg {
       color: $white;
       @include center-align;
       text-align: center;
+
+      @media only screen and (max-width : 640px) {
+        padding-right: 5%;
+        padding-left: 5%;
+        font-size: 11vw;
+        line-height: 11vw;
+      }
     }
-  }
-}
-
-@media only screen and (max-width : 640px) {
-  body {
-    padding: 10px;
-  }
-
-  #main_content,
-  #search_content {
-    padding-bottom: ($smallColumn_px * 2.5) + 10px + 100px; // part of the hack to push footer down
-    max-width: 100%;
   }
 }

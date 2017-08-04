@@ -85,11 +85,11 @@ handle italics with font-style: italic (no italics available for Black)
     }
   }
   @media only screen and (max-width : 640px) {
-    font-size: 9rem;
+    font-size: 16vw;
     @if $line {
-      line-height: 11rem;
+      line-height: 20vw;
     } @else {
-      line-height: 9rem;
+      line-height: 16vw;
     }
   }
 }
@@ -182,13 +182,9 @@ p:empty {
 
 ol, ul {
   padding: 0;
-}
-ol {
-  margin-left: 2.2em;
-}
-ul {
   margin-left: 1.2em;
 }
+
 nav ul, nav ol {
   margin-left: 0;
   list-style: none;

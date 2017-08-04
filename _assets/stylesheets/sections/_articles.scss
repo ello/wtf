@@ -20,11 +20,18 @@ body {
           width: percentage((($largeColumn * 4) + ($smallColumn * 3)) / $layoutWidth);
         }
 
+        @media only screen and (max-width : 640px) {
+          width: 100%;
+        }
+
         img {
           max-width: percentage(((($largeColumn * 4) + ($smallColumn * 3))) / (($largeColumn * 3) + ($smallColumn * 2)));
 
           @media only screen and (max-width : 1024px) {
             max-width: percentage(((($largeColumn * 5) + ($smallColumn * 5))) / (($largeColumn * 4) + ($smallColumn * 3)));
+          }
+          @media only screen and (max-width : 1024px) {
+            max-width: 100%;
           }
         }
 
@@ -43,82 +50,4 @@ body {
       }
     }
   }
-}
-
-@media only screen and (max-width : 719px) {
-
-  body {
-    &.article {
-      .content {
-        padding-right: 0;
-        width: 100%;
-        float: none;
-
-        h1 {
-          margin-bottom: 1.5rem;
-          @include type-big;
-        }
-
-        h2 {
-          margin-top: 1.75rem;
-          margin-bottom: 1.5rem;
-          @include type-big;
-        }
-
-        header {
-          position: relative;
-          width: 100%;
-          max-width: 100%;
-          h1 {
-            margin-top: 0;
-            margin-bottom: 0;
-            float: none;
-            clear: both;
-          }
-          h2 {
-            display: block;
-            margin: 0 0 20px -10px;
-            padding: 0 10px 20px 10px;
-            width: 100%;
-            @include type-big;
-            border-bottom: 1px solid $grey1;
-            -webkit-box-sizing: content-box;
-            -moz-box-sizing: content-box;
-            box-sizing: content-box;
-            float: none;
-            clear: both;
-
-            a {
-              display: block;
-              // padding: 0 10px 0 10px;
-              width: 100%;
-              color: $black;
-            }
-          }
-          p {
-            margin: 0 0 1.5rem;
-            margin-top: 0;
-            float: none;
-            text-align: left;
-          }
-        }
-
-        article {
-          max-width: 100%;
-        }
-      }
-      hr {
-        &.article_end {
-          display: block;
-          margin: 0 0 0 -10px;
-          padding: 0 10px 0 10px;
-          width: 100%;
-          -webkit-box-sizing: content-box;
-          -moz-box-sizing: content-box;
-          box-sizing: content-box;
-        }
-      }
-    }
-  }
-
 }

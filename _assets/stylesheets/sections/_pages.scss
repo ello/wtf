@@ -28,6 +28,10 @@ body {
                 @media only screen and (max-width : 1200px) {
                   bottom: 1.3vw;
                 }
+                @media only screen and (max-width : 640px) {
+                  height: 3pt;
+                  bottom: 1.8vw;
+                }
               }
               &:hover:after {
                 width: 0;
