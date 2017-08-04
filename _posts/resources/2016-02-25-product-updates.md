@@ -8,6 +8,9 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+August 2, 2017
+[Guest Editor, Underscore, Interviews, Giveaways](https://ello.co/lucian/post/k89kytt5_eogh87j04f51g)
+
 July 18, 2017
 [Fresh Artist Invites, Interviews, Not For Print](https://ello.co/lucian/post/e-j8p2qufwoih1a4oehvgg)
 
