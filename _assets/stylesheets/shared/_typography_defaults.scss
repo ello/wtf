@@ -85,6 +85,14 @@ handle italics with font-style: italic (no italics available for Black)
     line-height: 9rem;
   }
 
+  @media only screen and (max-width : 1200px) {
+    font-size: 12vw;
+    @if $line {
+      line-height: 14.7vw;
+    } @else {
+      line-height: 12vw;
+    }
+  }
   @media only screen and (max-width : 640px) {
     font-size: 9rem;
     @if $line {

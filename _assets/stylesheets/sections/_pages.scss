@@ -24,6 +24,10 @@ body {
                 height: 6pt;
                 background-color: $black;
                 transition: width .2s cubic-bezier(.23,1,.32,1), background-color .2s ease;
+
+                @media only screen and (max-width : 1200px) {
+                  bottom: 1.3vw;
+                }
               }
               &:hover:after {
                 width: 0;
