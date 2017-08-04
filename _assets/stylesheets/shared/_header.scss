@@ -9,31 +9,25 @@ header.top {
   position: fixed;
   top: 0;
   left: 0;
-  padding: $smallColumn_px $smallColumn_px $smallColumn_px $gutter_px;
+  padding: $gutter_px * 0.25;
   width: 100%;
   // background-color: yellow;
   background-color: $white;
   z-index: 50;
 
   h1 {
-    margin-right: $smallColumn_px;
-    width: 40px;
-    height: 40px;
+    padding: ($gutter_px * 0.75) 0 0 ($gutter_px * 0.75);
+    margin-right: 0.25rem;
+    @include type-medium(false);
     float: left;
     a {
       span {
         &.icon {
           svg {
-            width: 40px;
-            @include border_radius(40px);
 
-            path {
-              &.svg__bg {
-                fill: $black;
-              }
-              &.svg__fg {
-                fill: $white;
-              }
+            path,
+            polygon {
+              fill: $black;
             }
           }
         }
@@ -45,7 +39,11 @@ header.top {
   }
 
   h2 {
-    margin-top: 0.75rem;
+    padding: ($gutter_px * 0.75) 0 0 0;
+    @include type-medium(false);
+    font-family: $groteskBlack;
+    font-weight: 900;
+    color: $grey3;
     float: left;
   }
 
