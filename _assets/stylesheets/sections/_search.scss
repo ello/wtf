@@ -2,15 +2,33 @@
 
 #search_content {
   .search_content {
-    padding-right: $gutter_px;
-    width: 100%;
-    max-width: $largeColumn_px * 2 + $smallColumn_px + $gutter_px;
+    padding-top: 70px;
+    width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
+    float: left;
+
+    @media only screen and (max-width : 1024px) {
+      width: percentage((($largeColumn * 3.5) + ($smallColumn * 3)) / $layoutWidth);
+    }
+    @media only screen and (max-width : 640px) {
+      width: 100%;
+      float: none;
+      clear: both;
+    }
+
     header,
     section.results {
+      @include standard-copy-formatting;
+
       h1, h2 {
         margin-bottom: 2.75rem;
-        @include type-big;
+        @include type-medium;
+        font-family: $groteskBlack;
+        font-weight: 900;
         color: $grey3;
+
+        a {          
+          border: 0;
+        }
 
         span {
           color: $black;
@@ -44,7 +62,7 @@
               padding-left: 3px;
               a {
                 color: $grey3;
-                border-bottom: 1px solid;
+                border-bottom: 1pt solid;
                 &:hover {
                   color: $black;
                 }
@@ -54,7 +72,7 @@
         }
         article {
           &.result {
-            margin-bottom: 1.25rem;
+            margin-bottom: 2.5rem;
           }
         }
       }
@@ -62,9 +80,11 @@
     p {
       &.topic_link {
         padding-top: 2.25rem;
+        font-family: $groteskBlack;
+        font-weight: 900;
 
         a {
-          border-bottom: 1px solid;
+          border-bottom: 1pt solid;
           &:hover {
             color: $grey3;
           }

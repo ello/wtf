@@ -1,9 +1,33 @@
----
-layout: default
-css_hook: search
----
+<!DOCTYPE html>
+<html lang='en'>
 
-<div class="content">
-  <p>Loading…</p>
-  <p><a href="{{ site.baseurl }}/">View all topics…</a></p>
-</div>
+  {% include head.html %}
+
+  <body class="search{% if page.css_hook %} {{ page.css_hook }}{% endif %}" data-site-title="{{ site.title }} | {{ site.subtitle }}">
+
+    <div id="content_container">
+      {% include header.html %}
+
+      <div id="search_content" class="clear" style="display:none;">
+        {% include search_content.html %}
+      </div>
+
+      <div id="main_content" class="clear">
+        <article class="clear">
+          <div class="content">
+            <p>Loading…</p>
+            <p><a href="{{ site.baseurl }}/">View all topics…</a></p>
+          </div>
+        </article>
+      </div>
+
+      {% include footer.html %}
+    </div>
+
+    {% if page.shareable %}
+      {% include share_modal.html %}
+    {% endif %}
+
+    {% include bottom.html %}
+  </body>
+</html>
