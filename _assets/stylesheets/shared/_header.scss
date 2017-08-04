@@ -3,6 +3,10 @@
 // set the body margin/padding here since it's based off the header-height
 body {
   padding-top: ($gutter_px * 0.5) + ($gutter_px * 2);
+
+  @media only screen and (min-width : 1px) and (max-width : 920px) {
+    padding-top: ($gutter_px * 0.5) + ($gutter_px * 2) + (48px / 2);
+  }
 }
 
 header.top {
@@ -16,10 +20,20 @@ header.top {
   background-color: $white;
   z-index: 50;
 
+  @media only screen and (min-width : 1px) and (max-width : 920px) {
+    padding: 48px 14px 18px 14px;
+    height: $gutter_px * 2.5 + (48px / 2);
+  }
+
   .site-name {
     position: absolute;
     top: $gutter_px;
     left: $gutter_px;
+
+    @media only screen and (min-width : 1px) and (max-width : 920px) {
+      top: 14px;
+      left: 14px;
+    }
 
     h1 {
       margin-right: 0.25rem;
@@ -56,6 +70,11 @@ header.top {
     position: relative;
     margin: 0 auto;
     width: 60%;
+
+    @media only screen and (min-width : 1px) and (max-width : 920px) {
+      width: 100%;
+    }
+
     span {
       display: block;
       &.trigger {
@@ -66,8 +85,13 @@ header.top {
         a {
           display: block;
           padding: 0 0 0 20px;
-          width: 76px;
+          width: 46px;
           @include vertical_align;
+
+          @media only screen and (min-width : 1px) and (max-width : 420px) {
+            padding-left: 11px;
+            width: 36px;
+          }
 
           span {
             &.icon {
@@ -115,6 +139,12 @@ header.top {
           @include border-radius(5pt);
           background-color: $grey1;
           z-index: 4;
+
+          @media only screen and (min-width : 1px) and (max-width : 420px) {
+            padding-left: $gutter_px;
+            font-size: 1.45rem;
+            line-height: 1.45rem;
+          }
         }
         @include placeholder-color($grey3);
 
@@ -130,6 +160,11 @@ header.top {
             height: 100%;
             z-index: 5;
             overflow: hidden;
+
+            @media only screen and (min-width : 1px) and (max-width : 420px) {
+              right: $gutter_px / 2.5;
+            }
+
             svg {
               display: block;
               width: 14px;
@@ -163,6 +198,11 @@ header.top {
     right: $gutter_px;
     top: 0;
     height: 100%;
+
+    @media only screen and (min-width : 1px) and (max-width : 920px) {
+      right: 14px;
+      height: 52px;
+    }
     p {
       margin: 0;
       padding: 0;

@@ -69,6 +69,8 @@ svg {
     background-color: rgba($black,0.5);
 
     h1 {
+      padding-right: 10%;
+      padding-left: 10%;
       font-family: $groteskBlack;
       @include type-big(false);
       color: $white;
