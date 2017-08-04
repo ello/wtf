@@ -54,7 +54,7 @@ svg {
   // background-color: yellow;
 
   @media only screen and (max-width : 640px) {
-    padding-bottom: $smallColumn_px + ($smallColumn_px * 5) + 15px + 30px; // part of the hack to push footer down
+    padding-bottom: 0; // kill footer hack on mobile
     padding-left: 3.5%;
     padding-right: 3.5%;
   }
