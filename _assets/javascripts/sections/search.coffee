@@ -99,6 +99,7 @@ root.ElloWTFSearch =
     $('#main_content').hide()
     $('.page-header').hide()
     $('#search_content').show()
+    $('html, body').animate { scrollTop: 0 }, 0
 
     ElloWTFSearch.updateSearchUrl(search_term)
   
