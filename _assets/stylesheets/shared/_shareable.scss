@@ -42,6 +42,7 @@
         margin-bottom: percentage(10/550);
         width: 100%;
         height: 50px;
+        @include type-small;
         color: $white;
         background-color: $black;
 

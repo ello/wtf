@@ -7,8 +7,6 @@
 // Smartphones (portrait and landscape) ---------
 @media only screen and (min-width : 1px) and (max-width : 719px) {
   body {
-    min-width: 1px;
-    max-width: 719px;
     -webkit-text-size-adjust: none;
   }
 
@@ -21,14 +19,6 @@
   
 }
 
-@media only screen and (min-device-width : 1px) and (max-device-width : 719px) {
-  // prevents iOS from doing its dumb zooming thing
-  input[type='text'],
-  input[type='email'] {
-    font-size: 16px;
-  }
-}
-
 // Smartphones (landscape) ----------------------
 @media only screen and (min-width : 1px) and (max-width : 719px) { 
 
@@ -38,8 +28,6 @@
 @media only screen and (max-width : 400px) {
 
   body {
-    min-width: 320px;
-    max-width: 400px;
     -webkit-text-size-adjust: none;
   }
 
@@ -54,8 +42,6 @@
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
 
   body {
-    min-width: auto;
-    max-width: 1024px;
     -webkit-text-size-adjust: none;
   }
 
@@ -65,8 +51,6 @@
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
 
   body {
-    min-width: 768px;
-    max-width: 768px;
     -webkit-text-size-adjust: none;
   }
   

@@ -1,124 +1,71 @@
 <footer class="bottom clear">
-  <nav class="clear">
-    <ul>
-      {% if site.community_directory_link %}
-        <li>
-          <a href="{{ site.community_directory_link }}" class="social community_directory clear">
-            <span class="icon">
-              {% include svg/community_directory_icon.svg %}
-            </span>
-            <span class="label">Community Directory</span>
-          </a>
-        </li>
-      {% endif %}
-      {% if site.ios_app_store_link %}
-        <li>
-          <a href="{{ site.ios_app_store_link }}" class="social ios_app" target="_blank">
-            <span class="icon">
-              {% include svg/ios_app_icon.svg %}
-            </span>
-            <span class="label">Ello Mobile Apps</span>
-          </a>
-        </li>
-      {% endif %}
-      {% if site.threadless_store_link %}
-        <li>
-          <a href="{{ site.threadless_store_link }}" class="social threadless" target="_blank">
-            <span class="icon">
-              {% include svg/threadless_icon.svg %}
-            </span>
-            <span class="label"><strong>Ello x </strong>Threadless Store</span>
-          </a>
-        </li>
-      {% endif %}
-    </ul>
+  <div class="footer-content">
+    <nav class="clear">
+      {% include category_list.html %}
 
-    <ul class="social">
-      {% if site.ello_username %}
-        <li>
-          <a href="{{ site.webapp_url }}/{{ site.ello_username }}" class="social ello clear">
-            <span class="icon">
-              {% include svg/ello_icon.svg %}
-            </span>
-            <span class="label">Follow us on Ello</span>
-          </a>
-        </li>
-      {% endif %}
-      {% if site.twitter_username %}
-        <li>
-          <a href="https://twitter.com/{{ site.twitter_username }}" class="social twitter" target="_blank">
-            <span class="icon">
-              {% include svg/social/twitter_icon.svg %}
-            </span>
-            <span class="label">Follow us on Twitter</span>
-          </a>
-        </li>
-      {% endif %}
-      {% if site.tumblr_username %}
-        <li>
-          <a href="https://{{ site.tumblr_username }}.tumblr.com" class="social tumblr" target="_blank">
-            <span class="icon">
-              {% include svg/social/tumblr_icon.svg %}
-            </span>
-            <span class="label">Follow us on Tumblr</span>
-          </a>
-        </li>
-      {% endif %}
-      {% if site.instagram_username %}
-        <li>
-          <a href="https://instagram.com/{{ site.instagram_username }}" class="social instagram" target="_blank">
-            <span class="icon">
-              {% include svg/social/instagram_icon.svg %}
-            </span>
-            <span class="label">Follow us on Instagram</span>
-          </a>
-        </li>
-      {% endif %}
-      {% if site.pinterest_username %}
-        <li>
-          <a href="https://pinterest.com/{{ site.pinterest_username }}" class="social pinterest" target="_blank">
-            <span class="icon">
-              {% include svg/social/pinterest_icon.svg %}
-            </span>
-            <span class="label">Follow us on Pinterest</span>
-          </a>
-        </li>
-      {% endif %}
-      {% if site.facebook_username %}
-        <li>
-          <a href="https://facebook.com/{{ site.facebook_username }}" class="social facebook" target="_blank">
-            <span class="icon">
-              {% include svg/social/facebook_icon.svg %}
-            </span>
-            <span class="label">Follow us on Facebook</span>
-          </a>
-        </li>
-      {% endif %}
-      {% if site.gplus_url %}
-        <li>
-          <a href="{{ site.gplus_url }}" class="social gplus" target="_blank">
-            <span class="icon">
-              {% include svg/social/gplus_icon.svg %}
-            </span>
-            <span class="label">Follow us on Google+</span>
-          </a>
-        </li>
-      {% endif %}
-    </ul>
-
-    {% assign footer_columns = "column-1|column-2" | split: "|" %}
-    {% assign links_total = site.footer_links | size %}
-    {% for column in footer_columns %}
-      {% capture local_path %}{{ site.baseurl }}{{ page.url }}{% endcapture %}
-      {% assign index = forloop.index | minus: 1 %}
-      {% assign index_link_1 = index | times: 2 %}
-      {% assign index_link_2 = index | times: 2 | plus: 1 %}
-      {% assign link_1 = site.footer_links[index_link_1] %}
-      {% assign link_2 = site.footer_links[index_link_2] %}
-      <ul>
-        <li{% if local_path == link_1.url %} class="current"{% endif %}><a href="{{ link_1.url }}"{% if link_1.url contains 'http' %} target="_blank"{% endif %}>{{ link_1.text }}</a></li>
-        <li{% if local_path == link_2.url %} class="current"{% endif %}><a href="{{ link_2.url }}"{% if link_2.url contains 'http' %} target="_blank"{% endif %}>{{ link_2.text }}</a></li>
+      <ul class="social">
+        {% if site.ello_username %}
+          <li>
+            <a href="{{ site.webapp_url }}/{{ site.ello_username }}" class="social ello clear">
+              <span class="icon">
+                {% include svg/ello_icon.svg %}
+              </span>
+              <span class="label">Follow us on Ello</span>
+            </a>
+          </li>
+        {% endif %}
+        {% if site.twitter_username %}
+          <li>
+            <a href="https://twitter.com/{{ site.twitter_username }}" class="social twitter" target="_blank">
+              <span class="icon">
+                {% include svg/social/twitter_icon.svg %}
+              </span>
+              <span class="label">Follow us on Twitter</span>
+            </a>
+          </li>
+        {% endif %}
+        {% if site.tumblr_username %}
+          <li>
+            <a href="https://{{ site.tumblr_username }}.tumblr.com" class="social tumblr" target="_blank">
+              <span class="icon">
+                {% include svg/social/tumblr_icon.svg %}
+              </span>
+              <span class="label">Follow us on Tumblr</span>
+            </a>
+          </li>
+        {% endif %}
+        {% if site.instagram_username %}
+          <li>
+            <a href="https://instagram.com/{{ site.instagram_username }}" class="social instagram" target="_blank">
+              <span class="icon">
+                {% include svg/social/instagram_icon.svg %}
+              </span>
+              <span class="label">Follow us on Instagram</span>
+            </a>
+          </li>
+        {% endif %}
+        {% if site.pinterest_username %}
+          <li>
+            <a href="https://pinterest.com/{{ site.pinterest_username }}" class="social pinterest" target="_blank">
+              <span class="icon">
+                {% include svg/social/pinterest_icon.svg %}
+              </span>
+              <span class="label">Follow us on Pinterest</span>
+            </a>
+          </li>
+        {% endif %}
+        {% if site.facebook_username %}
+          <li>
+            <a href="https://facebook.com/{{ site.facebook_username }}" class="social facebook" target="_blank">
+              <span class="icon">
+                {% include svg/social/facebook_icon.svg %}
+              </span>
+              <span class="label">Follow us on Facebook</span>
+            </a>
+          </li>
+        {% endif %}
+        <li class="stretch"></li>
       </ul>
-    {% endfor %}
-  </nav>
+    </nav>    
+  </div>
 </footer>

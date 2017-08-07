@@ -4,10 +4,12 @@ title:  "Collab & Hire"
 date:   2016-10-24 04:23:18 MDT
 categories: help
 position: 4
+header_image: header_post-default.png
+# place header images in: _assets/images/page-headers/posts
 redirect_from:
   - /help/hire-me/
 ---
-{% image hireme.gif alt="Collaborate or get hired on Ello" %}
+![Collaborate or get hired on Ello]({% asset_path hireme.gif %})
 
 The Hire Me Button tells potential clients you’re available for work and gives them an easy way to contact you privately. The Collaborate Button enables fellow creators that want to collaborate to email you.
 

@@ -8,17 +8,17 @@ $sprite01width: 400px;
 $sprite01height: 300px;
 
 // layout measurements
-$fullLayoutWidth:    1350;
-$layoutWidth:        1300;
-$gutter:             30;
-$largeColumn:        310;
-$smallColumn:        20;
+$fullLayoutWidth:    1440;
+$layoutWidth:        1360;
+$gutter:             40;
+$largeColumn:        194;
+$smallColumn:        40;
 
-$fullLayoutWidth_px: 1350px;
-$layoutWidth_px:     1300px;
-$gutter_px:          30px;
-$largeColumn_px:     310px;
-$smallColumn_px:     20px;
+$fullLayoutWidth_px: 1440px;
+$layoutWidth_px:     1360px;
+$gutter_px:          40px;
+$largeColumn_px:     194px;
+$smallColumn_px:     40px;
 
 // available shorteners
 @mixin truncate_text() {
@@ -30,7 +30,7 @@ $smallColumn_px:     20px;
 }
 
 @mixin centered_bg_image() {
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -56,6 +56,15 @@ $smallColumn_px:     20px;
   -webkit-transform: translateY(-$amount);
   -ms-transform: translateY(-$amount);
   transform: translateY(-$amount);
+}
+
+@mixin center-align {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateY(-50%) translateX(-50%);
+  -ms-transform: translateY(-50%) translateX(-50%);
+  transform: translateY(-50%) translateX(-50%);
 }
 
 @mixin translate_x_y($xAmount,$yAmount) {
@@ -225,6 +234,11 @@ $smallColumn_px:     20px;
   transition: fill $speed ease-in-out;
 }
 
+@mixin placeholder-color($color) {
+  ::-webkit-input-placeholder  { color: $color; }
+  input:-moz-placeholder { color: $color; }
+}
+
 
 @mixin opacity($percentage) {
   opacity: ($percentage / 100);
@@ -250,6 +264,12 @@ $smallColumn_px:     20px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+@mixin content-box {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
 }
 
 @mixin text_size_adjust($percentage) {

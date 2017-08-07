@@ -26,6 +26,7 @@
 
 // Import the section styles
 @import "sections/pages";
+@import "sections/categories";
 @import "sections/articles";
 @import "sections/search";
 @import "sections/ello_button";
@@ -33,5 +34,5 @@
 // Import the error page styles
 @import "sections/errors";
 
-// Load mobile second-to-last
+// Import the mobile page styles
 @import "shared/mobile";

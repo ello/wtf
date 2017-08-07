@@ -31,23 +31,6 @@ tumblr_username: ellohype
 instagram_username: ellohype
 pinterest_username: ellohype
 facebook_username: ellohype
-gplus_url: https://plus.google.com/u/0/108873324537875489413
-# other footer links
-community_directory_link: "/wtf/resources/communities/"
-ios_app_store_link: "/wtf/resources/apps/"
-threadless_store_link: "http://ello.threadless.com/"
-
-footer_links: # Ello links should omit the 'http://ello.co' and start with a slash (i.e. http://ello.co/wtf/resources/communities/ --> /wtf/resources/communities/)
-- text: Ello Manifesto
-  url: /wtf/about/manifesto/
-- text: Contact Ello
-  url: /wtf/help/contact/
-- text: Terms of Use
-  url: /wtf/policies/terms/
-- text: Privacy Policy
-  url: /wtf/policies/privacy/
-login_path: /enter
-join_path: /
 
 ## Time Zone and future publishing
 timezone: Mountain Time
@@ -64,13 +47,14 @@ url: "https://ello.co" # the base hostname & protocol for your site
 webapp_url: "https://ello.co"
 permalink: /:categories/:title/ # construct our URLs (this is misleading because it's not based on title, but filename - see README)
 
-## emoji support - https://github.com/jekyll/jemoji
-# we don't put the emoji image files in the asset pipeline because what's the point?
-gems:
-  - jemoji
+## gems
+plugins:
   - jekyll-html-pipeline
   - jekyll-assets
   - jekyll-redirect-from
+
+## non-gem ruby plugins
+plugins_dir: _plugins
 
 ## markdown flavor
 markdown: HTMLPipeline
@@ -95,6 +79,7 @@ assets: # https://github.com/jekyll-assets/jekyll-assets
 exclude:
   - README.md
   - REVISION
+  - LICENSE
   - Procfile
   - Rakefile
   - Capfile
@@ -105,5 +90,5 @@ exclude:
   - lib
   - config
   - stopwords.txt
-
-plugins: _plugins
+  - Dockerfile
+  - docker-compose.yml

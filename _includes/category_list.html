@@ -1,0 +1,18 @@
+<ul class="category-list">
+  {% assign sorted_categories = site.categories | sort %}
+  {% for category in sorted_categories %}
+    {% assign current_category = category | first %}
+
+    {% unless current_category == "policies" %}
+      <li><a href="{{ site.baseurl }}/{{ current_category | handleize }}/">{{ category | first | capitalize }}</a></li>
+    {% endunless %}
+  {% endfor %}
+
+  {% for category in sorted_categories %}
+    {% assign current_category = category | first %}
+
+    {% if current_category == "policies" %}
+      <li><a href="{{ site.baseurl }}/{{ current_category | handleize }}/">{{ category | first | capitalize }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

@@ -2,451 +2,201 @@
 
 // set the body margin/padding here since it's based off the header-height
 body {
-  padding-top: 116px; // 80px header + 40px margin to content
+  padding-top: ($gutter_px * 0.5) + ($gutter_px * 2);
+
+  @media only screen and (max-width : 920px) {
+    padding-top: ($gutter_px * 0.5) + ($gutter_px * 2) + (48px / 2);
+  }
 }
 
 header.top {
   position: fixed;
   top: 0;
   left: 0;
-  padding: $smallColumn_px $smallColumn_px $smallColumn_px $gutter_px;
   width: 100%;
   // background-color: yellow;
   background-color: $white;
   z-index: 50;
 
-  h1 {
-    margin-right: $smallColumn_px;
-    width: 40px;
-    height: 40px;
-    float: left;
-    a {
-      span {
-        &.icon {
-          svg {
-            width: 40px;
-            @include border_radius(40px);
+  .header-content {
+    position: relative;
+    margin: 0 auto;
+    padding: ($gutter_px * 0.5);
+    height: $gutter_px * 2.5;
+    max-width: $fullLayoutWidth_px;
 
-            path {
-              &.svg__bg {
-                fill: $black;
-              }
-              &.svg__fg {
-                fill: $white;
-              }
-            }
-          }
-        }
-        &.label {
-          display: none;
-        }
-      }
+    @media only screen and (max-width : 920px) {
+      padding: 48px 14px 18px 14px;
+      height: $gutter_px * 2.5 + (48px / 2);
     }
   }
 
-  h2 {
-    margin-top: 0.75rem;
-    float: left;
-  }
+  .site-name {
+    position: absolute;
+    top: $gutter_px;
+    left: $gutter_px;
 
-  nav {
-    // background-color: purple;
-    float: right;
-
-    ul {
-      margin-top: 0.75rem;
-      float: right;
-      li {
-        display: inline;
-
-        a {
-          padding: 0.7rem;
-          color: $grey3;
-          // background-color: pink;
-
-          &:hover,
-          &.current {
-            color: $black;
-          }
-        }
-        &.search_holder {
-          margin-right: 1.4rem;
-          width: $largeColumn_px + 30px;
-          // background-color: rgba(yellow,0.8);
-
-          span {
-            display: block;
-            float: left;
-            &.trigger {
-              width: 78px;
-              height: 20px;
-              overflow: hidden;       
-              a {
-                display: block;
-                padding: 0;
-                width: 76px;
-                height: 20px;
-                span {
-                  display: block;
-                  float: left;
-                  &.icon {
-                    padding: 2px 3px 2px 3px;
-                    margin: 0;
-                    width: 20px;
-                    height: 20px;
-                    svg {
-                      display: block;
-                      width: 14px;
-                      height: 14px;
-                      path {
-                        @include transition_fill(150ms);
-                        fill: $grey3;
-                      }
-                    }
-                  }
-                  &.label {
-                    float: right;
-                  }
-                }
-                &:hover {
-                  span {
-                    &.icon {
-                      svg {
-                        path {
-                          fill: $black;
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-            &.form {
-              display: none;
-            }
-          }
-          &.expanded {
-            span {
-              &.trigger {
-                width: 20px;
-                a {
-                  width: 20px;
-                  span {
-                    &.label {
-                      display: none;
-                    }
-                  }
-                }
-              }
-              &.form {
-                position: relative;
-                display: inline-block;
-                margin-left: 14px;
-
-                input[type=text] {
-                  position: relative;
-                  padding-bottom: 0.25rem;
-                  width: $largeColumn_px;
-                  border-bottom: 1px solid $grey3;
-                  z-index: 4;
-                }
-                span {
-                  &.clear_search {
-                    position: absolute;
-                    display: block;
-                    margin: 3px 0 0 0;
-                    padding: 2px;
-                    top: 0;
-                    right: 0;
-                    width: 10px;
-                    height: 10px;
-                    z-index: 5;
-                    overflow: hidden;
-                    svg {
-                      display: block;
-                      width: 8px;
-                      height: 8px;
-                      title {
-                        display: none;
-                      }
-                      polygon {
-                        fill: $grey3;
-                      }
-                    }
-                    &:hover {
-                      cursor: pointer;
-                    }
-                  }
-                }
-                &.inactive {
-                  span {
-                    &.clear_search {
-                      display: none;
-                    }
-                  }
-                }
-              }
-            }
-          }
-          &.active {
-            span {
-              &.trigger {
-                a {
-                  svg {
-                    path {
-                      fill: $black;
-                    }
-                  }
-                }
-              }
-              &.form {
-                input[type=text] {
-                  border-color: $black;
-                }
-              }
-            }
-          }
-        }
-      }
-      &.tabs {
-        margin: 0 0 0 15px;
-        padding: 0;
-        li {
-          margin: -0.35rem 0 0 0;
-          padding: 0;
-          display: inline-block;
-          height: 1.875rem;
-          a {
-            padding: 0.3125rem 0.625rem;
-            color: $grey3;
-            @include transition_color(150ms);
-            &:hover {
-              color: $white;
-            }
-          }
-          &:last-child,
-          &.last {
-            margin-left: -0.55rem;
-          }
-        }
-      }
+    @media only screen and (max-width : 920px) {
+      top: 14px;
+      left: 14px;
     }
-  }
-}
-
-@media only screen and (min-width : 720px) and (max-width : 1150px) {
-
-  header.top {
-    nav {
-      ul {
-        li {
-          &.search_holder {
-            span {
-              &.trigger {
-                a {
-                  svg {
-                    width: 14px;
-                    path {
-                      @include transition_fill(150ms);
-                      fill: $grey3;
-                    }
-                  }
-                  &:hover {
-                    svg {
-                      path {
-                        fill: $black;
-                      }
-                    }
-                  }
-                }
-              }
-              &.form {
-                display: none;
-              }
-            }
-            &.expanded {
-              span {
-                &.form {
-                  display: inline-block;
-                  position: absolute;
-                  top: 1.85rem;
-                  left: percentage(2/8);
-                  padding: 20px 10px 30px 10px;
-                  margin-left: 0;
-                  width: percentage(6/8);
-                  z-index: 10;
-                  background-color: $white;
-
-                  input[type=text] {
-                    width: 100%;
-                  }
-                  span {
-                    &.clear_search {
-                      top: 22px;
-                      right: 12px;
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-
-}
-
-@media only screen and (min-width : 1px) and (max-width : 719px) {
-
-  // set the body margin/padding here since it's based off the header-height
-  body {
-    padding-top: 85px; // 55px header + 30px margin to content
-  }
-
-  header.top {
-    padding: 10px;
-    // background-color: yellow;
 
     h1 {
-      margin-right: 15px;
-      width: 30px;
-      height: 30px;
+      margin-right: 0.25rem;
+      @include type-medium(false);
+      float: left;
       a {
         span {
           &.icon {
             svg {
-              width: 30px;
+
+              path,
+              polygon {
+                fill: $black;
+              }
             }
+          }
+          &.label {
+            display: none;
           }
         }
       }
     }
 
     h2 {
-      margin-top: 0.4rem;
-      strong {
-        display: none;
+      @include type-medium(false);
+      font-family: $groteskBlack;
+      font-weight: 900;
+      color: $grey3;
+      float: left;
+
+      @media only screen and (max-width : 768px) {
+        font-size: 1.45rem;
+        line-height: 1.45rem;
       }
     }
+  }
 
-    &.search_open {
-      h1, h2 {
-        display: none;
-      }
-    }
+  .search-holder {
+    position: relative;
+    margin: 0 auto;
+    width: 60%;
 
-    nav {
+    @media only screen and (max-width : 920px) {
       width: 100%;
-      float: none;
+    }
 
-      ul {
-        margin-top: 6px;
-        // background-color: purple;
-        li {
+    span {
+      display: block;
+      &.trigger {
+        position: absolute;
+        z-index: 6;
+        height: 100%;
+        overflow: hidden;
+        a {
           display: block;
-          float: left;
-          // background-color: rgba(red,0.3);
-          a {
-            padding: 0;
-            width: 100%;
-            text-align: center;
-          }
-          &.search_holder {
-            margin: 0;
-            margin-top: -2px;
-            margin-right: 1rem;
-            width: 20px;
-            // background-color: rgba(red,0.5);
+          padding: 0 0 0 20px;
+          width: 46px;
+          @include vertical_align;
 
+          @media only screen and (max-width : 420px) {
+            padding-left: 11px;
+            width: 36px;
+          }
+
+          span {
+            &.icon {
+              padding: 2px 3px 2px 3px;
+              margin: 0;
+              width: 20px;
+              height: 100%;
+              svg {
+                display: block;
+                width: 16px;
+                height: 16px;
+                path {
+                  @include transition_fill(150ms);
+                  fill: $grey3;
+                }
+              }
+            }
+            &.label {
+              display: none;
+            }
+          }
+          &:hover {
             span {
-              display: block;
-              width: 100%;
-              height: $gutter_px;
-              float: none;
-              &.trigger {
-                padding-top: 2px;
-                width: 100%;              
-                a {
-                  display: block;
-                  &.label {
-                    display: none;
-                  }
-                  svg {
-                    width: 14px;
-                    path {
-                      @include transition_fill(150ms);
-                      fill: $grey3;
-                    }
-                  }
-                  &:hover {
-                    svg {
-                      path {
-                        fill: $black;
-                      }
-                    }
-                  }
-                }
-              }
-              &.form {
-                display: none;
-              }
-            }
-            &.expanded {
-              span {
-                &.trigger {
-                  position: absolute;
-                  left: 10px;
-                }
-                &.form {
-                  display: inline-block;
-                  position: absolute;
-                  top: 1px;
-                  left: 35px;
-                  padding: 15px 45px 30px 10px;
-                  margin-left: 0;
-                  width: 100%;
-                  z-index: 10;
-                  // background-color: rgba(purple,0.6);
-                  background-color: $white;
-
-                  input[type=text] {
-                    width: 100%;
-                  }
-                  span {
-                    &.clear_search {
-                      top: 22px;
-                      right: 12px;
-                    }
+              &.icon {
+                svg {
+                  path {
+                    fill: $black;
                   }
                 }
               }
             }
-          }
-          &.tabs_holder {
-            width: 50%;
-            float: right;
           }
         }
-        &.tabs {
-          margin: 0;
-          padding: 0;
-          width: auto;
-          float: right;
-          li {
-            display: inline;
-            width: auto;
+      }
+      &.form {
+        input[type=text] {
+          position: relative;
+          display: block;
+          padding: 19px $gutter_px 18px ($gutter_px * 1.5);
+          width: 100%;
+          @include type-medium(false);
+          font-family: $groteskBlack;
+          font-weight: 900;
+          color: $black;
+          @include border-radius(5pt);
+          background-color: $grey1;
+          z-index: 4;
+
+          @media only screen and (max-width : 420px) {
+            padding-left: $gutter_px;
+            font-size: 1.45rem;
+            line-height: 1.45rem;
+          }
+        }
+        @include placeholder-color($grey3);
+
+        span {
+          &.clear-search {
+            position: absolute;
+            display: block;
             margin: 0;
-            &:last-child,
-            &.last {
-              margin-left: -0.05rem;
+            padding: 2px;
+            top: 0;
+            right: $gutter_px / 2;
+            width: 18px;
+            height: 100%;
+            z-index: 5;
+            overflow: hidden;
+
+            @media only screen and (max-width : 420px) {
+              right: $gutter_px / 2.5;
             }
-            a {
-              span {
-                &.full-label {
-                  display: none;
-                }
+
+            svg {
+              display: block;
+              width: 14px;
+              height: 14px;
+              @include vertical_align;
+              title {
+                display: none;
               }
+              polygon {
+                fill: $grey3;
+              }
+            }
+            &:hover {
+              cursor: pointer;
+            }
+          }
+        }
+        &.inactive {
+          span {
+            &.clear-search {
+              display: none;
             }
           }
         }
@@ -454,4 +204,30 @@ header.top {
     }
   }
 
+  nav {
+    position: absolute;
+    right: $gutter_px;
+    top: 0;
+    height: 100%;
+
+    @media only screen and (max-width : 920px) {
+      right: 14px;
+      height: 52px;
+    }
+    p {
+      margin: 0;
+      padding: 0;
+      &.back-to-ello {
+        @include type-small;
+        @include vertical_align;
+
+        a {
+          color: $grey3;
+          &:hover {
+            color: $black;
+          }
+        }
+      }
+    }
+  }
 }

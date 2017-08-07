@@ -2,66 +2,7 @@
 
 body {
   &.article {
-    .category {
-      // background-color: pink;
-      h2 {
-        a {
-          text-decoration: underline;
-        }
-      }
-      ul {
-        li {
-          a {
-            color: $grey3;
-            &:hover {
-              color: $black;
-            }
-          }
-          &.current {
-            a {
-              color: $black;
-              text-decoration: underline;
-            }
-          }
-        }
-      }
-      
-    }
-
     .content {
-      padding-right: $gutter_px;
-      width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
-      float: right;
-
-      h1 {
-        margin-bottom: 2rem;
-        font-size: $bigText;
-        line-height: $bigTextLine;
-      }
-
-      h2 {
-        margin-top: 3.25rem;
-        margin-bottom: 1.25rem;
-        font-size: 1.1rem;
-        line-height: 1.35rem;
-      }
-
-      header {
-        width: 100%;
-        max-width: $largeColumn_px * 2 + $smallColumn_px;
-        p {
-          margin: 0;
-          margin-top: 0.75rem;
-          color: $grey3;
-          text-align: right;
-          float: right;
-
-          &.timestamp {
-            padding-left: 10px;
-          }
-        }
-      }
-
       aside {
         &#video_embed {
           margin-bottom: 2rem;
@@ -70,145 +11,43 @@ body {
       }
 
       article {
-        width: 100%;
-        max-width: $largeColumn_px * 2 + $smallColumn_px;
+        width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
+        max-width: (($largeColumn_px * 3) + ($smallColumn_px * 2));
         word-wrap: break-word;
+        @include standard-copy-formatting;
 
-        h1 {
-          margin-top: 3.25rem;
+        @media only screen and (max-width : 1024px) {
+          width: percentage((($largeColumn * 4) + ($smallColumn * 3)) / $layoutWidth);
         }
 
-        a {          
-          border-bottom: 1px solid;
-
-          &:hover {
-            color: $grey3;
-          }
+        @media only screen and (max-width : 640px) {
+          width: 100%;
         }
 
         img {
-          max-width: 100%;
+          max-width: percentage(((($largeColumn * 4) + ($smallColumn * 3))) / (($largeColumn * 3) + ($smallColumn * 2)));
 
-          &.emoji {
-            height: 1.2rem;
-            vertical-align: middle;
+          @media only screen and (max-width : 1024px) {
+            max-width: percentage(((($largeColumn * 5) + ($smallColumn * 5))) / (($largeColumn * 4) + ($smallColumn * 3)));
+          }
+          @media only screen and (max-width : 1024px) {
+            max-width: 100%;
           }
         }
 
-        ul {
-          list-style-type: disc;
-        }
-        ol {
-          list-style-type: decimal;
-        }
-
-        p {
-          code {
-            margin: -0.3rem 0;
-          }
-        }
-      }
-    }
-  }
-}
-
-@media only screen and (min-width : 1px) and (max-width : 719px) {
-
-  body {
-    &.article {
-      .category.list {
-        padding-top: 15px;
-        width: 100%;
-        float: none;
-
-        h2 {
-          display: none;
-        }
-
-        ul {
-          margin-top: 0;
-        }
-      }
-
-      .content {
-        padding-right: 0;
-        width: 100%;
-        float: none;
-
-        h1 {
-          margin-bottom: 1.5rem;
-          font-size: $bigText_m;
-          line-height: $bigTextLine_m;
-        }
-
-        h2 {
-          margin-top: 1.75rem;
-          margin-bottom: 1.5rem;
-          font-size: $bigText_m;
-          line-height: $bigTextLine_m;
-        }
-
-        header {
-          position: relative;
-          width: 100%;
-          max-width: 100%;
-          h1 {
-            margin-top: 0;
-            margin-bottom: 0;
-            float: none;
-            clear: both;
-          }
-          h2 {
-            display: block;
-            margin: 0 0 20px -10px;
-            padding: 0 10px 20px 10px;
-            width: 100%;
-            font-size: $bigText_m;
-            line-height: $bigTextLine_m;
-            border-bottom: 1px solid $grey1;
-            -webkit-box-sizing: content-box;
-            -moz-box-sizing: content-box;
-            box-sizing: content-box;
-            float: none;
-            clear: both;
+        footer {
+          p {
+            color: $grey3;
 
             a {
-              display: block;
-              // padding: 0 10px 0 10px;
-              width: 100%;
-              color: $black;
+              color: $grey3;
+              &:hover {
+                color: $black;
+              }
             }
           }
-          p {
-            margin: 0 0 1.5rem;
-            margin-top: 0;
-            float: none;
-            text-align: left;
-          }
-        }
-
-        article {
-          max-width: 100%;
-
-          p {
-            &:last-child {
-              margin-bottom: 5px;
-            }
-          }
-        }
-      }
-      hr {
-        &.article_end {
-          display: block;
-          margin: 0 0 0 -10px;
-          padding: 0 10px 0 10px;
-          width: 100%;
-          -webkit-box-sizing: content-box;
-          -moz-box-sizing: content-box;
-          box-sizing: content-box;
         }
       }
     }
   }
-
 }

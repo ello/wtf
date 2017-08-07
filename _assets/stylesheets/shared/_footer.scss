@@ -3,223 +3,209 @@
 footer.bottom {
   position: absolute;
   bottom: 0;
-  padding-top: $smallColumn_px * 4;
-  padding-bottom: $smallColumn_px;
+  padding: ($smallColumn_px * 6) $gutter_px ($smallColumn_px * 3.8) $gutter_px;
   width: 100%;
-  height: $smallColumn_px + $smallColumn_px + 200px; // part of the hack to push footer down
-  max-width: $layoutWidth_px + $gutter_px;
+  height: ($smallColumn_px * 2) + ($smallColumn_px * 3.8) + 200px; // part of the hack to push footer down
+
+  @media only screen and (max-width : 640px) {
+    display: block;
+    position: relative;
+    padding: ($smallColumn_px * 2.5) 3.5% 3.5% 3.5%;
+    height: auto;
+  }
+
+  .footer-content {
+    position: relative;
+    margin: 0 auto;
+    max-width: $layoutWidth_px;
+  }
+
   nav {
     width: 100%;
     ul {
       display: block;
+      margin: 0;
       padding-right: $smallColumn_px;
-      width: percentage(($largeColumn + $smallColumn) / $layoutWidth);
-      max-width: $largeColumn_px + $smallColumn_px;
+      width: percentage((($largeColumn * 2) + $smallColumn) / $layoutWidth);
+      @include type-small;
       float: left;
 
-      &:nth-child(4n) {
-        width: percentage(($largeColumn) / $layoutWidth);
-      }
-      // background-color: rgba(blue,0.1);
       li {
         display: block;        
-        margin-bottom: 1rem;
-        width: 100%;
-        max-width: $largeColumn_px;
+        margin-bottom: 0.4rem;
+        float: left;
+        clear: left;
         a {
           display: block;
           // background-color: rgba(pink,0.5);
           padding: 0.25rem 0 0.25rem 0;
-          color: $grey3;
+          color: $black;
 
           &:hover {
-            color: $black;
+            color: $grey3;
           }
 
-          span {
-            &.icon {
-              display: block;
-              float: left;
-            }
-          }
           strong {
             font-family: $groteskRegular;
             font-weight: 400;
           }
-          span {
-            &.icon {
-              padding-top: 0rem;
-              margin-right: 16px;
-              svg {
-                width: 16px;
-                height: 16px;
-              }
+
+        }
+      }
+      &.social {
+        padding: 0;
+        margin: 0;
+        width: auto;
+        float: right;
+
+        @media only screen and (max-width : 640px) {
+          padding-top: 40px;
+          width: 100%;
+          height: 60px;
+          float: none;
+          clear: both;
+          text-align: justify;
+          -ms-text-justify: distribute-all-lines;
+          text-justify: distribute-all-lines;
+        }
+        li {
+          display: inline-block;
+          margin: 0;
+          padding: 0;
+          width: auto;
+          float: none;
+          clear: none;
+
+
+          @media only screen and (max-width : 640px) {
+            display: inline-block;
+            vertical-align: top;
+            zoom: 1;
+
+            &.stretch {
+              display: inline-block;
+              width: 100%;
+              font-size: 0;
+              line-height: 0
             }
           }
-          // social icons
-          &.ello {
-            padding-bottom: 0.05rem;
+
+          a {
+            display: block;
+            padding: 0;
+            margin: 0 0 0 1.55rem;
+            float: left;
+
+            @media only screen and (max-width : 640px) {
+              display: inline-block;
+              margin: 0;
+              float: none;
+            }
+
             span {
-              
+              &.label {
+                display: none;
+              }
               &.icon {
-                padding-top: 0rem;
-                margin-right: 16px;
-                margin-left: 1px;
+                @media only screen and (max-width : 640px) {
+                  display: block;
+                }
                 svg {
                   width: 16px;
                   height: 16px;
-                  @include border_radius(16px);
 
-                  path {
-                    &.svg__bg {
+                  @media only screen and (max-width : 640px) {
+                    display: block;
+                  }
+                }
+              }
+            }
+
+            // social icons
+            &.ello {
+              span {
+                
+                &.icon {
+                  svg {
+                    width: 16px;
+                    height: 16px;
+                    @include border_radius(16px);
+
+                    path {
+                      &.svg__bg {
+                        @include transition_fill(150ms);
+                        fill: $black;
+                      }
+                      &.svg__fg {
+                        fill: $white;
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            &.twitter {
+              margin-left: 1.8rem;
+
+              @media only screen and (max-width : 640px) {
+                margin-left: 0;
+              }
+              span {
+                &.icon {
+                  svg {
+                    width: 18px;
+                    height: 16px;
+
+                    path {
                       @include transition_fill(150ms);
-                      fill: $grey3;
-                    }
-                    &.svg__fg {
-                      fill: $white;
-                    }
-                  }
-                }
-              }
-            }
-          }
-          &.twitter {
-            padding-bottom: 0.25rem;
-            span {
-              &.icon {
-                padding-top: 0rem;
-                margin-right: 15px;
-                svg {
-                  width: 18px;
-                  height: 16px;
-
-                  path {
-                    @include transition_fill(150ms);
-                    fill: $grey3;
-                  }
-                }
-              }
-            }
-          }
-          &.tumblr,
-          &.instagram,
-          &.pinterest,
-          &.facebook,
-          &.gplus {
-            padding-bottom: 0.25rem;
-            span {
-              &.icon {
-                padding-top: 0rem;
-                margin-right: 15px;
-                svg {
-                  width: 18px;
-                  height: 16px;
-
-                  path {
-                    @include transition_fill(150ms);
-                    fill: $grey3;
-                  }
-                }
-              }
-            }
-          }
-          &.gplus {
-            span {
-              &.icon {
-                margin-right: 10px;
-                svg {
-                  width: 22px;
-                  height: 16px;
-
-                  path,
-                  polygon {
-                    @include transition_fill(150ms);
-                    fill: $grey3;
-                  }
-                }
-              }
-            }
-          }
-          // other icons
-          &.threadless {
-            padding-bottom: 0.25rem;
-            span {
-              &.icon {
-                padding-top: 0.05rem;
-                margin-right: 14px;
-                margin-left: -1px;
-                svg {
-                  width: 20px;
-                  height: 15px;
-
-                  path {
-                    @include transition_fill(150ms);
-                    fill: $grey3;
-                  }
-                }
-              }
-            }
-          }
-          &.ios_app {
-            padding-bottom: 0.25rem;
-            span {
-              &.icon {
-                padding-top: 0.05rem;
-                margin-right: 19px;
-                margin-left: 3px;
-                svg {
-                  width: 11px;
-                  height: 16px;
-
-                  path,
-                  rect,
-                  ellipse {
-                    @include transition_fill(150ms);
-                    fill: $grey3;
-                  }
-                }
-              }
-            }
-          }
-          &.community_directory {
-            padding-bottom: 0.25rem;
-            span {
-              &.icon {
-                padding-top: 0.05rem;
-                margin-right: 16px;
-                margin-left: 2px;
-                svg {
-                  width: 15px;
-                  height: 15px;
-
-                  path,
-                  rect {
-                    @include transition_fill(150ms);
-                    fill: $grey3;
-                    &.stroke {
-                      fill: none;
-                      stroke: $grey3;
-                    }
-                  }
-                }
-              }
-            }
-          }
-          &:hover {
-            span {
-              &.icon {
-                svg {
-                  path,
-                  rect,
-                  ellipse,
-                  polygon {
-                    fill: $black;
-                    &.stroke {
-                      fill: none;
-                      stroke: $grey3;
-                    }
-                    &.svg__bg {
                       fill: $black;
+                    }
+                  }
+                }
+              }
+            }
+            &.tumblr,
+            &.instagram,
+            &.pinterest,
+            &.facebook {
+              span {
+                &.icon {
+                  svg {
+                    width: 18px;
+                    height: 16px;
+
+                    path {
+                      @include transition_fill(150ms);
+                      fill: $black;
+                    }
+                  }
+                }
+              }
+            }
+            &.tumblr,
+            &.instagram {
+              margin-left: 1.4rem;
+              @media only screen and (max-width : 640px) {
+                margin-left: 0;
+              }
+            }
+
+            &:hover {
+              span {
+                &.icon {
+                  svg {
+                    path,
+                    rect,
+                    ellipse,
+                    polygon {
+                      fill: $grey3;
+                      &.stroke {
+                        fill: none;
+                        stroke: $black;
+                      }
+                      &.svg__bg {
+                        fill: $grey3;
+                      }
                     }
                   }
                 }
@@ -230,108 +216,4 @@ footer.bottom {
       }
     }
   }  
-}
-
-@media only screen and (min-width : 720px) and (max-width : 914px) {
-  footer.bottom {
-    nav {
-      ul {
-        li {
-          a {
-            strong {
-              display: none;
-            }
-          }
-        }
-      }
-    }
-  }
-}
-
-@media only screen and (min-width : 1px) and (max-width : 719px) {
-  footer.bottom {
-    padding-top: 10px;
-    padding-bottom: 0;
-    height: ($smallColumn_px * 2.5) + 105px; // part of the hack to push footer down
-    max-width: 100%;
-    nav {
-      width: 100%;
-      ul {
-        padding-right: 0;
-        width: 100%;
-        max-width: 100%;
-        &:nth-child(n+3) {
-          display: none;
-        }
-        li {
-          margin-bottom: 0.25rem;
-        }
-
-        &.social {
-          position: absolute;
-          bottom: -26px;
-          width: 100%;
-
-          li {
-            margin: 0;
-            padding: 0;
-            width: 20px;
-            float: left;
-
-            &:last-child {
-              margin-right: 0;
-            }
-            span {
-              &.label {
-                display: none;
-              }
-              &.icon {
-                margin: 0;
-                padding: 0;
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-}
-@media only screen and (min-width : 414px) and (max-width : 719px) {
-  footer.bottom {
-    nav {
-      ul {
-        &.social {
-          li {
-            margin-right: 10.65%;
-          }
-        }
-      }
-    }
-  }
-}
-@media only screen and (min-width : 375px) and (max-width : 413px) {
-  footer.bottom {
-    nav {
-      ul {
-        &.social {
-          li {
-            margin-right: 10%;
-          }
-        }
-      }
-    }
-  }
-}
-@media only screen and (min-width : 1px) and (max-width : 374px) {
-  footer.bottom {
-    nav {
-      ul {
-        &.social {
-          li {
-            margin-right: 8.75%;
-          }
-        }
-      }
-    }
-  }
 }

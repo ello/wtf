@@ -1,22 +1,39 @@
----
-# this template is used to provide a redirect for main category paths (i.e. /wtf/help) to the top-level article for that category
-layout: default
-css_hook: category
----
-{% assign sorted_categories = site.categories | sort %}
-{% assign current_category  = page.category %}
+<!DOCTYPE html>
+<html lang='en'>
 
-{% assign sorted_posts    = site.categories[current_category] | sort: 'position' %}
-{% assign first_post      = sorted_posts.first %}
+  {% include head.html %}
 
-<h1>{{ current_category | capitalize }}</h1>
-<ul>
-  {% for post in sorted_posts %}
-    <li><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+  <body class="category{% if page.css_hook %} {{ page.css_hook }}{% endif %}" data-site-title="{{ site.title }} | {{ site.subtitle }}">
 
-<script type="text/javascript">
-  // send to first article
-  window.location = "{{ site.baseurl }}{{ first_post.url }}"
-</script>
+    <div id="content_container">
+      {% include header.html %}
+
+      <div id="search_content" class="clear" style="display:none;">
+        {% include search_content.html %}
+      </div>
+
+      {% assign page_header_image_path = page.header_image | prepend: 'page-headers/categories/' %}
+      {% capture page_header_text %}{{ page.title }}{% endcapture %}
+      {% capture page_header_image %}{% asset_path '{{ page_header_image_path }}' %}{% endcapture %}
+      {% include page_header.html %}
+
+      <div id="main_content" class="clear">
+        <article class="clear">
+          {{ content }}
+        </article>
+
+        <nav class="posts-list clear">
+          {% include category_posts.html %}
+        </nav>
+      </div>
+
+      {% include footer.html %}
+    </div>
+
+    {% if page.shareable %}
+      {% include share_modal.html %}
+    {% endif %}
+
+    {% include bottom.html %}
+  </body>
+</html>

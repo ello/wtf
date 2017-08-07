@@ -4,6 +4,8 @@ title:  "Not for Print"
 date:   2017-05-16 01:23:45 MDT
 categories: about
 position: 3
+header_image: header_post-default.png
+# place header images in: _assets/images/page-headers/posts
 redirect_from:
   
 ---

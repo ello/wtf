@@ -16,18 +16,120 @@
   src: url("//fonts.ello.co/AtlasGrotesk-Bold-Web.eot");
   src: url("//fonts.ello.co/AtlasGrotesk-Bold-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasGrotesk-Bold-Web.woff") format("woff"), url("//fonts.ello.co/AtlasGrotesk-Bold-Web.ttf") format("truetype"), url("//fonts.ello.co/AtlasGrotesk-Bold-Web.svg#AtlasGroteskBold") format("svg");
 }
+@font-face {
+  font-family: "AtlasGroteskBlack";
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  src: url("//fonts.ello.co/AtlasGrotesk-Black-Web.eot");
+  src: url("//fonts.ello.co/AtlasGrotesk-Black-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasGrotesk-Black-Web.woff") format("woff"), url("//fonts.ello.co/AtlasGrotesk-Black-Web.ttf") format("truetype"), url("//fonts.ello.co/AtlasGrotesk-Black-Web.svg#AtlasGroteskBlack") format("svg");
+}
 
-$groteskRegular: "AtlasGroteskRegular", "AtlasGrotesk-Regular", "Helvetica Neue", "HelveticaNeue", "Helvetica", sans-serif;     // weight 400
-$groteskBold:    "AtlasGroteskBold", "AtlasGrotesk-Bold", "Helvetica Neue", "HelveticaNeue", "Helvetica", "Arial", sans-serif;  // weight 700
+$groteskRegular: "AtlasGroteskRegular", "AtlasGrotesk-Regular", "Helvetica Neue", "HelveticaNeue", "Helvetica", sans-serif;      // weight 400
+$groteskBold:    "AtlasGroteskBold", "AtlasGrotesk-Bold", "Helvetica Neue", "HelveticaNeue", "Helvetica", "Arial", sans-serif;   // weight 700
+$groteskBlack:   "AtlasGroteskBlack", "AtlasGrotesk-Black", "Helvetica Neue", "HelveticaNeue", "Helvetica", "Arial", sans-serif; // weight 900
 
 /* Typography Bible -------------------
 
 * Atlas Grotesk Regular (400)
 * Atlas Grotesk Bold (700)
+* Atlas Grotesk Black (900)
 
-handle italics with font-style: italic
+handle italics with font-style: italic (no italics available for Black)
 
 ------------------- */
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ site-wide defaults
+
+@mixin type-small($line: true) {
+  font-size: 0.875rem;
+  @if $line {
+    line-height: 1.35rem;
+  } @else {
+    line-height: 0.875rem;
+  }
+}
+
+@mixin type-medium($line: true) {
+  font-size: 1.45rem;
+  @if $line {
+    line-height: 1.925rem;
+  } @else {
+    line-height: 1.45rem;
+  }
+
+  @media only screen and (max-width : 768px) {
+    font-size: 1.15rem;
+    @if $line {
+      line-height: 1.55rem;
+    } @else {
+      line-height: 1.15rem;
+    }
+  }
+}
+
+@mixin type-big($line: true) {
+  font-size: 9rem;
+  @if $line {
+    line-height: 11rem;
+  } @else {
+    line-height: 9rem;
+  }
+
+  @media only screen and (max-width : 1200px) {
+    font-size: 12vw;
+    @if $line {
+      line-height: 14.7vw;
+    } @else {
+      line-height: 12vw;
+    }
+  }
+  @media only screen and (max-width : 640px) {
+    font-size: 16vw;
+    @if $line {
+      line-height: 20vw;
+    } @else {
+      line-height: 16vw;
+    }
+  }
+}
+
+@mixin standard-copy-formatting {
+  a {          
+    border-bottom: 1.5pt solid;
+
+    &:hover {
+      color: $grey3;
+    }
+  }
+
+  img {
+    max-width: 100%;
+
+    &.emoji {
+      height: 1.2rem;
+      vertical-align: middle;
+    }
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $groteskBold;
+    font-weight: 700;
+  }
+
+  ul {
+    list-style-type: disc;
+  }
+  ol {
+    list-style-type: decimal;
+  }
+
+  p {
+    code {
+      margin: -0.3rem 0;
+    }
+  }
+}
 
 html {
   font: normal 400 100%/1.5 $groteskRegular;
@@ -62,36 +164,27 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 0.875rem;
+  @include type-medium;
 }
 
-p {
-  margin: 0.9375rem 0;
-
+p, ol, ul, dl {
+  margin: 1.75rem 0;
+  @include type-medium;
   a {
     &:active {
       color: $grey3;
     }
   }
 }
-p, ol, ul, dl {
-  font-size: 0.875rem;
-}
 p:empty {
   display: none;
 }
-ol, ul, dl, dd {
-  margin: 0;
-}
+
 ol, ul {
   padding: 0;
-}
-ol {
-  margin-left: 2.2em;
-}
-ul {
   margin-left: 1.2em;
 }
+
 nav ul, nav ol {
   margin-left: 0;
   list-style: none;
@@ -132,7 +225,7 @@ sub {
 code, pre, blockquote {
   font-family: inherit;
   background-color: #f1f1f1;
-  font-size: 0.875rem;
+  @include type-medium;
 }
 code, blockquote {
   display: inline-block;
@@ -161,9 +254,3 @@ blockquote {
   overflow: hidden;
 }
 
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ site-wide defaults
-
-$bigText: 1.5rem;
-$bigTextLine: 2.25rem;
-$bigText_m: 1.1rem;
-$bigTextLine_m: 1.35rem;

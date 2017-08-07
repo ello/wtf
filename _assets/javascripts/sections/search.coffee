@@ -28,7 +28,7 @@ root.ElloWTFSearch =
       return
 
     # make first query once index is created
-    search_term = $(".search_holder .form input").val()
+    search_term = $(".search-holder .form input").val()
     ElloWTFSearch.searchIndex(search_term)
 
   searchIndex: (search_term) ->
@@ -70,16 +70,10 @@ root.ElloWTFSearch =
     $("#search_content h1 .search_term em").text("")
     $("#search_content h1.main").hide()
     $("#search_content h1.alt").show()
+    ElloWTFSearch.resetSearchUrl()
   
-  invokeSearch: ->
-    search_term = $(".search_holder .form input").val()
-
-    $('#main_content').hide()
-    $('#search_content').show()
-
-    # console.log window.location
-
-    if (history.pushState)      
+  updateSearchUrl: (search_term) ->
+    if (history.pushState) && $('.search_content').is(":visible")
       if search_term.length > 0
         search_term_encoded = "?for=#{encodeURIComponent(search_term).replace(/\+/g , " ")}"
       else
@@ -91,6 +85,23 @@ root.ElloWTFSearch =
       window.history.pushState(title, title, link)
 
       # console.log link
+
+  resetSearchUrl: ->
+    if (history.pushState)
+      link = "#{window.location.origin}/wtf/search".replace("search/","").replace("searchsearch","search")
+      base_title = $('body').data('site-title')
+      title = "Search | #{base_title}"
+      window.history.pushState(title, title, link)
+
+  invokeSearch: ->
+    search_term = $(".search-holder .form input").val()
+
+    $('#main_content').hide()
+    $('.page-header').hide()
+    $('#search_content').show()
+    $('html, body').animate { scrollTop: 0 }, 0
+
+    ElloWTFSearch.updateSearchUrl(search_term)
   
 $(document).ready ->
   ElloWTFSearch.init()
