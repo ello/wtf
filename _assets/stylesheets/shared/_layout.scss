@@ -96,5 +96,53 @@ svg {
         line-height: 11vw;
       }
     }
+
+    p {
+      &.credit {
+        position: absolute;
+        right: 30px;
+        bottom: 30px;
+        margin: 0;
+        padding: 0;
+
+        a {
+          display: block;
+          color: $white;
+          height: 40px;
+          @include type-small(false);
+          text-decoration: none;
+          span {
+            display: block;
+            &.name {
+              padding: 2px;
+              float: right;
+              @include vertical_align;
+              border-bottom: 1px solid $white;
+            }
+            &.profile-image {
+              width: 40px;
+              height: 40px;
+              margin-left: 12px;
+              @include border_radius(40px);
+              float: right;
+              overflow: hidden;
+              @include transition_opacity(150ms);
+              img {
+                display: block;
+                width: 100%;
+              }
+            }
+          }
+          &:hover {
+            span {
+              &.profile-image {
+                @include opacity(50);
+                @include transition_opacity(300ms);
+              }
+            }
+          }
+        }
+      }
+    }
   }
 }
