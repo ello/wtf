@@ -15,6 +15,8 @@
       {% assign page_header_image_path = page.header_image | prepend: 'page-headers/categories/' %}
       {% capture page_header_text %}{{ page.title }}{% endcapture %}
       {% capture page_header_image %}{% asset_path '{{ page_header_image_path }}' %}{% endcapture %}
+      {% capture page_header_credit_avatar %}{% asset_path 'page-headers/categories/header_category-default_avatar.png' %}{% endcapture %}
+      {% capture page_header_credit %}gb{% endcapture %}
       {% include page_header.html %}
 
       <div id="main_content" class="clear">

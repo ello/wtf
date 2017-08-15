@@ -4,7 +4,7 @@
     {% if page_header_credit and page_header_credit_avatar %}
       <p class="credit">
         <a href="https://ello.co/{{ page_header_credit }}">
-          <span class="profile-image"><img src="{% asset_path 'page-headers/header_creators-network_avatar.png' %}" /></span>
+          <span class="profile-image"><img src="{{ page_header_credit_avatar }}" /></span>
           <span class="name">@{{ page_header_credit }}</span>
         </a>
       </p>
