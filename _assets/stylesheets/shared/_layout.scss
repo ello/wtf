@@ -105,6 +105,10 @@ svg {
         margin: 0;
         padding: 0;
 
+        @media only screen and (max-width : 768px) {
+          right: 15px;
+          bottom: 15px;
+        }
         @media only screen and (max-width : 640px) {
           right: 10px;
           bottom: 10px;
@@ -118,6 +122,9 @@ svg {
           text-decoration: none;
           @include transition_opacity(150ms);
 
+          @media only screen and (max-width : 768px) {
+            height: 30px;
+          }
           @media only screen and (max-width : 640px) {
             height: 20px;
           }
@@ -129,6 +136,11 @@ svg {
               @include vertical_align;
               border-bottom: 1px solid $white;
 
+              @media only screen and (max-width : 768px) {
+                padding: 0;
+                border: 0;
+                text-decoration: underline;
+              }
               @media only screen and (max-width : 640px) {
                 padding: 0;
                 border: 0;
@@ -145,6 +157,10 @@ svg {
               float: right;
               overflow: hidden;
 
+              @media only screen and (max-width : 768px) {
+                width: 30px;
+                height: 30px;
+              }
               @media only screen and (max-width : 640px) {
                 margin-left: 8px;
                 width: 20px;
