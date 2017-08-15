@@ -3,10 +3,12 @@
     {% if page_header_text %}
       <h1>{{ page_header_text }}</h1>
     {% endif %}
-    {% if page_header_credit and page_header_credit_avatar %}
+    {% if page_header_credit %}
       <p class="credit">
         <a href="https://ello.co/{{ page_header_credit }}">
-          <span class="profile-image"><img src="{{ page_header_credit_avatar }}" alt="{{ page_header_credit }}" /></span>
+          {% if page_header_credit_avatar %}
+            <span class="profile-image"><img src="{{ page_header_credit_avatar }}" alt="{{ page_header_credit }}" /></span>
+          {% endif %}
           <span class="name">@{{ page_header_credit }}</span>
         </a>
       </p>
