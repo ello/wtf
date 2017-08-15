@@ -73,7 +73,7 @@ video: http://vimeo.com/30619461
 shareable: true
 # page header ----------
 header_image: header_post-default.png
-header_credit: lucian
+header_credit: gb
 header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
 header_credit_image: header_post-default_avatar.gif
 # place header/avatar images in: _assets/images/page-headers/posts
@@ -92,10 +92,10 @@ header_credit_image: header_post-default_avatar.gif
 
 #### Page Headers
 
-`header_image:` a full filename for an image is expected here (i.e. `header_post-help-by-gb.png`) – the image should be located in `_assets/images/page-headers` and then either `categories` or `posts`
-`header_credit:` the username (without the `@` sign) of the person you would like to credit the header image to
-`header_credit_post:` the post the image came from — a full link (`https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza`) or simply the token (`8s1kiwzxlnjd_yxhd3piza`) works
-`header_credit_image:` a full filename for an image is expected here (i.e. `header_post-avatar-gb.png`) – the image should be located in `_assets/images/page-headers` and then either `categories` or `posts`
+* `header_image:` a full filename for an image is expected here (i.e. `header_post-help-by-gb.png`) – the image should be located in `_assets/images/page-headers` and then either `categories` or `posts`
+* `header_credit:` the username (without the `@` sign) of the person you would like to credit the header image to
+* `header_credit_post:` the post the image came from — a full link (`https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza`) or simply the token (`8s1kiwzxlnjd_yxhd3piza`) works
+* `header_credit_image:` a full filename for an image is expected here (i.e. `header_post-avatar-gb.png`) – the image should be located in `_assets/images/page-headers` and then either `categories` or `posts`
 
 #### Other Notes
 
