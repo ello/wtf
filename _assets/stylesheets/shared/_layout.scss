@@ -100,8 +100,8 @@ svg {
     p {
       &.credit {
         position: absolute;
-        right: 30px;
-        bottom: 30px;
+        right: 20px;
+        bottom: 20px;
         margin: 0;
         padding: 0;
 
@@ -111,6 +111,7 @@ svg {
           height: 40px;
           @include type-small(false);
           text-decoration: none;
+          @include transition_opacity(150ms);
           span {
             display: block;
             &.name {
@@ -126,7 +127,6 @@ svg {
               @include border_radius(40px);
               float: right;
               overflow: hidden;
-              @include transition_opacity(150ms);
               img {
                 display: block;
                 width: 100%;
@@ -134,12 +134,8 @@ svg {
             }
           }
           &:hover {
-            span {
-              &.profile-image {
-                @include opacity(50);
-                @include transition_opacity(300ms);
-              }
-            }
+            @include opacity(60);
+            @include transition_opacity(300ms);
           }
         }
       }
