@@ -3,6 +3,7 @@ layout: category
 title: Policies
 permalink: /policies/
 category: policies
+# page header ----------
 header_image: header_category-default.png
 header_credit: gb
 header_credit_post: https://ello.co/gb/post/qrwjrdlet_vagfvs5_0sdg

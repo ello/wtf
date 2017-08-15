@@ -4,6 +4,7 @@ title:  "Categories"
 date:   2016-07-6 04:23:18 MDT
 categories: help
 position: 5
+# page header ----------
 header_image: header_post-default.png
 header_credit: lucian
 header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
