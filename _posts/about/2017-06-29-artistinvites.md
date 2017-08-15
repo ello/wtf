@@ -6,6 +6,8 @@ date:   2017-07-02 11:50:00 MST
 categories: about
 position: 3
 header_image: header_post-default.png
+header_credit: lucian
+header_credit_image: header_post-default_avatar.gif
 # place header images in: _assets/images/page-headers/posts
 ---
 

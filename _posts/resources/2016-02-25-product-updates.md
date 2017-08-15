@@ -5,6 +5,8 @@ date:   2017-5-31 01:23:45 MDT
 categories: resources
 position: 4
 header_image: header_post-default.png
+header_credit: lucian
+header_credit_image: header_post-default_avatar.gif
 # place header images in: _assets/images/page-headers/posts
 redirect_from:
   - /resources/ello-announcements/
