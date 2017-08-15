@@ -71,6 +71,12 @@ position: 3
 excerpt: "I am an (optional) SEO-friendly excerpt. Filling me out will place me in the <meta> description and as the summary for the search results page. The length can be a few sentences, but don’t make it too long!"
 video: http://vimeo.com/30619461
 shareable: true
+# page header ----------
+header_image: header_post-default.png
+header_credit: lucian
+header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
+header_credit_image: header_post-default_avatar.gif
+# place header/avatar images in: _assets/images/page-headers/posts
 ---
 ```
 
@@ -84,7 +90,15 @@ shareable: true
 * `video:` Include a Vimeo or Youtube link to feature a video at the very top of the post page **(optional)**
 * `shareable:` Add a social network “Share” button to the bottom of the article **(optional)**
 
-**Other Notes:**
+#### Page Headers
+
+`header_image:` a full filename for an image is expected here (i.e. `header_post-help-by-gb.png`) – the image should be located in `_assets/images/page-headers` and then either `categories` or `posts`
+`header_credit:` the username (without the `@` sign) of the person you would like to credit the header image to
+`header_credit_post:` the post the image came from — a full link (`https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza`) or simply the token (`8s1kiwzxlnjd_yxhd3piza`) works
+`header_credit_image:` a full filename for an image is expected here (i.e. `header_post-avatar-gb.png`) – the image should be located in `_assets/images/page-headers` and then either `categories` or `posts`
+
+#### Other Notes
+
 * Posts with future dates are ignored and not published until their publish date is reached _(remember to set you time zone AND remember that times are in 24-hour format: i.e. 2pm is 14:00)_.
 * Keep in mind that updating the post position may require updates to other articles in the list to get the ordering you desire.
 * The `title_alternate` is optional. If not provided, the normal `title` will be used in the `<title>` tag. The Post category, main site title, and site subtitle line will still be appended. These are all configurable in the `_config.yml` file.
