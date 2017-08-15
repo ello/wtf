@@ -12,11 +12,12 @@
         {% include search_content.html %}
       </div>
 
-      {% assign page_header_image_path = page.header_image | prepend: 'page-headers/categories/' %}
-      {% capture page_header_text %}{{ page.title }}{% endcapture %}
-      {% capture page_header_image %}{% asset_path '{{ page_header_image_path }}' %}{% endcapture %}
-      {% capture page_header_credit_avatar %}{% asset_path 'page-headers/categories/header_category-default_avatar.png' %}{% endcapture %}
-      {% capture page_header_credit %}gb{% endcapture %}
+      {% if page.header_image %}{% assign page_header_image_path = page.header_image | prepend: 'page-headers/categories/' %}{% endif %}
+      {% if page.header_credit_image %}{% assign page_header_credit_avatar_path = page.header_credit_image | prepend: 'page-headers/categories/' %}{% endif %}
+      {% if page.title %}{% capture page_header_text %}{{ page.title }}{% endcapture %}{% endif %}
+      {% if page_header_image_path %}{% capture page_header_image %}{% asset_path '{{ page_header_image_path }}' %}{% endcapture %}{% endif %}
+      {% if page_header_credit_avatar_path %}{% capture page_header_credit_avatar %}{% asset_path '{{ page_header_credit_avatar_path }}' %}{% endcapture %}{% endif %}
+      {% if page.header_credit %}{% capture page_header_credit %}{{ page.header_credit }}{% endcapture %}{% endif %}
       {% include page_header.html %}
 
       <div id="main_content" class="clear">

@@ -1,6 +1,8 @@
 <header class="page-header" style="background-image: url({{ page_header_image }})">
   <div class="constraint">
-    <h1>{{ page_header_text }}</h1>
+    {% if page_header_text %}
+      <h1>{{ page_header_text }}</h1>
+    {% endif %}
     {% if page_header_credit and page_header_credit_avatar %}
       <p class="credit">
         <a href="https://ello.co/{{ page_header_credit }}">
