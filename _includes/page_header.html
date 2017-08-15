@@ -1,5 +1,17 @@
-<header class="page-header" style="background-image: url({{ page_header_image }})">
+<header class="page-header" style="background-image: url({{ page_header_image }})"{% if page_header_post %} data-credit-post-token="{{ page_header_post | split: '/post/' | last | replace: '/' }}"{% endif %}>
   <div class="constraint">
-    <h1>{{ page_header_text }}</h1>
+    {% if page_header_text %}
+      <h1>{{ page_header_text }}</h1>
+    {% endif %}
+    {% if page_header_credit %}
+      <p class="credit">
+        <a href="https://ello.co/{{ page_header_credit }}">
+          {% if page_header_credit_avatar %}
+            <span class="profile-image"><img src="{{ page_header_credit_avatar }}" alt="{{ page_header_credit }}" /></span>
+          {% endif %}
+          <span class="name">@{{ page_header_credit }}</span>
+        </a>
+      </p>
+    {% endif %}
   </div>
 </header>

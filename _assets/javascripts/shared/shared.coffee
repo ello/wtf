@@ -9,6 +9,7 @@ root.ElloWTFShared =
     ElloWTFShared.watchURLSearchTerms()
     ElloWTFShared.watchSearchToggle()
     ElloWTFShared.watchShareable()
+    ElloWTFShared.registerView()
 
   checkMobile: ->
     if /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)
@@ -122,6 +123,18 @@ root.ElloWTFShared =
     $(document).on "click", ".shareable.modal", (e) ->
       unless $(e.target).parents('.modal-content').length || $(e.target).hasClass('modal-content')
         $('.shareable.modal').fadeOut(150)
+
+  registerView: ->
+    post_token = String($('.page-header').data('credit-post-token'))
+    if post_token != 'undefined'
+      path = "/api/v2/post_views/?kind=wtf_promo&post_tokens=#{post_token}"
+
+      $.ajax
+        type: "GET"
+        url: path
+        processData: false
+      .fail ->
+        console.log("failure registering post view (token: #{post_token})")
 
 $(document).ready ->
   ElloWTFShared.init()
