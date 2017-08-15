@@ -18,6 +18,7 @@
       {% if page_header_image_path %}{% capture page_header_image %}{% asset_path '{{ page_header_image_path }}' %}{% endcapture %}{% endif %}
       {% if page_header_credit_avatar_path %}{% capture page_header_credit_avatar %}{% asset_path '{{ page_header_credit_avatar_path }}' %}{% endcapture %}{% endif %}
       {% if page.header_credit %}{% capture page_header_credit %}{{ page.header_credit }}{% endcapture %}{% endif %}
+      {% if page.header_credit_post %}{% capture page_header_post %}{{ page.header_credit_post }}{% endcapture %}{% endif %}
       {% include page_header.html %}
 
       <div id="main_content" class="clear">
