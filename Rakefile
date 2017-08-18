@@ -19,6 +19,8 @@ begin
                         /^\/wtf\/assets/,
                         /^\/wtf\/emoji/,
                         /appstore.com/,
+                        /soundcloud.com/,
+                        /vimeo.com/,
                       ],
                       typhoeus: {
                         followlocation: true
