@@ -2,7 +2,7 @@
 layout: post
 title:  "Manifesto"
 date:   2014-07-03 01:23:45 EST
-categories: Resources
+categories: resources
 position: 1
 shareable: true
 # page header ----------
