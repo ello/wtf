@@ -2,8 +2,8 @@
 layout: post
 title:  "Manifesto"
 date:   2014-07-03 01:23:45 EST
-categories: about
-position: 5
+categories: Resources
+position: 1
 shareable: true
 # page header ----------
 header_image: header_post-default.png
@@ -13,6 +13,7 @@ header_credit_image: header_post-default_avatar.gif
 # place header/avatar images in: _assets/images/page-headers/posts
 redirect_from:
   - /post/manifesto
+  - /about/manifesto
 ---
 Your social network is owned by advertisers.
 
