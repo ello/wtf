@@ -48,7 +48,7 @@
 
             <footer>
               {% assign current_category = page.categories | first %}
-              <p><span class="timestamp">Updated {{ page.date | date: "%B %-d, %Y" }}</span> – <a href="{{ site.baseurl }}/{{ current_category | handleize }}/">{{ current_category | capitalize }}</a></p>
+              <p><span class="timestamp">Updated {{ page.date | date: "%B %-d, %Y" }}</span> – <a href="{{ site.baseurl }}/{{ current_category | handleize }}/">{{ current_category | replace: '-and-', ' & ' | capitalize }}</a></p>
             </footer>
           </article>
         </section>

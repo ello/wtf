@@ -4,7 +4,7 @@
     {% assign current_category = category | first %}
 
     {% unless current_category == "policies" %}
-      <li><a href="{{ site.baseurl }}/{{ current_category | handleize }}/">{{ category | first | capitalize }}</a></li>
+      <li><a href="{{ site.baseurl }}/{{ current_category | handleize }}/">{{ category | first | replace: '-and-', ' & ' | capitalize }}</a></li>
     {% endunless %}
   {% endfor %}
 
@@ -12,7 +12,7 @@
     {% assign current_category = category | first %}
 
     {% if current_category == "policies" %}
-      <li><a href="{{ site.baseurl }}/{{ current_category | handleize }}/">{{ category | first | capitalize }}</a></li>
+      <li><a href="{{ site.baseurl }}/{{ current_category | handleize }}/">{{ category | first | replace: '-and-', ' & ' | capitalize }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
