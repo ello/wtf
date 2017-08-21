@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Audio & Video"
-date:   2015-06-11 04:23:18 MDT
-categories: help
-position: 9
+title_alternate:  "Audio & Video"
+date:   2017-08-21 3:30:00 EDT
+categories: support
+position: 5
 # page header ----------
 header_image: header_post-default.png
 header_credit: lucian
@@ -11,18 +12,28 @@ header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
 header_credit_image: header_post-default_avatar.gif
 # place header/avatar images in: _assets/images/page-headers/posts
 redirect_from:
+  - /help/audio-video/
   - /help/audio-and-video/
   - /post/audio-and-video
 ---
-## What audio and video services does Ello support?
 
-You can embed audio and video files in your posts from services including Youtube, Vimeo, DailyMotion, Soundcloud, Mixcloud, Ustream, and Bandcamp<strong>*</strong>. We’ll keep adding other services to this list over time!
+Ello supports a number of embedded audio and video services.
 
-<strong>*</strong>Right now, in order to embed a Bandcamp file, you need the original url containing "bandcamp.com". You can find the original url by opening the page source and copying the url from the page’s meta data.
+You can embed audio and video files directly in your posts from the following services:
+
+* Youtube
+* Vimeo
+* DailyMotion
+* Soundcloud
+* Mixcloud
+* Ustream
+* Bandcamp*
+
+<strong>*</strong> Bandcamp embeds require the original url containing "bandcamp.com". You can find the original url by opening the page source and copying the url from the page’s meta data.
 
 ## How do I add an audio or video file to my post?
 
-Paste a link to the sound or video file that you want to add to your post directly into the Omnibar. A preview of the embedded audio/video file will appear in your post! See the examples below.
+Paste a link to the audio or video file that you wish to add to your post directly into the Omnibar. A preview of the embedded audio/video file will appear in your post. View the examples embeds below..
 
 <br>
 **Youtube** `https://www.youtube.com/watch?v=lfJETqgWNK4`
@@ -53,20 +64,3 @@ Paste a link to the sound or video file that you want to add to your post direct
 
 <div class="embetter" data-codepen-id="cacheflowe/pen/domZpQ"><a href="http://codepen.io/cacheflowe/pen/domZpQ" target="_blank"><img src="http://codepen.io/cacheflowe/pen/domZpQ/image/large.png" alt="Codepen"></a></div>
 
-You can move the file up and down within your post using the arrow in the upper right-hand corner to position it where you want it.
-
-## Why does the original url remain once the sound or video preview appears?
-
-You get to choose whether you keep the url or not. It’s your post, after all! Deleting the url won’t delete the preview.
-
-## How can I tell sound and video files apart before playing them?
-
-Sound files have a round button; video has a square button. A video preview is rectangular because it is the proportion of the video, while a sound preview is square because it is based on the album’s cover art.
-
-## I don’t like the third party ads in embedded media and I never want to see them on Ello. How do I hide media that may have ads?
-
-Some of the embedded sound & video services that people on Ello choose to post may include third party ads (including YouTube, Soundcloud, and others). Some people want to see this kind of media, and some people don’t, so on Ello we’ve given you a choice.
-
-If you don’t want to see media that may contain ads, you can hide it by going to your [Settings]({{ site.webapp_url }}/settings) page. Scroll to “Embedded Media”, and click YES to hide embedded media.
-
-Ello does not make money off third party advertisements, and will never sell user data. Read more about Ello’s ad-free policy [here](https://ello.co/wtf/about/data-info/).

@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Browsers & Devices"
-date:   2016-5-2 01:23:45 MDT
-categories: help
+title_alternate:  "Browsers & Devices"
+date:   2017-08-21 3:30:00 EDT
+categories: support
 position: 10
 # page header ----------
 header_image: header_post-default.png
@@ -11,7 +12,7 @@ header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
 header_credit_image: header_post-default_avatar.gif
 # place header/avatar images in: _assets/images/page-headers/posts
 redirect_from:
-  - /help/browser-support/
+  - /help/browsers-devices/
 ---
 
 Ello exists at the nexus of art, design and technology. We are dedicated to deploying leading edge technology and supporting our creative community. Our small team works hard to ensure that you can access your Ello account using a wide range of devices and operating systems.
