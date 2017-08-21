@@ -52,6 +52,7 @@ plugins:
   - jekyll-html-pipeline
   - jekyll-assets
   - jekyll-redirect-from
+  - jekyll-titleize
 
 ## non-gem ruby plugins
 plugins_dir: _plugins

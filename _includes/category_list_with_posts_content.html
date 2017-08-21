@@ -1,6 +1,6 @@
 <section class="category main clear">
   <h2>
-    <a href="{{ site.baseurl }}{{ first_post.url }}">{{ category | first | replace: '-and-', ' & ' | capitalize }}</a>
+    <a href="{{ site.baseurl }}{{ first_post.url }}">{{ category | first | replace: '-and-', ' & ' | titleize }}</a>
   </h2>
   <ul class="clear">
     {% for post in sorted_posts %}
