@@ -9,6 +9,8 @@ header_credit: gb
 header_credit_post: https://ello.co/gb/post/qrwjrdlet_vagfvs5_0sdg
 header_credit_image: header_category-default_avatar.png
 # place header/avatar images in: _assets/images/page-headers
+redirect_from:
+  - /about/
 ---
 Ello is The Creators Network, a socially-powered publishing and collaboration platform connecting and supporting a global community of creatives. Founded in 2013 by a group of art & design professionals, Ello re-imagines the future by providing a contemporary forum and creative playground for artists, brands, agencies, publishers and their fans.
 
