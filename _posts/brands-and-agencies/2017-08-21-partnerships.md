@@ -16,4 +16,4 @@ header_credit_image: header_post-default_avatar.gif
 #   - /post/about-ello
 ---
 
-TODO: Import content
+Ello is always seeking new partners to assist in our mission of putting artists first. If you or your entity are interested in partnering with us to provide heightened visibility, influence and professional opportunity to our global community of creators please contact us at partners@ello.co.
