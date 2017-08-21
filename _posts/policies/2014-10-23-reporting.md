@@ -3,7 +3,7 @@ layout: post
 title:  "Reporting"
 date:   2017-4-25 01:23:18 MDT
 categories: policies
-position: 5
+position: 4
 # page header ----------
 header_image: header_post-default.png
 header_credit: lucian
@@ -14,30 +14,6 @@ redirect_from:
   - /policies/blocking/
   - /post/blockingandreporting
 ---
-Ello has a zero-tolerance policy for abusive behavior.
+**Ello has a zero-tolerance policy for abusive behavior.** This includes any form of hate, trolling, stalking, spamming, flaming, impersonating others, harming children, child pornography, or any other behavior intended to hurt another person physically or emotionally.
 
-This includes any form of hate, trolling, stalking, spamming, flaming, impersonating others, harming children, child pornography, or any other behavior designed to hurt another person physically or emotionally.
-
-All Ello users must follow the Ello Rules, and there are consequences for not following the Rules.
-
-If you notice abusive behavior or someone breaking the rules, please report it immediately by emailing [reportabuse@ello.co](mailto:reportabuse@ello.co), and we will look into it, and take necessary action as soon as possible.
-
-You can also use this email address to send feedback on our current blocking, muting, and flagging tools. We want your thoughts on how to keep Ello safe.
-
-Please note that this email box is strictly for abuse-related matters, and we will not respond to other requests sent here. If you are looking for help or wish to contact us for other reasons, please visit our [contact page](/wtf/help/contact/) for instructions on how to do so.
-
-## How can I BLOCK, MUTE, or FLAG someone who is annoying me?
-
-From a profile page, click the three dots to the right of the person's name.
-
-Select BLOCK, MUTE, or FLAG.
-
-When you MUTE another user, you will no longer receive email notifications related to their activity. Their past and future posts will be hidden from your feed. A muted user can still follow you and comment on your posts.
-
-When you BLOCK another user, they can no longer view your profile or posts. We also recommend turning off your public profile in SETTINGS when using this feature.
-
-When you FLAG another user, the Ello team will be notified and we will look into that account. 
-
-## How do I flag inappropriate content?
-
-Hover your mouse just to the right of the icons beneath the post, and a flag button will appear. Click the flag and select the category of inappropriate content you wish to submit.
+If you encounter abusive behavior or someone who is not acting in accordance with our [Community Guidelines](/wtf/policies/community-guidelines/), please report it by contacting abuse@ello.co. Our support team will assess the situation, and take action as necessary.
