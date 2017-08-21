@@ -16,4 +16,6 @@ header_credit_image: header_post-default_avatar.gif
 #   - /post/about-ello
 ---
 
-TODO: Import content
+At Ello we’re committed to putting artists first and our products reflect this commitment. Each day our curatorial team features artist community members and their ideas on Ello’s Editorial homepage and across Ello’s apps and social profiles. Selected artists, works and ideas are put front and center and promoted across our global platform.
+
+We’re always seeking new, inspired editorial contributors. To inquire about contributing to our Ello’s Arts Editorial efforts contact us at editorial@ello.co.

@@ -12,10 +12,10 @@ header_credit_image: header_category-default_avatar.png
 redirect_from:
   - /about/
 ---
-Ello is The Creators Network, a socially-powered publishing and collaboration platform connecting and supporting a global community of creatives. Founded in 2013 by a group of art & design professionals, Ello re-imagines the future by providing a contemporary forum and creative playground for artists, brands, agencies, publishers and their fans.
+Ello — The Creators Network, is a publishing and collaboration platform connecting and supporting a global community of artists. Founded in 2013 by a group of art & design professionals, Ello re-imagines the future of creative work by providing a contemporary forum and virtual workplace for artists, brands, agencies, publishers, and their fans.
 
-Our goal is to advance the intersection of art, opportunity and new media to inspire what’s possible. We believe that by empowering and rewarding today’s creators with visibility, influence and opportunity we can create the tomorrow we wish to see.
+At Ello we’re committed to advancing the intersection of art, creative opportunity and new media to inspire what only the internet has made possible. We believe that by empowering and rewarding today’s creators with visibility, influence and professional opportunity that we can embolden a generation of talent and transform the way creative work gets done.
 
-Learn more about [Artist Invites](https://ello.co/artist-invites) to see how we harness the potential of community-driven creative collaboration.
+Learn more about [Artist Invites](https://ello.co/artist-invites) to see how we partner with brands, agencies and publishers to launch creative briefs and harness the power of real-time community collaboration.
 
 Ello is a mission-driven [Public Benefit Corporation](http://benefitcorp.net/) committed to putting artists first.

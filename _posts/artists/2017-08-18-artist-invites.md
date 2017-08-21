@@ -15,5 +15,9 @@ redirect_from:
   - /about/artistinvites/
 ---
 
-TODO: Import content
+Ello’s Artist Invite technology connects the Ello artist community with brands, agencies, publishers and fans through real-time creative briefs. Working in close collaboration with our clients we launch brief-driven, on-demand creative projects that activate and engage our community of 625K artists in 195 countries.
+
+Participation is simple. Artists submit their work to the Artist Invites they’re interested in. Selected artists are chosen by a vetted, unbiased panel of judges and are awarded for their creative work per the criteria of the invite.
+
+Artist Invite guidelines can be found here (url).
 

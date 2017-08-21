@@ -16,4 +16,4 @@ header_credit_image: header_post-default_avatar.gif
 #   - /post/about-ello
 ---
 
-TODO: Import content
+Ello Art Email is a curated daily newsletter featuring the work and ideas of our community members. We seek to extend the reach and influence of the artists on our platform by highlighting their creative output and delivering it directly to your inbox six days a week.

@@ -10,6 +10,8 @@ header_credit: lucian
 header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
 header_credit_image: header_post-default_avatar.gif
 # place header/avatar images in: _assets/images/page-headers/posts
+redirect_from:
+  - /about/data-info/
 ---
 Ello is a mission-driven [Public Benefit Corporation](http://benefitcorp.net/), with a legal obligation to never display paid advertising, sell member data to third parties, or sell our company to anyone that would violate the terms of our Public Benefit Corporation Charter (link to our Charter).
 
