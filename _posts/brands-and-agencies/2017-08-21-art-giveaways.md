@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Art Giveaways"
-title_alternate:  "Art Giveaways"
-date:   2017-06-29 8:43:18 MST
-categories: artists
+title_alternate: "Art Giveaways"
+date:   2017-08-21 12:15:00 EDT
+categories: brands-and-agencies
 position: 2
 # page header ----------
 header_image: header_post-default.png

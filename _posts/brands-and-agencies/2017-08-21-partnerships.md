@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Art Giveaways"
-title_alternate:  "Art Giveaways"
-date:   2017-06-29 8:43:18 MST
-categories: artists
-position: 2
+title:  "Partnerships"
+title_alternate:  "Partnerships"
+date:   2017-08-21 12:15:00 EDT
+categories: brand-and-agencies
+position: 4
 # page header ----------
 header_image: header_post-default.png
 header_credit: lucian
