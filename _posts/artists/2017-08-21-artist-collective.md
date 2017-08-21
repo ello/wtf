@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Artist Invites"
-title_alternate:  "Artist Invites"
-date:   2017-08-18 5:00:00 EST
+title:  "Artist Collective"
+title_alternate:  "Artist Collective"
+date:   2017-08-21 9:30:00 EST
 categories: artists
-position: 1
+position: 3
 # page header ----------
 header_image: header_post-default.png
 header_credit: lucian

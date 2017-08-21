@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Artist Invites"
-title_alternate:  "Artist Invites"
-date:   2017-08-18 5:00:00 EST
+title:  "Artist Email"
+title_alternate:  "Artist Email"
+date:   2017-08-21 9:30:00 EST
 categories: artists
-position: 1
+position: 4
 # page header ----------
 header_image: header_post-default.png
 header_credit: lucian
@@ -17,4 +17,3 @@ header_credit_image: header_post-default_avatar.gif
 ---
 
 TODO: Import content
-
