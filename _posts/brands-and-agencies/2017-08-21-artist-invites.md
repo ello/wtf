@@ -6,14 +6,10 @@ date:   2017-08-21 12:15:00 EDT
 categories: brands-and-agencies
 position: 1
 # page header ----------
-header_image: header_post-default.png
-header_credit: lucian
-header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
-header_credit_image: header_post-default_avatar.gif
-# place header/avatar images in: _assets/images/page-headers/posts
-# redirect_from:
-#   - /about/what-isello/
-#   - /post/about-ello
+header_image: hxg.jpg
+header_credit: hxg
+header_credit_post: https://ello.co/hxg/post/urb3n5xvuif3oqtwdjljsw
+header_credit_image: hxg-avatar.png
 ---
 
 Ello’s Artist Invite technology connects the Ello artist community with brands, agencies, publishers and fans through real-time creative briefs. Working in close collaboration with our clients we launch brief-driven, on-demand creative projects that activate and engage our community of 625K artists in 195 countries.
