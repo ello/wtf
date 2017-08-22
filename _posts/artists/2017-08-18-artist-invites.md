@@ -6,11 +6,10 @@ date:   2017-08-18 5:00:00 EST
 categories: artists
 position: 1
 # page header ----------
-header_image: header_post-default.png
-header_credit: lucian
-header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
-header_credit_image: header_post-default_avatar.gif
-# place header/avatar images in: _assets/images/page-headers/posts
+header_image: mattsheehanphoto.jpg
+header_credit: mattsheehanphoto
+header_credit_post: https://ello.co/mattsheehanphoto/post/fbhfweps5ygslmbz_bud7w
+header_credit_image: mattsheehanphoto-avatar.png
 redirect_from:
   - /about/artistinvites/
 ---

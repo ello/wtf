@@ -6,14 +6,10 @@ date:   2017-08-21 9:30:00 EST
 categories: artists
 position: 3
 # page header ----------
-header_image: header_post-default.png
-header_credit: lucian
-header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
-header_credit_image: header_post-default_avatar.gif
-# place header/avatar images in: _assets/images/page-headers/posts
-# redirect_from:
-#   - /about/what-isello/
-#   - /post/about-ello
+header_image: jamesjean.jpg
+header_credit: jamesjean
+header_credit_post: https://ello.co/jamesjean/post/tbniday9vgl0vyriztz79q
+header_credit_image: jamesjean-avatar.png
 ---
 
 The Ello Artists Collective (EAC) is an invite-only, curated selection of Ello’s top professional creative talent, ranging from emergent artists to established. We champion and represent our talent to brands, agencies and publishers across an array of contemporary verticals including; graphic design, photography, fine art, illustration, 3D, gifs, video, music and more.

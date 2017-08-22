@@ -6,11 +6,10 @@ date:   2017-08-21 9:30:00 EST
 categories: artists
 position: 6
 # page header ----------
-header_image: header_post-default.png
-header_credit: lucian
-header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
-header_credit_image: header_post-default_avatar.gif
-# place header/avatar images in: _assets/images/page-headers/posts
+header_image: armandocabba.jpg
+header_credit: armandocabba
+header_credit_post: https://ello.co/armandocabba/post/avxgh3f2wowyxc6o638igw
+header_credit_image: armandocabba-avatar.png
 redirect_from:
   - /about/notforprint/
 ---

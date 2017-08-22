@@ -4,10 +4,10 @@ title: Contact
 permalink: /contact/
 category: contact
 # page header ----------
-header_image: joanneleah.jpg
-header_credit: joanneleah
-header_credit_post: https://ello.co/joanneleah/post/5dxgnsxjplqbtpjgdrpoda
-header_credit_image: joanneleah-avatar.png
+header_image: louisemertens.jpg
+header_credit: louisemertens
+header_credit_post: https://ello.co/louisemertens/post/apweecobhtossjxefg9ggg
+header_credit_image: louisemertens-avatar.png
 redirect_from:
   - /help/contact-ello/
   - /post/contactello
