@@ -71,4 +71,4 @@ If you do not comply, your account may be suspended or removed and your username
 
 It is important to note that Ello’s community guidelines and supporting policies do not create a duty or contractual obligation for us to act in any particular manner. We reserve the right to change these guidelines at any time. Please be cool, play nice and have fun.
 
-If you encounter abusive behavior or someone who is not acting in accordance with our [Community Guidelines](/wtf/policies/community-guidelines/), please report it by contacting abuse@ello.co. Our support team will assess the situation, and take action as necessary.
+If you encounter abusive behavior or someone who is not acting in accordance with our [Community Guidelines](/wtf/policies/community-guidelines/), please report it by contacting reportabuse@ello.co. Our support team will assess the situation, and take action as necessary.

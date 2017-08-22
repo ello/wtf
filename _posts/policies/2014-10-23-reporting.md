@@ -17,4 +17,4 @@ redirect_from:
 ---
 **Ello has a zero-tolerance policy for abusive behavior.** This includes any form of hate, trolling, stalking, spamming, flaming, impersonating others, harming children, child pornography, or any other behavior intended to hurt another person physically or emotionally.
 
-If you encounter abusive behavior or someone who is not acting in accordance with our [Community Guidelines](/wtf/policies/community-guidelines/), please report it by contacting abuse@ello.co. Our support team will assess the situation, and take action as necessary.
+If you encounter abusive behavior or someone who is not acting in accordance with our [Community Guidelines](/wtf/policies/community-guidelines/), please report it by contacting reportabuse@ello.co. Our support team will assess the situation, and take action as necessary.
