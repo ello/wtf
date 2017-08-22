@@ -6,10 +6,10 @@ date:   2017-4-25 01:23:18 MDT
 categories: policies
 position: 4
 # page header ----------
-header_image: header_post-default.png
-header_credit: lucian
-header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
-header_credit_image: header_post-default_avatar.gif
+header_image: marieconigliaroart.jpg
+header_credit: marieconigliaroart
+header_credit_post: https://ello.co/marieconigliaroart/post/1gegxbscva_cqjg1davena
+header_credit_image: marieconigliaroart-avatar.png
 # place header/avatar images in: _assets/images/page-headers/posts
 redirect_from:
   - /policies/blocking/

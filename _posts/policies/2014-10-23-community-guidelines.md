@@ -6,10 +6,10 @@ date:   2017-4-25 01:23:45 MDT
 categories: policies
 position: 1
 # page header ----------
-header_image: header_post-default.png
-header_credit: lucian
-header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
-header_credit_image: header_post-default_avatar.gif
+header_image: susannahvanderzaag.jpg
+header_credit: susannahvanderzaag
+header_credit_post: https://ello.co/susannahvanderzaag/post/71hyutsau6mt307hk_fpzq
+header_credit_image: susannahvanderzaag-avatar.png
 # place header/avatar images in: _assets/images/page-headers/posts
 redirect_from:
   - /policies/rules
