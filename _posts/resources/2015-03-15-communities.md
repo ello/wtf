@@ -3,7 +3,7 @@ layout: post
 title:  "Communities"
 date:   2016-03-26 01:23:45 MDT
 categories: resources
-position: 4
+position: 5
 # page header ----------
 header_image: header_post-default.png
 header_credit: lucian

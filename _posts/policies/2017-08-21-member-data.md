@@ -13,7 +13,7 @@ header_credit_image: header_post-default_avatar.gif
 redirect_from:
   - /about/data-info/
 ---
-Ello is a mission-driven [Public Benefit Corporation](http://benefitcorp.net/), with a legal obligation to never display paid advertising, sell member data to third parties, or sell our company to anyone that would violate the terms of our Public Benefit Corporation Charter (link to our Charter).
+Ello is a mission-driven [Public Benefit Corporation](http://benefitcorp.net/), with a legal obligation to never display paid advertising, sell member data to third parties, or sell our company to anyone that would violate the terms of our [Public Benefit Corporation Charter](/wtf/resources/pbc).
 
 We believe that data transparency is the best approach to managing privacy and that the more we know about our personal data and its’ usage, the better the choices we can make. In the spirit of our [Manifesto](/wtf/resources/manifesto) and keeping with our PBC charter, details on Ello’s member data usage are below.
 

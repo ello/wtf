@@ -3,7 +3,7 @@ layout: post
 title:  "Logos & Wallpapers"
 date:   2017-04-25 01:23:45 MDT
 categories: resources
-position: 5
+position: 6
 # page header ----------
 header_image: header_post-default.png
 header_credit: lucian

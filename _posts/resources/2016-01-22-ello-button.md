@@ -3,7 +3,7 @@ layout: post
 title:  "Ello Button"
 date:   2016-01-22 01:23:45 MDT
 categories: resources
-position: 6
+position: 7
 shareable: true
 ellobutton: true
 # page header ----------
