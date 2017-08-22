@@ -7,10 +7,10 @@ categories: resources
 position: 1
 shareable: true
 # page header ----------
-header_image: header_post-default.png
-header_credit: lucian
-header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
-header_credit_image: header_post-default_avatar.gif
+header_image: philiplueck.jpg
+header_credit: philiplueck
+header_credit_post: https://ello.co/philiplueck/post/hzd9fwzqnvp5nykuj1uvug
+header_credit_image: philiplueck-avatar.png
 # place header/avatar images in: _assets/images/page-headers/posts
 redirect_from:
   - /post/manifesto

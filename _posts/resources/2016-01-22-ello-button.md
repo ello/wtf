@@ -8,10 +8,10 @@ position: 7
 shareable: true
 ellobutton: true
 # page header ----------
-header_image: header_post-default.png
-header_credit: lucian
-header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
-header_credit_image: header_post-default_avatar.gif
+header_image: deanastacia.jpg
+header_credit: deanastacia
+header_credit_post: https://ello.co/deanastacia/post/buy-44g8b6iqyksxiola_q
+header_credit_image: deanastacia-avatar.png
 # place header/avatar images in: _assets/images/page-headers/posts
 ---
 

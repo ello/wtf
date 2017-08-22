@@ -6,10 +6,10 @@ date:   2017-5-31 01:23:45 MDT
 categories: resources
 position: 4
 # page header ----------
-header_image: header_post-default.png
-header_credit: lucian
-header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
-header_credit_image: header_post-default_avatar.gif
+header_image: holga.jpg
+header_credit: holga
+header_credit_post: https://ello.co/holga/post/xjrfrazijhaic3jx0_3viw
+header_credit_image: holga-avatar.png
 # place header/avatar images in: _assets/images/page-headers/posts
 redirect_from:
   - /resources/ello-announcements/
