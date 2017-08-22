@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Product Updates"
+title_alternate:  "Product Updates"
 date:   2017-5-31 01:23:45 MDT
 categories: resources
 position: 4

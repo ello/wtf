@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Communities"
+title_alternate:  "Communities"
 date:   2016-03-26 01:23:45 MDT
 categories: resources
 position: 5

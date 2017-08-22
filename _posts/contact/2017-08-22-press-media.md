@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Press & Media"
+title_alternate:  "Press & Media"
 date:   2017-08-22 10:00:00 EDT
 categories: contact
 position: 4

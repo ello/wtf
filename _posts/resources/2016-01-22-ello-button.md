@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ello Button"
+title_alternate:  "Ello Button"
 date:   2016-01-22 01:23:45 MDT
 categories: resources
 position: 7

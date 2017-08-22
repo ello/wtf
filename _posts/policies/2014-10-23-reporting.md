@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Reporting"
+title_alternate:  "Reporting"
 date:   2017-4-25 01:23:18 MDT
 categories: policies
 position: 4

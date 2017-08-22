@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Manifesto"
+title_alternate:  "Manifesto"
 date:   2014-07-03 01:23:45 EST
 categories: resources
 position: 1

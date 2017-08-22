@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Member Data"
+title_alternate:  "Member Data"
 date:   2017-08-21 05:00:00 EDT
 categories: policies
 position: 6

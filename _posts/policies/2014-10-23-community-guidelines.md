@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Community Guidelines"
+title_alternate:  "Community Guidelines"
 date:   2017-4-25 01:23:45 MDT
 categories: policies
 position: 1
