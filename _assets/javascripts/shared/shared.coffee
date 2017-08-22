@@ -126,7 +126,7 @@ root.ElloWTFShared =
 
   registerView: ->
     post_token = String($('.page-header').data('credit-post-token'))
-    if post_token != 'undefined'
+    if post_token != 'undefined' && window.location.hostname != 'localhost'
       path = "/api/v2/post_views/?kind=wtf_promo&post_tokens=#{post_token}"
 
       $.ajax
