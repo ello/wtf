@@ -4,10 +4,10 @@ title: Artists
 permalink: /artists/
 category: artists
 # page header ----------
-header_image: header_category-default.png
-header_credit: gb
-header_credit_post: https://ello.co/gb/post/qrwjrdlet_vagfvs5_0sdg
-header_credit_image: header_category-default_avatar.png
+header_image: 1sles.jpg
+header_credit: 1sles
+header_credit_post: https://ello.co/1sles/post/s9x4yzdkgaaebj8t_jwkvg
+header_credit_image: 1sles-avatar.png
 # place header/avatar images in: _assets/images/page-headers
 redirect_from:
   - /about/

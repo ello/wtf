@@ -4,11 +4,10 @@ title: Support
 permalink: /support/
 category: support
 # page header ----------
-header_image: header_category-default.png
-header_credit: gb
-header_credit_post: https://ello.co/gb/post/qrwjrdlet_vagfvs5_0sdg
-header_credit_image: header_category-default_avatar.png
-# place header/avatar images in: _assets/images/page-headers
+header_image: k2rt.jpg
+header_credit: k2rt
+header_credit_post: https://ello.co/k2rt/post/qqr0gweku5xcfwlzgvd-ew
+header_credit_image: k2rt-avatar.png
 redirect_from:
   - /help/
 ---
