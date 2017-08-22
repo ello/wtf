@@ -11,6 +11,8 @@ header_credit_image: 1sles-avatar.png
 # place header/avatar images in: _assets/images/page-headers
 redirect_from:
   - /about/
+  - /about/what-is-ello/
+  - /post/about-ello
 ---
 Ello — The Creators Network, is a publishing and collaboration platform connecting and supporting a global community of artists. Founded in 2013 by a group of art & design professionals, Ello re-imagines the future of creative work by providing a contemporary forum and virtual workplace for artists, brands, agencies, publishers, and their fans.
 

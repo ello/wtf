@@ -10,6 +10,8 @@ header_credit: lucian
 header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
 header_credit_image: header_post-default_avatar.gif
 # place header/avatar images in: _assets/images/page-headers/posts
+redirect_from:
+  - /about/press
 ---
 
 Press and media entities interested in **Ello’s mission and vision for the future of creative community and creative work**, please contact us at Press@ello.co.
