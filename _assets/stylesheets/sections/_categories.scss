@@ -23,40 +23,6 @@ body {
           }
         }
       }
-      nav {
-        width: percentage((($largeColumn * 2) + ($smallColumn * 1)) / $layoutWidth);
-        float: right;
-
-        @media only screen and (max-width : 640px) {
-          margin-top: 20px;          
-          width: 100%;
-          float: none;
-          clear: both;
-        }
-
-        ul {
-          margin-top: 0;
-          font-family: $groteskBlack;
-          font-weight: 900;
-
-          li {
-            margin-bottom: 1.925rem;
-
-            @media only screen and (max-width : 768px) {
-              margin-bottom: 1.55rem;
-            }
-            @media only screen and (max-width : 640px) {
-              margin-bottom: 1rem;
-            }
-            a {
-              text-decoration: underline;
-              &:hover {
-                color: $grey3;
-              }
-            }
-          }
-        }
-      }
     }
   }
 }

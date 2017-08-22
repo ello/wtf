@@ -23,11 +23,7 @@
 
       <div id="main_content" class="clear">
         
-        <section class="content">
-          <header>
-            
-          </header>
-
+        <section class="content clear">
           {% if page.video %}
             <aside id="video_embed">
               <div class="embetter" data-{{page.video.source}}-id="124436717"><a href="{{page.video.url}}" target="_blank"><img src="{{page.video.img}}" alt="{{page.video.alt}}"></a></div>
@@ -51,8 +47,10 @@
               <p><span class="timestamp">Updated {{ page.date | date: "%B %-d, %Y" }}</span> – <a href="{{ site.baseurl }}/{{ current_category | handleize }}/">{{ current_category | replace: '-and-', ' & ' | titleize }}</a></p>
             </footer>
           </article>
+          <nav class="posts-list clear">
+            {% include category_posts.html %}
+          </nav>
         </section>
-
       </div>
 
       {% include footer.html %}
