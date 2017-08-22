@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Artist Collective"
-title_alternate:  "Artistis Collective"
+title_alternate:  "Artist Collective"
 date:   2017-08-21 12:15:00 EDT
 categories: brands-and-agencies
 position: 3
