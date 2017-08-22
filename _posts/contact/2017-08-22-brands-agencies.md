@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brands and Agencies"
+title:  "Brands & Agencies"
 date:   2017-08-22 10:00:00 EDT
 categories: contact
 position: 2
