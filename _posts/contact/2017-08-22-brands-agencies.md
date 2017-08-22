@@ -6,10 +6,10 @@ date:   2017-08-22 10:00:00 EDT
 categories: contact
 position: 2
 # page header ----------
-header_image: header_post-default.png
-header_credit: lucian
-header_credit_post: https://ello.co/gb/post/8s1kiwzxlnjd_yxhd3piza
-header_credit_image: header_post-default_avatar.gif
+header_image: ben-staley.jpg
+header_credit: ben-staley
+header_credit_post: https://ello.co/ben-staley/post/gvowe7jrc1-ilep3iumfhw
+header_credit_image: ben-staley-avatar.png
 # place header/avatar images in: _assets/images/page-headers/posts
 ---
 
