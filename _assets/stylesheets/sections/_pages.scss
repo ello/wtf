@@ -13,29 +13,10 @@ body {
             a {
               position: relative;
               display: inline-block;
-              // text-decoration: underline;
+              text-decoration: underline;
 
-              &:after {
-                content: '';
-                position: absolute;
-                bottom: 12pt;
-                left: 0;
-                width: 100%;
-                height: 6pt;
-                background-color: $black;
-                transition: width .2s cubic-bezier(.23,1,.32,1), background-color .2s ease;
-
-                @media only screen and (max-width : 1200px) {
-                  bottom: 1.3vw;
-                }
-                @media only screen and (max-width : 640px) {
-                  height: 3pt;
-                  bottom: 1.8vw;
-                }
-              }
-              &:hover:after {
-                width: 0;
-                transition: width .2s cubic-bezier(.23,1,.32,1), background-color .2s ease;
+              &:hover {
+                color: $grey3;
               }
             }
           }
