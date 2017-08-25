@@ -16,5 +16,7 @@ header_credit_image: ben-staley-avatar.png
 Ello **connects brands, agencies and publishers with our talented, global community of 625K creatives from 195 countries** by launching brief-driven creative projects using our [Artist Invites](https://ello.co/artist-invites) technology.
 
 To learn more about Ello Artist Invites contact us at ArtistInvites@ello.co.
+
 To learn more about Ello Art Giveaways contact us at ArtGiveaways@ello.co.
+
 To put the Ello Artist Collective to work for you contact us at EAC@ello.co.
