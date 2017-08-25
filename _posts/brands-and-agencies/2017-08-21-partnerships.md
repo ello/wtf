@@ -16,4 +16,4 @@ header_credit_image: zeddan-avatar.png
 #   - /post/about-ello
 ---
 
-Ello is always seeking new partners to assist in our mission of putting artists first. If you or your entity are interested in partnering with us to provide heightened visibility, influence and professional opportunity to our global community of creators please contact us at partners@ello.co.
+Ello is actively **seeking new partners to assist in our mission of putting artists first**. If you or your entity are interested in partnering with us to provide heightened visibility, influence and professional opportunity to our global community of creators please contact us at partners@ello.co.
