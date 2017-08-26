@@ -34,13 +34,13 @@ Please do not post content that glorifies self-harm. Please do not encourage oth
 Please do not use fake tags or deceptive links or try to mislead others about the things you post. Please do not use malware or other deceptive code when you post. Please do not phish. Please do not follow large amounts of members in bulk for the sole purpose of leading them to your profile.
 
 **Please do not automate.**
-Ello is for human beings not bots.
+Ello is for human beings, not bots.
 
 **Please do not infringe on other people’s copyrights and trademarks.**
 Please do not post content that belongs to third parties without their consent. Please make sure you have the right to post the content that you share on Ello. Please only post content that is legal. You can not post content that violates governmental law or regulation.
 
 **Please do not squat on usernames.**
-Please do not register a username that you are not going to use yourself. Please do not register a username to prevent someone else from using it. Usernames that have not been actively used for an extended period of time may  be reclaimed.
+Please do not register a username that you are not going to use yourself. Please do not register a username to prevent someone else from using it. Usernames that have not been actively used for an extended period of time may be reclaimed.
 
 **Please do not impersonate others.**
 Be yourself, or a version of yourself. Please do not pretend to be someone else.
