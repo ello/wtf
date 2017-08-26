@@ -17,8 +17,9 @@ redirect_from:
   - /help/buy-button/
 ---
 
-It’s easy to sell your artwork and other products on Ello using our Buy Button. Here’s how it works:
+It’s easy to sell your artwork and other products on Ello using our **Buy Button**. 
 
+**Here’s how it works:**
 * Upload an image of your product
 * Select the $ icon
 * Add a link to the product page in your store
