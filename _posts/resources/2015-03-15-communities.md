@@ -61,7 +61,7 @@ Featured communities tend to have:
 
 If you’d like your community to be considered for Ello Featured Community status, please e-mail the Ello Community Support Team at hello@ello.co.
 
-Similarly, f you decide you can no longer lead your community, but wish to see it remain intact under new leadership please let us know. Communities that are inactive for 60 days or more, may lose their featured status.
+Similarly, if you decide you can no longer lead your community, but wish to see it remain intact under new leadership please let us know. Communities that are inactive for 60 days or more, may lose their featured status.
 
 ## Community List:
 
