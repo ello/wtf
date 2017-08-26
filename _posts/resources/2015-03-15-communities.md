@@ -30,7 +30,7 @@ Go for it. Create your own community. We want to empower our members to connect 
 
 Please note that you will have to use a different email address for each account.
 
-Below is a list of Communities best practices to help your Ello community thrive:
+Below is a list of best practices to help your Ello community thrive:
 
 * Post regularly to keep your followers engaged and excited
 * Communities perform best when their moderators post at least once every three days, but not more than five times per day (If you publish numerous posts all at once, every day your members may become overwhelmed and stop following you.)
