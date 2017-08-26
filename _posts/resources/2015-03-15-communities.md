@@ -46,7 +46,7 @@ Below is a list of best practices to help your Ello community thrive:
 
 ## What’s an Ello “Featured Community”?
 
-Well run communities that build a substantial following may become for “Featured Community” status.
+Well-run communities that build a substantial following may become for “Featured Community” status.
 
 Featured Communities may show up on the Ello Editorial homepage, be recommended to new members during the account creation process, may be added to the Community Directory, or listed in the [Communities Category](https://ello.co/discover/communities).
 
