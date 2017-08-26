@@ -33,7 +33,7 @@ You can embed audio and video files directly in your posts from the following se
 
 ## How do I add an audio or video file to my post?
 
-Paste a link to the audio or video file that you wish to add to your post directly into the Omnibar. A preview of the embedded audio/video file will appear in your post. View the examples embeds below..
+Paste a link to the audio or video file that you wish to add to your post directly into the Omnibar. A preview of the embedded audio/video file will appear in your post. View the examples embeds below.
 
 <br>
 **Youtube** `https://www.youtube.com/watch?v=lfJETqgWNK4`
