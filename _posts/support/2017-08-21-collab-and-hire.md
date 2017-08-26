@@ -16,9 +16,9 @@ redirect_from:
   - /help/collab-hire/
 ---
 
-Ello’s Hire Me Button tells potential clients you’re available for work and provides an easy way to contact you privately. Similarly, our Collaborate Button enables fellow Ello creators interested in collaborating with you, a simple way to contact you in private.
+Ello’s **Hire Me Button** tells potential clients you’re available for work and provides an easy way for them to contact you privately. Similarly, our **Collaborate Button** gives fellow Ello creators interested in collaborating with you a simple way to get in touch privately.
 
-To enable our Hire Me & Collaborate Buttons:
+**To enable our Hire Me & Collaborate Buttons:**
 
 * Visit <a href="https://ello.co/settings">Settings</a> and scroll down to “Hire Me Button” or “Collaborate Button“
 * Toggle the “Hire Me Button” or “Collaborate Button“ setting from “no” to “yes”
