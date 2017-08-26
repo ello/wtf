@@ -12,4 +12,4 @@ redirect_from:
   - /help/
 ---
 
-We’re here to support you. If you want or need help, are confused or just inquisitive about the randomness of the universe, take a look around — perhaps what you seek is here. If after you’ve had a chance to look around, you still can’t find what you’re looking for, don’t be afraid to [reach out to our team](/wtf/contact/).
+We’re here to support you. If you want help, are confused, or just want to know more about Ello, take a look around — perhaps what you need is here. If you can’t find what you’re looking for, don’t be afraid to reach out to our [team](/wtf/contact/).
