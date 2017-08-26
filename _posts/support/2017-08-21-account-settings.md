@@ -16,6 +16,7 @@ redirect_from:
   - /help/settings
 ---
 
+
 ## How do I get to my personal settings page?
 
 Click on your avatar in the upper right-hand corner and select "Settings".
