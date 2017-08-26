@@ -16,7 +16,7 @@ redirect_from:
   - /post/manifesto
   - /about/manifesto
 ---
-Your social network is owned by advertisers.
+**Your social network is owned by advertisers.**
 
 Every post you share, every friend you make, and every link you follow is tracked, recorded, and converted into data. Advertisers buy your data so they can show you more ads. You are the product that’s bought and sold.
 
