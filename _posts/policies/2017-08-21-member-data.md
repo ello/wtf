@@ -6,10 +6,10 @@ date:   2017-08-21 05:00:00 EDT
 categories: policies
 position: 6
 # page header ----------
-header_image: dollyave.jpg
-header_credit: dollyave
-header_credit_post: https://ello.co/dollyave/post/7ow_2pk_d5frwcyvxei13g
-header_credit_image: dollyave-avatar.png
+header_image: ivatori.jpg
+header_credit: ivatori
+header_credit_post: https://ello.co/ivatori/post/7ow_2pk_d5frwcyvxei13g
+header_credit_image: ivatori-avatar.png
 # place header/avatar images in: _assets/images/page-headers/posts
 redirect_from:
   - /about/data-info/

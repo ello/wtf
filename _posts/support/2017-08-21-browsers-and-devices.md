@@ -6,10 +6,10 @@ date:   2017-08-21 3:30:00 EDT
 categories: support
 position: 10
 # page header ----------
-header_image: lauraaustin.jpg
-header_credit: lauraaustin
-header_credit_post: https://ello.co/lauraaustin/post/4hk4dznuy1_9kmhqfuv0ew
-header_credit_image: lauraaustin-avatar.png
+header_image: pettermyhr.jpg
+header_credit: pettermyhr
+header_credit_post: https://ello.co/pettermyhr/post/rmbo1uhedfhasadlm8xf3g
+header_credit_image: pettermyhr-avatar.png
 # place header/avatar images in: _assets/images/page-headers/posts
 redirect_from:
   - /help/browsers-devices/
