@@ -16,3 +16,5 @@ header_credit_image: joecastro-avatar.png
 Our Art Giveaways program supports Ello artists through the purchase and redistribution of their artwork. **Three times per week we buy artwork from Ello artists**. We promote their work and then give their art back to randomly selected members of the Ello community. 
 
 To **learn more about sponsoring Ello’s Art Giveaways** contact us at ArtGiveaways@ello.co.
+
+Be sure to check out our [Giveaway Rules](/wtf/policies/giveaway-rules).

@@ -20,3 +20,4 @@ Participation is simple. Artists submit their work to the Artist Invites they’
 
 To learn more about participating in Ello Artist Invites contact us at ArtistInvites@ello.co.
 
+Be sure to check out our [Artist Invite Rules](/wtf/policies/artist-invite-rules).

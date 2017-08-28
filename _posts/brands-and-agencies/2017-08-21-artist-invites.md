@@ -17,3 +17,5 @@ header_credit_image: hxg-avatar.png
 Artist Invite participation is simple. Projects are vetted, criteria and project duration are set, awards are determined and projects are launched to our artist community. Submissions are solicited and selected in real-time and top-tier creative work is delivered at scale. Artists submit their work to the Artist Invites they’re interested in. Selected artists are chosen by a vetted, panel of judges and are awarded for their creative work per the criteria of the invite.
 
 To **learn more about activating our Artist Invites technology and launching a creative brief to the Ello community**, contact us at ArtistInvites@ello.co.
+
+Be sure to check out our [Artist Invite Rules](/wtf/policies/artist-invite-rules).
