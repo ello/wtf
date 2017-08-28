@@ -11,8 +11,6 @@ header_image: mattsheehanphoto.jpg
 header_credit: mattsheehanphoto
 header_credit_post: https://ello.co/mattsheehanphoto/post/fbhfweps5ygslmbz_bud7w
 header_credit_image: mattsheehanphoto-avatar.png
-redirect_from:
-  - /about/artistinviteguidelines/
 ---
 
 Ello’s **Artist Invite technology connects the Ello artist community with brands, agencies, publishers and fans through real-time creative briefs.** Working in close collaboration with our clients we launch brief-driven, on-demand creative projects that activate and engage our community of 625K artists in 195 countries.
