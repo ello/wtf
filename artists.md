@@ -10,6 +10,7 @@ header_credit_post: https://ello.co/1sles/post/s9x4yzdkgaaebj8t_jwkvg
 header_credit_image: 1sles-avatar.png
 # place header/avatar images in: _assets/images/page-headers
 redirect_from:
+  - /about/ello
   - /about/
   - /about/what-is-ello/
   - /post/about-ello
