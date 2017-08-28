@@ -5,7 +5,7 @@ title:  "Artist Invite Guidelines"
 title_alternate:  "Artist Invite Guidelines"
 date:   2017-08-27 5:00:00 EST
 categories: artists
-position: 1
+position: 9
 # page header ----------
 header_image: mattsheehanphoto.jpg
 header_credit: mattsheehanphoto
