@@ -20,7 +20,7 @@ redirect_from:
 
 Ello supports member-powered communities as a way to share and discuss specific areas of interest.
 
-You may join a community simply by following the community profile as you would any other member profile. A collection of posts from many of our most heavily used communities can be found in the Community Category (https://ello.co/discover/communities).
+You may join a community simply by following the community profile as you would any other member profile. A collection of posts from many of our most heavily used communities can be found in the [Community Category] (https://ello.co/discover/communities).
 
 Please contact us at hello@ello.co if you’d like to start a new community.
 
@@ -48,7 +48,7 @@ Below is a list of best practices to help your Ello community thrive:
 
 Well-run communities that build a substantial following may become for “Featured Community” status.
 
-Featured Communities may show up on the Ello Editorial homepage, be recommended to new members during the account creation process, may be added to the Community Directory, or listed in the [Communities Category](https://ello.co/discover/communities).
+Featured Communities may show up on the Ello Editorial homepage, be recommended to new members during the account creation process, may be added to the Community Directory, or listed in the [Communities Category(https://ello.co/discover/communities).
 
 Featured communities tend to have:
 * More than 50 followers
