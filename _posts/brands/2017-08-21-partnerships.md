@@ -3,7 +3,7 @@ layout: post
 title:  "Partnerships"
 title_alternate:  "Partnerships"
 date:   2017-08-21 12:15:00 EDT
-categories: brands-and-agencies
+categories: brands
 position: 4
 # page header ----------
 header_image: zeddan.jpg
