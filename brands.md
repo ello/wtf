@@ -1,8 +1,8 @@
 ---
 layout: category
-title: Brands & Agencies
-permalink: /brands-and-agencies/
-category: brands-and-agencies
+title: Brands
+permalink: /brands/
+category: brands
 # page header ----------
 header_image: alterlier.jpg
 header_credit: alterlier
