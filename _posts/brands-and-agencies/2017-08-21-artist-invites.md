@@ -3,7 +3,7 @@ layout: post
 title:  "Artist Invites"
 title_alternate:  "Artist Invites"
 date:   2017-08-21 12:15:00 EDT
-categories: brands
+categories: brands-and-agencies
 position: 1
 # page header ----------
 header_image: hxg.jpg

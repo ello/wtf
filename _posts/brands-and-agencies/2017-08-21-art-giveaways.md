@@ -3,7 +3,7 @@ layout: post
 title:  "Art Giveaways"
 title_alternate: "Art Giveaways"
 date:   2017-08-21 12:15:00 EDT
-categories: brands
+categories: brands-and-agencies
 position: 2
 # page header ----------
 header_image: joecastro.jpg
