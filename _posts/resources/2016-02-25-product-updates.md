@@ -15,6 +15,18 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+October 3, 2017
+[Post Detail, Creator Types, Artist Invites](https://ello.co/lucian/post/1vfvhwicchxoydns6qoetg)
+
+August 31, 2017
+[How To Submit, WTF, Interviews](https://ello.co/lucian/post/ysmu5h6hscwzxhnwb5ckbw)
+
+August 17, 2017
+[Fresh Artist Invites, Fresh Giveaways](https://ello.co/lucian/post/kqjjfkq-2d5e7l7ul882bq)
+
+August 8, 2017
+[New Artist Invite Experience, Giveaways](https://ello.co/lucian/post/6eqi86xd_6tnuqcjh2uohq)
+
 August 2, 2017
 [Guest Editor, Underscore, Interviews, Giveaways](https://ello.co/lucian/post/k89kytt5_eogh87j04f51g)
 
