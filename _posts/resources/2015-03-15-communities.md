@@ -80,6 +80,7 @@ Similarly, if you decide you can no longer lead your community, but wish to see 
 - **[Comics](https://ello.co/comicbuzz)**
 - **[Crystals](https://ello.co/ellocrystals)**
 - **[Dallas](https://ello.co/dallasnews)**
+- **[Dark Art](https://ello.co/ellodarkart)**
 - **[Design](https://ello.co/ellodesign)**
 - **[Design (Unique Collections)](https://ello.co/p-e-a-c)**
 - **[Dice and Paper](https://ello.co/ello_dice_and_paper)**
