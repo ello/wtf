@@ -15,6 +15,18 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+October 31, 2017
+[Ello Store, Spam Update, Artist Invites, Giveaways](https://ello.co/lucian/post/scfrr9sr0m-iimgtbyxljw)
+
+October 25, 2017
+[Art Giveaway Program, Spam, Interviews](https://ello.co/lucian/post/gyayo89s45nahi8dz8xthq)
+
+October 17, 2017
+[Full Screen Images, Creator Type Badges, Artist Invites](https://ello.co/lucian/post/0ift0pnh8r8z8ld2o1yfew)
+
+October 10, 2017
+[Artist Invite Countdowns, Badges, Giveaways](https://ello.co/lucian/post/rjuucvo3y5iyzdyqfvt-gw)
+
 October 3, 2017
 [Post Detail, Creator Types, Artist Invites](https://ello.co/lucian/post/1vfvhwicchxoydns6qoetg)
 
