@@ -79,17 +79,14 @@ Similarly, if you decide you can no longer lead your community, but wish to see 
 - **[Coffee](https://ello.co/ellocoffeelovers)**
 - **[Comics](https://ello.co/comicbuzz)**
 - **[Crystals](https://ello.co/ellocrystals)**
-- **[Dallas](https://ello.co/dallasnews)**
 - **[Dark Art](https://ello.co/ellodarkart)**
 - **[Design](https://ello.co/ellodesign)**
 - **[Design (Unique Collections)](https://ello.co/p-e-a-c)**
 - **[Dice and Paper](https://ello.co/ello_dice_and_paper)**
-- **[DIY](https://ello.co/ellodiy)**
 - **[Doodles](https://ello.co/doodlehouse)**
 - **[Drag](https://ello.co/ellodrag)**
 - **[Earth](https://ello.co/travelwithme)**
 - **[Electroforming](https://ello.co/elloelectroforming)**
-- **[Entertainment](https://ello.co/entertainment)**
 - **[Equestrian](https://ello.co/elloequestrian)**
 - **[Events](https://ello.co/ello-events)**
 - **[Fashion](https://ello.co/ellofashion)**
@@ -97,7 +94,6 @@ Similarly, if you decide you can no longer lead your community, but wish to see 
 - **[Finance](https://ello.co/ellofinance)**
 - **[Food Photography](https://ello.co/ellofoodphotography)**
 - **[Geometry](https://ello.co/geometry)**
-- **[Gifs](https://ello.co/ellogifs)**
 - **[Gifs](http://ello.co/gifs)**
 - **[Glitch Art](https://ello.co/elloglitchart)**
 - **[Graphic Design](https://ello.co/graphicdesign)**
@@ -132,12 +128,10 @@ Similarly, if you decide you can no longer lead your community, but wish to see 
 - **[Poetry (Micro)](https://ello.co/micro_poetics)**
 - **[Privacy](https://ello.co/elloprivacy)**
 - **[Puns](https://ello.co/ellopundemonium)**
-- **[Quotes](https://ello.co/quotes)**
 - **[Railways](https://ello.co/ellorailways)**
 - **[Rocks](https://ello.co/ellorockhounds)**
 - **[Security](https://ello.co/ellosecurity)**
 - **[Ships](https://ello.co/elloships)**
-- **[Sicut Esse](https://ello.co/sicutesse)**
 - **[Sports](https://ello.co/ellosport)**
 - **[Tapes and Vinyl](https://ello.co/ellotapesandvinyl)**
 - **[Tattoos](https://ello.co/ellotattoos)**
@@ -153,5 +147,4 @@ Similarly, if you decide you can no longer lead your community, but wish to see 
 - **[Web Design](https://ello.co/ellowebdesign)**
 - **[Writing](https://ello.co/ellowrites)**
 - **[Yoga](https://ello.co/elloyoga)**
-- **[Zen](https://ello.co/ellozen)**
 
