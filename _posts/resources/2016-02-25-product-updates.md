@@ -16,7 +16,7 @@ redirect_from:
   - /post/featurelist
 ---
 October 31, 2017
-[Ello Store, Spam Update, Artist Invites, Giveaways](https://ello.co/lucian/post/scfrr9sr0m-iimgtbyxljw)
+[Ello Store, Artist Invites, Giveaways](https://ello.co/lucian/post/scfrr9sr0m-iimgtbyxljw)
 
 October 25, 2017
 [Art Giveaway Program, Spam, Interviews](https://ello.co/lucian/post/gyayo89s45nahi8dz8xthq)
