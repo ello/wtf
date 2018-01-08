@@ -22,7 +22,7 @@ December 19, 2017
 [New iOS App, Creative Excellence Awards, Interviews](https://ello.co/lucian/post/m3cgfqil8az2gguonu26mg)
 
 December 13, 2017
-[Break the Internet, Interviews, Giveaways](https://ello.co/lucian/post/0nhsc1uva-xiomkgpymrwq
+[Break the Internet, Interviews, Giveaways](https://ello.co/lucian/post/0nhsc1uva-xiomkgpymrwq)
 
 December 6, 2017
 [Guest Editor, Interviews, 20% off Make Good](https://ello.co/lucian/post/wkjjp9obhpmqvysq-ckopg)
@@ -31,7 +31,7 @@ November 29, 2017
 [Smiling Gecko & Mod Thread Selected Artists, Interviews](https://ello.co/lucian/post/qvcm0m8y8recvbay0abvtg)
 
 November 22, 2017
-[Interviews, Artist Invites, Fresh Giveaways](https://ello.co/lucian/post/d-hpqlwwgm2kgvzhyc36qa
+[Interviews, Artist Invites, Fresh Giveaways](https://ello.co/lucian/post/d-hpqlwwgm2kgvzhyc36qa)
 
 November 16, 2017
 [iPhone X, new Page Loaders, Interviews](https://ello.co/lucian/post/wwbd14gbjbr74mmk9wwqkq)
