@@ -67,6 +67,7 @@ Similarly, if you decide you can no longer lead your community, but wish to see 
 
 - **[Abstract](https://ello.co/elloabstract)**
 - **[Aircraft](https://ello.co/elloaircraft)**
+- **[Analog](https://ello.co/elloanalog)**
 - **[Androids](https://ello.co/elloandroid)**
 - **[Architecture](https://ello.co/elloarchitecture)**
 - **[Art](https://ello.co/elloart)**
