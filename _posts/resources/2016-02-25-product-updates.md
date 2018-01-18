@@ -15,6 +15,12 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+January 16, 2018
+[Interviews, Weekly Highlights, Artist Invites](https://ello.co/lucian/post/bhe9lojoegkdgq1-xt-wsq)
+
+January 10, 2018
+[2017 Year in Review, Artist Invite Submission Notifications](https://ello.co/lucian/post/hxivrkqc2zuxgnj0n73mrq)
+
 January 3, 2018
 [Creative Excellence Awards, Rich Notifications, Giveaways](https://ello.co/lucian/post/44r4vv9rix75wglei4yt4q)
 
