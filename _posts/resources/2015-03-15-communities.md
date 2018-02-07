@@ -117,7 +117,6 @@ Similarly, if you decide you can no longer lead your community, but wish to see 
 - **[Music (Jazz)](https://ello.co/ellojazz)**
 - **[New Ello Users](https://ello.co/ellonew)**
 - **[News](https://ello.co/ellonews)**
-- **[NSFW](https://ello.co/hotsexywomen)**
 - **[Outside](https://ello.co/ellooutside)**
 - **[Patterns](https://ello.co/ellopatterns)**
 - **[Photography](https://ello.co/ellophotography)**
