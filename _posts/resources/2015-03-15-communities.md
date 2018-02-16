@@ -133,6 +133,7 @@ Similarly, if you decide you can no longer lead your community, but wish to see 
 - **[Security](https://ello.co/ellosecurity)**
 - **[Ships](https://ello.co/elloships)**
 - **[Sports](https://ello.co/ellosport)**
+- **[Sports (Kite Surfing)](https://ello.co/ellokitesurfers)**
 - **[Tapes and Vinyl](https://ello.co/ellotapesandvinyl)**
 - **[Tattoos](https://ello.co/ellotattoos)**
 - **[Tennis](https://ello.co/tennisblog)**
