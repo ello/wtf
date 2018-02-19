@@ -132,6 +132,7 @@ Similarly, if you decide you can no longer lead your community, but wish to see 
 - **[Rocks](https://ello.co/ellorockhounds)**
 - **[Security](https://ello.co/ellosecurity)**
 - **[Ships](https://ello.co/elloships)**
+- **[Spain](https://ello.co/ello_spain)**
 - **[Sports](https://ello.co/ellosport)**
 - **[Sports (Kite Surfing)](https://ello.co/ellokitesurfers)**
 - **[Tapes and Vinyl](https://ello.co/ellotapesandvinyl)**
