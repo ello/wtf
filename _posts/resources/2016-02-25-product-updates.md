@@ -34,7 +34,7 @@ January 31, 2018
 [Underscore Vol. 1, Interviews, Giveaways](https://ello.co/lucian/post/6izlacjusq-0hb7yjl0zig)
 
 January 23, 2018
-[Ello Guest Editor, Interviews, iOS](https://ello.co/lucian/post/iqjfrjc0uogzrf_r4x61cg
+[Ello Guest Editor, Interviews, iOS](https://ello.co/lucian/post/iqjfrjc0uogzrf_r4x61cg)
 
 January 16, 2018
 [Interviews, Weekly Highlights, Artist Invites](https://ello.co/lucian/post/bhe9lojoegkdgq1-xt-wsq)
