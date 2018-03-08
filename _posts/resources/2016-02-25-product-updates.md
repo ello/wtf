@@ -15,6 +15,27 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+March 7, 2018
+[Creative Excellence Awards, RELISH Vol. 2, Artist Invites](https://ello.co/lucian/post/qj5czycb1xxia7hmpvsydw)
+
+February 28, 2018
+[Guest Editor 02, Black Art Matters, Underscore](https://ello.co/lucian/post/ncexahbl7jh5rvnhzav9ca)
+
+February 21, 2018
+[Underscore, Make Good, Giveaways](https://ello.co/lucian/post/111lknquqs9wwl6wrnbm-a)
+
+February 14, 2018
+[Lightbox Slideshow, Artist Invite selected artists, Giveaways](https://ello.co/lucian/post/o0vin6kznfp7rjdhdbv1rw)
+
+February 7, 2018
+[Fresh Artist Invites, Organic Meets Digital, iOS Lightbox](https://ello.co/lucian/post/cknlhc148u7broze1lbvvw) 
+
+January 31, 2018 
+[Underscore Vol. 1, Interviews, Giveaways](https://ello.co/lucian/post/6izlacjusq-0hb7yjl0zig)
+
+January 23, 2018
+[Ello Guest Editor, Interviews, iOS](https://ello.co/lucian/post/iqjfrjc0uogzrf_r4x61cg
+
 January 16, 2018
 [Interviews, Weekly Highlights, Artist Invites](https://ello.co/lucian/post/bhe9lojoegkdgq1-xt-wsq)
 
