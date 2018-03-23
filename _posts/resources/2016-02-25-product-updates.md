@@ -15,6 +15,13 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+
+March 21, 2018
+[Categories, Brands as Patrons, Interviews](https://ello.co/lucian/post/gzsxpl9nojruba-xnwnrxa)
+
+March 14, 2018
+[New Categories Experience, Artist Invites, Giveaways](https://ello.co/lucian/post/ykh-2owrf22j0idm7hhssg)
+
 March 7, 2018
 [Creative Excellence Awards, RELISH Vol. 2, Artist Invites](https://ello.co/lucian/post/qj5czycb1xxia7hmpvsydw)
 
