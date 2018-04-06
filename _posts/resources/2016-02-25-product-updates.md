@@ -16,6 +16,9 @@ redirect_from:
   - /post/featurelist
 ---
 
+April 4, 2018
+[Fresh Artist Invites, Selected Artists, Giveaways](https://ello.co/lucian/post/o5gmnrtjbjf2y1jt6aom5w)
+
 March 28, 2018
 [Interviews, Scheduled Maintenance, Data Policies, Artist Invites](https://ello.co/lucian/post/kguiycatqri2crcbxnnuqw)
 
