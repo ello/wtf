@@ -23,7 +23,8 @@ begin
                         /vimeo.com/,
                       ],
                       typhoeus: {
-                        followlocation: true
+                        followlocation: true,
+                        headers: { 'User-Agent' => 'Mozilla/5.0 (compatible; Ello html-proofer' }
                       },
                       hydra: {
                         max_concurrency: 10
