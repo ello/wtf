@@ -80,7 +80,7 @@ GEM
     mini_portile2 (2.3.0)
     minitest (5.10.1)
     newrelic_rpm (3.14.1.311)
-    nokogiri (1.8.1)
+    nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
     parallel (1.11.1)
     pathutil (0.14.0)
@@ -136,4 +136,4 @@ RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.15.3
+   1.16.1
