@@ -16,6 +16,12 @@ redirect_from:
   - /post/featurelist
 ---
 
+April 18, 2018
+[Categories, Interviews, RELISH Vol. 2, Artist Invites](https://ello.co/lucian/post/jf9tcgnwj66nhefdy6abxg)
+
+April 10, 2018
+[36 Days of Type, Artist Invite selected artists, Giveaways](https://ello.co/lucian/post/sfrcssvdneai5y1yxvqorw)
+
 April 4, 2018
 [Fresh Artist Invites, Selected Artists, Giveaways](https://ello.co/lucian/post/o5gmnrtjbjf2y1jt6aom5w)
 
