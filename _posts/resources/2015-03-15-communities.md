@@ -104,6 +104,7 @@ Similarly, if you decide you can no longer lead your community, but wish to see 
 - **[Music (General)](https://ello.co/ellomusic)**
 - **[Music (Jazz)](https://ello.co/ellojazz)**
 - **[New Ello Users](https://ello.co/ellonew)**
+- **[NSFW](https://ello.co/artistic_nude_photography)**
 - **[Patterns](https://ello.co/ellopatterns)**
 - **[Photography](https://ello.co/ellophotography)**
 - **[Photography (Amateur)](https://ello.co/amateur_photography)**
