@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.3.1'
+ruby '2.3.7'
 
 gem 'rake'
 gem 'jekyll', '~> 3.1'
@@ -15,7 +15,7 @@ gem 'gemoji'
 gem 'newrelic_rpm'
 
 gem 'rack'
-gem 'puma'
+gem 'puma', '~> 3.7.1'
 
 group :development, :test do
   gem 'html-proofer'
