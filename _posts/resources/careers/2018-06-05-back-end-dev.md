@@ -31,7 +31,7 @@ Ello is looking for an experienced back end developer to work on the ello.co API
 
 Our API serves millions of posts a day - and has to handle everything that goes along with that scale. We have been building all our new APIs in Elixir, and porting everything else to Elixir/GraphQL as time allows. We also have some extremely exciting technical challenges ahead that we need help with.
 
-You can check out our open sourc repos at [github.com/ello](https://github.com/ello).
+You can check out our open source repos at [github.com/ello](https://github.com/ello).
 
 **About Ello**
 
@@ -58,7 +58,7 @@ Planning is collaborative - some of our most successful features and initiatives
 
 **To Apply**
 
-Please send an email to [alan@ello.co](mailto:alan@ello.co?subject="Back End Developer"), subject: "Back End Developer".
+Please send an email to [alan@ello.co](mailto:alan@ello.co?subject=Back End Developer), subject: "Back End Developer".
 
 Please including a resume, any applicable code samples, and any relevant social links you would like to share.
 
