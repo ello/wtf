@@ -86,7 +86,7 @@ GEM
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
-    puma (2.15.3)
+    puma (3.7.1)
     rack (1.6.8)
     rake (10.4.2)
     rb-fsevent (0.10.2)
@@ -127,13 +127,13 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-titleize
   newrelic_rpm
-  puma
+  puma (~> 3.7.1)
   rack
   rake
   uglifier
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.3.7p456
 
 BUNDLED WITH
-   1.16.1
+   1.16.2
