@@ -16,6 +16,9 @@ redirect_from:
   - /post/featurelist
 ---
 
+June 13, 2018
+[Communities, Category Sidebar, Artist Invites, Giveaways](https://ello.co/lucian/post/gb5vangzezqsvjne5azo4q)
+
 June 6, 2018
 [Interviews, Fresh Artist Invites, Make Good, Giveaways](https://ello.co/lucian/post/acj3ww2jui8ksoffovuy2q)
 
