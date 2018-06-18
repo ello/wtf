@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Product Updates"
-title_alternate:  "Product Updates"
+title:  "Community & Product Updates"
+title_alternate:  "Community & Product Updates"
 date:   2017-5-31 01:23:45 MDT
 categories: resources
 position: 4
