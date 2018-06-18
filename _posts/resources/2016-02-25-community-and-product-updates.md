@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Community & Product Updates"
+title:  "Community &<br/>Product Updates"
 title_alternate:  "Community & Product Updates"
 date:   2017-5-31 01:23:45 MDT
 categories: resources
