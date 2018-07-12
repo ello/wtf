@@ -16,6 +16,9 @@ redirect_from:
   - /post/featurelist
 ---
 
+July 11, 2018
+[Fresh Artist Invites, Interviews, Giveaways](https://ello.co/lucian/post/veolwnhdplagstdnr8ke6w)
+
 June 28, 2018
 [#STOPnipplecensorship Campaign, Fresh Artist Invites, Giveaways](https://ello.co/lucian/post/uwec80papn99s4lfcvqgsw)
 
