@@ -16,6 +16,15 @@ redirect_from:
   - /post/featurelist
 ---
 
+August 1, 2018
+[Fresh new interviews, Artist Invites, Giveaways](https://ello.co/lucian/post/vex_wtzqbt8hwfxd7hm3rw)
+
+July 25, 2018
+[Interviews, Artist Invites, Giveaways](https://ello.co/lucian/post/ygscuoht_715bpxaqpvz9a)
+
+July 17, 2018
+[Fresh Exhibitions, Interviews, Giveaways](https://ello.co/lucian/post/nqmstfknvl-pzdoqaye8xg)
+
 July 11, 2018
 [Fresh Artist Invites, Interviews, Giveaways](https://ello.co/lucian/post/veolwnhdplagstdnr8ke6w)
 
