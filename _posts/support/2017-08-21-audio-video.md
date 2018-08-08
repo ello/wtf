@@ -58,7 +58,7 @@ Paste a link to the audio or video file that you wish to add to your post direct
 <br>
 **Mixcloud** `https://www.mixcloud.com/Davealex/ebm-mixtape-dj-davealex/`
 
-<div class="embetter" data-mixcloud-id="Davealex/davealex-30m-electro-2010/"><a href="https://www.mixcloud.com/Davealex/ebm-mixtape-dj-davealex" target="_blank"><img src="https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/d/c/3/e/a751-8fae-414d-8685-1f04ef329a7f.jpg" alt="Mixcloud"></a></div>
+<div class="embetter" data-mixcloud-id="Davealex/davealex-30m-electro-2010/"><a href="https://www.mixcloud.com/Davealex/ebm-mixtape-dj-davealex/" target="_blank"><img src="https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/d/c/3/e/a751-8fae-414d-8685-1f04ef329a7f.jpg" alt="Mixcloud"></a></div>
 <br>
 **CodePen**<br> `http://codepen.io/cacheflowe/pen/domZpQ`
 
