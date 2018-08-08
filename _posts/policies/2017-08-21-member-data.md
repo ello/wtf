@@ -13,6 +13,9 @@ header_credit_image: ivatori-avatar.png
 # place header/avatar images in: _assets/images/page-headers/posts
 redirect_from:
   - /about/data-info/
+  - /about/pbc
+  - /post/pbc
+  - /resources/pbc
 ---
 Ello is a mission-driven [Public Benefit Corporation](http://benefitcorp.net/), with a legal obligation to never display paid advertising, sell member data to third parties, or sell our company to anyone that would violate the terms of our [Public Benefit Corporation Charter](/wtf/resources/pbc).
 
