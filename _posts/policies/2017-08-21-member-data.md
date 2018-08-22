@@ -2,7 +2,7 @@
 layout: post
 title:  "Member Data"
 title_alternate:  "Member Data"
-date:   2018-08-22 014:00:00 EDT
+date:   2018-08-22 14:00:00 EDT
 categories: policies
 position: 6
 # page header ----------

@@ -2,7 +2,7 @@
 layout: post
 title:  "Giveaway Rules"
 title_alternate:  "Giveaway"
-date:   2017-08-21 05:00:00 EDT
+date:   2018-08-22 14:00:00 EDT
 categories: policies
 position: 8
 show_in_nav: false

@@ -2,7 +2,7 @@
 layout: post
 title:  "Artist Invite Rules"
 title_alternate:  "Artist Invite"
-date:   2017-08-28 11:00:00 EDT
+date:   2018-08-22 14:00:00 EDT
 categories: policies
 position: 7
 show_in_nav: false
