@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Community &<br/>Product Updates<br/>"
+title:  "Community & Product Updates"
 title_alternate:  "Community & Product Updates"
 date:   2017-5-31 01:23:45 MDT
 categories: resources
@@ -15,6 +15,15 @@ redirect_from:
   - /resources/ello-announcements/
   - /post/featurelist
 ---
+
+August 23, 2018
+[Artist Invite last call for submissions, Interviews](https://ello.co/lucian/post/bfrls0seadz4sgxzt7spfq)
+
+August 15, 2018
+[Artist Invite Selected Artists, Giveaways](https://ello.co/lucian/post/s-8zf8m1fwjh6ltyicrbgq)
+
+August 9, 2018
+[Interviews, Artist Invites, Giveaways](https://ello.co/lucian/post/6s51ba_obfidonr20iqqqa)
 
 August 1, 2018
 [Fresh new interviews, Artist Invites, Giveaways](https://ello.co/lucian/post/vex_wtzqbt8hwfxd7hm3rw)
