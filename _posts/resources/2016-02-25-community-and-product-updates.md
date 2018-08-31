@@ -16,6 +16,9 @@ redirect_from:
   - /post/featurelist
 ---
 
+August 30, 2018
+[Artist Invites, Giveaways](https://ello.co/elloblog/post/78w6ryn3kaqcekwkezl-ma)
+
 August 23, 2018
 [Artist Invite last call for submissions, Interviews](https://ello.co/lucian/post/bfrls0seadz4sgxzt7spfq)
 
