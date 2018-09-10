@@ -16,6 +16,9 @@ redirect_from:
   - /post/featurelist
 ---
 
+September 5, 2018
+[Art roundup, Giveaways, Fresh Creative Invites](https://ello.co/elloblog/post/trc17zsi4_ridiwgts7akw)
+
 August 30, 2018
 [Artist Invites, Giveaways](https://ello.co/elloblog/post/78w6ryn3kaqcekwkezl-ma)
 
