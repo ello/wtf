@@ -19,4 +19,4 @@ redirect_from:
 
 At Ello we’re committed to advancing the intersection of art, creative opportunity and new media to inspire what only the internet has made possible. We believe that by **empowering and rewarding today’s creators** with visibility, influence and professional opportunity that we can embolden a generation of talent and transform the way creative work gets done.
 
-Learn more about [Artist Invites](https://ello.co/artist-invites) to **see how we partner with brands, agencies and publishers** to launch creative briefs and harness the power of real-time community collaboration.
+Learn more about [Artist Invites](https://ello.co/invites) to **see how we partner with brands, agencies and publishers** to launch creative briefs and harness the power of real-time community collaboration.
