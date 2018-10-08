@@ -16,6 +16,12 @@ redirect_from:
   - /post/featurelist
 ---
 
+October 3, 2018
+[Artist Invite Selected Artists, Interviews, Fashion Week](https://ello.co/elloblog/post/cgwzqaedijfg0ke5px4lag)
+
+September 27, 2018
+[Artist Invites, Spoon x Ello, Giveaways](https://ello.co/elloblog/post/cy4i6zosz9ito1x7kenrcq)
+
 September 19, 2018
 [Selected Artists, Creative Invites, Giveaways](https://ello.co/elloblog/post/vtqui_hfb3vh3lfcv02q_a)
 
