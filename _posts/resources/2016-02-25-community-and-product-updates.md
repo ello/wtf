@@ -16,6 +16,9 @@ redirect_from:
   - /post/featurelist
 ---
 
+October 10, 2018
+[Interviews, Fresh Artist Invites, Cook's Club](https://ello.co/elloblog/post/eoetqn6_4jldr_wjcj_vtq)
+
 October 3, 2018
 [Artist Invite Selected Artists, Interviews, Fashion Week](https://ello.co/elloblog/post/cgwzqaedijfg0ke5px4lag)
 
