@@ -13,9 +13,9 @@ header_credit_image: ben-staley-avatar.png
 # place header/avatar images in: _assets/images/page-headers/posts
 ---
 
-Ello **connects brands, agencies and publishers with our talented, global community of 625K creatives from 175 countries** by launching brief-driven creative projects using our [Artist Invites](https://ello.co/invites) technology.
+Ello **connects brands, agencies and publishers with our talented, global community of 625K creatives from 175 countries** by launching brief-driven creative projects using our [Invites](https://ello.co/invites) technology.
 
-To learn more about Ello Artist Invites contact us at ArtistInvites@ello.co.
+To learn more about Ello Invites contact us at ArtistInvites@ello.co.
 
 To learn more about Ello Art Giveaways contact us at ArtGiveaways@ello.co.
 
