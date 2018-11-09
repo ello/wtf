@@ -16,6 +16,15 @@ redirect_from:
   - /post/featurelist
 ---
 
+November 8, 2018
+[Interviews, PRIDE, Invites](https://ello.co/elloblog/post/2nokggn_c5nszkq_dl8gta)
+
+October 31, 2018
+[Get to know Andrew Faris, Fresh Invites](https://ello.co/elloblog/post/32enh-51lctgnuk0yz9vsa)
+
+October 24,2018
+[Art roundup, Artist Invites](https://ello.co/elloblog/post/uknidmjhgzshfp77nl0bkg)
+
 October 10, 2018
 [Interviews, Fresh Artist Invites, Cook's Club](https://ello.co/elloblog/post/eoetqn6_4jldr_wjcj_vtq)
 
