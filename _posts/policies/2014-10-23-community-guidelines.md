@@ -50,13 +50,15 @@ Be yourself, or a version of yourself. Please do not pretend to be someone else.
 **Please do not use Ello to intrude on other people’s privacy.**
 
 **Regarding NSFW content;**
-If you regularly post adult-oriented content, otherwise deemed NSFW, please respect those in our community that do not wish to see it by flagging your profile Not Safe for Work (NSFW).
+If you regularly post adult-oriented content, otherwise deemed NSFW, please respect those in our community that do not wish to see it by flagging your profile Not Safe for Work (NSFW) through your account settings.
 
 To designate your profile NSFW, visit our Settings page under the heading, NSFW, “Post Adult Content.”
 
 If you regularly post adult content and do not mark your account NSFW, we may ask you to do so, or we may flag your account NSFW for you. If you abuse our NSFW rules, your account may be suspended or removed.
 
 If you choose not to view adult content, all NSFW posts will be hidden and NSFW member avatars and headers will be pixelated accordingly.
+
+Please do not post any content depicting sexual stimulation or penetration. 
 
 **Please do not be a technological nuisance.**
 Please do not try to circumvent or compromise our security or access non-public areas of the Ello. Please do not use robots or other automated technology to access Ello. Please do not scrape content from Ello. Please do not try to deceive members or the general public. Please do not  intentionally load test our Service to see how much traffic Ello can handle. Please Do not distribute viruses or malware to or through Ello.
