@@ -16,6 +16,15 @@ redirect_from:
   - /post/featurelist
 ---
 
+January 10, 2019
+[Selected Artists, Makers Community Spotlight, Privacy Policy, Invites](https://ello.co/elloblog/post/lkpid4ndhpavrlhadfnqgq)
+
+December 20, 2018
+[Open Invites, 3D Community Spotlight](https://ello.co/elloblog/post/772k2gbkyl7ntd_2orrq_g)
+
+December 12, 2018
+[Fresh Invites, New on Ello](https://ello.co/elloblog/post/6x05bto7rwo9hhyvqj4f3q)
+
 December 5, 2018
 [Selected Artists, Interviews, Design Spotlight, Invites](https://ello.co/elloblog/post/t3sj42-zs4ypyxu3qoau0w)
 
