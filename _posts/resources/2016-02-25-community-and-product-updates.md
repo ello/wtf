@@ -16,6 +16,12 @@ redirect_from:
   - /post/featurelist
 ---
 
+January 24, 2019
+[Artist Invite Selected Artists, Daylighted, Fresh Invites](https://ello.co/elloblog/post/qih2ngc4ncifgwlv6krdsw)
+
+January 16, 2019
+[Zooppa, Fashion Community Spotlight, Fresh Invites](https://ello.co/elloblog/post/2oontsrrf1atbzei5vuspg)
+
 January 10, 2019
 [Selected Artists, Makers Community Spotlight, Privacy Policy, Invites](https://ello.co/elloblog/post/lkpid4ndhpavrlhadfnqgq)
 
