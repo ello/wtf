@@ -16,7 +16,7 @@ redirect_from:
   - /post/featurelist
 ---
 
-March 28
+March 28, 2019
 [Invites Update, Photography Spotlight, Featured](https://ello.co/elloblog/post/q4bbxb7rips-p2c8_ie1ga)
 
 March 21, 2019
