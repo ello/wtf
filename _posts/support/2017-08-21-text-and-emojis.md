@@ -87,11 +87,11 @@ Create a text link by wrapping the linked text in brackets [ ], and then wrappin
 
 For example, type this:
 
-`[Visit Ello Now!](https://www.ello.co)`
+`[Visit Ello Now!](https://ello.co)`
 
 and get this:
 
-[Visit Ello Now!](https://www.ello.co)
+[Visit Ello Now!](https://ello.co)
 
 ## Code Blocks
 
