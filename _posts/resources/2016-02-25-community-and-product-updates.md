@@ -16,6 +16,18 @@ redirect_from:
   - /post/featurelist
 ---
 
+April 24,2019
+[Fabrik's Fresh 19 Selected Artists, Featured](https://ello.co/elloblog/post/xqkxperycw5ot57rharoca)
+
+April 18,2019
+[Getty Images "Second Renaissance" Spotlight, Featured](https://ello.co/elloblog/post/tww-ed_92helncd5ppvkxa)
+
+April 11,2019
+[RELISH Vol. 3 - Seattle Selected Artists, Featured](https://ello.co/elloblog/post/sobctjdt-puayzbwxr3lca)
+
+April 4,2019
+[36 Days of Type 2019, Writing Spotlight, Featured](https://ello.co/elloblog/post/ubgunu139vmerfdbw9wflg)
+
 March 28, 2019
 [Invites Update, Photography Spotlight, Featured](https://ello.co/elloblog/post/q4bbxb7rips-p2c8_ie1ga)
 
