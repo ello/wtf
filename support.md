@@ -14,4 +14,4 @@ redirect_from:
 
 **We’re here to support you.** 
 
-If you want help, are confused, or just want to know more about Ello, take a look around — perhaps what you need is here. If you can’t find what you’re looking for, don’t be afraid to reach out to our team.
+If you want help, are confused, or just want to know more about Ello, take a look around — perhaps what you need is here. Please use the subnav accordingly (FAQ is a great place to start).
