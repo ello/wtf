@@ -16,6 +16,15 @@ redirect_from:
   - /post/featurelist
 ---
 
+May 15, 2019
+[GIFs Community Spotlight, Featured](https://ello.co/elloblog/post/fy3tjc1pnkghw3h7o-38fw)
+
+May 9, 2019
+[Eastpak, PRIDE, Featured](https://ello.co/elloblog/post/386b1kknprubsybipc3fpw)
+
+May 1, 2019
+[Interviews, 36 Days of Type 2019, Featured](https://ello.co/elloblog/post/f76kvialevghtakvt7bedw)
+
 April 24, 2019
 [Fabrik's Fresh 19 Selected Artists, Featured](https://ello.co/elloblog/post/xqkxperycw5ot57rharoca)
 
