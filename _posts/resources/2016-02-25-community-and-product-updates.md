@@ -16,6 +16,45 @@ redirect_from:
   - /post/featurelist
 ---
 
+October 16, 2019
+[Inktober 2019, Featured & More](https://ello.co/elloblog/post/t7trbsz-aufejn2ltlly7a)
+
+October 10, 2019
+[World Mental Health Day, Featured & More](https://ello.co/elloblog/post/l9tiregen3azhy-w75sxyw)
+
+October 2, 2019
+[Inktober 2019, Featured & More](https://ello.co/elloblog/post/he1gcaajv4mpbludtvnzvw)
+
+September 26, 2019
+[Hot on Ello, Featured & More](https://ello.co/elloblog/post/qa32h-tiuzoqnov0qjd5pg)
+
+September 19, 2019
+[Featured in Discover](https://ello.co/elloblog/post/24tcfjjzr-dsjjoeglfzfa)
+
+September 12, 2019
+[Moonlight 2019 Selected Artists](https://ello.co/elloblog/post/-6qjlnwytp979osmznbtya)
+
+September 5, 2019
+[Out with the Old, In with the New](https://ello.co/elloblog/post/jlwt0uxnm1v3pyhxvhsowa)
+
+August 28, 2019
+[Interviews, Featured & More](https://ello.co/elloblog/post/c3uhnfonnw2ogro1n2kzsg)
+
+August 22, 2019
+[Spotlight: Illustration, Moonlight 2019](https://ello.co/elloblog/post/tjhq2uc-z3azkra2cm791g)
+
+August 14, 2019
+[Moonlight 2019, Featured & More](https://ello.co/elloblog/post/-oglgdvf6s1tgduweb5ueg)
+
+August 8, 2019
+[Featured in Discover](https://ello.co/elloblog/post/-ledwhp4ntzmghwqsa6guq)
+
+August 1, 2019
+[Production Paradise, Featured & More](https://ello.co/elloblog/post/89n31mt_b87je_cb0jne7q)
+
+July 25, 2019
+[Let's Get Weird, Featured & More](https://ello.co/elloblog/post/lgzsjqqslpz-r3lmtbinwq)
+
 July 18, 2019
 [Production Paradise, Featured & More](https://ello.co/elloblog/post/schqp9qujf4j0h-far44ig)
 
