@@ -21,7 +21,7 @@ GEM
     extras (0.3.0)
       forwardable-extended (~> 2.5)
     fastimage (2.1.0)
-    ffi (1.9.18)
+    ffi (1.11.1)
     forwardable-extended (2.6.0)
     gemoji (2.1.0)
     github-markdown (0.6.8)
