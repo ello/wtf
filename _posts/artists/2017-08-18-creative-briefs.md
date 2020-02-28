@@ -20,4 +20,4 @@ Participation is simple. Artists submit their work to the Creative Brief they’
 
 To learn more about participating in Ello Creative Briefs contact us at ArtistInvites@ello.co.
 
-Be sure to check out our [Creaitve Brief Rules](/wtf/policies/invite-rules).
+Be sure to check out our [Creative Brief Rules](/wtf/policies/invite-rules).
