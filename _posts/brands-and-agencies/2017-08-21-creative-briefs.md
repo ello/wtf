@@ -12,8 +12,8 @@ header_credit_post: https://ello.co/hxg/post/urb3n5xvuif3oqtwdjljsw
 header_credit_image: hxg-avatar.png
 ---
 
-**Ello’s Invite technology connects the Ello artist community with brands, agencies, publishers and fans through real-time creative briefs.** Working in close collaboration with our clients we launch brief-driven, on-demand creative projects that **activate and engage our global community of 625K artists in 175 countries**.
+**Ello connects brands, agencies and publishers with a global community of 625K creatives from 175 countries by launching brief-driven creative projects using our Creative Brief technology.** Projects are vetted, criteria and project duration are set, awards are determined and projects are launched to the Ello artist community. Submissions are solicited and selected in real-time and top-tier creative work is delivered at scale.
 
-Participation is simple. Artists submit their work to the Creative Briefs they’re interested in [here](https://ello.co/invites). Selected artists are chosen by a vetted, unbiased panel of judges and are awarded for their creative work per the criteria of the Creative Brief.
+At Ello we’re **providing new and more meaningful ways to connect with desired audiences.** We’re empowering brands to act as patrons of creativity and the arts. By bringing creative projects and artistic opportunities to Ello and investing in our community, **deeper, more lasting brand affinity is cultivated.** Reach becomes a byproduct of support.
 
 To learn more about participating in Ello Creative Briefs contact us at ArtistInvites@ello.co.
