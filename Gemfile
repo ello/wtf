@@ -15,7 +15,7 @@ gem 'gemoji'
 gem 'newrelic_rpm'
 
 gem 'rack'
-gem 'puma', '~> 3.7.1'
+gem 'puma', '~> 3.12.3'
 
 group :development, :test do
   gem 'html-proofer'
