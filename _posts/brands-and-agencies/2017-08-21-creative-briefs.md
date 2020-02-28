@@ -16,6 +16,4 @@ header_credit_image: hxg-avatar.png
 
 Participation is simple. Artists submit their work to the Creative Briefs they’re interested in [here](https://ello.co/invites). Selected artists are chosen by a vetted, unbiased panel of judges and are awarded for their creative work per the criteria of the Creative Brief.
 
-To **learn more about our Creative Brief technology and launching a creative brief to the Ello community**, contact us at ArtistInvites@ello.co.
-
-Be sure to check out our [Creative Brief Rules](/wtf/policies/invite-rules).
+To learn more about participating in Ello Creative Briefs contact us at ArtistInvites@ello.co.
