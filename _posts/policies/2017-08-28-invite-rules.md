@@ -21,7 +21,7 @@ header_credit_image: jabbathekid-avatar.png
 
 2. Each and every Creative Brief is hosted by TLNT HOLDINGS S.A., 2-4, Rue du Palais de Justice, L-1841 Luxembourg (“Ello” or “Sponsor”) on behalf of itself or on behalf of its clients (a “Client”) as set forth on the Creative Brief
 
-**Eligibility**
+*Eligibility*
 
 3. Unless otherwise stated on the Creative Brief, the Creative Brief is open to Artists aged at least 18, or the age of majority in their country of residence, if this is not 18 or over. Employees of the Client and Ello, Talenthouse, its subsidiaries, their immediate family members (parents, step-parents, children, step-children, siblings, step-siblings and spouses, regardless of where they live), anyone that shares a residence with the above at least 3 months out of the year or anyone professionally associated with the Creative Brief are excluded from participation.
 
@@ -29,7 +29,7 @@ header_credit_image: jabbathekid-avatar.png
 
 5. No purchase is necessary to enter or be selected as Awardee(s) (“Awardee(s)”) of a Creative Brief. However, internet access and an Ello account are required.
 
-**Timeline**
+*Timeline*
 
 6. Submission Period: The starting and closing dates and times for the Submission Period are specified on the Creative Brief. In the event of unforeseen circumstances outside of our control, Ello reserves the right to extend the Submission Period but will always endeavour to minimize the impact on Artists to avoid undue disappointment.
 
@@ -37,7 +37,7 @@ header_credit_image: jabbathekid-avatar.png
 
 8. Announcement Date: The date following the Selection Period, that the Awardee(s) are announced on the Creative Brief. The Announcement Date is specified on the Creative Brief and may be subject to change.
 
-**Artist Terms**
+*Artist Terms*
 
 9. Where Artist Teams are permitted on a Creative Brief, as specified on the Creative Brief Site, more than one Artist may collaborate in a joint submission, all members of the Artist Team agree that:
 
@@ -51,7 +51,7 @@ d. all individuals in the Artist Team agree to release and hold harmless Ello, t
 
 e. individuals in a Artist Team should consider entering into their own written agreement regarding the individuals’ respective rights and responsibilities to each other in connection with their participation in the Creative Brief.
 
-**How to submit your work**
+*How to submit your work*
 
 10. To submit an original piece of authorship (the “Work”) for a particular Creative Brief, log into your Ello account (or create one for free), then visit the Creative Brief and follow the instructions ensuring that the requirements specified are followed.
 
@@ -87,7 +87,7 @@ b. subject to an acting or modelling contract that would make the submission or 
 
 18. All work submitted to the Creative Brief will be reviewed by the Client. Any work deemed defamatory, malicious, indecent, sexually explicit, libelous, or contains inappropriate will be hidden from the brief. All other work will become visible on the Creative Brief during the submission period.
 
-**Selection Process**
+*Selection Process*
 
 19. Works submitted during a Submission Period will be judged as described below:
 
@@ -95,7 +95,7 @@ a. Judging Criteria: All valid Works will be judged by the Judging Panel based o
 
 b. Selection: Each Work will be evaluated during the Selection Period and scored based on the Judging Criteria. The Artist(s) with the highest score(s) will be deemed Awardee(s) who will receive the incentive described on the Creative Brief (“Incentive” or “Opportunity”). In the event of a tie, the relevant Works will be subject to final vote from the Judging Panel to select the Awardee(s). The odds of being selected as an Awardee depend on the nature, quality and number of eligible submissions received. In the event that an Awardee is disqualified for any reason, Ello and the Released Parties reserve the right to select another Awardee in the same manner.
 
-**Opportunity**
+*Opportunity*
 
 20. Following the Announcement Date, the Awardee(s) will receive the incentive detailed in the Opportunity section of the Creative Brief (“Incentive”; “Opportunity” or “Award”) within 90 days. Incentives are not transferable or exchangeable and cannot be redeemed for any other form of compensation. If for any reason an Incentive is not available, Ello and the Released Parties reserve the right, in their sole discretion, to substitute the Incentive for an alternative of equal or greater value (or cash equivalent). If any portion of an Incentive is unclaimed, unaccepted or unused by the Awardee(s), that portion will be forfeited and will not be substituted.
 
@@ -109,13 +109,13 @@ b. Selection: Each Work will be evaluated during the Selection Period and scored
 
 24. During the Selection Period, Awardee(s) will be notified by mail, phone or email, at Ello’s discretion, using the information provided by Artists when creating an Ello account. The Awardee(s) will be required to respond to complete and return a License Agreement and Rights Release Form (granting the Client certain rights as further specified on the Creative Brief) and a Creative Brief Awardee Agreement (“Awardee Agreement”) by the date specified. If an Awardee does not respond by the specified time or if an Awardee fails to abide by these Official Rules, Ello reserves the right to disqualify the Awardee. Ello reserves the right to modify the notification procedures, the Rights Release Form and the Awardee Agreement in connection with the selection of the Awardee(s).
 
-**Publicity and Use of Personal Information**
+*Publicity and Use of Personal Information*
 
 25. Except where prohibited by applicable law, by accepting an Incentive, all Awardees agree and acknowledge that Ello and the Released Parties and any of their respective agents, designees or licensees may, without any limitation or further compensation, use the Awardee’s name, voice, biographical data, likeness, picture, opinions, entry materials, photograph, Work (in whole or in part), hometown and state, and audio or video recording of the Awardee for promotional purposes related to the Creative Brief in any media, worldwide, without further payment or consideration.
 
 26. By participating in the Creative Brief, you will be sharing your personal information with Ello. This information will be used for administration of the Creative Brief, to respond to you in matters regarding your Work or the Creative Brief, awarding Incentives, and as otherwise set forth in the Privacy Policy, unless we have your consent. Ello and/or any of its Affiliates may transfer data to third parties (e.g. Talenthouse, Promo Veritas) in order to assist Ello in the implementation, administration and management of the Creative Briefs.
 
-**Intellectual Property Rights**
+*Intellectual Property Rights*
 
 27. You must create your Work without using or referencing any works or intellectual property of any other person, except as expressly permitted pursuant to instructions on the Creative Brief. Work submitted may be pre-existing work created by you.  If you violate this provision you will be disqualified from the Creative Brief.
 
@@ -125,7 +125,7 @@ b. Selection: Each Work will be evaluated during the Selection Period and scored
 
 30. Whenever your Work is published by Ello or the Released Parties, all reasonable efforts will be taken to ensure you will be credited. However, failure to provide accurate credit shall be considered an error or oversight and shall not constitute a breach of these rules or an infringement of your copyright.
 
-**Limitation of Liability**
+*Limitation of Liability*
 
 31. To the fullest extent permitted by applicable law, Ello and the Released Parties make no representations or warranties whatsoever, express or implied, regarding the Creative Brief, including without limitation any:
 
@@ -139,7 +139,7 @@ c. warranty against infringement of intellectual property rights of a third part
 
 33. The sole and exclusive maximum liability of the Released Parties for all damages, losses and causes of action related to the Creative Brief shall be one hundred dollars (US$100).
 
-**Release, Indemnification and Disclaimer**
+*Release, Indemnification and Disclaimer*
 
 34. By participating in the Creative Brief, you agree:
 
@@ -151,7 +151,7 @@ c. that the Released Parties assume no responsibility for any injury or damage t
 
 d. that Talenthouse and the Released Parties have neither made nor are in any manner responsible or liable for any warranty, representations or guarantees, express or implied, in fact or in law, relative to any Incentive or any component thereof, including, but not limited to, express warranties provided by the supplier of the Incentive (or any component thereof) or their affiliates.
 
-**Interference**
+*Interference*
 
 35. Ello and the Judging Panel reserve the right to disqualify you if you are found to be (or are suspected to be):
 
@@ -164,13 +164,13 @@ use of multiple email addresses or the use of any robotic or automated devices t
 
 36. If Ello determines, in its sole discretion, that technical difficulties or unforeseen events compromise the integrity or viability of the Creative Brief, Ello reserves the right to void the submissions at issue or terminate the relevant portion of the Creative Brief, including the entire Creative Brief, or modify the Creative Brief, these Official Rules, or award Incentives based upon the criteria set forth in these Official Rules from all eligible submissions received prior to the termination date.
 
-**Payments and Opportunity Fulfilment**
+*Payments and Opportunity Fulfilment*
 
 37. Any cash Incentives that are made available to Awardee(s) for specific Creative Briefs, will be paid directly to you by Ello or Client by PayPal, wire transfer or some other payment method agreed upon by you and Ello after receipt of all required documentation and materials within 90 days following the Announcement Date. You shall be solely responsible for any applicable federal, state, local or other taxes and any fees and costs applicable to such Incentives (e.g., wire transfer fees). Ello reserves the right to withhold the relevant portion of such Incentive to cover the cost of any such fees or costs, including without limitation any applicable wire transfer fees. Applicable taxing authorities may treat cash Incentives as income, and you shall bear all tax obligations.
 
 38. Any non-cash Incentive that is made available to the Awardee(s) for specific Creative Briefs are confirmed, will be fulfilled to you by the Client within 90 days following the Announcement. Ello will share the Awardee(s) email address with the Client to arrange fulfilment directly with the Artist(s).
 
-**General Conditions**
+*General Conditions*
 
 39. Ello’s  and the Released Parties’ failure to enforce any provision of these Official Rules shall not constitute a waiver of that provision. If, for any reason, any Work or other information is confirmed to have been erroneously deleted, lost, or otherwise destroyed or corrupted, your sole remedy is the opportunity to submit another submission to the Creative Brief if such submission is a reasonable possibility.
 
@@ -178,7 +178,7 @@ use of multiple email addresses or the use of any robotic or automated devices t
 
 Ello reserves the right to exercise any of the rights or obligations that Ello may have under this Agreement by subcontracting the exercise or performance of all or any portion of such rights and obligations on Ello’s behalf as permitted under relevant legislation.
 
-**Alternative Dispute Resolution, Governing law and Choice of Forum**
+*Alternative Dispute Resolution, Governing law and Choice of Forum*
 
 41. To the extent permitted by applicable law, you agree that:
 
