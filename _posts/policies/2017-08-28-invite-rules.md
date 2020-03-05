@@ -40,10 +40,15 @@ header_credit_image: jabbathekid-avatar.png
 **Artist Terms**
 
 9. Where Artist Teams are permitted on a Creative Brief, as specified on the Creative Brief Site, more than one Artist may collaborate in a joint submission, all members of the Artist Team agree that:
+
 a. the individual whose Ello account is used to submit the Work for the Creative Brief will be designated the leader of the Artist Team (“Team Leader”);
+
 b. the Team Leader is solely responsible for distributing any proceeds resulting from being selected as an Awardee to the other individuals in the Artist Team;
+
 c. all individuals in the Artist Team must have read, understood and agreed to be bound by these Official Rules;
+
 d. all individuals in the Artist Team agree to release and hold harmless Ello, the Judging Panel, and their respective parent companies, affiliates, subsidiaries, divisions, contractors, subcontractors, partners and any other organizations responsible for fulfilling, administering, advertising or promoting the Creative Brief, and all of their respective past, present and future officers, directors, employees, agents, representatives, successors and assigns (“Released Parties”) from any losses, whether directly, indirectly or consequentially out of any dispute between any of the individuals in a Artist Team; and
+
 e. individuals in a Artist Team should consider entering into their own written agreement regarding the individuals’ respective rights and responsibilities to each other in connection with their participation in the Creative Brief.
 
 **How to submit your work**
@@ -55,16 +60,23 @@ e. individuals in a Artist Team should consider entering into their own written 
 12. To be an eligible submission, your Work must meet the following requirements:
 
 a. Work must be your own original work, solely created by you;
+
 b. Work submitted may have previously been licensed, used, published or distributed, but you must retain the rights to the work, and be able to license the work to the Client as detailed in the Creative Brief. 
+
 c. Work must not have previously won any award;
+
 d. Work must not infringe the copyright, trademark, privacy, publicity or other personal or proprietary rights of any individual or entity, other than any materials, copyright or trademarks provided as part of the Creative Brief;
+
 e. except as provided in the Creative Brief, the Work must not contain, be derived from, or reference any names, products or services of any business, company, entity or any third-party trademarks, logos trade dress or promotion of any brand, product or service; and
+
 f. Work must comply with all applicable law.
 
 13. Any Work that is defamatory, malicious, indecent, sexually explicit, libelous, or contains inappropriate or otherwise objectionable content, may be disqualified at any time at Ello’s sole discretion.
 
 14. You may not be:
+
 a. represented under a contract that would limit or impair Ello or the Released Parties’ ability to use, display or otherwise exploit the Work in any form or media; or
+
 b. subject to an acting or modelling contract that would make the submission or appearance in the Work a violation of any third-party rights.
 
 15. You are solely responsible for obtaining all releases and consent necessary to permit the exhibition, use, license, sale, etc. of the Work by the Released Parties. The Released Parties may request that you provide a copy of a release signed by any individual featured in a Work.
@@ -80,6 +92,7 @@ b. subject to an acting or modelling contract that would make the submission or 
 19. Works submitted during a Submission Period will be judged as described below:
 
 a. Judging Criteria: All valid Works will be judged by the Judging Panel based on the criteria described on the Creative Brief.
+
 b. Selection: Each Work will be evaluated during the Selection Period and scored based on the Judging Criteria. The Artist(s) with the highest score(s) will be deemed Awardee(s) who will receive the incentive described on the Creative Brief (“Incentive” or “Opportunity”). In the event of a tie, the relevant Works will be subject to final vote from the Judging Panel to select the Awardee(s). The odds of being selected as an Awardee depend on the nature, quality and number of eligible submissions received. In the event that an Awardee is disqualified for any reason, Ello and the Released Parties reserve the right to select another Awardee in the same manner.
 
 **Opportunity**
@@ -115,8 +128,11 @@ b. Selection: Each Work will be evaluated during the Selection Period and scored
 **Limitation of Liability**
 
 31. To the fullest extent permitted by applicable law, Ello and the Released Parties make no representations or warranties whatsoever, express or implied, regarding the Creative Brief, including without limitation any:
+
 a. warranty of merchantability;
+
 b. warranty of fitness for a particular purpose; or
+
 c. warranty against infringement of intellectual property rights of a third party.
 
 32. To the fullest extent permitted by applicable law the Released Parties accept no liability to you or any third-party for any loss of use, revenue, profit, data, or for any consequential, incidental, indirect, exemplary, special or punitive damages whether arising out of breach of contract, tort (including negligence) or otherwise, regardless of whether such damage was foreseeable and whether or not such party has been advice of the possibly of such damage, and notwithstanding the failure of any agreed or other remedy of its essential purpose.
@@ -128,8 +144,11 @@ c. warranty against infringement of intellectual property rights of a third part
 34. By participating in the Creative Brief, you agree:
 
 a. to release and hold harmless the Released Parties from and against any and all losses, harm, damages, injury, costs, expenses liability and claims of any kind (including attorneys’ fees), arising out of or relating to your creation or submission of Work, participation in the Creative Brief or any Creative-Brief related activity, acceptance or use or misuse of any Incentive, or the copying, displaying, performing, usage or exploitation of a Work;
+
 b. to indemnify, defend and hold harmless the Released Parties from any third- party claims, or actions of any kind and from any losses arising out of any breach or alleged breach by you in any rules or laws, your participation in the Creative Brief, submission of a Work, or acceptance or use or misuse of any Incentive;
+
 c. that the Released Parties assume no responsibility for any injury or damage to your or to anyone else’s computer, regardless of how caused, relating to or resulting from entering or downloading files, materials or software or any other activity in connection with the Creative Brief;
+
 d. that Talenthouse and the Released Parties have neither made nor are in any manner responsible or liable for any warranty, representations or guarantees, express or implied, in fact or in law, relative to any Incentive or any component thereof, including, but not limited to, express warranties provided by the supplier of the Incentive (or any component thereof) or their affiliates.
 
 **Interference**
@@ -137,8 +156,11 @@ d. that Talenthouse and the Released Parties have neither made nor are in any ma
 35. Ello and the Judging Panel reserve the right to disqualify you if you are found to be (or are suspected to be):
 
 a. tampering with the submission process or the operation of the Creative Brief or any website promoting the Creative Brief;
+
 b. acting in violation of these Official Rules, or otherwise acting in an unprofessional or disruptive manner; or
-c. submitting or attempting to submit to the Creative Brief more submissions than permitted on the Creative Brief through the use of multiple email addresses or the use of any robotic or automated devices to submit submissions.
+
+c. submitting or attempting to submit to the Creative Brief more submissions than permitted on the Creative Brief through the 
+use of multiple email addresses or the use of any robotic or automated devices to submit submissions.
 
 36. If Ello determines, in its sole discretion, that technical difficulties or unforeseen events compromise the integrity or viability of the Creative Brief, Ello reserves the right to void the submissions at issue or terminate the relevant portion of the Creative Brief, including the entire Creative Brief, or modify the Creative Brief, these Official Rules, or award Incentives based upon the criteria set forth in these Official Rules from all eligible submissions received prior to the termination date.
 
@@ -161,6 +183,7 @@ Ello reserves the right to exercise any of the rights or obligations that Ello m
 41. To the extent permitted by applicable law, you agree that:
 
 a. any disputes, claims and causes of action against the Released Parties related to the Creative Brief, or Incentives other than those concerning the administration of the Creative Brief or determination of Awardee(s) will be resolved individually, without resort to any form of class action; and
+
 b. any claims, judgements and awards shall be limited to actual damages, and out-of-pocket costs incurred, including costs associated with entering the Creative Brief, but shall in no event include attorneys’ fees.
 
 42. Except where prohibited, all issues and questions concerning the construction, validity, interpretation and enforceability of these Official Rules, or the rights and obligations of Artist or Ello or Released Parties in connection with the Creative Brief shall be governed by and construed in accordance with English law and shall be subject to the exclusive jurisdiction of the courts of England and Wales.
