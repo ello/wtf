@@ -5,7 +5,7 @@ title_alternate:  "Rules"
 date:   2018-08-22 14:00:00 EDT
 categories: policies
 position: 7
-show_in_nav: false
+show_in_nav: positive
 # page header ----------
 header_image: jabbathekid.jpg
 header_credit: jabbathekid
