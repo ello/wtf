@@ -83,7 +83,7 @@ Analytics are persistent cookies that allow us to recognise, count the number of
 
 Using analytics cookies helps us improve the way our websites work and navigate, ensuring that users are able to find what they are looking for without difficulty. No personally identifiable data is collected about you.
 
-For further information please click here [hyperlink ‘here’ with: https://support.google.com/analytics/answer/6004245].
+For further information please click [here](https://support.google.com/analytics/answer/6004245).
 
 # Device Cookies
 
