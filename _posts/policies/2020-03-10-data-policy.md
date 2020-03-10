@@ -72,11 +72,6 @@ These are the ways we use local storage on our website:
 - User inferface settings, like preferences for viewing a feed in grid or list mode.
 - Caching of data for quick loading of pages
 
-# Performance and tracking cookies
-
-We use performance and tracking cookies to analyse clicks in emails sent to job candidates of relevant job vacancies
-[CampaignProcess.aspx.vb - Persistent Cookie]
-
 # Analytics Cookies
 
 Analytics are persistent cookies that allow us to recognise, count the number of visitors, and provide anonymous data about how our visitors use our websites.
