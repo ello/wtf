@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Cookie Policy"
-title_alternate:  "Cookie Policy"
+title:  "Data Policy"
+title_alternate:  "Data Policy"
 date:   2020-03-10 12:59:59 EST
 categories: policies
-position: 2
+position: 9
 # page header ----------
 header_image: carlosbob.jpg
 header_credit: carlosbob
@@ -103,4 +103,4 @@ By clicking “Accept” on the cookie banner, you agree to the placement of coo
 
 # Contact us
 
-If you have any questions about our cookies or this Cookie Policy please contact us by email to [hello@ello.co](mailto:hello@ello.co).
+If you have any questions about our cookies or this Data Policy please contact us by email to [hello@ello.co](mailto:hello@ello.co).
