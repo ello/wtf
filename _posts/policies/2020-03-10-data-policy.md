@@ -19,7 +19,7 @@ Ello, a company incorporated in the Unites States whose registered office is at 
 
 Our websites uses cookies and local storage (aka [web storage](https://en.wikipedia.org/wiki/Web_storage)) to distinguish users. This helps us to provide you with a good experience when accessing our websites, and also allows us to improve our websites.
 
-We use cookies to analyse how visitors use our websites and to help us provide a better experience for visitors.
+We use cookies to analyze how visitors use our websites and to help us provide a better experience for visitors.
 
 # General Information about cookies and local storage
 
@@ -37,10 +37,10 @@ Local storage is a similar storage system to cookies but differs in many ways.  
 
 We may use cookies and local storage for the following purposes:
 
-- To recognise your device when you visit our websites;
+- To recognize your device when you visit our websites;
 - To log on and register on our websites:
 - To improve our websites’ usability;
-- To analyse the use of our websites;
+- To analyze the use of our websites;
 - To link to email marketing campaigns;
 - To improve the security of our websites; and
 - For the general administration of our websites.
@@ -74,7 +74,7 @@ These are the ways we use local storage on our website:
 
 # Analytics Cookies
 
-Analytics are persistent cookies that allow us to recognise, count the number of visitors, and provide anonymous data about how our visitors use our websites.
+Analytics are persistent cookies that allow us to recognize, count the number of visitors, and provide anonymous data about how our visitors use our websites.
 
 Using analytics cookies helps us improve the way our websites work and navigate, ensuring that users are able to find what they are looking for without difficulty. No personally identifiable data is collected about you.
 
