@@ -74,7 +74,7 @@ These are the ways we use local storage on our website:
 
 # Analytics Cookies
 
-Analytics are persistent cookies that allow us to recognize, count the number of visitors, and provide anonymous data about how our visitors use our websites.
+Analytics Cookies are persistent cookies that allow us to recognize, count the number of visitors, and provide anonymous data about how our visitors use our websites.
 
 Using analytics cookies helps us improve the way our websites work and navigate, ensuring that users are able to find what they are looking for without difficulty. No personally identifiable data is collected about you.
 
