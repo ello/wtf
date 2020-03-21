@@ -13,6 +13,7 @@ header_credit_image: chrismorin-avatar.jpg
 # place header/avatar images in: _assets/images/page-headers/posts
 ---
 Hi, Ello.
+
 First and foremost, thank you for being a part of our community. We wouldn’t be where we are today without you and we want you to know that we value you, your creativity, and your health.
 
 Our goal is to support you all during this unusual and uncertain time because we know it is challenging for you, our community.  We are truly in this together and hope we can be a voice of optimism for you all.
@@ -24,7 +25,8 @@ Our goal is to support you all during this unusual and uncertain time because we
 **[Community-built resources for freelance and working creatives.](https://covid19freelanceartistresource.wordpress.com/)**
 
 **[Creative Capital's financial and legal resources for creatives.](https://creative-capital.org/2020/03/13/list-of-arts-resources-during-the-covid-19-outbreak/)**
---**[The Creative Fund financial assistance for active creators who are experiencing financial hardship due to COVID-19.](https://creatorfund.ck.page/)**
+
+**[The Creative Fund financial assistance for active creators who are experiencing financial hardship due to COVID-19.](https://creatorfund.ck.page/)**
 
 **[Social Distancing Festival.](https://www.socialdistancingfestival.com/)**
 
@@ -39,4 +41,5 @@ Just another gentle reminder - we urge each and every one of you to put your hea
 There are still so many great things waiting for us this year and we can’t wait to share them with you. We are in this together.
 
 Be well,
+
 The Ello Team.
