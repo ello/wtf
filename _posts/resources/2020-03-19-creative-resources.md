@@ -28,7 +28,7 @@ Our goal is to support you all during this unusual and uncertain time because we
 
 **[Social Distancing Festival.](https://www.socialdistancingfestival.com/)**
 
-**[Zooppa's Creative Resources curated page for inspiration, and other resources.(https://blog.zooppa.com/zoopper-creative-resources/)**
+**[Zooppa's Creative Resources curated page for inspiration, and other resources.](https://blog.zooppa.com/zoopper-creative-resources/)**
 
 **[Tips for working from home with kids.](https://www.cnbc.com/2020/03/16/how-to-work-from-home-with-your-kids-during-the-coronavirus-outbreak.html?utm_campaign=Weekly%20Digest&utm_source=hs_email&utm_medium=email&utm_content=84863108&_hsenc=p2ANqtz-8N79GKCN8OOmIpNOR4MoN00K_e1WblEx0sxJJfbtCAOkqVchRjkP7orAiZj957FgysNG0pWhpFvsobJbI8ij9nz1-30Q&_hsmi=84863819)**
 
