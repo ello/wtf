@@ -36,6 +36,13 @@ Our goal is to support you all during this unusual and uncertain time because we
 
 **[GitLab's Guide to Working From Home.](https://about.gitlab.com/company/culture/all-remote/guide/?utm_campaign=Weekly%20Digest&utm_source=hs_email&utm_medium=email&utm_content=84863108&_hsenc=p2ANqtz-8N79GKCN8OOmIpNOR4MoN00K_e1WblEx0sxJJfbtCAOkqVchRjkP7orAiZj957FgysNG0pWhpFvsobJbI8ij9nz1-30Q&_hsmi=84863819)**
 
+**[COVID-19 Crisis Resources for Creatives: A Giant List of Helpful Links for Artists.](https://www.booooooom.com/2020/03/20/covid-19-resources-for-artists/)**
+
+**[We’re Just Getting Started: Threadless Community Action Plan - Creative Resources.](https://creativeresources.threadless.com/threadless-community-action-plan/)**
+
+**[Focus on What's Good: Free Printable Coloring Activity for Kids by Design by Cheyney.](https://designbycheyney.com/blog/focus-on-whats-good-free-printable-i-spy-colouring-activity)**
+
+
 Just another gentle reminder - we urge each and every one of you to put your health and wellness, safety and the safety of others first. We are dedicated to you and will do our best to support our community.
 
 There are still so many great things waiting for us this year and we can’t wait to share them with you. We are in this together.
