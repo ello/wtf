@@ -1,5 +1,6 @@
 _site/
 .asset-cache/
 .bundle/
+.jekyll-cache/
 .sass-cache/
 log/
