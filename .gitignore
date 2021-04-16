@@ -1,5 +1,5 @@
 _site/
+.asset-cache/
+.bundle/
 .sass-cache/
 log/
-.bundle/
-.asset-cache/
