@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Data Policy"
-title_alternate:  "Data Policy"
-date:   2020-03-10 12:59:59 EST
+title: "Data Policy"
+title_alternate: "Data Policy"
+date: 2020-03-10 12:59:59 EST
 categories: policies
 position: 9
 # page header ----------
@@ -15,6 +15,7 @@ header_credit_image: carlosbob-avatar.png
 #   - /policies/terms-of-use/
 #   - /post/terms-of-use
 ---
+
 Ello, a company incorporated in the Unites States whose registered office is at 150 E. 69th St., Ste. 5F, New York, NY 10021 (“we/us/our”). We use cookies and this page explains their use.
 
 Our websites uses cookies and local storage (aka [web storage](https://en.wikipedia.org/wiki/Web_storage)) to distinguish users. This helps us to provide you with a good experience when accessing our websites, and also allows us to improve our websites.
@@ -31,7 +32,7 @@ Cookies can be used by web servers to distinguish and track users as they naviga
 
 Cookies can be either session cookies or persistent cookies. A session cookie will expire at the end of the user session, effectively when the web browser is closed. A persistent cookie will be stored by the browser and will remain valid until a set expiry date (unless deleted by the user before the expiry date).
 
-Local storage is a similar storage system to cookies but differs in many ways.  It is also used to store session and persistent data, but the data is not sent to the server by default, and it cannot be retrieved using basic HTTP methods, and so has some security advantages over cookies.
+Local storage is a similar storage system to cookies but differs in many ways. It is also used to store session and persistent data, but the data is not sent to the server by default, and it cannot be retrieved using basic HTTP methods, and so has some security advantages over cookies.
 
 # How we use cookies and local storage
 
@@ -59,12 +60,12 @@ Most data we use are persistent data to give you a better experience and service
 
 For your information these are the cookies active on our website:
 
-- `_cfduid` (and other cookies prefixed `_cfd`) are cookies created and used by our security and traffic throttling provider, Cloudflare.  They are technical cookies and do not contain user data.
-- `__qca` is created and used by Quantcast to help us analyze our user behavior.  It only contains a unique identifier and it is used to record a user's actions as they browse our site.
-- `_fbp` is a cookie created by Facebook to help us analyze our user behavior.  It only contains a unique identifier and it is used to record a user's actions as they browse our site.
-- `_ga`, `_gat`, `_gid` are cookies created by Google to help us analyze our user behavior.  They are unique identifiers used to record a user's actions as they browse our site.
-- `ajs_anonymous_id`, `ajs_group_id`, and `ajs_user_id`are cookies created by Segment to help us analyze our user behavior.  They are unique identifiers used to record a user's actions as they browse our site.
-- `mp_` prexifed cookies are created by MixPanel to help us analyze our user behavior.  It only contains a unique identifier and it is used to record a user's actions as they browse our site.
+- `_cfduid` (and other cookies prefixed `_cfd`) are cookies created and used by our security and traffic throttling provider, Cloudflare. They are technical cookies and do not contain user data.
+- `__qca` is created and used by Quantcast to help us analyze our user behavior. It only contains a unique identifier and it is used to record a user's actions as they browse our site.
+- `_fbp` is a cookie created by Facebook to help us analyze our user behavior. It only contains a unique identifier and it is used to record a user's actions as they browse our site.
+- `_ga`, `_gat`, `_gid` are cookies created by Google to help us analyze our user behavior. They are unique identifiers used to record a user's actions as they browse our site.
+- `ajs_anonymous_id`, `ajs_group_id`, and `ajs_user_id`are cookies created by Segment to help us analyze our user behavior. They are unique identifiers used to record a user's actions as they browse our site.
+- `mp_` prexifed cookies are created by MixPanel to help us analyze our user behavior. It only contains a unique identifier and it is used to record a user's actions as they browse our site.
 
 These are the ways we use local storage on our website:
 
@@ -94,7 +95,7 @@ More information can be found [here](http://docs.businesscatalyst.com/reference/
 
 # Your Consent
 
-By clicking “Accept” on the cookie banner, you agree to the placement of cookies on your device, unless you actively block them. If you choose not to receive our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be or access all the website.  Once your consent has been provided, this message will not appear again when you revisit.  If you, or another user of your computer, wish to withdraw your consent at any time, you can do so by altering your browser settings.
+By clicking “Accept” on the cookie banner, you agree to the placement of cookies on your device, unless you actively block them. If you choose not to receive our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be or access all the website. Once your consent has been provided, this message will not appear again when you revisit. If you, or another user of your computer, wish to withdraw your consent at any time, you can do so by altering your browser settings.
 
 # Contact us
 

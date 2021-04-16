@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Artist Collective"
-title_alternate:  "Artist Collective"
-date:   2017-08-21 9:30:00 EST
+title: "Artist Collective"
+title_alternate: "Artist Collective"
+date: 2017-08-21 9:30:00 EST
 categories: artists
 position: 3
 # page header ----------
@@ -17,4 +17,3 @@ The Ello Artists Collective (EAC) is an **invite-only, curated selection of Ello
 Members of the EAC are invited to participate in **bespoke brand, agency and publisher-powered projects** that meet their passions and skillsets and provide financial compensation for their contributions.
 
 To inquire about becoming an EAC member contact us at EAC@ello.co.
-

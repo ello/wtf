@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Partnerships"
-title_alternate:  "Partnerships"
-date:   2017-08-21 12:15:00 EDT
+title: "Partnerships"
+title_alternate: "Partnerships"
+date: 2017-08-21 12:15:00 EDT
 categories: brands-and-agencies
 position: 4
 # page header ----------

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Browsers & Devices"
-title_alternate:  "Browsers & Devices"
-date:   2017-08-21 3:30:00 EDT
+title: "Browsers & Devices"
+title_alternate: "Browsers & Devices"
+date: 2017-08-21 3:30:00 EDT
 categories: support
 position: 10
 # page header ----------

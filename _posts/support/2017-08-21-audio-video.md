@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Audio & Video"
-title_alternate:  "Audio & Video"
-date:   2017-08-21 3:30:00 EDT
+title: "Audio & Video"
+title_alternate: "Audio & Video"
+date: 2017-08-21 3:30:00 EDT
 categories: support
 position: 5
 # page header ----------
@@ -21,15 +21,15 @@ Ello supports a number of embedded audio and video services.
 
 You can embed audio and video files directly in your posts from the following services:
 
-* Youtube
-* Vimeo
-* DailyMotion
-* Soundcloud
-* Mixcloud
-* Ustream
-* Bandcamp*
+- Youtube
+- Vimeo
+- DailyMotion
+- Soundcloud
+- Mixcloud
+- Ustream
+- Bandcamp\*
 
-<strong>*</strong> Bandcamp embeds require the original url containing "bandcamp.com". You can find the original url by opening the page source and copying the url from the page’s meta data.
+<strong>\*</strong> Bandcamp embeds require the original url containing "bandcamp.com". You can find the original url by opening the page source and copying the url from the page’s meta data.
 
 ## How do I add an audio or video file to my post?
 
@@ -63,4 +63,3 @@ Paste a link to the audio or video file that you wish to add to your post direct
 **CodePen**<br> `https://codepen.io/cacheflowe/pen/YPoBmK`
 
 <div class="embetter" data-codepen-id="cacheflowe/pen/domZpQ"><a href="https://codepen.io/cacheflowe/pen/YPoBmK" target="_blank"><img src="https://codepen.io/cacheflowe/pen/YPoBmK/image/large.png" alt="Codepen"></a></div>
-

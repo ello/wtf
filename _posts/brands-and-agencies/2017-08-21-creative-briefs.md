@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Creative Briefs"
-title_alternate:  "Creative Briefs"
-date:   2017-08-21 12:15:00 EDT
+title: "Creative Briefs"
+title_alternate: "Creative Briefs"
+date: 2017-08-21 12:15:00 EDT
 categories: brands-and-agencies
 position: 1
 # page header ----------

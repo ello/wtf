@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Featured Members"
-title_alternate:  "Featured Members"
-date:   2017-08-21 3:30:00 EDT
+title: "Featured Members"
+title_alternate: "Featured Members"
+date: 2017-08-21 3:30:00 EDT
 categories: support
 position: 8
 # page header ----------

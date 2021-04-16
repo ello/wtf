@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Member Data"
-title_alternate:  "Member Data"
-date:   2018-08-22 14:00:00 EDT
+title: "Member Data"
+title_alternate: "Member Data"
+date: 2018-08-22 14:00:00 EDT
 categories: policies
 position: 6
 # page header ----------
@@ -16,6 +16,7 @@ redirect_from:
   - /about/pbc
   - /post/pbc
 ---
+
 Ello is a mission-driven organization, with a commitment to never display paid advertising, sell member data to third parties. We believe that data transparency is the best approach to managing privacy and that the more we know about our personal data and its’ usage, the better and more informed the choices we can make.
 
 The only member data Ello collects is the data you share with us on your Settings page and in your posts i.e., Name, Email Address, Location, Creator Type, etc.. All other product usage data is anonymized. Anonymized product usage data is used to assess and improve product quality and performance. If you wish to opt-out of anonymized data collection you may do so on your Settings page. Similarly, you can download all of your member data from your Setting page at any time.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Selling Art"
-title_alternate:  "Selling Art"
-date:   2017-08-21 3:30:00 EDT
+title: "Selling Art"
+title_alternate: "Selling Art"
+date: 2017-08-21 3:30:00 EDT
 categories: support
 position: 6
 # page header ----------
@@ -17,10 +17,11 @@ redirect_from:
   - /help/buy-button/
 ---
 
-We’ve made it simple to sell your artwork and other products on Ello using our **Buy Button**. 
+We’ve made it simple to sell your artwork and other products on Ello using our **Buy Button**.
 
 **Here’s how it works:**
-* Upload an image of your product
-* Select the $ icon
-* Add a link to the product page in your store
-* Publish your post
+
+- Upload an image of your product
+- Select the $ icon
+- Add a link to the product page in your store
+- Publish your post

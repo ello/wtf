@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Collab & Hire"
-title_alternate:  "Collab & Hire"
-date:   2017-08-21 3:30:00 EDT
+title: "Collab & Hire"
+title_alternate: "Collab & Hire"
+date: 2017-08-21 3:30:00 EDT
 categories: support
 position: 7
 # page header ----------
@@ -20,8 +20,8 @@ Ello’s **Hire Me Button** tells potential clients you’re available for work 
 
 **To enable our Hire Me & Collaborate Buttons:**
 
-* Visit <a href="https://ello.co/settings">Settings</a> and scroll down to “Hire Me Button” or “Collaborate Button“
-* Toggle the “Hire Me Button” or “Collaborate Button“ setting from “no” to “yes”
-* Check out the “Hire Me” or “Collaborate“ button on your profile
-* Use the button to send an email to the Ello member you’d like to hire or collab with
-* Respond to a request if you’re into the opportunity and carry on the conversation privately
+- Visit <a href="https://ello.co/settings">Settings</a> and scroll down to “Hire Me Button” or “Collaborate Button“
+- Toggle the “Hire Me Button” or “Collaborate Button“ setting from “no” to “yes”
+- Check out the “Hire Me” or “Collaborate“ button on your profile
+- Use the button to send an email to the Ello member you’d like to hire or collab with
+- Respond to a request if you’re into the opportunity and carry on the conversation privately

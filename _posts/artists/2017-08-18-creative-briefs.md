@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Creative Briefs"
-title_alternate:  "Creative Briefs"
-date:   2017-08-18 5:00:00 EST
+title: "Creative Briefs"
+title_alternate: "Creative Briefs"
+date: 2017-08-18 5:00:00 EST
 categories: artists
 position: 1
 # page header ----------

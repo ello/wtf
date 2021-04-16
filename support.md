@@ -12,6 +12,6 @@ redirect_from:
   - /help/
 ---
 
-**We’re here to support you.** 
+**We’re here to support you.**
 
 If you want help, are confused, or just want to know more about Ello, take a look around — perhaps what you need is here. Please use the subnav accordingly (FAQ is a great place to start).

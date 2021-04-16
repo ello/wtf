@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Community & Product Updates"
-title_alternate:  "Community & Product Updates"
-date:   2017-5-31 01:23:45 MDT
+title: "Community & Product Updates"
+title_alternate: "Community & Product Updates"
+date: 2017-5-31 01:23:45 MDT
 categories: resources
 position: 4
 # page header ----------
@@ -266,9 +266,9 @@ February 14, 2018
 [Lightbox Slideshow, Artist Invite selected artists, Giveaways](https://ello.co/lucian/post/o0vin6kznfp7rjdhdbv1rw)
 
 February 7, 2018
-[Fresh Artist Invites, Organic Meets Digital, iOS Lightbox](https://ello.co/lucian/post/cknlhc148u7broze1lbvvw) 
+[Fresh Artist Invites, Organic Meets Digital, iOS Lightbox](https://ello.co/lucian/post/cknlhc148u7broze1lbvvw)
 
-January 31, 2018 
+January 31, 2018
 [Underscore Vol. 1, Interviews, Giveaways](https://ello.co/lucian/post/6izlacjusq-0hb7yjl0zig)
 
 January 23, 2018
@@ -455,7 +455,7 @@ July 12, 2016
 [Communities added to Categories](https://ello.co/lucian/post/p5t5s1_ungufbrc2ejuplq)
 
 July 8, 2016
-[New Discover experience on Ello](https://ello.co/lucian/post/d4cvje3u33dxbiudd3ja3g) 
+[New Discover experience on Ello](https://ello.co/lucian/post/d4cvje3u33dxbiudd3ja3g)
 
 July 7, 2016
 [Ello beta Android app now available to the public!](https://ello.co/lucian/post/wucpudolfsnjzst0sdyvbq)
