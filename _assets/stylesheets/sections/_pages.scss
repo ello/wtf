@@ -1,4 +1,4 @@
-// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ non-article pages
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ non-article pages
 
 body {
   &.index {
@@ -9,6 +9,7 @@ body {
           padding: 0;
           font-family: $groteskBlack;
           @include type-big;
+
           li {
             a {
               position: relative;

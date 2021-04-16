@@ -1,17 +1,22 @@
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ categories
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ categories
 
 body {
   &.category {
     #main_content {
       article {
-        width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
+        width: percentage(
+          (($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth
+        );
         @include standard-copy-formatting;
         float: left;
 
-        @media only screen and (max-width : 1024px) {
-          width: percentage((($largeColumn * 3.5) + ($smallColumn * 3)) / $layoutWidth);
+        @media only screen and (max-width: 1024px) {
+          width: percentage(
+            (($largeColumn * 3.5) + ($smallColumn * 3)) / $layoutWidth
+          );
         }
-        @media only screen and (max-width : 640px) {
+
+        @media only screen and (max-width: 640px) {
           width: 100%;
           float: none;
           clear: both;
