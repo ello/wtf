@@ -1,4 +1,4 @@
-# Site settings +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Site settings ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## title & header
 title: Ello | wtf
@@ -7,14 +7,15 @@ subtitle: Help and other resources for Ello # only appears in the <title> tag of
 ## meta tag content (also affects facebook og: tags)
 # meta description is overridden by the post excerpt on post pages
 meta_description: > # this means to ignore newlines until "meta_keywords:"
-  Ello is an ad-free social network leading a revolution in how people connect, 
-  where you can be whoever you want to be, and where quality, beauty, and positivity 
+  Ello is an ad-free social network leading a revolution in how people connect,
+  where you can be whoever you want to be, and where quality, beauty, and positivity
   are valued above quantity and statistics.
+
 # meta keywords: separate each keyword/phrase with a comma, new lines are ok
 meta_keywords: > # this means to ignore newlines until "baseurl:"
-  Ello, Ello.co, Social Network, Ad-free, No ads, no advertising, message service, data mining, 
-  free, instant message, message, messaging, private messaging, text messaging, text post, image post, 
-  sound file, video, words, friends, noise, friends and noise, Youtube, Vimeo, Facebook, Tumblr, 
+  Ello, Ello.co, Social Network, Ad-free, No ads, no advertising, message service, data mining,
+  free, instant message, message, messaging, private messaging, text messaging, text post, image post,
+  sound file, video, words, friends, noise, friends and noise, Youtube, Vimeo, Facebook, Tumblr,
   Twitter, Instagram, App.net, Pinterest, Path
 
 ## facebook og tags
@@ -37,10 +38,10 @@ medium_username: ellohype
 timezone: Mountain Time
 future: false # false: only post future-dated articles once we've reached the proper time
 
-## DO NOT CHANGE THINGS BELOW THIS LINE ---------------------------------------------------------------------
+## DO NOT CHANGE THINGS BELOW THIS LINE ----------------------------------------
 
-# Build settings ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#### you can pretty much ignore everything in this section ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+# Build settings +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#### you can pretty much ignore everything in this section ^^^^^^^^^^^^^^^^^^^^^
 
 ## basic settings
 baseurl: "/wtf" # the subpath of your site, e.g. /blog/
