@@ -5,7 +5,7 @@ root.ElloWTFSearch =
   init: () ->
     # don't do anything else before the posts are loaded and the index is created
     ElloWTFSearch.initSearch()
-  
+
   initSearch: ->
     $.getJSON('/wtf/json/posts.json').done (data) ->
       ElloWTFSearch.posts = data
@@ -62,7 +62,7 @@ root.ElloWTFSearch =
       # console.log $result
 
       # add the result to the page
-      $('#search_content .results').append($result)    
+      $('#search_content .results').append($result)
 
   clearResults: ->
     $results_box = $('#search_content .results')
@@ -71,7 +71,7 @@ root.ElloWTFSearch =
     $("#search_content h1.main").hide()
     $("#search_content h1.alt").show()
     ElloWTFSearch.resetSearchUrl()
-  
+
   updateSearchUrl: (search_term) ->
     if (history.pushState) && $('.search_content').is(":visible")
       if search_term.length > 0
@@ -102,6 +102,6 @@ root.ElloWTFSearch =
     $('html, body').animate { scrollTop: 0 }, 0
 
     ElloWTFSearch.updateSearchUrl(search_term)
-  
+
 $(document).ready ->
   ElloWTFSearch.init()

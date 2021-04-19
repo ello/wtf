@@ -1,4 +1,4 @@
-// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ typography defaults
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ typography defaults
 
 @font-face {
   font-family: "AtlasGroteskRegular";
@@ -6,40 +6,60 @@
   font-style: normal;
   font-stretch: normal;
   src: url("//fonts.ello.co/AtlasGrotesk-Regular-Web.eot");
-  src: url("//fonts.ello.co/AtlasGrotesk-Regular-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasGrotesk-Regular-Web.woff") format("woff"), url("//fonts.ello.co/AtlasGrotesk-Regular-Web.ttf") format("truetype"), url("//fonts.ello.co/AtlasGrotesk-Regular-Web.svg#AtlasGroteskRegular") format("svg");
+  src: url("//fonts.ello.co/AtlasGrotesk-Regular-Web.eot?#iefix")
+      format("embedded-opentype"),
+    url("//fonts.ello.co/AtlasGrotesk-Regular-Web.woff") format("woff"),
+    url("//fonts.ello.co/AtlasGrotesk-Regular-Web.ttf") format("truetype"),
+    url("//fonts.ello.co/AtlasGrotesk-Regular-Web.svg#AtlasGroteskRegular")
+      format("svg");
 }
+
 @font-face {
   font-family: "AtlasGroteskBold";
   font-weight: 700;
   font-style: normal;
   font-stretch: normal;
   src: url("//fonts.ello.co/AtlasGrotesk-Bold-Web.eot");
-  src: url("//fonts.ello.co/AtlasGrotesk-Bold-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasGrotesk-Bold-Web.woff") format("woff"), url("//fonts.ello.co/AtlasGrotesk-Bold-Web.ttf") format("truetype"), url("//fonts.ello.co/AtlasGrotesk-Bold-Web.svg#AtlasGroteskBold") format("svg");
+  src: url("//fonts.ello.co/AtlasGrotesk-Bold-Web.eot?#iefix")
+      format("embedded-opentype"),
+    url("//fonts.ello.co/AtlasGrotesk-Bold-Web.woff") format("woff"),
+    url("//fonts.ello.co/AtlasGrotesk-Bold-Web.ttf") format("truetype"),
+    url("//fonts.ello.co/AtlasGrotesk-Bold-Web.svg#AtlasGroteskBold")
+      format("svg");
 }
+
 @font-face {
   font-family: "AtlasGroteskBlack";
   font-weight: 900;
   font-style: normal;
   font-stretch: normal;
   src: url("//fonts.ello.co/AtlasGrotesk-Black-Web.eot");
-  src: url("//fonts.ello.co/AtlasGrotesk-Black-Web.eot?#iefix") format("embedded-opentype"), url("//fonts.ello.co/AtlasGrotesk-Black-Web.woff") format("woff"), url("//fonts.ello.co/AtlasGrotesk-Black-Web.ttf") format("truetype"), url("//fonts.ello.co/AtlasGrotesk-Black-Web.svg#AtlasGroteskBlack") format("svg");
+  src: url("//fonts.ello.co/AtlasGrotesk-Black-Web.eot?#iefix")
+      format("embedded-opentype"),
+    url("//fonts.ello.co/AtlasGrotesk-Black-Web.woff") format("woff"),
+    url("//fonts.ello.co/AtlasGrotesk-Black-Web.ttf") format("truetype"),
+    url("//fonts.ello.co/AtlasGrotesk-Black-Web.svg#AtlasGroteskBlack")
+      format("svg");
 }
 
-$groteskRegular: "AtlasGroteskRegular", "AtlasGrotesk-Regular", "Helvetica Neue", "HelveticaNeue", "Helvetica", sans-serif;      // weight 400
-$groteskBold:    "AtlasGroteskBold", "AtlasGrotesk-Bold", "Helvetica Neue", "HelveticaNeue", "Helvetica", "Arial", sans-serif;   // weight 700
-$groteskBlack:   "AtlasGroteskBlack", "AtlasGrotesk-Black", "Helvetica Neue", "HelveticaNeue", "Helvetica", "Arial", sans-serif; // weight 900
+$groteskRegular: "AtlasGroteskRegular", "AtlasGrotesk-Regular", "Helvetica Neue",
+  "HelveticaNeue", "Helvetica", sans-serif; // weight 400
+$groteskBold: "AtlasGroteskBold", "AtlasGrotesk-Bold", "Helvetica Neue",
+  "HelveticaNeue", "Helvetica", "Arial", sans-serif; // weight 700
+$groteskBlack: "AtlasGroteskBlack", "AtlasGrotesk-Black", "Helvetica Neue",
+  "HelveticaNeue", "Helvetica", "Arial", sans-serif; // weight 900
 
-/* Typography Bible -------------------
+/* Typography Bible ------------------------------------------------------------
 
 * Atlas Grotesk Regular (400)
 * Atlas Grotesk Bold (700)
 * Atlas Grotesk Black (900)
 
-handle italics with font-style: italic (no italics available for Black)
+Handle italics with font-style: italic (no italics available for Black)
 
-------------------- */
+----------------------------------------------------------------------------- */
 
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ site-wide defaults
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ site-wide defaults
 
 @mixin type-small($line: true) {
   font-size: 0.875rem;
@@ -58,7 +78,7 @@ handle italics with font-style: italic (no italics available for Black)
     line-height: 1.45rem;
   }
 
-  @media only screen and (max-width : 768px) {
+  @media only screen and (max-width: 768px) {
     font-size: 1.15rem;
     @if $line {
       line-height: 1.55rem;
@@ -76,7 +96,7 @@ handle italics with font-style: italic (no italics available for Black)
     line-height: 9rem;
   }
 
-  @media only screen and (max-width : 1200px) {
+  @media only screen and (max-width: 1200px) {
     font-size: 12vw;
     @if $line {
       line-height: 14.7vw;
@@ -84,7 +104,8 @@ handle italics with font-style: italic (no italics available for Black)
       line-height: 12vw;
     }
   }
-  @media only screen and (max-width : 640px) {
+
+  @media only screen and (max-width: 640px) {
     font-size: 16vw;
     @if $line {
       line-height: 20vw;
@@ -95,7 +116,7 @@ handle italics with font-style: italic (no italics available for Black)
 }
 
 @mixin standard-copy-formatting {
-  a {          
+  a {
     border-bottom: 1.5pt solid;
 
     &:hover {
@@ -112,7 +133,12 @@ handle italics with font-style: italic (no italics available for Black)
     }
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     font-family: $groteskBold;
     font-weight: 700;
   }
@@ -120,6 +146,7 @@ handle italics with font-style: italic (no italics available for Black)
   ul {
     list-style-type: disc;
   }
+
   ol {
     list-style-type: decimal;
   }
@@ -144,13 +171,13 @@ body {
   color: $white;
   background: $black; // Webkit
   text-shadow: none;
-  }
+}
+
 ::-moz-selection {
   color: $white;
   background: $black; // Firefox
   text-shadow: none;
 }
-
 
 a {
   color: inherit;
@@ -163,11 +190,19 @@ a {
   }
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   @include type-medium;
 }
 
-p, ol, ul, dl {
+p,
+ol,
+ul,
+dl {
   margin: 1.75rem 0;
   @include type-medium;
   a {
@@ -176,31 +211,43 @@ p, ol, ul, dl {
     }
   }
 }
+
 p:empty {
   display: none;
 }
 
-ol, ul {
+ol,
+ul {
   padding: 0;
   margin-left: 1.2em;
 }
 
-nav ul, nav ol {
+nav ul,
+nav ol {
   margin-left: 0;
   list-style: none;
 }
 
-em, i {
+em,
+i {
   font-style: italic;
 }
 
-strong, b {
+strong,
+b {
   font-family: $groteskBold;
   font-style: normal;
   font-weight: 700;
 }
 
-strong em, em strong, b i, i b, b em, em b, strong i, i strong {
+strong em,
+em strong,
+b i,
+i b,
+b em,
+em b,
+strong i,
+i strong {
   font-family: $groteskBold;
   font-style: italic;
   font-weight: 700;
@@ -209,28 +256,37 @@ strong em, em strong, b i, i b, b em, em b, strong i, i strong {
 small {
   font-size: 0.875em;
 }
-sub, sup {
+
+sub,
+sup {
   position: relative;
   vertical-align: baseline;
   font-size: 0.75em;
   line-height: 0;
 }
+
 sup {
   top: -0.5em;
 }
+
 sub {
   bottom: -0.25em;
 }
 
-code, pre, blockquote {
+code,
+pre,
+blockquote {
   font-family: inherit;
   background-color: #f1f1f1;
   @include type-medium;
 }
-code, blockquote {
+
+code,
+blockquote {
   display: inline-block;
   padding: 0.3rem 0.625rem 0.175rem 0.625rem;
 }
+
 pre {
   margin: 0.9375rem 0;
   padding: 0.9375rem;
@@ -238,10 +294,12 @@ pre {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+
 pre code {
   padding: 0;
   background-color: transparent;
 }
+
 blockquote {
   padding-top: 0;
   padding-bottom: 0;
@@ -253,4 +311,3 @@ blockquote {
   white-space: nowrap;
   overflow: hidden;
 }
-

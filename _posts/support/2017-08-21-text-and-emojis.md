@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Text & Emoji"
-title_alternate:  "Text & Emoji"
-date:   2017-08-21 3:30:00 EDT
+title: "Text & Emoji"
+title_alternate: "Text & Emoji"
+date: 2017-08-21 3:30:00 EDT
 categories: support
 position: 3
 # page header ----------
@@ -37,13 +37,13 @@ Below is a guide to Ello Markdown.
 
 ## Making text Bold and Italic
 
-Surround the text you want to format using asterisk (*) symbols.
+Surround the text you want to format using asterisk (\*) symbols.
 
 To create italics, use a single asterisk on either side of a block of text, like this:
 
 `*This text will be italic*`
 
-*This text will be italic.*
+_This text will be italic._
 
 Surrounding text by two asterisks makes text bold:
 
@@ -51,7 +51,7 @@ Surrounding text by two asterisks makes text bold:
 
 **This text will be bold**
 
-Both * or _ symbols work to make text bold or italic. This way you can combine bold and italic as needed in the same sentence. For example:
+Both \* or \_ symbols work to make text bold or italic. This way you can combine bold and italic as needed in the same sentence. For example:
 
 `**Everyone _must_ drink beer at 7 o’clock today.**`
 
@@ -67,11 +67,11 @@ Put a double ~ symbol on either side of the text you want to strikethrough. For 
 
 ## Bulleted Lists
 
-Make a bulleted list by preceding list items with a single asterisk (*). Note that you need a space between the asterisk and the text.
+Make a bulleted list by preceding list items with a single asterisk (\*). Note that you need a space between the asterisk and the text.
 
-* Clean Shaven
-* Bearded
-* Furry
+- Clean Shaven
+- Bearded
+- Furry
 
 ## Numbered Lists
 
@@ -97,7 +97,7 @@ and get this:
 
 Add code blocks by adding ` before and after text.
 
-``Check out this code block.``
+`Check out this code block.`
 
 ## Ello supports emojis!
 

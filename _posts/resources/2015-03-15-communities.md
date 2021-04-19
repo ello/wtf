@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Communities"
-title_alternate:  "Communities"
-date:   2016-03-26 01:23:45 MDT
+title: "Communities"
+title_alternate: "Communities"
+date: 2016-03-26 01:23:45 MDT
 categories: resources
 position: 5
 # page header ----------
@@ -32,17 +32,17 @@ Please note that you will have to use a different email address for each account
 
 Below is a list of best practices to help your Ello community thrive:
 
-* Post regularly to keep your followers engaged and excited
-* Communities perform best when their moderators post at least once every three days, but not more than five times per day (If you publish numerous posts all at once, every day your members may become overwhelmed and stop following you.)
-* We recommend no more than a few posts per hour
-* Do not mass-follow people or mention unrelated members in your posts as a way to gain follow-backs (This can appear spammy and usually backfires.)
-* Expect to receive submissions from the people who are following your community — It’s cool when this happens.
-* Do your best to repost high-quality submissions and remember, It is perfectly OK not to repost everything members submit to you (Simply leave a comment or Love their submission as a way to thank them for sending something).
-* Use large, high-quality images whenever possible (Images that are 1000 pixels wide or larger tend look best on Ello.)
-* Add personality to your posts. Keep your community lively by adding comments when you repost someone else’s post
-* Format your posts using bold, italics, and hyperlinks in your text
-* Keep longer text blocks short and readable by breaking them up with regular line breaks
-* Most of all, have fun!
+- Post regularly to keep your followers engaged and excited
+- Communities perform best when their moderators post at least once every three days, but not more than five times per day (If you publish numerous posts all at once, every day your members may become overwhelmed and stop following you.)
+- We recommend no more than a few posts per hour
+- Do not mass-follow people or mention unrelated members in your posts as a way to gain follow-backs (This can appear spammy and usually backfires.)
+- Expect to receive submissions from the people who are following your community — It’s cool when this happens.
+- Do your best to repost high-quality submissions and remember, It is perfectly OK not to repost everything members submit to you (Simply leave a comment or Love their submission as a way to thank them for sending something).
+- Use large, high-quality images whenever possible (Images that are 1000 pixels wide or larger tend look best on Ello.)
+- Add personality to your posts. Keep your community lively by adding comments when you repost someone else’s post
+- Format your posts using bold, italics, and hyperlinks in your text
+- Keep longer text blocks short and readable by breaking them up with regular line breaks
+- Most of all, have fun!
 
 ## What’s an Ello “Featured Community”?
 
@@ -51,13 +51,14 @@ Well-run communities that build a substantial following may become for “Featur
 Featured Communities may show up on the Ello Editorial homepage, be recommended to new members during the account creation process, may be added to the Community Directory, or listed in the [Communities Category(https://ello.co/discover/communities).
 
 Featured communities tend to have:
-* More than 50 followers
-* More than 15 high-quality posts
-* Display large, high-resolution photos
-* Format text for visual appeal
-* Regularly post inspiring and relevant topics
-* Have a clear, explanatory profile bio
-* Post regularly but not excessively
+
+- More than 50 followers
+- More than 15 high-quality posts
+- Display large, high-resolution photos
+- Format text for visual appeal
+- Regularly post inspiring and relevant topics
+- Have a clear, explanatory profile bio
+- Post regularly but not excessively
 
 If you’d like your community to be considered for Ello Featured Community status, please e-mail the Ello Community Support Team at hello@ello.co.
 
@@ -125,4 +126,3 @@ Similarly, if you decide you can no longer lead your community, but wish to see 
 - **[Toronto](https://ello.co/ellotoronto)**
 - **[Toys](https://ello.co/ellotoys)**
 - **[Writing](https://ello.co/ellowrites)**
-

@@ -1,11 +1,11 @@
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ mobile stuff
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ mobile stuff
 
 .mobile_only {
   display: none !important;
 }
 
-// Smartphones (portrait and landscape) ---------
-@media only screen and (min-width : 1px) and (max-width : 719px) {
+// Smartphones (portrait and landscape) ----------------------------------------
+@media only screen and (min-width: 1px) and (max-width: 719px) {
   body {
     -webkit-text-size-adjust: none;
   }
@@ -13,45 +13,37 @@
   .mobile_only {
     display: inline-block !important;
   }
+
   .no_mobile {
     display: none !important;
   }
-  
 }
 
-// Smartphones (landscape) ----------------------
-@media only screen and (min-width : 1px) and (max-width : 719px) { 
-
+// Smartphones (landscape) -----------------------------------------------------
+@media only screen and (min-width: 1px) and (max-width: 719px) {
 }
 
-// Smartphones (portrait) -----------------------
-@media only screen and (max-width : 400px) {
-
+// Smartphones (portrait) ------------------------------------------------------
+@media only screen and (max-width: 400px) {
   body {
     -webkit-text-size-adjust: none;
   }
-
 }
 
-// iPads (portrait and landscape) ---------------
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
-  
+// iPads (portrait and landscape) ----------------------------------------------
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 }
 
-// iPads (landscape) ----------------------------
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
-
+// iPads (landscape) -----------------------------------------------------------
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
   body {
     -webkit-text-size-adjust: none;
   }
-
 }
 
-// iPads (portrait) -----------------------------
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
-
+// iPads (portrait) ------------------------------------------------------------
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
   body {
     -webkit-text-size-adjust: none;
   }
-  
 }

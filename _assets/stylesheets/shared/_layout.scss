@@ -1,16 +1,18 @@
-// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ layout defaults
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ layout defaults
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   @include box_sizing_inset;
 }
 
 html {
-  height:100%; // hack for pushing footer to bottom
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  height: 100%; // hack for pushing footer to bottom
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 body {
-  height:100%; // hack for pushing footer to bottom
+  height: 100%; // hack for pushing footer to bottom
   background-color: $white;
 }
 
@@ -36,9 +38,10 @@ svg {
   }
 }
 
-// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ main layout stuff
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ main layout stuff
 
-#content_container { // hack for pushing footer to bottom
+#content_container {
+  // hack for pushing footer to bottom
   position: relative;
   min-height: 100%;
 }
@@ -52,9 +55,8 @@ svg {
   width: 100%;
   min-height: 100%; // hack for pushing footer to bottom
   max-width: $fullLayoutWidth_px;
-  // background-color: yellow;
 
-  @media only screen and (max-width : 640px) {
+  @media only screen and (max-width: 640px) {
     padding-bottom: 0; // kill footer hack on mobile
     padding-left: 3.5%;
     padding-right: 3.5%;
@@ -69,7 +71,7 @@ svg {
   background-color: $grey2;
   @include centered_bg_image;
 
-  @media only screen and (max-width : 640px) {
+  @media only screen and (max-width: 640px) {
     margin-bottom: 40px;
     padding-bottom: percentage(200/320);
   }
@@ -78,7 +80,7 @@ svg {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color: rgba($black,0.5);
+    background-color: rgba($black, 0.5);
 
     h1 {
       padding-right: 10%;
@@ -89,7 +91,7 @@ svg {
       @include center-align;
       text-align: center;
 
-      @media only screen and (max-width : 640px) {
+      @media only screen and (max-width: 640px) {
         padding-right: 5%;
         padding-left: 5%;
         font-size: 11vw;
@@ -105,11 +107,12 @@ svg {
         margin: 0;
         padding: 0;
 
-        @media only screen and (max-width : 768px) {
+        @media only screen and (max-width: 768px) {
           right: 15px;
           bottom: 15px;
         }
-        @media only screen and (max-width : 640px) {
+
+        @media only screen and (max-width: 640px) {
           right: 10px;
           bottom: 10px;
         }
@@ -122,26 +125,30 @@ svg {
           text-decoration: none;
           @include transition_opacity(150ms);
 
-          @media only screen and (max-width : 768px) {
+          @media only screen and (max-width: 768px) {
             height: 30px;
           }
-          @media only screen and (max-width : 640px) {
+
+          @media only screen and (max-width: 640px) {
             height: 20px;
           }
+
           span {
             display: block;
+
             &.name {
               padding: 2px;
               float: right;
               @include vertical_align;
               border-bottom: 1px solid $white;
 
-              @media only screen and (max-width : 768px) {
+              @media only screen and (max-width: 768px) {
                 padding: 0;
                 border: 0;
                 text-decoration: underline;
               }
-              @media only screen and (max-width : 640px) {
+
+              @media only screen and (max-width: 640px) {
                 padding: 0;
                 border: 0;
                 font-size: 0.75rem;
@@ -157,11 +164,12 @@ svg {
               float: right;
               overflow: hidden;
 
-              @media only screen and (max-width : 768px) {
+              @media only screen and (max-width: 768px) {
                 width: 30px;
                 height: 30px;
               }
-              @media only screen and (max-width : 640px) {
+
+              @media only screen and (max-width: 640px) {
                 margin-left: 8px;
                 width: 20px;
                 height: 20px;
@@ -173,6 +181,7 @@ svg {
               }
             }
           }
+
           &:hover {
             @include opacity(60);
             @include transition_opacity(300ms);
@@ -188,8 +197,8 @@ nav {
     width: percentage((($largeColumn * 2) + ($smallColumn * 1)) / $layoutWidth);
     float: right;
 
-    @media only screen and (max-width : 640px) {
-      margin-top: 20px;          
+    @media only screen and (max-width: 640px) {
+      margin-top: 20px;
       width: 100%;
       float: none;
       clear: both;
@@ -203,18 +212,21 @@ nav {
       li {
         margin-bottom: 1.925rem;
 
-        @media only screen and (max-width : 768px) {
+        @media only screen and (max-width: 768px) {
           margin-bottom: 1.55rem;
         }
-        @media only screen and (max-width : 640px) {
+
+        @media only screen and (max-width: 640px) {
           margin-bottom: 1rem;
         }
+
         a {
           text-decoration: underline;
           &:hover {
             color: $grey3;
           }
         }
+
         &.current {
           a {
             color: $grey3;

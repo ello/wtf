@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Arts Editorial"
-title_alternate:  "Arts Editorial"
-date:   2017-08-21 9:30:00 EST
+title: "Arts Editorial"
+title_alternate: "Arts Editorial"
+date: 2017-08-21 9:30:00 EST
 categories: artists
 position: 5
 # page header ----------

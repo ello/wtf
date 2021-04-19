@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Community Guidelines"
-title_alternate:  "Community Guidelines"
-date:   2017-4-25 01:23:45 MDT
+title: "Community Guidelines"
+title_alternate: "Community Guidelines"
+date: 2017-4-25 01:23:45 MDT
 categories: policies
 position: 1
 # page header ----------
@@ -58,10 +58,10 @@ If you regularly post adult content and do not mark your account NSFW, we may as
 
 If you choose not to view adult content, all NSFW posts will be hidden and NSFW member avatars and headers will be pixelated accordingly.
 
-Please do not post any content depicting sexual stimulation or penetration. 
+Please do not post any content depicting sexual stimulation or penetration.
 
 **Please do not be a technological nuisance.**
-Please do not try to circumvent or compromise our security or access non-public areas of the Ello. Please do not use robots or other automated technology to access Ello. Please do not scrape content from Ello. Please do not try to deceive members or the general public. Please do not  intentionally load test our Service to see how much traffic Ello can handle. Please Do not distribute viruses or malware to or through Ello.
+Please do not try to circumvent or compromise our security or access non-public areas of the Ello. Please do not use robots or other automated technology to access Ello. Please do not scrape content from Ello. Please do not try to deceive members or the general public. Please do not intentionally load test our Service to see how much traffic Ello can handle. Please Do not distribute viruses or malware to or through Ello.
 
 **Please respect your fellow community members.**
 If someone has blocked or muted you, please respect their decision and do not try to communicate with them through an alternative account.

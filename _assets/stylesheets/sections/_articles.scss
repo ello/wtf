@@ -1,4 +1,4 @@
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ articles
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ articles
 
 body {
   &.article {
@@ -11,38 +11,52 @@ body {
       }
 
       article {
-        width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
+        width: percentage(
+          (($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth
+        );
+
         max-width: (($largeColumn_px * 3) + ($smallColumn_px * 2));
         word-wrap: break-word;
         @include standard-copy-formatting;
         float: left;
 
-        @media only screen and (max-width : 1024px) {
-          width: percentage((($largeColumn * 4) + ($smallColumn * 3)) / $layoutWidth);
+        @media only screen and (max-width: 1024px) {
+          width: percentage(
+            (($largeColumn * 4) + ($smallColumn * 3)) / $layoutWidth
+          );
         }
 
-        @media only screen and (max-width : 640px) {
+        @media only screen and (max-width: 640px) {
           width: 100%;
         }
 
         img {
-          max-width: percentage(((($largeColumn * 4) + ($smallColumn * 3))) / (($largeColumn * 3) + ($smallColumn * 2)));
+          max-width: percentage(
+            ((($largeColumn * 4) + ($smallColumn * 3))) /
+              (($largeColumn * 3) + ($smallColumn * 2))
+          );
 
-          @media only screen and (max-width : 1024px) {
-            max-width: percentage(((($largeColumn * 5) + ($smallColumn * 5))) / (($largeColumn * 4) + ($smallColumn * 3)));
+          @media only screen and (max-width: 1024px) {
+            max-width: percentage(
+              ((($largeColumn * 5) + ($smallColumn * 5))) /
+                (($largeColumn * 4) + ($smallColumn * 3))
+            );
           }
-          @media only screen and (max-width : 1024px) {
+
+          @media only screen and (max-width: 1024px) {
             max-width: 100%;
           }
         }
 
         footer {
           margin-bottom: 3.5rem;
+
           p {
             color: $grey3;
 
             a {
               color: $grey3;
+
               &:hover {
                 color: $black;
               }

@@ -1,23 +1,23 @@
-// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ black buttons
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ black buttons
 
 .blackbutton {
-    display: inline-block;
-    position: relative;
-    margin: 0;
-    padding-right: 30px;
-    padding-left: 30px;
-    height: 60px;
-    font-size: 0.875rem;
-    color: white;
-    text-decoration: none;
-    line-height: 24px;
-    text-align: center;
-    vertical-align: middle;
-    background-color: black;
-    }
-    
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding-right: 30px;
+  padding-left: 30px;
+  height: 60px;
+  font-size: 0.875rem;
+  color: white;
+  text-decoration: none;
+  line-height: 24px;
+  text-align: center;
+  vertical-align: middle;
+  background-color: black;
+}
+
 .blackbutton:hover {
-    background-color: $grey3;
-    color: white;
-    transition: none;
+  background-color: $grey3;
+  color: white;
+  transition: none;
 }

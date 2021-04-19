@@ -66,7 +66,7 @@ html_pipeline:
     - "mentionfilter"
   context:
     asset_root: "https://ello.co/wtf"
-    base_url:   "https://ello.co"
+    base_url: "https://ello.co"
 
 emoji:
   src: "/wtf"
@@ -74,7 +74,7 @@ emoji:
 ## asset pipeline setup
 assets: # https://github.com/jekyll-assets/jekyll-assets
   # baseurl: http://my.super-cool-cdn.com/assets
-  js_compressor:  uglifier
+  js_compressor: uglifier
   css_compressor: sass
 
 ## do not copy/move these files when running a build

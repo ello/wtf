@@ -1,4 +1,4 @@
-FROM ruby:2.3.1
+FROM ruby:2.7.3
 
 # Run updates
 RUN apt-get update -qq && \

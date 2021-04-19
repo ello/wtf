@@ -12,11 +12,12 @@ header_credit_post: https://ello.co/chrixmorix/post/v3w87g0pntxgzaof7yfrxg
 header_credit_image: chrismorin-avatar.jpg
 # place header/avatar images in: _assets/images/page-headers/posts
 ---
+
 Hi, Ello.
 
 First and foremost, thank you for being a part of our community. We wouldn’t be where we are today without you and we want you to know that we value you, your creativity, and your health.
 
-Our goal is to support you all during this unusual and uncertain time because we know it is challenging for you, our community.  We are truly in this together and hope we can be a voice of optimism for you all.
+Our goal is to support you all during this unusual and uncertain time because we know it is challenging for you, our community. We are truly in this together and hope we can be a voice of optimism for you all.
 
 ## Beyond the standard health and sanitary precautions, there are steps you can take to protect your work, your career, and more. Below are some resources that may be helpful to you now and in the future:
 
@@ -41,7 +42,6 @@ Our goal is to support you all during this unusual and uncertain time because we
 **[We’re Just Getting Started: Threadless Community Action Plan - Creative Resources.](https://creativeresources.threadless.com/threadless-community-action-plan/)**
 
 **[Focus on What's Good: Free Printable Coloring Activity for Kids by Design by Cheyney.](https://designbycheyney.com/blog/focus-on-whats-good-free-printable-i-spy-colouring-activity)**
-
 
 Just another gentle reminder - we urge each and every one of you to put your health and wellness, safety and the safety of others first. We are dedicated to you and will do our best to support our community.
 

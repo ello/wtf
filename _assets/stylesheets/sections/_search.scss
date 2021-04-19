@@ -1,4 +1,4 @@
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ search
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ search
 
 #search_content {
   .search_content {
@@ -6,10 +6,13 @@
     width: percentage((($largeColumn * 3) + ($smallColumn * 2)) / $layoutWidth);
     float: left;
 
-    @media only screen and (max-width : 1024px) {
-      width: percentage((($largeColumn * 3.5) + ($smallColumn * 3)) / $layoutWidth);
+    @media only screen and (max-width: 1024px) {
+      width: percentage(
+        (($largeColumn * 3.5) + ($smallColumn * 3)) / $layoutWidth
+      );
     }
-    @media only screen and (max-width : 640px) {
+
+    @media only screen and (max-width: 640px) {
       padding-top: 30px;
       width: 100%;
       float: none;
@@ -20,19 +23,21 @@
     section.results {
       @include standard-copy-formatting;
 
-      h1, h2 {
+      h1,
+      h2 {
         margin-bottom: 2.75rem;
         @include type-medium;
         font-family: $groteskBlack;
         font-weight: 900;
         color: $grey3;
 
-        a {          
+        a {
           border: 0;
         }
 
         span {
           color: $black;
+
           em {
             font-style: normal;
           }
@@ -43,6 +48,7 @@
         color: $black;
       }
     }
+
     section {
       &.results {
         h2 {
@@ -56,14 +62,17 @@
             }
           }
         }
+
         p {
           margin: 0;
           span {
             &.more {
               padding-left: 3px;
+
               a {
                 color: $grey3;
                 border-bottom: 1pt solid;
+
                 &:hover {
                   color: $black;
                 }
@@ -71,6 +80,7 @@
             }
           }
         }
+
         article {
           &.result {
             margin-bottom: 2.5rem;
@@ -78,6 +88,7 @@
         }
       }
     }
+
     p {
       &.topic_link {
         padding-top: 2.25rem;

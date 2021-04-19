@@ -6,7 +6,9 @@ require 'uri'
 # Ref: http://tools.ietf.org/html/rfc3986#page-12
 module URLEncoding
   def url_encode(url)
-    return URI.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
+    # `URI::escape` and `URI::encode` are now deprecated, so we need to use
+    # `URI::encode_www_form_component`.
+    URI.encode_www_form_component(url)
   end
 end
 

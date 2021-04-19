@@ -1,4 +1,4 @@
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ footer
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ footer
 
 footer.bottom {
   position: absolute;
@@ -7,7 +7,7 @@ footer.bottom {
   width: 100%;
   height: ($smallColumn_px * 2) + ($smallColumn_px * 3.8) + 200px; // part of the hack to push footer down
 
-  @media only screen and (max-width : 640px) {
+  @media only screen and (max-width: 640px) {
     display: block;
     position: relative;
     padding: ($smallColumn_px * 2.5) 3.5% 3.5% 3.5%;
@@ -22,6 +22,7 @@ footer.bottom {
 
   nav {
     width: 100%;
+
     ul {
       display: block;
       margin: 0;
@@ -30,18 +31,18 @@ footer.bottom {
       @include type-small;
       float: left;
 
-      @media only screen and (max-width : 640px) {
+      @media only screen and (max-width: 640px) {
         width: 100%;
       }
 
       li {
-        display: block;        
+        display: block;
         margin-bottom: 0.4rem;
         float: left;
         clear: left;
+
         a {
           display: block;
-          // background-color: rgba(pink,0.5);
           padding: 0.25rem 0 0.25rem 0;
           color: $black;
 
@@ -53,16 +54,16 @@ footer.bottom {
             font-family: $groteskRegular;
             font-weight: 400;
           }
-
         }
       }
+
       &.social {
         padding: 0;
         margin: 0;
         width: auto;
         float: right;
 
-        @media only screen and (max-width : 640px) {
+        @media only screen and (max-width: 640px) {
           padding-top: 40px;
           width: 100%;
           height: 60px;
@@ -72,6 +73,7 @@ footer.bottom {
           -ms-text-justify: distribute-all-lines;
           text-justify: distribute-all-lines;
         }
+
         li {
           display: inline-block;
           margin: 0;
@@ -80,8 +82,7 @@ footer.bottom {
           float: none;
           clear: none;
 
-
-          @media only screen and (max-width : 640px) {
+          @media only screen and (max-width: 640px) {
             display: inline-block;
             vertical-align: top;
             zoom: 1;
@@ -90,7 +91,7 @@ footer.bottom {
               display: inline-block;
               width: 100%;
               font-size: 0;
-              line-height: 0
+              line-height: 0;
             }
           }
 
@@ -100,7 +101,7 @@ footer.bottom {
             margin: 0 0 0 1.55rem;
             float: left;
 
-            @media only screen and (max-width : 640px) {
+            @media only screen and (max-width: 640px) {
               display: inline-block;
               margin: 0;
               float: none;
@@ -110,15 +111,17 @@ footer.bottom {
               &.label {
                 display: none;
               }
+
               &.icon {
-                @media only screen and (max-width : 640px) {
+                @media only screen and (max-width: 640px) {
                   display: block;
                 }
+
                 svg {
                   width: 16px;
                   height: 16px;
 
-                  @media only screen and (max-width : 640px) {
+                  @media only screen and (max-width: 640px) {
                     display: block;
                   }
                 }
@@ -128,7 +131,6 @@ footer.bottom {
             // social icons
             &.ello {
               span {
-                
                 &.icon {
                   svg {
                     width: 16px;
@@ -140,6 +142,7 @@ footer.bottom {
                         @include transition_fill(150ms);
                         fill: $black;
                       }
+
                       &.svg__fg {
                         fill: $white;
                       }
@@ -148,12 +151,14 @@ footer.bottom {
                 }
               }
             }
+
             &.twitter {
               margin-left: 1.8rem;
 
-              @media only screen and (max-width : 640px) {
+              @media only screen and (max-width: 640px) {
                 margin-left: 0;
               }
+
               span {
                 &.icon {
                   svg {
@@ -168,6 +173,7 @@ footer.bottom {
                 }
               }
             }
+
             &.tumblr,
             &.instagram,
             &.pinterest,
@@ -186,10 +192,12 @@ footer.bottom {
                 }
               }
             }
+
             &.tumblr,
             &.instagram {
               margin-left: 1.4rem;
-              @media only screen and (max-width : 640px) {
+
+              @media only screen and (max-width: 640px) {
                 margin-left: 0;
               }
             }
@@ -203,10 +211,12 @@ footer.bottom {
                     ellipse,
                     polygon {
                       fill: $grey3;
+
                       &.stroke {
                         fill: none;
                         stroke: $black;
                       }
+
                       &.svg__bg {
                         fill: $grey3;
                       }
@@ -219,5 +229,5 @@ footer.bottom {
         }
       }
     }
-  }  
+  }
 }

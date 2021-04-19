@@ -1,4 +1,4 @@
-// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ello button
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ello button
 
 #ello_button {
   h2 {
@@ -11,62 +11,64 @@
       margin-bottom: 1rem;
     }
 
-    @media only screen and (max-width : 539px) {
+    @media only screen and (max-width: 539px) {
       font-size: 1.1rem;
       line-height: 1.35rem;
     }
   }
 
   textarea,
-  input[type=text] {
+  input[type="text"] {
     @include type-medium;
   }
 
-  input[type=text],
+  input[type="text"],
   textarea {
     padding: $smallColumn_px / 2;
     width: 100%;
     border: 1px solid $grey3;
   }
 
-
   label {
     cursor: pointer;
     padding-right: 35px;
 
-    @media only screen and (max-width : 539px) {
+    @media only screen and (max-width: 539px) {
       padding-right: 25px;
     }
   }
-  input[type=radio] {
-    display:none;
+
+  input[type="radio"] {
+    display: none;
   }
-  input[type=radio] + label span {
-    display:inline-block;
+
+  input[type="radio"] + label span {
+    display: inline-block;
     cursor: pointer;
     margin: -3px 10px 0 0;
     width: 20px;
     height: 20px;
-    vertical-align:middle;
+    vertical-align: middle;
     border: 1px solid $grey3;
     @include border_radius(20px);
     background-color: $white;
 
-    @media only screen and (max-width : 539px) {
+    @media only screen and (max-width: 539px) {
       margin: -3px 6px 0 0;
       width: 14px;
       height: 14px;
     }
   }
 
-  input[type=radio]:checked + label span{
+  input[type="radio"]:checked + label span {
     border-color: $black;
-    background-color: $black
+    background-color: $black;
   }
 
   span {
     &.label {
       @include type-small;
+
       &.sub {
         color: $grey3;
       }
@@ -88,10 +90,12 @@
       h2 {
         margin-bottom: 20px;
       }
+
       p {
         margin-top: 0;
       }
     }
+
     &.two {
       .option {
         display: block;
@@ -105,10 +109,9 @@
           width: 50%;
           float: left;
 
-          @media only screen and (max-width : 539px) {
+          @media only screen and (max-width: 539px) {
             width: 100%;
             float: none;
-
           }
 
           .label {
@@ -121,7 +124,8 @@
 
         .code {
           padding-left: ($gutter_px / 2);
-          @media only screen and (max-width : 539px) { 
+
+          @media only screen and (max-width: 539px) {
             padding-left: 0;
             margin-top: 24px;
           }
@@ -130,17 +134,22 @@
             margin-bottom: $smallColumn_px / 2;
             width: 100%;
             height: 210px;
-            font-family: "Andale Mono", "Consolas", "Lucida Console", "Menlo", "Luxi Mono", monospace;
+            font-family: "Andale Mono", "Consolas", "Lucida Console", "Menlo",
+              "Luxi Mono", monospace;
             @include type-small;
 
-            @media only screen and (max-width : 539px) {
+            @media only screen and (max-width: 539px) {
               height: 140px;
             }
           }
         }
+
         .button {
           padding-right: ($gutter_px / 2);
-          @media only screen and (max-width : 539px) { padding-right: 0; }
+
+          @media only screen and (max-width: 539px) {
+            padding-right: 0;
+          }
 
           .button-holder {
             display: block;
@@ -156,12 +165,14 @@
                 height: 40px;
                 border-radius: 50%;
                 overflow: hidden;
-                @include vertical_align; 
+                @include vertical_align;
+
                 svg {
                   path {
                     &.svg__bg {
                       fill: $black;
                     }
+
                     &.svg__fg {
                       fill: $white;
                     }
@@ -171,10 +182,12 @@
             }
           }
         }
+
         &.white {
           .button {
             .button-holder {
               background-color: $black;
+
               span {
                 &.icon {
                   svg {
@@ -182,6 +195,7 @@
                       &.svg__bg {
                         fill: $white;
                       }
+
                       &.svg__fg {
                         fill: $black;
                       }

@@ -1,10 +1,10 @@
-// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ header
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ header
 
 // set the body margin/padding here since it's based off the header-height
 body {
   padding-top: ($gutter_px * 0.5) + ($gutter_px * 2);
 
-  @media only screen and (max-width : 920px) {
+  @media only screen and (max-width: 920px) {
     padding-top: ($gutter_px * 0.5) + ($gutter_px * 2) + (48px / 2);
   }
 }
@@ -14,7 +14,6 @@ header.top {
   top: 0;
   left: 0;
   width: 100%;
-  // background-color: yellow;
   background-color: $white;
   z-index: 50;
 
@@ -25,7 +24,7 @@ header.top {
     height: $gutter_px * 2.5;
     max-width: $fullLayoutWidth_px;
 
-    @media only screen and (max-width : 920px) {
+    @media only screen and (max-width: 920px) {
       padding: 48px 14px 18px 14px;
       height: $gutter_px * 2.5 + (48px / 2);
     }
@@ -36,7 +35,7 @@ header.top {
     top: $gutter_px;
     left: $gutter_px;
 
-    @media only screen and (max-width : 920px) {
+    @media only screen and (max-width: 920px) {
       top: 14px;
       left: 14px;
     }
@@ -45,17 +44,18 @@ header.top {
       margin-right: 0.25rem;
       @include type-medium(false);
       float: left;
+
       a {
         span {
           &.icon {
             svg {
-
               path,
               polygon {
                 fill: $black;
               }
             }
           }
+
           &.label {
             display: none;
           }
@@ -70,7 +70,7 @@ header.top {
       color: $grey3;
       float: left;
 
-      @media only screen and (max-width : 768px) {
+      @media only screen and (max-width: 768px) {
         font-size: 1.45rem;
         line-height: 1.45rem;
       }
@@ -82,7 +82,7 @@ header.top {
     margin: 0 auto;
     width: 60%;
 
-    @media only screen and (max-width : 920px) {
+    @media only screen and (max-width: 920px) {
       width: 100%;
     }
 
@@ -93,13 +93,14 @@ header.top {
         z-index: 6;
         height: 100%;
         overflow: hidden;
+
         a {
           display: block;
           padding: 0 0 0 20px;
           width: 46px;
           @include vertical_align;
 
-          @media only screen and (max-width : 420px) {
+          @media only screen and (max-width: 420px) {
             padding-left: 11px;
             width: 36px;
           }
@@ -109,21 +110,24 @@ header.top {
               padding: 2px 3px 2px 3px;
               margin: 0;
               width: 20px;
-              height: 100%;
+
               svg {
                 display: block;
                 width: 16px;
                 height: 16px;
+
                 path {
                   @include transition_fill(150ms);
                   fill: $grey3;
                 }
               }
             }
+
             &.label {
               display: none;
             }
           }
+
           &:hover {
             span {
               &.icon {
@@ -137,8 +141,9 @@ header.top {
           }
         }
       }
+
       &.form {
-        input[type=text] {
+        input[type="text"] {
           position: relative;
           display: block;
           padding: 19px $gutter_px 18px ($gutter_px * 1.5);
@@ -151,12 +156,13 @@ header.top {
           background-color: $grey1;
           z-index: 4;
 
-          @media only screen and (max-width : 420px) {
+          @media only screen and (max-width: 420px) {
             padding-left: $gutter_px;
             font-size: 1.45rem;
             line-height: 1.45rem;
           }
         }
+
         @include placeholder-color($grey3);
 
         span {
@@ -172,7 +178,7 @@ header.top {
             z-index: 5;
             overflow: hidden;
 
-            @media only screen and (max-width : 420px) {
+            @media only screen and (max-width: 420px) {
               right: $gutter_px / 2.5;
             }
 
@@ -181,18 +187,22 @@ header.top {
               width: 14px;
               height: 14px;
               @include vertical_align;
+
               title {
                 display: none;
               }
+
               polygon {
                 fill: $grey3;
               }
             }
+
             &:hover {
               cursor: pointer;
             }
           }
         }
+
         &.inactive {
           span {
             &.clear-search {
@@ -210,19 +220,22 @@ header.top {
     top: 0;
     height: 100%;
 
-    @media only screen and (max-width : 920px) {
+    @media only screen and (max-width: 920px) {
       right: 14px;
       height: 52px;
     }
+
     p {
       margin: 0;
       padding: 0;
+
       &.back-to-ello {
         @include type-small;
         @include vertical_align;
 
         a {
           color: $grey3;
+
           &:hover {
             color: $black;
           }
