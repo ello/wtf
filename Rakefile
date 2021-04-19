@@ -12,7 +12,6 @@ begin
                       verbose: true,
                       assume_extension: true,
                       parallel: { in_processes: 3 },
-                      # Can eventually move to url_swap when https://github.com/gjtorikian/html-proofer/issues/219 is merged
                       url_swap:  { /^\/wtf/ => '' },
                       url_ignore:  [
                         'post_url',
