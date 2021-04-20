@@ -10,6 +10,7 @@ begin
   task :test => 'assets:precompile' do
     HTMLProofer.check_directory('./_site',
       assume_extension: true,
+      disable_external: true,
       hydra: { max_concurrency: 10 },
       parallel: { in_processes: 3 },
       typhoeus: { followlocation: true },
